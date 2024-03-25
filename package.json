@@ -1,0 +1,29 @@
+{
+  "name": "eggs-tracker",
+  "version": "1.0.0",
+  "description": "API para o addon de pterodactly",
+  "main": "start.js",
+  "scripts": {
+    "dev": "ts-node -r tsconfig-paths/register --transpiler sucrase/ts-node-plugin src/start.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashu11-A/Eggs-Tracker.git"
+  },
+  "author": "Ashu11a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ashu11-A/Eggs-Tracker/issues"
+  },
+  "homepage": "https://github.com/Ashu11-A/Eggs-Tracker#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "cld": "^2.9.1",
+    "simple-git": "^3.23.0",
+    "sucrase": "^3.35.0",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0"
+  }
+}
