@@ -10,7 +10,7 @@ export async function genMap(eggs: string[], branch: string, repository: string)
     for (const egg of eggs) {
         const file = readFileSync(egg, 'utf8')
         const { size } = statSync(egg)
-        const { name, description, author } = JSON.parse(file) as EggConfig
+        const { name, description, author, exported_at } = JSON.parse(file) as EggConfig
         const link = `https://raw.githubusercontent.com/${repository}/${branch}/${egg.replace(`${egg.split('/')[0]}/`, '')}`
         const language = await cld.detect(description)
             .then(({ languages }) => {
@@ -27,9 +27,10 @@ export async function genMap(eggs: string[], branch: string, repository: string)
             })
 
         EggsMapping.push({
+            author,
             name,
             description,
-            author,
+            exported_at,
             link,
             size: formatBytes(size),
             language
