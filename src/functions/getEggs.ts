@@ -12,6 +12,7 @@ export function getEggs(path: string) {
             if (lstatSync(fullPath).isDirectory()) {
                 scanDirectory(fullPath);
             } else if (pathLib.extname(fullPath) === ".json" && !fullPath.includes('Archived')) {
+                console.log(fullPath)
                 eggs.push(fullPath);
             }
         })
