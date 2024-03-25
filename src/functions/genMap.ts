@@ -37,9 +37,9 @@ export async function genMap(eggs: string[], branch: string, repository: string)
     }
 
     writeFile(`api/${repository.split('/')[0]}.min.json`, JSON.stringify(EggsMapping), {}, ((err) => {
-        if (err) console.log('Ocorreu um erro ao salvar os Dados')
+        if (err) console.log('Ocorreu um erro ao salvar os Dados:', err)
     }))
     writeFile(`api/${repository.split('/')[0]}.json`, JSON.stringify(EggsMapping, null, 2), {}, ((err) => {
-        if (err) console.log('Ocorreu um erro ao salvar os Dados')
+        if (err) console.log('Ocorreu um erro ao salvar os Dados:', err)
     }))
 }
