@@ -1,0 +1,2165 @@
+[
+  {
+    "name": "Aoede",
+    "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
+    "author": "contact@bldy.ovh",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/aoede/egg-aoede.json",
+    "size": "4.81 KB",
+    "language": "en"
+  },
+  {
+    "name": "ATLBot",
+    "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+    "author": "jfeldt19@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/atlbot/egg-a-t-l-bot.json",
+    "size": "2.18 KB",
+    "language": "en"
+  },
+  {
+    "name": "Bastion",
+    "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/bastion/egg-bastion.json",
+    "size": "6.01 KB",
+    "language": "en"
+  },
+  {
+    "name": "CorpBot",
+    "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/corpbot/egg-corp-bot.json",
+    "size": "2.61 KB",
+    "language": "en"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/corpbot/settings_dict.json",
+    "size": "75 Bytes",
+    "language": "en"
+  },
+  {
+    "name": "Dynamica",
+    "description": "An easy-to-use dynamic voice channel bot.",
+    "author": "sebastian.pietschner@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/dynamica/egg-dynamica.json",
+    "size": "4.85 KB",
+    "language": "en"
+  },
+  {
+    "name": "fragbot",
+    "description": "The fragforce discord bot.\r\n\r\nlocated at https://github.com/fragforce/fragbot",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/fragbot/egg-fragbot.json",
+    "size": "2.08 KB",
+    "language": "en"
+  },
+  {
+    "name": "Game Server Watcher",
+    "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
+    "author": "a-sync@devs.space",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/game-server-watcher/egg-game-server-watcher.json",
+    "size": "4.42 KB",
+    "language": "en"
+  },
+  {
+    "name": "JMusicBot",
+    "description": "A Discord music bot that's easy to set up and run yourself!",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/jmusicbot/egg-j-music-bot.json",
+    "size": "10.42 KB",
+    "language": "en"
+  },
+  {
+    "name": "Muse",
+    "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
+    "author": "hello@apollo.moe",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/muse/egg-muse.json",
+    "size": "5.32 KB",
+    "language": "en"
+  },
+  {
+    "name": "parkertron",
+    "description": "The stupid chatbot parkertron by Parkervcp.\r\n\r\nhttps://github.com/parkervcp/parkertron",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/parkertron/egg-parkertron.json",
+    "size": "1.71 KB",
+    "language": "en"
+  },
+  {
+    "name": "pixel-bot",
+    "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps://github.com/Ispira/pixel-bot",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/pixelbot/egg-pixel-bot.json",
+    "size": "3.59 KB",
+    "language": "en"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/redbot/config.json",
+    "size": "248 Bytes",
+    "language": "en"
+  },
+  {
+    "name": "Red",
+    "description": "A multifunction Discord bot \r\n\r\nhttps://github.com/Cog-Creators/Red-DiscordBot",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/redbot/egg-red.json",
+    "size": "3.55 KB",
+    "language": "en"
+  },
+  {
+    "name": "Ree6",
+    "description": "All-in-one, open source and 100% free Discord Bot!",
+    "author": "presti@presti.me",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/ree6/egg-ree6.json",
+    "size": "21.56 KB",
+    "language": "en"
+  },
+  {
+    "name": "Sinusbot",
+    "description": "Musicbot for Discord and Teamspeak.",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/sinusbot/egg-sinusbot.json",
+    "size": "3.56 KB",
+    "language": "en"
+  },
+  {
+    "name": "Big Brother Bot",
+    "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/other/bigbrotherbot/egg-big-brother-bot.json",
+    "size": "1.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "JTS3ServerMod",
+    "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+    "author": "teamwuffy@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+    "size": "2.75 KB",
+    "language": "en"
+  },
+  {
+    "name": "PhantomBot",
+    "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+    "author": "mail@wuffy.eu",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/twitch/phantombot/egg-phantom-bot.json",
+    "size": "6.75 KB",
+    "language": "en"
+  },
+  {
+    "name": "SogeBot",
+    "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/twitch/sogebot/egg-soge-bot.json",
+    "size": "3.54 KB",
+    "language": "en"
+  },
+  {
+    "name": "MongoDB",
+    "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/mongodb/egg-mongo-d-b.json",
+    "size": "2.58 KB",
+    "language": "en"
+  },
+  {
+    "name": "MongoDB 6",
+    "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/mongodb/egg-mongo-d-b6.json",
+    "size": "2.71 KB",
+    "language": "en"
+  },
+  {
+    "name": "MongoDB 7",
+    "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/mongodb/egg-mongo-d-b7.json",
+    "size": "2.88 KB",
+    "language": "en"
+  },
+  {
+    "name": "rethinkdb",
+    "description": "The open-source database for the realtime web",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/rethinkdb/egg-rethinkdb.json",
+    "size": "2.56 KB",
+    "language": "en"
+  },
+  {
+    "name": "Redis",
+    "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/redis/redis-5/egg-redis-5.json",
+    "size": "1.86 KB",
+    "language": "en"
+  },
+  {
+    "name": "Redis-6",
+    "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/redis/redis-6/egg-redis-6.json",
+    "size": "2.23 KB",
+    "language": "en"
+  },
+  {
+    "name": "Redis-7",
+    "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/redis/redis-7/egg-redis-7.json",
+    "size": "2.23 KB",
+    "language": "en"
+  },
+  {
+    "name": "MariaDB 10.3",
+    "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/sql/mariadb/egg-maria-d-b10-3.json",
+    "size": "2.82 KB",
+    "language": "en"
+  },
+  {
+    "name": "Postgres 14",
+    "description": "A default Postgres install that is not really editable.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/sql/postgres/egg-postgres14.json",
+    "size": "2.8 KB",
+    "language": "en"
+  },
+  {
+    "name": "Postgres 16",
+    "description": "A default Postgres install that is not really editable.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/sql/postgres/egg-postgres16.json",
+    "size": "2.8 KB",
+    "language": "en"
+  },
+  {
+    "name": "Foundry VTT",
+    "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
+    "author": "pterodactyl@demi.cloud",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/FoundryVTT/egg-FoundryVTT.json",
+    "size": "4.22 KB",
+    "language": "en"
+  },
+  {
+    "name": "BetterCrewlink Server",
+    "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
+    "author": "tobiornotto@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/among_us/bettercrewlink_server/egg-better-crewlink-server.json",
+    "size": "3.67 KB",
+    "language": "en"
+  },
+  {
+    "name": "Crewlink server",
+    "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+    "author": "panel@oxtroit.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/among_us/crewlink_server/egg-crewlink-server.json",
+    "size": "3.32 KB",
+    "language": "en"
+  },
+  {
+    "name": "Among Us - Impostor Server",
+    "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/among_us/impostor_server/egg-among-us--impostor-server.json",
+    "size": "3.35 KB",
+    "language": "en"
+  },
+  {
+    "name": "BeamMP Servers",
+    "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+    "author": "noah@noahserver.online",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/beamng/beammp/egg-beam-m-p-server.json",
+    "size": "8.81 KB",
+    "language": "en"
+  },
+  {
+    "name": "KissMP Server",
+    "description": "Server for the KISS Multiplayer BeamNG.drive mod",
+    "author": "me@weilbyte.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/beamng/kissmp/egg-kissmp.json",
+    "size": "1.9 KB",
+    "language": "en"
+  },
+  {
+    "name": "ClassiCube(MGC)",
+    "description": "Debian based MCGalaxy Egg.",
+    "author": "panel@qoutsy.33mail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
+    "size": "4.09 KB",
+    "language": "en"
+  },
+  {
+    "name": "Clone Hero",
+    "description": "Clone Hero is a classic instrument based rhythm game for Windows, Mac, Linux, and Android. It's playable with any 5 or 6 fret guitar controller, any midi drum kit, any game controller and even your keyboard! Jam out with Drums, 5-fret Guitar, or 6-fret Guitar online or local!",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/clone_hero/egg-clone-hero.json",
+    "size": "4.8 KB",
+    "language": "en"
+  },
+  {
+    "name": "CS2D",
+    "description": "Plant and defuse bombs, rescue hostages or accomplish new missions like capture the flag or domination! Use a huge arsenal of weapons and equipment including crazy stuff like portal guns, lasers, RPGs, turrets and much more! You can even build things!",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/cs2d/egg-c-s2-d.json",
+    "size": "3.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "AssaultCube",
+    "description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.\r\n\r\nTaking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!",
+    "author": "holeintheseat@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/cubeengine/assaultcube/egg-assault-cube.json",
+    "size": "6.54 KB",
+    "language": "en"
+  },
+  {
+    "name": "Cube 2: Sauerbraten",
+    "description": "Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.\r\nMuch like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game.",
+    "author": "holeintheseat@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/cubeengine/cube2/egg-cube2--sauerbraten.json",
+    "size": "4.02 KB",
+    "language": "en"
+  },
+  {
+    "name": "DDRaceNetwork",
+    "description": "DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay.",
+    "author": "diedyesterdaywashere@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/ddracenetwork/egg-d-d-race-network.json",
+    "size": "4.55 KB",
+    "language": "en"
+  },
+  {
+    "name": "Zandronum",
+    "description": "Zandronum is a multiplayer oriented port, based off Skulltag, for Doom and Doom II by id Software.\r\n\r\nThis egg uses the Freedoom WAD by default.",
+    "author": "sup@libtar.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/doom/zandronum/egg-zandronum.json",
+    "size": "7.72 KB",
+    "language": "en"
+  },
+  {
+    "name": "ET Legacy",
+    "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/enemy_territory/etlegacy/egg-e-t-legacy.json",
+    "size": "4.3 KB",
+    "language": "en"
+  },
+  {
+    "name": "Clusterio",
+    "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+    "author": "psychoalex@thevcbc.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/clusterio/egg-clusterio.json",
+    "size": "7.14 KB",
+    "language": "en"
+  },
+  {
+    "name": "Factorio ARM64",
+    "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/factorio/egg-factorio-a-r-m64.json",
+    "size": "9.39 KB",
+    "language": "en"
+  },
+  {
+    "name": "Factorio",
+    "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/factorio/egg-factorio.json",
+    "size": "7.22 KB",
+    "language": "en"
+  },
+  {
+    "name": "Factorio-ModUpdate",
+    "description": "The vanilla Factorio server. With automatic Mod Updates after ReInstall.\r\n\r\nhttps://www.factorio.com/",
+    "author": "tueye@tuworld.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/factorio-modupdate/egg-factorio-modupdate.json",
+    "size": "7.65 KB",
+    "language": "en"
+  },
+  {
+    "name": "Tachyon",
+    "description": "A multiplayer version of FTL.",
+    "author": "alex.chang-lam@protonmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/ftl/tachyon/egg-tachyon.json",
+    "size": "4.18 KB",
+    "language": "en"
+  },
+  {
+    "name": "alt:V",
+    "description": "alt:V Multiplayer a third-party multiplayer modification for Grand Theft Auto: V",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/altv/egg-alt--v.json",
+    "size": "5.09 KB",
+    "language": "en"
+  },
+  {
+    "name": "FiveM",
+    "description": "A new FiveM egg for the latest builds due to recent changes in FiveM",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/fivem/egg-five-m.json",
+    "size": "8.14 KB",
+    "language": "en"
+  },
+  {
+    "name": "Grand Theft Auto Connected",
+    "description": "Grand Theft Auto Connected is a custom scriptable multiplayer modification for multiple Grand Theft Auto games.",
+    "author": "admin@softwarenoob.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/gtac/egg-grand-theft-auto-connected.json",
+    "size": "3.89 KB",
+    "language": "en"
+  },
+  {
+    "name": "Multi Theft Auto",
+    "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
+    "author": "info@six-gaming.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/mtasa/egg-multi-theft-auto.json",
+    "size": "2.59 KB",
+    "language": "en"
+  },
+  {
+    "name": "open.mp server",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/openmp/config.json",
+    "size": "2.57 KB",
+    "language": "en"
+  },
+  {
+    "name": "OpenMP",
+    "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
+    "author": "vedrancappone@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/openmp/egg-open-m-p.json",
+    "size": "3.64 KB",
+    "language": "en"
+  },
+  {
+    "name": "RageCOOP",
+    "description": "Drive around the interstate with your buddy, enjoy GTAs environment, make own missions and events or just chill in Grove Street! 🌐",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragecoop/egg-rage-c-o-o-p.json",
+    "size": "4.12 KB",
+    "language": "en"
+  },
+  {
+    "name": "RAGE:MP Unofficial server",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragemp/conf.json",
+    "size": "212 Bytes",
+    "language": "en"
+  },
+  {
+    "name": "Rage.MP",
+    "description": "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server.",
+    "author": "noreply.waypointhosting@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragemp/egg-rage--m-p.json",
+    "size": "3 KB",
+    "language": "en"
+  },
+  {
+    "name": "SA-MP",
+    "description": "SA-MP is a free Massively Multiplayer Online game mod for the PC version of Rockstar Games Grand Theft Auto: San Andreas (tm).",
+    "author": "bl4ckspr4y@protonmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/samp/egg-s-a--m-p.json",
+    "size": "2.86 KB",
+    "language": "en"
+  },
+  {
+    "name": "Hogwarp",
+    "description": "A Pterodactyl egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378",
+    "author": "imkringle@proton.me",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/hogwarp/egg-hogwarp.json",
+    "size": "6.62 KB",
+    "language": "en"
+  },
+  {
+    "name": "KSP DMP",
+    "description": "Dark Multiplayer mod server for Kerbal Space Program",
+    "author": "rufanyin29@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/ksp/egg-k-s-p-d-m-p.json",
+    "size": "4.19 KB",
+    "language": "en"
+  },
+  {
+    "name": "LeagueSandbox",
+    "description": "A simple egg to run LeagueSandbox server in pterodactyl",
+    "author": "domi@imagine.team",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/leaguesandbox/LeagueSandbox_Egg.json",
+    "size": "1.34 KB",
+    "language": "en"
+  },
+  {
+    "name": "LAC-Online Public Server",
+    "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+    "author": "jastinlt16@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/losangelescrimes/egg-l-a-c--online-public-server.json",
+    "size": "2.61 KB",
+    "language": "en"
+  },
+  {
+    "name": "Mindustry",
+    "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
+    "author": "sir3lit@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/mindustry/egg-mindustry.json",
+    "size": "4.04 KB",
+    "language": "en"
+  },
+  {
+    "name": "Liteloader Bedrock Dedicated Server",
+    "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
+    "author": "frizth_tatierra@informatics.edu.ph",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/LiteLoader-bedrock/egg-LiteLoader-bedrock.json",
+    "size": "7.82 KB",
+    "language": "en"
+  },
+  {
+    "name": "PowerNukkitX",
+    "description": "PowerNukkitX support for Pterodactyl",
+    "author": "powernukkitx@github.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/PowerNukkitX/egg-powernukkitx.json",
+    "size": "2.96 KB",
+    "language": "en"
+  },
+  {
+    "name": "Vanilla Bedrock ARM64",
+    "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/bedrock/egg-vanilla-bedrock-ARM64.json",
+    "size": "6.06 KB",
+    "language": "en"
+  },
+  {
+    "name": "Vanilla Bedrock",
+    "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/bedrock/egg-vanilla-bedrock.json",
+    "size": "5.96 KB",
+    "language": "en"
+  },
+  {
+    "name": "GoMint",
+    "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/gomint/egg-go-mint.json",
+    "size": "3.39 KB",
+    "language": "en"
+  },
+  {
+    "name": "Nukkit",
+    "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/nukkit/egg-nukkit.json",
+    "size": "4.28 KB",
+    "language": "en"
+  },
+  {
+    "name": "PocketmineMP",
+    "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
+    "author": "info@swisscrafting.ch",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
+    "size": "5.73 KB",
+    "language": "en"
+  },
+  {
+    "name": "Purpur-Geyser-Floodgate",
+    "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+    "author": "purpur@birdflop.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/crossplay/purpur-geysermc-floodgate/egg-purpur-geysermc-floodgate.json",
+    "size": "6.03 KB",
+    "language": "en"
+  },
+  {
+    "name": "Cuberite",
+    "description": "A lightweight, fast and extensible game server for Minecraft",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/cuberite/egg-cuberite.json",
+    "size": "2.52 KB",
+    "language": "en"
+  },
+  {
+    "name": "CurseForge Generic",
+    "description": "A generic egg for a CurseForge modpack.",
+    "author": "contact@chromozone.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/curseforge/egg-curse-forge-generic.json",
+    "size": "20.2 KB",
+    "language": "en"
+  },
+  {
+    "name": "Fabric",
+    "description": "Fabric is a modular modding toolchain targeting Minecraft 1.14 and above, including snapshots.",
+    "author": "accounts@bofanodes.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/fabric/egg-fabric.json",
+    "size": "4.89 KB",
+    "language": "en"
+  },
+  {
+    "name": "Feather",
+    "description": "An experimental Minecraft server implementation written in Rust.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/feather/egg-feather.json",
+    "size": "4.14 KB",
+    "language": "en"
+  },
+  {
+    "name": "Folia",
+    "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
+    "author": "Hosting@NeverStopGaming.net",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/folia/egg-folia.json",
+    "size": "5.48 KB",
+    "language": "en"
+  },
+  {
+    "name": "Forge Enhanced",
+    "description": "Minecraft Forge Server. Minecraft Forge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/forge/forge/egg-forge-enhanced.json",
+    "size": "9.01 KB",
+    "language": "en"
+  },
+  {
+    "name": "FTB-modpacks.ch Server",
+    "description": "Since the release of the FTB APP, FTB modpacks are now distributed through modpacks.ch. This egg was developed for support for modpacks that are distributed through this.",
+    "author": "runemaster580@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/ftb/egg-ftb-modpacksch-server.json",
+    "size": "6.98 KB",
+    "language": "en"
+  },
+  {
+    "name": "FTB Revelation",
+    "description": "Revelation is a general all-purpose pack that is designed for solo play as well as small and medium population servers. This pack contains a mix of magic, tech and exploration mods, and is the largest pack ever built and released by the Feed The Beast Team.",
+    "author": "aevum@decess.us",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/ftb/outdated/egg-f-t-b-revelation.json",
+    "size": "2.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "Feed the Beast",
+    "description": "Egg to handle all official FTB Modpacks",
+    "author": "aevum@decess.us",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/ftb/outdated/egg-feed-the-beast.json",
+    "size": "5.27 KB",
+    "language": "en"
+  },
+  {
+    "name": "Glowstone",
+    "description": "Glowstone is an open-source server implementation for Minecraft: Java Edition 1.12.2 and up.",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/glowstone/egg-glowstone.json",
+    "size": "5.57 KB",
+    "language": "en"
+  },
+  {
+    "name": "Krypton",
+    "description": "A fast, lightweight Minecraft server written in Kotlin",
+    "author": "callum.seabrook@prevarinite.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/krypton/egg-krypton.json",
+    "size": "2.64 KB",
+    "language": "en"
+  },
+  {
+    "name": "Limbo",
+    "description": "Standalone server program Limbo.",
+    "author": "xEfinax@protonmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/limbo/egg-limbo.json",
+    "size": "2.35 KB",
+    "language": "en"
+  },
+  {
+    "name": "Magma",
+    "description": "Magma is most powerful Forge server providing you with Forge mods and Bukkit Plugins using Spigot and Paper for Performance Optimization and Stability. Using: https://github.com/magmamaintained",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/magma/egg-magma.json",
+    "size": "4.4 KB",
+    "language": "en"
+  },
+  {
+    "name": "Modrinth Generic",
+    "description": "A generic egg for a Modrinth modpack.",
+    "author": "contact@chromozone.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/modrinth/egg-modrinth-generic.json",
+    "size": "15.24 KB",
+    "language": "en"
+  },
+  {
+    "name": "Mohist",
+    "description": "Spigot fork with performance optimizations.",
+    "author": "alex.chang-lam@protonmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/mohist/egg-mohist.json",
+    "size": "3.55 KB",
+    "language": "en"
+  },
+  {
+    "name": "NanoLimbo",
+    "description": "This is lightweight minecraft limbo server, written on Java with Netty. The main goal of the project is maximum simplicity with a minimum number of sent and processed packets. This limbo is empty, there are no ability to set schematic building since this is not necessary. You can send useful information in chat or BossBar.\r\n\r\nNo plugins, no logs. The server is fully clear. It only able keep a lot of players while the main server is down.",
+    "author": "mail@wuffy.eu",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/nanolimbo/egg-nano-limbo.json",
+    "size": "4.56 KB",
+    "language": "en"
+  },
+  {
+    "name": "Paper",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
+    "author": "parker@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/paper/egg-paper.json",
+    "size": "5.52 KB",
+    "language": "en"
+  },
+  {
+    "name": "Purpur",
+    "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",
+    "author": "purpur@birdflop.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/purpur/egg-purpur.json",
+    "size": "5.11 KB",
+    "language": "en"
+  },
+  {
+    "name": "Quilt",
+    "description": "The Quilt project is an open-source, community-driven modding toolchain designed primarily for Minecraft. By focusing on speed, ease of use and modularity, Quilt aims to provide a sleek and modern modding toolchain with an open ecosystem.",
+    "author": "diedyesterdaywashere@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/quilt/egg-quilt.json",
+    "size": "3.23 KB",
+    "language": "en"
+  },
+  {
+    "name": "Spigot",
+    "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/spigot/egg-spigot.json",
+    "size": "5.59 KB",
+    "language": "en"
+  },
+  {
+    "name": "SpongeForge",
+    "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/spongeforge/egg-sponge-forge.json",
+    "size": "9.35 KB",
+    "language": "en"
+  },
+  {
+    "name": "SpongeVanilla",
+    "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/spongevanilla/egg-sponge-vanilla.json",
+    "size": "4.86 KB",
+    "language": "en"
+  },
+  {
+    "name": "Tekkit",
+    "description": "Tekkit is set to reignite the same sort of wonder and awe that we all received from booting up Minecraft for the first time. With the skies open, the moon ready to be colonized (by force if need be) and dimensional mysteries to be plied, with tesseracts to be networked, “meat” to be processed, items to be digitized, and power suits to be manufactured, there is virtually limitless engineering projects to be assembled.",
+    "author": "contact@zennodes.dk",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/Tekkit/egg-tekkit.json",
+    "size": "2.58 KB",
+    "language": "en"
+  },
+  {
+    "name": "Tekkit 2",
+    "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/Tekkit-2/egg-tekkit-2.json",
+    "size": "3.06 KB",
+    "language": "en"
+  },
+  {
+    "name": "Attack of the B-Team",
+    "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json",
+    "size": "2.08 KB",
+    "language": "en"
+  },
+  {
+    "name": "Blightfall",
+    "description": "Blightfall is a combination modpack and adventure map about surviving on an alien planet. It uses magic mods and tech mods to create a novel gameplay experience. Can you survive on a world completely covered by Thaumcraft taint?\r\n\r\nhttps://www.technicpack.net/modpack/blightfall.592618",
+    "author": "aevum@decess.us",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/blightfall/egg-blightfall.json",
+    "size": "2.14 KB",
+    "language": "en"
+  },
+  {
+    "name": "Hexxit",
+    "description": "Gear up and set forth on a campaign worthy of legend, for Hexxit has been unearthed! Dark dungeons, towering spires, weathered ruins and musty tomes lay before you. Lay claim to riches or create your own artifacts, tame beasts and carve out your own story in endless wonder. Alone or with friends, adventure awaits in Hexxit.\r\n\r\nHexxit is a new collection of mods for Minecraft that put adventure above all else, in the style of old Dungeons and Dragons campaigns. Exploration is interesting, the dangers are greater and the sense of satisfaction of clearing out a dungeon is intense. The modlist is full of quality content from some very talented individuals. Be sure to head over to the donate page and show your appreciation!\r\n\r\nhttps://www.technicpack.net/modpack/hexxit.552552",
+    "author": "aevum@decess.us",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/hexxit/egg-hexxit.json",
+    "size": "2.6 KB",
+    "language": "en"
+  },
+  {
+    "name": "Tekkit Classic",
+    "description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft. \r\nIt brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!",
+    "author": "geoffrey@remedygaming.net",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/tekkit-classic/egg-tekkit-classic.json",
+    "size": "2.45 KB",
+    "language": "en"
+  },
+  {
+    "name": "Tekkit Legends",
+    "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
+    "author": "aevum@decess.us",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/tekkit-legends/egg-tekkit-legends.json",
+    "size": "2.31 KB",
+    "language": "en"
+  },
+  {
+    "name": "The 1.12.2 Pack",
+    "description": "The 1.12.2 Pack",
+    "author": "contact@irequire.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/the-1-12-2-pack/egg-the1-12-2-pack.json",
+    "size": "1.89 KB",
+    "language": "en"
+  },
+  {
+    "name": "The 1.7.10 Pack",
+    "description": "The 1.7.10 Pack",
+    "author": "contact@sweplox.se",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/the-1-7-10-pack/egg-the1-7-10-pack.json",
+    "size": "1.88 KB",
+    "language": "en"
+  },
+  {
+    "name": "VanillaCord",
+    "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/vanillacord/egg-vanilla-cord.json",
+    "size": "4.23 KB",
+    "language": "en"
+  },
+  {
+    "name": "Waterdog PE",
+    "description": "Brand new proxy server for Minecraft: Bedrock Edition",
+    "author": "parker@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json",
+    "size": "3.07 KB",
+    "language": "en"
+  },
+  {
+    "name": "Waterdog",
+    "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+    "author": "parker@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/cross_platform/waterdog/egg-waterdog.json",
+    "size": "3.15 KB",
+    "language": "en"
+  },
+  {
+    "name": "Travertine",
+    "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/travertine/egg-travertine.json",
+    "size": "5.27 KB",
+    "language": "en"
+  },
+  {
+    "name": "Velocity",
+    "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/velocity/egg-velocity.json",
+    "size": "6.11 KB",
+    "language": "en"
+  },
+  {
+    "name": "VIAaaS",
+    "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+    "author": "regulad@outlook.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/viaaas/egg-v-i-aaa-s.json",
+    "size": "2.34 KB",
+    "language": "en"
+  },
+  {
+    "name": "Waterfall",
+    "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+    "author": "hostmaster@waterfallgaming.net",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/waterfall/egg-waterfall.json",
+    "size": "5.67 KB",
+    "language": "en"
+  },
+  {
+    "name": "Minetest",
+    "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minetest/egg-minetest.json",
+    "size": "11.09 KB",
+    "language": "en"
+  },
+  {
+    "name": "mohaa",
+    "description": "Medal of Honor: Allied Assault",
+    "author": "th3dilli@gmx.at",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/mohaa/egg-mohaa.json",
+    "size": "5.5 KB",
+    "language": "en"
+  },
+  {
+    "name": "OpenArena",
+    "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openarena/egg-open-arena.json",
+    "size": "1.85 KB",
+    "language": "en"
+  },
+  {
+    "name": "OpenRA - Dune2000",
+    "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+    "author": "patz.michael@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openra/openra_dune2000/egg-open-r-a--dune2000.json",
+    "size": "5.95 KB",
+    "language": "en"
+  },
+  {
+    "name": "OpenRA",
+    "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+    "author": "patz.michael@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openra/openra_red_alert/egg-open-r-a.json",
+    "size": "5.94 KB",
+    "language": "en"
+  },
+  {
+    "name": "OpenRA - Tiberian Dawn",
+    "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+    "author": "patz.michael@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json",
+    "size": "5.96 KB",
+    "language": "en"
+  },
+  {
+    "name": "RedM",
+    "description": "A new RedM egg for the latest builds due to recent changes in RedM",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/rdr/redm/egg-red-m.json",
+    "size": "7.02 KB",
+    "language": "en"
+  },
+  {
+    "name": "Rimworld: Open World",
+    "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
+    "author": "kyle@williquette.us",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/rimworld/open_world/egg-rimworld-open-world.json",
+    "size": "7.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "Rimworld Together",
+    "description": "A community driven multiplayer mod, for Rimworld.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/rimworld/together/egg-rimworld-together.json",
+    "size": "4 KB",
+    "language": "en"
+  },
+  {
+    "name": "Spacestation 14",
+    "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/spacestation_14/egg-spacestation14.json",
+    "size": "3.36 KB",
+    "language": "en"
+  },
+  {
+    "name": "starmade",
+    "description": "starmade",
+    "author": "contact@hunters-tavern.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/starmade/egg-starmade.json",
+    "size": "1.39 KB",
+    "language": "en"
+  },
+  {
+    "name": "7 Days To Die",
+    "description": "7 days to die server",
+    "author": "kristoffer.norman@bahnhof.se",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/7_days_to_die/egg-7-days-to-die.json",
+    "size": "8.53 KB",
+    "language": "en"
+  },
+  {
+    "name": "ARK: Survival Ascended",
+    "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+    "author": "blood@darkartsgaming.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ark_survival_ascended/egg-ark--survival-ascended.json",
+    "size": "11.62 KB",
+    "language": "en"
+  },
+  {
+    "name": "Ark: Survival Evolved",
+    "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
+    "author": "dev@shepper.fr",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ark_survival_evolved/egg-ark--survival-evolved.json",
+    "size": "8.74 KB",
+    "language": "en"
+  },
+  {
+    "name": "Arma 3",
+    "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC's premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/arma/arma3/egg-arma3.json",
+    "size": "16.29 KB",
+    "language": "en"
+  },
+  {
+    "name": "Arma Reforger",
+    "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/arma/arma_reforger/egg-arma-reforger.json",
+    "size": "11.84 KB",
+    "language": "en"
+  },
+  {
+    "name": "Assetto Corsa (Freeroam + AI)",
+    "description": "Custom Assetto Corsa server with focus on freeroam",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
+    "size": "4.95 KB",
+    "language": "en"
+  },
+  {
+    "name": "Assetto Corsa",
+    "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
+    "author": "admin@softwarenoob.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/assetto_corsa/egg-assetto-corsa.json",
+    "size": "7.35 KB",
+    "language": "en"
+  },
+  {
+    "name": "Astro Colony",
+    "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+    "author": "limmek@swedon.se",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/astro_colony/egg-astro-colony.json",
+    "size": "11.33 KB",
+    "language": "en"
+  },
+  {
+    "name": "Astroneer Dedicated Server",
+    "description": "A game of aerospace industry and interplanetary exploration.",
+    "author": "melethainiel.aerin@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/astroneer/egg-astroneer-dedicated-server.json",
+    "size": "7.65 KB",
+    "language": "en"
+  },
+  {
+    "name": "Avorion",
+    "description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.",
+    "author": "iamkubi@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/avorion/egg-avorion.json",
+    "size": "9.99 KB",
+    "language": "en"
+  },
+  {
+    "name": "Barotrauma",
+    "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
+    "author": "admin@softwarenoob.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/barotrauma/egg-barotrauma.json",
+    "size": "4.08 KB",
+    "language": "en"
+  },
+  {
+    "name": "BATTALION: Legacy",
+    "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
+    "author": "diedyesterdaywashere@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
+    "size": "6.23 KB",
+    "language": "en"
+  },
+  {
+    "name": "Black Mesa",
+    "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+    "author": "avalongamecs@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/black_mesa/egg-black-mesa.json",
+    "size": "5.32 KB",
+    "language": "en"
+  },
+  {
+    "name": "Citadel: Forged with Fire",
+    "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/citadel/egg-citadel-forged-with-fire.json",
+    "size": "6.31 KB",
+    "language": "en"
+  },
+  {
+    "name": "Colony Survival",
+    "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/colony_survival/egg-colony-survival.json",
+    "size": "5 KB",
+    "language": "en"
+  },
+  {
+    "name": "Conan Exiles",
+    "description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare.",
+    "author": "brycea@terrahost.cloud",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/conan_exiles/egg-conan-exiles.json",
+    "size": "7.82 KB",
+    "language": "en"
+  },
+  {
+    "name": "Core Keeper",
+    "description": "Core Keeper is a survival sandbox game for single or multiplayers.\r\n\r\n--- Drawn towards a mysterious relic, you are an explorer who awakens in an ancient cavern of creatures, resources and trinkets. Trapped deep underground will your survival skills be up to the task? Mine relics and resources to build your base, craft new equipment, survive, and power up the Core. ---",
+    "author": "karsten@fiedleronline.net",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/core_keeper/egg-core-keeper.json",
+    "size": "8.99 KB",
+    "language": "en"
+  },
+  {
+    "name": "Counter-Strike 2",
+    "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+    "author": "admin@ballaual.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/counter_strike/counter_strike_2/egg-counter--strike2.json",
+    "size": "9.15 KB",
+    "language": "en"
+  },
+  {
+    "name": "Counter-Strike: Source",
+    "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+    "author": "diedyesterdaywashere@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/counter_strike/counter_strike_source/egg-counter--strike--source.json",
+    "size": "6.43 KB",
+    "language": "en"
+  },
+  {
+    "name": "Craftopia",
+    "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/craftopia/egg-craftopia.json",
+    "size": "5.7 KB",
+    "language": "en"
+  },
+  {
+    "name": "CryoFall",
+    "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
+    "author": "contact@zennodes.dk",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/cryofall/egg-cryo-fall.json",
+    "size": "4.8 KB",
+    "language": "en"
+  },
+  {
+    "name": "DayZ (Experimental)",
+    "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/dayz-experimental/egg-dayz-experimental.json",
+    "size": "16.94 KB",
+    "language": "en"
+  },
+  {
+    "name": "Dead Matter",
+    "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/dead_matter/egg-dead-matter.json",
+    "size": "5.69 KB",
+    "language": "en"
+  },
+  {
+    "name": "Don't Starve Together",
+    "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/dont_starve/egg-don-t-starve-together.json",
+    "size": "10.29 KB",
+    "language": "en"
+  },
+  {
+    "name": "Eco",
+    "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/eco/egg-eco.json",
+    "size": "9.04 KB",
+    "language": "en"
+  },
+  {
+    "name": "Empyrion: Galactic Survival",
+    "description": "Empyrion: Galactic Survival dedicated server",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/empyrion/egg-empyrion--galactic-survival.json",
+    "size": "8.09 KB",
+    "language": "en"
+  },
+  {
+    "name": "Enshrouded",
+    "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+    "author": "vapokrocks@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/enshrouded/egg-enshrouded.json",
+    "size": "8.22 KB",
+    "language": "en"
+  },
+  {
+    "name": "My Server",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/enshrouded/enshrouded_server.json",
+    "size": "210 Bytes",
+    "language": "en"
+  },
+  {
+    "name": "Fof",
+    "description": "Fistful of Frags",
+    "author": "avalongamecs@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/fof/egg-fof.json",
+    "size": "4.02 KB",
+    "language": "en"
+  },
+  {
+    "name": "Frozen Flame",
+    "description": "Frozen Flame Dedicated Server",
+    "author": "theblitzbat@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/frozen_flame/egg-frozen-flame.json",
+    "size": "6.73 KB",
+    "language": "en"
+  },
+  {
+    "name": "Ground Branch",
+    "description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ground_branch/egg-ground-branch.json",
+    "size": "9.28 KB",
+    "language": "en"
+  },
+  {
+    "name": "Custom ReHLDS Engine Game",
+    "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
+    "author": "shigbeard@ndlee.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json",
+    "size": "8.43 KB",
+    "language": "en"
+  },
+  {
+    "name": "Custom HLDS Engine Game",
+    "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/hlds_server/vanilla/egg-custom-h-l-d-s-engine-game.json",
+    "size": "6.46 KB",
+    "language": "en"
+  },
+  {
+    "name": "Holdfast NaW",
+    "description": "Holdfast: Nations at War",
+    "author": "ankit@bmghosting.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/holdfast/egg-holdfast-na-w.json",
+    "size": "8.65 KB",
+    "language": "en"
+  },
+  {
+    "name": "HumanitZ",
+    "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
+    "author": "engels74@marx.ps",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/humanitz/egg-humanit-z.json",
+    "size": "27.89 KB",
+    "language": "en"
+  },
+  {
+    "name": "Hurtworld",
+    "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+    "author": "brycea@terrahost.cloud",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/hurtworld/egg-hurtworld.json",
+    "size": "6 KB",
+    "language": "en"
+  },
+  {
+    "name": "Icarus-Dedicated",
+    "description": "Icarus is a survival game that with dedicated servers as a public beta",
+    "author": "bolverblitz@ebg.pw",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/icarus/egg-icarus--dedicated.json",
+    "size": "6.37 KB",
+    "language": "en"
+  },
+  {
+    "name": "Insurgency: Sandstorm",
+    "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
+    "author": "brycea@terrahost.cloud",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/insurgency_sandstorm/egg-insurgency--sandstorm.json",
+    "size": "8.45 KB",
+    "language": "en"
+  },
+  {
+    "name": "Iosoccer server",
+    "description": "SERVER IOSOCCER",
+    "author": "hyperbeats@raptorhost.fr",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/iosoccer/eggs-iosoccer.json",
+    "size": "5.02 KB",
+    "language": "en"
+  },
+  {
+    "name": "Killing Floor 2",
+    "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/killing_floor_2/egg-killing-floor2.json",
+    "size": "8.16 KB",
+    "language": "en"
+  },
+  {
+    "name": "Left 4 Dead",
+    "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
+    "author": "pterodactyl@mazoyer.eu",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/left4dead/egg-left4dead.json",
+    "size": "2.85 KB",
+    "language": "en"
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
+    "author": "pterodactyl@mazoyer.eu",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/left4dead_2/egg-left4dead_2.json",
+    "size": "3 KB",
+    "language": "en"
+  },
+  {
+    "name": "Longvinter",
+    "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
+    "author": "tueye@tuworld.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/longvinter/egg-longvinter.json",
+    "size": "10.69 KB",
+    "language": "en"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/modiverse/ServerConfiguration.json",
+    "size": "345 Bytes",
+    "language": "en"
+  },
+  {
+    "name": "Modiverse",
+    "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
+    "author": "admin@softwarenoob.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/modiverse/egg-modiverse.json",
+    "size": "4.95 KB",
+    "language": "en"
+  },
+  {
+    "name": "Mordhau Wine",
+    "description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/mordhau/egg-mordhau-wine.json",
+    "size": "8.52 KB",
+    "language": "en"
+  },
+  {
+    "name": "Mordhau",
+    "description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization.",
+    "author": "trey@chazx.cc",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/mordhau/egg-mordhau.json",
+    "size": "5.49 KB",
+    "language": "en"
+  },
+  {
+    "name": "Mount & Blade II: Bannerlord",
+    "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
+    "size": "6.54 KB",
+    "language": "en"
+  },
+  {
+    "name": "Myth of Empires",
+    "description": "Myth of Empires is a multiplayer war sandbox game featuring a high degree of freedom. Players must survive, craft, create, and lead troops in their quest to conquer territory and build their own empire.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/myth_of_empires/egg-myth-of-empires.json",
+    "size": "8.65 KB",
+    "language": "en"
+  },
+  {
+    "name": "Necesse",
+    "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/necesse/egg-necesse.json",
+    "size": "7.28 KB",
+    "language": "en"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/neosvr/Config.json",
+    "size": "1.33 KB",
+    "language": "en"
+  },
+  {
+    "name": "NeosVR",
+    "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
+    "author": "espeon@espeon.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/neosvr/egg-neos-v-r.json",
+    "size": "6.54 KB",
+    "language": "en"
+  },
+  {
+    "name": "nmrih",
+    "description": "No More Room In Hell",
+    "author": "avalongamecs@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/nmrih/egg-nmrih.json",
+    "size": "4.03 KB",
+    "language": "en"
+  },
+  {
+    "name": "No One Survived",
+    "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/no_one_survived/egg-no-one-survived.json",
+    "size": "10.74 KB",
+    "language": "en"
+  },
+  {
+    "name": "Onset",
+    "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/onset/egg-onset.json",
+    "size": "3.89 KB",
+    "language": "en"
+  },
+  {
+    "name": "Open Fortress",
+    "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+    "author": "espeon@espeon.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/open_fortress/egg-open-fortress.json",
+    "size": "10.06 KB",
+    "language": "en"
+  },
+  {
+    "name": "Operation Harsh Doorstop",
+    "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
+    "size": "7.26 KB",
+    "language": "en"
+  },
+  {
+    "name": "Palworld",
+    "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
+    "author": "admin@ballaual.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/palworld/egg-palworld.json",
+    "size": "9 KB",
+    "language": "en"
+  },
+  {
+    "name": "Pavlov VR",
+    "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+    "author": "admin@devil.wtf",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/pavlov_vr/egg-pavlov-v-r.json",
+    "size": "6.44 KB",
+    "language": "en"
+  },
+  {
+    "name": "PixARK",
+    "description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel",
+    "author": "hello@venatus.digital",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/pixark/egg-pix-a-r-k.json",
+    "size": "9.59 KB",
+    "language": "en"
+  },
+  {
+    "name": "Portal Knights",
+    "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/portal_knights/egg-portal-knights.json",
+    "size": "8.41 KB",
+    "language": "en"
+  },
+  {
+    "name": "Post Scriptum",
+    "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
+    "author": "admin@softwarenoob.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/post_scriptum/egg-post-scriptum.json",
+    "size": "7.43 KB",
+    "language": "en"
+  },
+  {
+    "name": "Project Zomboid",
+    "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
+    "author": "iamkubi@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/project_zomboid/egg-project-zomboid.json",
+    "size": "7.41 KB",
+    "language": "en"
+  },
+  {
+    "name": "Quake Live",
+    "description": "Quake Live is a first-person shooter video game by id Software. It is an updated version of Quake III Arena that was originally designed as a free-to-play game launched via a web browser plug-in. On September 17, 2014, the game was re-launched as a standalone title on Steam.",
+    "author": "patz.michael@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/quake_live/egg-quake-live.json",
+    "size": "6.1 KB",
+    "language": "en"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/resonite/Config.json",
+    "size": "1.33 KB",
+    "language": "en"
+  },
+  {
+    "name": "Resonite",
+    "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
+    "author": "espeon@espeon.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/resonite/egg-resonite.json",
+    "size": "7.46 KB",
+    "language": "en"
+  },
+  {
+    "name": "Rising World Java Legacy",
+    "description": "Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rising_world/legacy/egg-rising-world-legacy.json",
+    "size": "7.12 KB",
+    "language": "en"
+  },
+  {
+    "name": "Rising World Unity",
+    "description": "Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rising_world/unity/egg-rising-world-unity.json",
+    "size": "9.52 KB",
+    "language": "en"
+  },
+  {
+    "name": "Risk of Rain 2",
+    "description": "Risk of Rain 2 dedicated server.",
+    "author": "alex.chang-lam@protonmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/risk_of_rain_2/egg-risk-of-rain2.json",
+    "size": "10.15 KB",
+    "language": "en"
+  },
+  {
+    "name": "Rust Autowipe",
+    "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rust/rust_autowipe/egg-rust-autowipe.json",
+    "size": "12.78 KB",
+    "language": "en"
+  },
+  {
+    "name": "Rust Staging",
+    "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
+    "author": "root@smc.li",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rust/rust_staging/egg-rust-staging.json",
+    "size": "10.2 KB",
+    "language": "en"
+  },
+  {
+    "name": "Satisfactory",
+    "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/satisfactory/egg-satisfactory.json",
+    "size": "14.32 KB",
+    "language": "en"
+  },
+  {
+    "name": "SCP:SL",
+    "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/scpsl/dedicated/egg-scpsl.json",
+    "size": "6.08 KB",
+    "language": "en"
+  },
+  {
+    "name": "SCP:SL - Exiled",
+    "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/scpsl/exiled/egg-s-c-p--s-l--exiled.json",
+    "size": "5.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "Smalland: Survive the Wilds",
+    "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
+    "author": "git@robsti.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
+    "size": "10.92 KB",
+    "language": "en"
+  },
+  {
+    "name": "Solace Crafting",
+    "description": "Open-world fantasy survival RPG. Borderless distance-based difficulty with player built fast-travel, modular-building, and town management.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/solace_crafting/egg-solace-crafting.json",
+    "size": "5.52 KB",
+    "language": "en"
+  },
+  {
+    "name": "Soldat",
+    "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.\r\n\r\nSteam: https://store.steampowered.com/app/638490/Soldat/",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/soldat/egg-soldat.json",
+    "size": "4.95 KB",
+    "language": "en"
+  },
+  {
+    "name": "Sons Of The Forest",
+    "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/sonsoftheforest/egg-sons-of-the-forest.json",
+    "size": "11.92 KB",
+    "language": "en"
+  },
+  {
+    "name": "Space Engineers",
+    "description": "Space Engineers is a voxel-based sandbox game set in space and on planets.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/space_engineers/default/egg-space-engineers.json",
+    "size": "13.9 KB",
+    "language": "en"
+  },
+  {
+    "name": "Space Engineers - Torch Server",
+    "description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.\r\n\r\n!!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/space_engineers/torch/egg-space-engineers--torch-server.json",
+    "size": "11.37 KB",
+    "language": "en"
+  },
+  {
+    "name": "Squad",
+    "description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking & radio.",
+    "author": "brycea@terrahost.cloud",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/squad/egg-squad.json",
+    "size": "10.68 KB",
+    "language": "en"
+  },
+  {
+    "name": "Starbound",
+    "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/starbound/egg-starbound.json",
+    "size": "5.79 KB",
+    "language": "en"
+  },
+  {
+    "name": "Stationeers (BepInEx)",
+    "description": "Stationeers Server with very basic BepInEx support",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json",
+    "size": "11.47 KB",
+    "language": "en"
+  },
+  {
+    "name": "Stationeers",
+    "description": "Stationeers Server",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stationeers/stationeers_vanilla/egg-stationeers.json",
+    "size": "8.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "Stormworks: Build and Rescue",
+    "description": "Join a world where you design, create and pilot your own air sea rescue service. Release your inner hero as you battle fierce storms out at sea to rescue those in need.",
+    "author": "iamkubi@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stormworks/egg-stormworks--build-and-rescue.json",
+    "size": "5.33 KB",
+    "language": "en"
+  },
+  {
+    "name": "Subnautica",
+    "description": "Subnautica is an open world survival action-adventure video game developed and published by Unknown Worlds Entertainment. In it, players are free to explore the ocean on an alien planet, known as planet 4546B, after their spaceship, the Aurora, crashes on the planet's surface.\r\n\r\nNote: NitroxMod version >=1.7.0.0 is required",
+    "author": "tueye@tuworld.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/subnautica_nitrox_mod/egg-subnautica.json",
+    "size": "13.07 KB",
+    "language": "en"
+  },
+  {
+    "name": "Sven Co-op",
+    "description": "Sven Co-op is a co-operative game originally based around Valve Software's Half-Life. In this game players must work together against computer controlled enemies and solve puzzles as a team.",
+    "author": "pteroducktyl@yildri.nl",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/svencoop/egg-sven-co-op.json",
+    "size": "7.42 KB",
+    "language": "en"
+  },
+  {
+    "name": "Swords 'n Magic and Stuff",
+    "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
+    "size": "10 KB",
+    "language": "en"
+  },
+  {
+    "name": "Team Fortress 2 Classic",
+    "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
+    "author": "eggs@scattergun.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/team_fortress_2_classic/egg-team-fortress-2-classic.json",
+    "size": "6.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "TerraTech Worlds",
+    "description": "TerraTech Worlds",
+    "author": "durzo@durzo.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/terratech_worlds/egg-terra-tech-worlds.json",
+    "size": "5.97 KB",
+    "language": "en"
+  },
+  {
+    "name": "The Forest",
+    "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first-person survival horror simulator.",
+    "author": "admin@softwarenoob.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/the_forest/egg-the-forest.json",
+    "size": "13.67 KB",
+    "language": "en"
+  },
+  {
+    "name": "The Isle",
+    "description": "The Isle is an open beta with an open-world survival game where players choose from three factions in an attempt to survive a fierce island. Hunt. Prey. Survive.",
+    "author": "fredrik.johansenfuun@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/the_isle/evrima/egg-the-isle.json",
+    "size": "13.26 KB",
+    "language": "en"
+  },
+  {
+    "name": "The Front",
+    "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/thefront/egg-the-front.json",
+    "size": "12.91 KB",
+    "language": "en"
+  },
+  {
+    "name": "Tower Unite",
+    "description": "Tower Unite\r\n\r\nDefault Port: 7778\r\nDefault Query Port: 27016\r\n\r\nConfig Path: Tower/Saved/Config/TowerServer.ini",
+    "author": "teamwuffy@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/tower_unite/egg-tower-unite.json",
+    "size": "4.02 KB",
+    "language": "en"
+  },
+  {
+    "name": "American Truck Simulator Dedicated Server",
+    "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
+    "author": "chase@cstmgames.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
+    "size": "6.81 KB",
+    "language": "en"
+  },
+  {
+    "name": "Euro Truck Simulator 2 Dedicated server",
+    "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json",
+    "size": "6.68 KB",
+    "language": "en"
+  },
+  {
+    "name": "Unturned",
+    "description": "Vanilla Unturned with the included RockerMod.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/unturned/egg-unturned.json",
+    "size": "5.6 KB",
+    "language": "en"
+  },
+  {
+    "name": "V Rising BepInEx",
+    "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
+    "size": "19.54 KB",
+    "language": "en"
+  },
+  {
+    "name": "V Rising",
+    "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/v_rising/v_rising_vanilla/egg-v-rising.json",
+    "size": "16.04 KB",
+    "language": "en"
+  },
+  {
+    "name": "Valheim  BepINex",
+    "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture incl the Plugin Framework BepInEx",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/valheim/valheim_bepinex/egg-valheim-bep-i-nex.json",
+    "size": "12.36 KB",
+    "language": "en"
+  },
+  {
+    "name": "Valheim Plus Mod",
+    "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/valheim/valheim_plus/egg-valheim-plus-mod.json",
+    "size": "13.32 KB",
+    "language": "en"
+  },
+  {
+    "name": "Valheim",
+    "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
+    "author": "magi1053@outlook.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/valheim/valheim_vanilla/egg-valheim.json",
+    "size": "10.54 KB",
+    "language": "en"
+  },
+  {
+    "name": "VEIN",
+    "description": "VEIN is a post-apocalyptic survival multiplayer sandbox game. Gather supplies to survive, explore abandoned buildings, combat bandits, defend your home, assist friendly NPCs, and rebuild society with friends.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/vein/egg-v-e-i-n.json",
+    "size": "6.96 KB",
+    "language": "en"
+  },
+  {
+    "name": "Wurm Unlimited",
+    "description": "Wurm Unlimited is the standalone version of the fantasy sandbox world Wurm Online, the MMORPG where the players are in charge! A pioneer in the ideas of player influence, crafting and adventure, it is now one of the most deep and feature packed true sandbox experiences available.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/wurm_unlimited/egg-wurm-unlimited.json",
+    "size": "8.75 KB",
+    "language": "en"
+  },
+  {
+    "name": "Teeworlds",
+    "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/teeworlds/egg-teeworlds.json",
+    "size": "5 KB",
+    "language": "en"
+  },
+  {
+    "name": "tModloader",
+    "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/tmodloader/egg-t-modloader.json",
+    "size": "8.89 KB",
+    "language": "en"
+  },
+  {
+    "name": "tshock legacy",
+    "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/tshock/egg-tshock-legacy.json",
+    "size": "4.16 KB",
+    "language": "en"
+  },
+  {
+    "name": "tshock",
+    "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/tshock/egg-tshock.json",
+    "size": "4.16 KB",
+    "language": "en"
+  },
+  {
+    "name": "Terraria Vanilla",
+    "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+    "author": "iamkubi@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/vanilla/egg-terraria-vanilla.json",
+    "size": "7.32 KB",
+    "language": "en"
+  },
+  {
+    "name": "OpenRCT2",
+    "description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/tycoon_games/openrct2/egg-openrct2.json",
+    "size": "15.93 KB",
+    "language": "en"
+  },
+  {
+    "name": "OpenTTD Server",
+    "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+    "author": "admin@justmyrandomstuff.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/tycoon_games/openttd/egg-open-t-t-d-server.json",
+    "size": "4.37 KB",
+    "language": "en"
+  },
+  {
+    "name": "Urban Terror",
+    "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
+    "author": "Juli199696@web.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/urbanterror/egg-urban-terror.json",
+    "size": "8.9 KB",
+    "language": "en"
+  },
+  {
+    "name": "Veloren",
+    "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/veloren/egg-veloren.json",
+    "size": "3.88 KB",
+    "language": "en"
+  },
+  {
+    "name": "Vintage Story",
+    "description": "Vintage Story is an uncompromising wilderness survival sandbox game inspired by lovecraftian horror themes. Find yourself in a ruined world reclaimed by nature and permeated by unnerving temporal disturbances. Relive the advent of human civilization, or take your own path.",
+    "author": "mail@wuffy.eu",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/vintage_story/egg-vintage-story.json",
+    "size": "5.35 KB",
+    "language": "en"
+  },
+  {
+    "name": "Wine Generic",
+    "description": "a generic egg to run servers with wine",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/wine/generic/egg-wine-generic.json",
+    "size": "3.22 KB",
+    "language": "en"
+  },
+  {
+    "name": "Xonotic",
+    "description": "This is for the default xonotic setup.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/xonotic/xonotic/egg-xonotic.json",
+    "size": "2.58 KB",
+    "language": "en"
+  },
+  {
+    "name": "Bun",
+    "description": "Bun is an incredibly fast JavaScript runtime, transpiler bundler, and npm package manager all-in-one.",
+    "author": "mratox@protonmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/bun/egg-bun.json",
+    "size": "6.7 KB",
+    "language": "en"
+  },
+  {
+    "name": "Generic C#",
+    "description": "A generic C# (dotnet) egg that runs your C# project.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/c#/egg-generic-c.json",
+    "size": "6.17 KB",
+    "language": "en"
+  },
+  {
+    "name": "dart generic",
+    "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+    "author": "alden@knoban.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/dart/egg-dart-generic.json",
+    "size": "5.39 KB",
+    "language": "en"
+  },
+  {
+    "name": "Deno Generic",
+    "description": "A generic egg to run deno code.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/deno/egg-deno-generic.json",
+    "size": "6.58 KB",
+    "language": "en"
+  },
+  {
+    "name": "Elixir",
+    "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+    "author": "mravox@proton.me",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/elixir/egg-elixir.json",
+    "size": "5.43 KB",
+    "language": "en"
+  },
+  {
+    "name": "golang generic",
+    "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/golang/egg-golang-generic.json",
+    "size": "1.86 KB",
+    "language": "en"
+  },
+  {
+    "name": "Generic Java",
+    "description": "Creates a container that runs java.",
+    "author": "sneaky@sneakyhub.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/java/egg-java.json",
+    "size": "1.8 KB",
+    "language": "en"
+  },
+  {
+    "name": "luvit generic",
+    "description": "A generic luvit egg This will clone a git repo. It defaults to master if no branch is specified.\r\n\r\nSupports the discordia lua framework.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/lua/luvit/egg-luvit-generic.json",
+    "size": "5.26 KB",
+    "language": "en"
+  },
+  {
+    "name": "node.js generic",
+    "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/nodejs/egg-node-js-generic.json",
+    "size": "7.83 KB",
+    "language": "en"
+  },
+  {
+    "name": "nodemon",
+    "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+    "author": "nick@blackforthosting.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/nodemon/egg-nodemon.json",
+    "size": "6.87 KB",
+    "language": "en"
+  },
+  {
+    "name": "python generic",
+    "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/python/egg-python-generic.json",
+    "size": "7.15 KB",
+    "language": "en"
+  },
+  {
+    "name": "rust generic",
+    "description": "Creates a container that runs rust with cargo.",
+    "author": "ethan@ethancoward.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/rust/egg-rust-generic.json",
+    "size": "4.77 KB",
+    "language": "en"
+  },
+  {
+    "name": "Loki",
+    "description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this",
+    "author": "unknown@unknown.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/monitoring/loki/egg-loki.json",
+    "size": "2.96 KB",
+    "language": "en"
+  },
+  {
+    "name": "Prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "author": "p.zarrad@outlook.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/monitoring/prometheus/egg-prometheus.json",
+    "size": "3.53 KB",
+    "language": "en"
+  },
+  {
+    "name": "5e Tools",
+    "description": "A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters.",
+    "author": "pterodactyl@demi.cloud",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/5e-tools/egg-5e-tools.json",
+    "size": "4.5 KB",
+    "language": "en"
+  },
+  {
+    "name": "Code-Server",
+    "description": "Run VS Code on any machine anywhere and access it in the browser.",
+    "author": "mario.franze@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/code-server/egg-code--server.json",
+    "size": "4.38 KB",
+    "language": "en"
+  },
+  {
+    "name": "Elasticsearch",
+    "description": null,
+    "author": "dominic@stilma.net",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/elasticsearch/egg-elasticsearch.json",
+    "size": "2.19 KB",
+    "language": "en"
+  },
+  {
+    "name": "Folding@Home",
+    "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
+    "author": "fuggschen@krk-gaming.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/foldingathome/egg-folding--home.json",
+    "size": "5.34 KB",
+    "language": "en"
+  },
+  {
+    "name": "Forgejo",
+    "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
+    "author": "seaswimmerthefsh@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/forgejo/egg-forgejo.json",
+    "size": "4.01 KB",
+    "language": "en"
+  },
+  {
+    "name": "Gitea",
+    "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+    "author": "mario.franze@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/gitea/egg-gitea.json",
+    "size": "3.95 KB",
+    "language": "en"
+  },
+  {
+    "name": "Grafana",
+    "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "author": "p.zarrad@outlook.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/grafana/egg-grafana.json",
+    "size": "3.45 KB",
+    "language": "en"
+  },
+  {
+    "name": "haste-server",
+    "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+    "author": "eggs@harryw.link",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/haste-server/egg-haste-server.json",
+    "size": "1.51 KB",
+    "language": "en"
+  },
+  {
+    "name": "LanguageTool",
+    "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
+    "author": "thomasruhl@live.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/languagetool/egg-languagetool.json",
+    "size": "3.37 KB",
+    "language": "en"
+  },
+  {
+    "name": "Meilisearch",
+    "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/meilisearch/egg-meilisearch.json",
+    "size": "6.25 KB",
+    "language": "en"
+  },
+  {
+    "name": "owncast.online",
+    "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
+    "author": "psychoalex@thevcbc.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/owncast/egg-owncast-online.json",
+    "size": "5.41 KB",
+    "language": "en"
+  },
+  {
+    "name": "RabbitMQ",
+    "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
+    "author": "p.zarrad@outlook.de",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/rabbitmq/egg-rabbit-m-q.json",
+    "size": "2.98 KB",
+    "language": "en"
+  },
+  {
+    "name": "Rathole",
+    "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+    "author": "tunayada@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/rathole/egg-rathole.json",
+    "size": "3.73 KB",
+    "language": "en"
+  },
+  {
+    "name": "Reposilite",
+    "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+    "author": "mk@kcra.me",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/reposilite/egg-reposilite.json",
+    "size": "2.7 KB",
+    "language": "en"
+  },
+  {
+    "name": "Uptime Kuma",
+    "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/uptime-kuma/egg-uptime-kuma.json",
+    "size": "3.45 KB",
+    "language": "en"
+  },
+  {
+    "name": "Yarr",
+    "description": "Yarr is a selfhosted feed aggregator",
+    "author": "sotoluis90@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/yarr/egg-yarr.json",
+    "size": "1.93 KB",
+    "language": "en"
+  },
+  {
+    "name": "Minio S3",
+    "description": "MinIO is a cloud storage server compatible with Amazon S3, released under Apache License v2. As an object store, MinIO can store unstructured data such as photos, videos, log files, backups and container images. The maximum size of an object is 5TB.",
+    "author": "accounts@bofanodes.io",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/storage/minio/egg-minio-s3.json",
+    "size": "2.11 KB",
+    "language": "en"
+  },
+  {
+    "name": "SFTP Storage Share",
+    "description": "A simple \"empty\" egg that acts as a private SFTP storage share by utilizing Pterodactyl's built in SFTP system for servers. Sub-users can be added to the server by the owner to allow additional people to access the share. \"Starting\" the server performs no actions and it should be left off.",
+    "author": "rehlmgaming@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/storage/sftp_storage_share/egg-sftp-storage-share.json",
+    "size": "1.4 KB",
+    "language": "en"
+  },
+  {
+    "name": "Lavalink",
+    "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
+    "author": "damuffin36@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/lavalink/egg-lavalink.json",
+    "size": "4.52 KB",
+    "language": "en"
+  },
+  {
+    "name": "Teamspeak3 Server ARM64",
+    "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
+    "size": "3.33 KB",
+    "language": "en"
+  },
+  {
+    "name": "TeaSpeak",
+    "description": "TeaSpeak is a free to use client and server software for VoIP communication.\r\n\r\nIts the ideal deal software for everyone who is annoyed about limits and restrictions.",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/teaspeak/egg-tea-speak.json",
+    "size": "4.59 KB",
+    "language": "en"
+  },
+  {
+    "name": "TS3 Manager",
+    "description": "The Open Source Webinterface For TeamSpeak Servers",
+    "author": "eggs@goover.dev",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/ts3_manager/egg-t-s3-manager.json",
+    "size": "3.1 KB",
+    "language": "en"
+  }
+]
