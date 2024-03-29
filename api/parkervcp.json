@@ -778,6 +778,15 @@
     "language": "en"
   },
   {
+    "author": "glorantv@icloud.com",
+    "name": "NeoForge",
+    "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
+    "exported_at": "2024-03-06T21:55:56+01:00",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/neoforge/egg-neo-forge.json",
+    "size": "7.22 KB",
+    "language": "en"
+  },
+  {
     "author": "parker@pterodactyl.io",
     "name": "Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
