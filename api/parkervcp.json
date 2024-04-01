@@ -1282,6 +1282,15 @@
     "language": "en"
   },
   {
+    "author": "imkringle@proton.me",
+    "name": "DDNet",
+    "description": "Want to play the hardest cooperative 2D platformer ever? Want to finish no map ever? Want to be in pain for hours and cry, getting nothing in return? Come play DDNet with a large community of other sufferers!",
+    "exported_at": "2024-03-31T18:27:28-04:00",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ddnet/egg-d-d-net.json",
+    "size": "6.54 KB",
+    "language": "en"
+  },
+  {
     "author": "josdekurk@gmail.com",
     "name": "Dead Matter",
     "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
