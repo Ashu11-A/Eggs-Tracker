@@ -1693,9 +1693,9 @@
     "author": "espeon@espeon.dev",
     "name": "Resonite",
     "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
-    "exported_at": "2023-11-11T08:33:24-05:00",
+    "exported_at": "2024-04-01T09:52:45+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/resonite/egg-resonite.json",
-    "size": "7.46 KB",
+    "size": "7.48 KB",
     "language": "en"
   },
   {
@@ -2169,9 +2169,9 @@
     "author": "alden@knoban.com",
     "name": "dart generic",
     "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-    "exported_at": "2023-02-24T17:58:34+01:00",
+    "exported_at": "2024-04-01T13:16:45-07:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/dart/egg-dart-generic.json",
-    "size": "5.39 KB",
+    "size": "5.85 KB",
     "language": "en"
   },
   {
