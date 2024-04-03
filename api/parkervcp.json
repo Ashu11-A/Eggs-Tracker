@@ -6,7 +6,8 @@
     "exported_at": "2023-12-12T20:05:05+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/aoede/egg-aoede.json",
     "size": "4.81 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "jfeldt19@gmail.com",
@@ -15,7 +16,8 @@
     "exported_at": "2019-06-23T10:00:12-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/atlbot/egg-a-t-l-bot.json",
     "size": "2.18 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -24,7 +26,8 @@
     "exported_at": "2023-03-29T10:33:50+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/bastion/egg-bastion.json",
     "size": "6.01 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -33,12 +36,14 @@
     "exported_at": "2020-04-25T10:31:48-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/corpbot/egg-corp-bot.json",
     "size": "2.61 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/corpbot/settings_dict.json",
     "size": "75 Bytes",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "sebastian.pietschner@gmail.com",
@@ -47,7 +52,8 @@
     "exported_at": "2023-08-18T17:01:43+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/dynamica/egg-dynamica.json",
     "size": "4.85 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -56,7 +62,8 @@
     "exported_at": "2019-04-27T21:33:33-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/fragbot/egg-fragbot.json",
     "size": "2.08 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "a-sync@devs.space",
@@ -65,7 +72,8 @@
     "exported_at": "2023-12-06T09:05:57+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/game-server-watcher/egg-game-server-watcher.json",
     "size": "4.42 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -74,7 +82,8 @@
     "exported_at": "2023-09-20T21:17:10+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/jmusicbot/egg-j-music-bot.json",
     "size": "10.42 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "hello@apollo.moe",
@@ -83,7 +92,8 @@
     "exported_at": "2023-09-20T20:25:51+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/muse/egg-muse.json",
     "size": "5.32 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -92,7 +102,8 @@
     "exported_at": "2023-02-19T13:09:14+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/parkertron/egg-parkertron.json",
     "size": "1.71 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -101,12 +112,14 @@
     "exported_at": "2020-01-19T11:11:24-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/pixelbot/egg-pixel-bot.json",
     "size": "3.59 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/redbot/config.json",
     "size": "248 Bytes",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -115,7 +128,8 @@
     "exported_at": "2023-08-05T10:50:21+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/redbot/egg-red.json",
     "size": "3.55 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "presti@presti.me",
@@ -124,7 +138,8 @@
     "exported_at": "2023-06-14T13:03:27+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/ree6/egg-ree6.json",
     "size": "21.56 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "support@pterodactyl.io",
@@ -133,7 +148,8 @@
     "exported_at": "2023-08-14T15:15:05+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/sinusbot/egg-sinusbot.json",
     "size": "3.56 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -142,7 +158,8 @@
     "exported_at": "2020-05-26T08:59:34-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/other/bigbrotherbot/egg-big-brother-bot.json",
     "size": "1.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "teamwuffy@gmail.com",
@@ -151,7 +168,8 @@
     "exported_at": "2022-07-03T18:18:04-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
     "size": "2.75 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "mail@wuffy.eu",
@@ -160,7 +178,8 @@
     "exported_at": "2023-09-02T23:24:58+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/twitch/phantombot/egg-phantom-bot.json",
     "size": "6.75 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "eggs@goover.dev",
@@ -169,7 +188,8 @@
     "exported_at": "2023-04-23T18:47:53+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/twitch/sogebot/egg-soge-bot.json",
     "size": "3.54 KB",
-    "language": "en"
+    "language": "en",
+    "type": "bots"
   },
   {
     "author": "parker@parkervcp.com",
@@ -178,7 +198,8 @@
     "exported_at": "2022-08-28T13:33:51+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/mongodb/egg-mongo-d-b.json",
     "size": "2.58 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -187,7 +208,8 @@
     "exported_at": "2022-10-31T17:26:13+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/mongodb/egg-mongo-d-b6.json",
     "size": "2.71 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -196,7 +218,8 @@
     "exported_at": "2024-02-02T10:25:08+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/mongodb/egg-mongo-d-b7.json",
     "size": "2.88 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -205,7 +228,8 @@
     "exported_at": "2022-11-04T19:18:22+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/nosql/rethinkdb/egg-rethinkdb.json",
     "size": "2.56 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -214,7 +238,8 @@
     "exported_at": "2022-07-11T13:17:43+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/redis/redis-5/egg-redis-5.json",
     "size": "1.86 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -223,7 +248,8 @@
     "exported_at": "2022-07-11T13:18:27+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/redis/redis-6/egg-redis-6.json",
     "size": "2.23 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -232,7 +258,8 @@
     "exported_at": "2022-10-02T16:30:14+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/redis/redis-7/egg-redis-7.json",
     "size": "2.23 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -241,7 +268,8 @@
     "exported_at": "2023-12-19T09:54:17+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/sql/mariadb/egg-maria-d-b10-3.json",
     "size": "2.82 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -250,7 +278,8 @@
     "exported_at": "2023-12-12T15:32:12+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/sql/postgres/egg-postgres14.json",
     "size": "2.8 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "parker@parkervcp.com",
@@ -259,7 +288,8 @@
     "exported_at": "2023-12-12T15:33:25+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/database/sql/postgres/egg-postgres16.json",
     "size": "2.8 KB",
-    "language": "en"
+    "language": "en",
+    "type": "database"
   },
   {
     "author": "pterodactyl@demi.cloud",
@@ -268,7 +298,8 @@
     "exported_at": "2023-01-31T11:59:34+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/FoundryVTT/egg-FoundryVTT.json",
     "size": "4.22 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "mattamn107@github.com",
@@ -277,7 +308,8 @@
     "exported_at": "2024-03-24T19:19:23+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/SuperTuxKart/egg-super-tux-kart.json",
     "size": "5.11 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "tobiornotto@gmail.com",
@@ -286,7 +318,8 @@
     "exported_at": "2022-07-25T23:48:33+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/among_us/bettercrewlink_server/egg-better-crewlink-server.json",
     "size": "3.67 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "panel@oxtroit.com",
@@ -295,7 +328,8 @@
     "exported_at": "2020-12-16T20:11:55+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/among_us/crewlink_server/egg-crewlink-server.json",
     "size": "3.32 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -304,7 +338,8 @@
     "exported_at": "2023-03-04T15:04:21+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/among_us/impostor_server/egg-among-us--impostor-server.json",
     "size": "3.35 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "noah@noahserver.online",
@@ -313,7 +348,8 @@
     "exported_at": "2024-01-16T11:22:17+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/beamng/beammp/egg-beam-m-p-server.json",
     "size": "8.81 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "me@weilbyte.dev",
@@ -322,7 +358,8 @@
     "exported_at": "2021-12-22T09:08:37+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/beamng/kissmp/egg-kissmp.json",
     "size": "1.9 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "panel@qoutsy.33mail.com",
@@ -331,7 +368,8 @@
     "exported_at": "2024-01-13T21:17:09+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
     "size": "4.09 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -340,7 +378,8 @@
     "exported_at": "2023-11-30T10:24:33+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/clone_hero/egg-clone-hero.json",
     "size": "4.8 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -349,7 +388,8 @@
     "exported_at": "2023-06-20T12:12:15+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/cs2d/egg-c-s2-d.json",
     "size": "3.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "holeintheseat@gmail.com",
@@ -358,7 +398,8 @@
     "exported_at": "2023-07-30T10:56:35+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/cubeengine/assaultcube/egg-assault-cube.json",
     "size": "6.54 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "holeintheseat@gmail.com",
@@ -367,7 +408,8 @@
     "exported_at": "2023-07-30T11:20:16+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/cubeengine/cube2/egg-cube2--sauerbraten.json",
     "size": "4.02 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "diedyesterdaywashere@gmail.com",
@@ -376,7 +418,8 @@
     "exported_at": "2023-07-01T12:47:31+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/ddracenetwork/egg-d-d-race-network.json",
     "size": "4.55 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "sup@libtar.de",
@@ -385,7 +428,8 @@
     "exported_at": "2022-12-14T14:27:39+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/doom/zandronum/egg-zandronum.json",
     "size": "7.72 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -394,7 +438,8 @@
     "exported_at": "2024-01-15T19:24:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/enemy_territory/etlegacy/egg-e-t-legacy.json",
     "size": "4.3 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "psychoalex@thevcbc.com",
@@ -403,7 +448,8 @@
     "exported_at": "2024-01-22T08:32:24+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/clusterio/egg-clusterio.json",
     "size": "7.14 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -412,7 +458,8 @@
     "exported_at": "2023-11-18T10:08:36+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/factorio/egg-factorio-a-r-m64.json",
     "size": "9.39 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -421,7 +468,8 @@
     "exported_at": "2022-01-02T22:43:37-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/factorio/egg-factorio.json",
     "size": "7.22 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "tueye@tuworld.de",
@@ -430,7 +478,8 @@
     "exported_at": "2022-01-22T05:41:57-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/factorio/factorio-modupdate/egg-factorio-modupdate.json",
     "size": "7.65 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "alex.chang-lam@protonmail.com",
@@ -439,7 +488,8 @@
     "exported_at": "2023-02-23T17:52:24+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/ftl/tachyon/egg-tachyon.json",
     "size": "4.18 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -448,7 +498,8 @@
     "exported_at": "2023-06-18T11:34:24+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/altv/egg-alt--v.json",
     "size": "5.09 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -457,7 +508,8 @@
     "exported_at": "2023-02-19T12:54:36+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/fivem/egg-five-m.json",
     "size": "8.14 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@softwarenoob.com",
@@ -466,7 +518,8 @@
     "exported_at": "2021-04-24T18:59:07+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/gtac/egg-grand-theft-auto-connected.json",
     "size": "3.89 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "info@six-gaming.com",
@@ -475,13 +528,15 @@
     "exported_at": "2024-01-14T15:48:28+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/mtasa/egg-multi-theft-auto.json",
     "size": "2.59 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "name": "open.mp server",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/openmp/config.json",
     "size": "2.57 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "vedrancappone@gmail.com",
@@ -490,7 +545,8 @@
     "exported_at": "2023-07-01T11:37:31+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/openmp/egg-open-m-p.json",
     "size": "3.64 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -499,13 +555,15 @@
     "exported_at": "2022-09-23T20:11:15+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragecoop/egg-rage-c-o-o-p.json",
     "size": "4.12 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "name": "RAGE:MP Unofficial server",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragemp/conf.json",
     "size": "212 Bytes",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "noreply.waypointhosting@gmail.com",
@@ -514,7 +572,8 @@
     "exported_at": "2022-12-11T17:31:26+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragemp/egg-rage--m-p.json",
     "size": "3 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "bl4ckspr4y@protonmail.com",
@@ -523,7 +582,8 @@
     "exported_at": "2023-10-19T18:53:04+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/samp/egg-s-a--m-p.json",
     "size": "2.86 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "imkringle@proton.me",
@@ -532,7 +592,8 @@
     "exported_at": "2023-12-30T14:42:14-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/hogwarp/egg-hogwarp.json",
     "size": "6.62 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rufanyin29@gmail.com",
@@ -541,7 +602,8 @@
     "exported_at": "2023-09-22T19:54:35+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/ksp/egg-k-s-p-d-m-p.json",
     "size": "4.19 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "domi@imagine.team",
@@ -550,7 +612,8 @@
     "exported_at": "2022-10-26T17:21:51+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/leaguesandbox/LeagueSandbox_Egg.json",
     "size": "1.34 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "jastinlt16@gmail.com",
@@ -559,7 +622,8 @@
     "exported_at": "2022-04-27T11:33:59+07:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/losangelescrimes/egg-l-a-c--online-public-server.json",
     "size": "2.61 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "sir3lit@gmail.com",
@@ -568,7 +632,8 @@
     "exported_at": "2020-07-22T18:01:10+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/mindustry/egg-mindustry.json",
     "size": "4.04 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "frizth_tatierra@informatics.edu.ph",
@@ -577,7 +642,8 @@
     "exported_at": "2023-05-17T20:11:37+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/LiteLoader-bedrock/egg-LiteLoader-bedrock.json",
     "size": "7.82 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "powernukkitx@github.com",
@@ -586,7 +652,8 @@
     "exported_at": "2023-07-07T02:29:39+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/PowerNukkitX/egg-powernukkitx.json",
     "size": "2.96 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -595,7 +662,8 @@
     "exported_at": "2023-06-18T11:46:24+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/bedrock/egg-vanilla-bedrock-ARM64.json",
     "size": "6.06 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -604,7 +672,8 @@
     "exported_at": "2023-06-18T11:45:33+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/bedrock/egg-vanilla-bedrock.json",
     "size": "5.96 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -613,7 +682,8 @@
     "exported_at": "2021-07-02T03:52:56+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/gomint/egg-go-mint.json",
     "size": "3.39 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -622,7 +692,8 @@
     "exported_at": "2023-05-01T16:48:52+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/nukkit/egg-nukkit.json",
     "size": "4.28 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "info@swisscrafting.ch",
@@ -631,7 +702,8 @@
     "exported_at": "2023-06-02T19:34:57+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
     "size": "5.73 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "purpur@birdflop.com",
@@ -640,7 +712,8 @@
     "exported_at": "2024-02-23T20:45:16+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/crossplay/purpur-geysermc-floodgate/egg-purpur-geysermc-floodgate.json",
     "size": "6.03 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -649,7 +722,8 @@
     "exported_at": "2021-11-26T00:05:33+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/cuberite/egg-cuberite.json",
     "size": "2.52 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "contact@chromozone.dev",
@@ -658,7 +732,8 @@
     "exported_at": "2023-05-17T23:20:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/curseforge/egg-curse-forge-generic.json",
     "size": "20.2 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "accounts@bofanodes.io",
@@ -667,7 +742,8 @@
     "exported_at": "2023-05-17T23:20:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/fabric/egg-fabric.json",
     "size": "4.89 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -676,7 +752,8 @@
     "exported_at": "2023-05-17T23:20:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/feather/egg-feather.json",
     "size": "4.14 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "Hosting@NeverStopGaming.net",
@@ -685,7 +762,8 @@
     "exported_at": "2024-02-13T17:26:13+0000",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/folia/egg-folia.json",
     "size": "5.48 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -694,7 +772,8 @@
     "exported_at": "2023-12-30T11:04:14-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/forge/forge/egg-forge-enhanced.json",
     "size": "9.01 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "runemaster580@gmail.com",
@@ -703,7 +782,8 @@
     "exported_at": "2023-10-27T00:29:03+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/ftb/egg-ftb-modpacksch-server.json",
     "size": "6.98 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "aevum@decess.us",
@@ -712,7 +792,8 @@
     "exported_at": "2019-03-15T16:25:38+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/ftb/outdated/egg-f-t-b-revelation.json",
     "size": "2.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "aevum@decess.us",
@@ -721,7 +802,8 @@
     "exported_at": "2019-04-03T08:08:25-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/ftb/outdated/egg-feed-the-beast.json",
     "size": "5.27 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "support@pterodactyl.io",
@@ -730,7 +812,8 @@
     "exported_at": "2023-05-17T23:20:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/glowstone/egg-glowstone.json",
     "size": "5.57 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "callum.seabrook@prevarinite.com",
@@ -739,7 +822,8 @@
     "exported_at": "2023-05-17T23:20:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/krypton/egg-krypton.json",
     "size": "2.64 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "xEfinax@protonmail.com",
@@ -748,7 +832,8 @@
     "exported_at": "2023-05-17T23:20:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/limbo/egg-limbo.json",
     "size": "2.35 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "support@pterodactyl.io",
@@ -757,7 +842,8 @@
     "exported_at": "2024-02-23T20:05:07+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/magma/egg-magma.json",
     "size": "4.4 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "contact@chromozone.dev",
@@ -766,7 +852,8 @@
     "exported_at": "2023-12-26T09:36:20-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/modrinth/egg-modrinth-generic.json",
     "size": "15.24 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "alex.chang-lam@protonmail.com",
@@ -775,7 +862,8 @@
     "exported_at": "2023-08-13T19:49:14+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/mohist/egg-mohist.json",
     "size": "3.55 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "mail@wuffy.eu",
@@ -784,7 +872,8 @@
     "exported_at": "2022-03-02T18:33:43+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/nanolimbo/egg-nano-limbo.json",
     "size": "4.56 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "glorantv@icloud.com",
@@ -793,7 +882,8 @@
     "exported_at": "2024-03-06T21:55:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/neoforge/egg-neo-forge.json",
     "size": "7.22 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@pterodactyl.io",
@@ -802,7 +892,8 @@
     "exported_at": "2024-02-13T17:26:13+0000",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/paper/egg-paper.json",
     "size": "5.52 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "purpur@birdflop.com",
@@ -811,7 +902,8 @@
     "exported_at": "2024-02-13T17:26:13+0000",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/purpur/egg-purpur.json",
     "size": "5.11 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "diedyesterdaywashere@gmail.com",
@@ -820,7 +912,8 @@
     "exported_at": "2023-11-25T16:40:11+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/quilt/egg-quilt.json",
     "size": "3.23 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "support@pterodactyl.io",
@@ -829,7 +922,8 @@
     "exported_at": "2024-03-31T14:10:53+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/spigot/egg-spigot.json",
     "size": "6.01 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -838,7 +932,8 @@
     "exported_at": "2023-11-03T15:54:30+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/spongeforge/egg-sponge-forge.json",
     "size": "9.35 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -847,7 +942,8 @@
     "exported_at": "2023-11-16T17:37:38+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/spongevanilla/egg-sponge-vanilla.json",
     "size": "4.86 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "contact@zennodes.dk",
@@ -856,7 +952,8 @@
     "exported_at": "2021-07-02T04:06:38+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/Tekkit/egg-tekkit.json",
     "size": "2.58 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -865,7 +962,8 @@
     "exported_at": "2022-08-29T15:07:44+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/Tekkit-2/egg-tekkit-2.json",
     "size": "3.06 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "support@pterodactyl.io",
@@ -874,7 +972,8 @@
     "exported_at": "2019-06-02T11:29:46+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json",
     "size": "2.08 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "aevum@decess.us",
@@ -883,7 +982,8 @@
     "exported_at": "2019-03-15T16:25:38+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/blightfall/egg-blightfall.json",
     "size": "2.14 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "aevum@decess.us",
@@ -892,7 +992,8 @@
     "exported_at": "2019-03-15T16:25:38+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/hexxit/egg-hexxit.json",
     "size": "2.6 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "geoffrey@remedygaming.net",
@@ -901,7 +1002,8 @@
     "exported_at": "2021-07-02T04:11:10+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/tekkit-classic/egg-tekkit-classic.json",
     "size": "2.45 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "aevum@decess.us",
@@ -910,7 +1012,8 @@
     "exported_at": "2019-03-15T16:25:38+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/tekkit-legends/egg-tekkit-legends.json",
     "size": "2.31 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "contact@irequire.dev",
@@ -919,7 +1022,8 @@
     "exported_at": "2020-08-25T08:44:51+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/the-1-12-2-pack/egg-the1-12-2-pack.json",
     "size": "1.89 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "contact@sweplox.se",
@@ -928,7 +1032,8 @@
     "exported_at": "2020-04-19T18:58:27+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/technic/the-1-7-10-pack/egg-the1-7-10-pack.json",
     "size": "1.88 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "support@pterodactyl.io",
@@ -937,7 +1042,8 @@
     "exported_at": "2023-05-17T23:20:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/java/vanillacord/egg-vanilla-cord.json",
     "size": "4.23 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@pterodactyl.io",
@@ -946,7 +1052,8 @@
     "exported_at": "2021-12-09T13:32:23-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json",
     "size": "3.07 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@pterodactyl.io",
@@ -955,7 +1062,8 @@
     "exported_at": "2021-12-09T13:32:14-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/cross_platform/waterdog/egg-waterdog.json",
     "size": "3.15 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -964,7 +1072,8 @@
     "exported_at": "2021-12-09T13:32:03-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/travertine/egg-travertine.json",
     "size": "5.27 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -973,7 +1082,8 @@
     "exported_at": "2024-02-13T17:26:13+0000",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/velocity/egg-velocity.json",
     "size": "6.11 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "regulad@outlook.com",
@@ -982,7 +1092,8 @@
     "exported_at": "2021-10-16T11:26:14-03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/viaaas/egg-v-i-aaa-s.json",
     "size": "2.34 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "hostmaster@waterfallgaming.net",
@@ -991,7 +1102,8 @@
     "exported_at": "2023-07-24T09:28:42-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minecraft/proxy/java/waterfall/egg-waterfall.json",
     "size": "5.67 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "support@pterodactyl.io",
@@ -1000,7 +1112,8 @@
     "exported_at": "2023-12-29T18:52:14+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/minetest/egg-minetest.json",
     "size": "11.09 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "th3dilli@gmx.at",
@@ -1009,7 +1122,8 @@
     "exported_at": "2023-08-01T16:53:44+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/mohaa/egg-mohaa.json",
     "size": "5.5 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1018,7 +1132,8 @@
     "exported_at": "2021-04-23T17:30:07+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openarena/egg-open-arena.json",
     "size": "1.85 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "patz.michael@gmail.com",
@@ -1027,7 +1142,8 @@
     "exported_at": "2020-09-13T17:40:31+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openra/openra_dune2000/egg-open-r-a--dune2000.json",
     "size": "5.95 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "patz.michael@gmail.com",
@@ -1036,7 +1152,8 @@
     "exported_at": "2020-09-13T17:40:21+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openra/openra_red_alert/egg-open-r-a.json",
     "size": "5.94 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "patz.michael@gmail.com",
@@ -1045,7 +1162,8 @@
     "exported_at": "2020-09-13T17:40:41+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json",
     "size": "5.96 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1054,7 +1172,8 @@
     "exported_at": "2023-07-06T01:51:39+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/rdr/redm/egg-red-m.json",
     "size": "7.02 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "kyle@williquette.us",
@@ -1063,7 +1182,8 @@
     "exported_at": "2023-05-27T13:03:41+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/rimworld/open_world/egg-rimworld-open-world.json",
     "size": "7.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1072,7 +1192,8 @@
     "exported_at": "2024-04-02T10:31:49+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/rimworld/together/egg-rimworld-together.json",
     "size": "4.02 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1081,7 +1202,8 @@
     "exported_at": "2024-01-03T09:40:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/spacestation_14/egg-spacestation14.json",
     "size": "3.36 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "contact@hunters-tavern.de",
@@ -1090,7 +1212,8 @@
     "exported_at": "2019-07-14T13:03:01+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/starmade/egg-starmade.json",
     "size": "1.39 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "kristoffer.norman@bahnhof.se",
@@ -1099,7 +1222,8 @@
     "exported_at": "2023-02-20T02:33:05+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/7_days_to_die/egg-7-days-to-die.json",
     "size": "8.53 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "blood@darkartsgaming.com",
@@ -1108,7 +1232,8 @@
     "exported_at": "2023-11-12T11:57:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ark_survival_ascended/egg-ark--survival-ascended.json",
     "size": "11.62 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "dev@shepper.fr",
@@ -1117,7 +1242,8 @@
     "exported_at": "2023-07-23T15:07:41+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ark_survival_evolved/egg-ark--survival-evolved.json",
     "size": "8.74 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -1126,7 +1252,8 @@
     "exported_at": "2024-01-13T21:10:57+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/arma/arma3/egg-arma3.json",
     "size": "16.29 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -1135,7 +1262,8 @@
     "exported_at": "2023-07-22T10:56:26+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/arma/arma_reforger/egg-arma-reforger.json",
     "size": "11.84 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1144,7 +1272,8 @@
     "exported_at": "2023-12-27T17:12:44+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
     "size": "4.95 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@softwarenoob.com",
@@ -1153,7 +1282,8 @@
     "exported_at": "2023-12-27T17:14:48+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/assetto_corsa/egg-assetto-corsa.json",
     "size": "7.35 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "limmek@swedon.se",
@@ -1162,7 +1292,8 @@
     "exported_at": "2023-11-06T17:38:07+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/astro_colony/egg-astro-colony.json",
     "size": "11.33 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "melethainiel.aerin@gmail.com",
@@ -1171,7 +1302,8 @@
     "exported_at": "2023-02-20T09:47:43+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/astroneer/egg-astroneer-dedicated-server.json",
     "size": "7.65 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "iamkubi@gmail.com",
@@ -1180,7 +1312,8 @@
     "exported_at": "2023-12-16T13:33:18+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/avorion/egg-avorion.json",
     "size": "9.99 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@softwarenoob.com",
@@ -1189,7 +1322,8 @@
     "exported_at": "2024-02-02T10:11:29+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/barotrauma/egg-barotrauma.json",
     "size": "4.08 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "diedyesterdaywashere@gmail.com",
@@ -1198,7 +1332,8 @@
     "exported_at": "2023-07-13T20:14:32+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
     "size": "6.23 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "avalongamecs@gmail.com",
@@ -1207,7 +1342,8 @@
     "exported_at": "2022-08-07T17:56:38+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/black_mesa/egg-black-mesa.json",
     "size": "5.32 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1216,7 +1352,8 @@
     "exported_at": "2021-11-26T14:44:12+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/citadel/egg-citadel-forged-with-fire.json",
     "size": "6.31 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1225,7 +1362,8 @@
     "exported_at": "2023-12-18T17:27:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/colony_survival/egg-colony-survival.json",
     "size": "5 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "brycea@terrahost.cloud",
@@ -1234,7 +1372,8 @@
     "exported_at": "2023-08-17T16:55:04+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/conan_exiles/egg-conan-exiles.json",
     "size": "7.82 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "karsten@fiedleronline.net",
@@ -1243,7 +1382,8 @@
     "exported_at": "2023-03-28T22:32:36+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/core_keeper/egg-core-keeper.json",
     "size": "8.99 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@ballaual.de",
@@ -1252,7 +1392,8 @@
     "exported_at": "2024-03-23T20:42:08+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/counter_strike/counter_strike_2/egg-counter--strike2.json",
     "size": "9.15 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "diedyesterdaywashere@gmail.com",
@@ -1261,7 +1402,8 @@
     "exported_at": "2023-07-12T01:39:04+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/counter_strike/counter_strike_source/egg-counter--strike--source.json",
     "size": "6.43 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1270,7 +1412,8 @@
     "exported_at": "2022-10-07T17:08:45+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/craftopia/egg-craftopia.json",
     "size": "5.7 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "contact@zennodes.dk",
@@ -1279,7 +1422,8 @@
     "exported_at": "2021-11-19T11:47:49+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/cryofall/egg-cryo-fall.json",
     "size": "4.8 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -1288,7 +1432,8 @@
     "exported_at": "2024-01-13T21:15:35+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/dayz-experimental/egg-dayz-experimental.json",
     "size": "16.94 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "imkringle@proton.me",
@@ -1297,7 +1442,8 @@
     "exported_at": "2024-03-31T18:27:28-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ddnet/egg-d-d-net.json",
     "size": "6.54 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1306,7 +1452,8 @@
     "exported_at": "2024-03-13T10:06:00+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/dead_matter/egg-dead-matter.json",
     "size": "5.69 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1315,7 +1462,8 @@
     "exported_at": "2023-01-07T09:58:40-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/dont_starve/egg-don-t-starve-together.json",
     "size": "10.29 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1324,7 +1472,8 @@
     "exported_at": "2023-01-04T11:28:40+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/eco/egg-eco.json",
     "size": "9.04 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1333,7 +1482,8 @@
     "exported_at": "2023-04-25T19:31:11+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/empyrion/egg-empyrion--galactic-survival.json",
     "size": "8.09 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "vapokrocks@gmail.com",
@@ -1342,13 +1492,15 @@
     "exported_at": "2024-03-25T17:55:50+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/enshrouded/egg-enshrouded.json",
     "size": "8.32 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "name": "My Server",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/enshrouded/enshrouded_server.json",
     "size": "210 Bytes",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "avalongamecs@gmail.com",
@@ -1357,7 +1509,8 @@
     "exported_at": "2021-04-15T17:23:35+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/fof/egg-fof.json",
     "size": "4.02 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "theblitzbat@gmail.com",
@@ -1366,7 +1519,8 @@
     "exported_at": "2023-05-07T19:05:11+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/frozen_flame/egg-frozen-flame.json",
     "size": "6.73 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -1375,7 +1529,8 @@
     "exported_at": "2023-08-01T20:51:33+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/ground_branch/egg-ground-branch.json",
     "size": "9.28 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "shigbeard@ndlee.com",
@@ -1384,7 +1539,8 @@
     "exported_at": "2023-12-16T13:44:48+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json",
     "size": "8.43 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1393,7 +1549,8 @@
     "exported_at": "2023-12-16T13:44:10+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/hlds_server/vanilla/egg-custom-h-l-d-s-engine-game.json",
     "size": "6.46 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "ankit@bmghosting.com",
@@ -1402,7 +1559,8 @@
     "exported_at": "2022-01-20T12:53:50-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/holdfast/egg-holdfast-na-w.json",
     "size": "8.65 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "engels74@marx.ps",
@@ -1411,7 +1569,8 @@
     "exported_at": "2024-02-26T18:43:46+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/humanitz/egg-humanit-z.json",
     "size": "27.89 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "brycea@terrahost.cloud",
@@ -1420,7 +1579,8 @@
     "exported_at": "2023-10-07T22:46:51+08:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/hurtworld/egg-hurtworld.json",
     "size": "6 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "bolverblitz@ebg.pw",
@@ -1429,7 +1589,8 @@
     "exported_at": "2023-09-03T21:07:28+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/icarus/egg-icarus--dedicated.json",
     "size": "6.37 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "brycea@terrahost.cloud",
@@ -1438,7 +1599,8 @@
     "exported_at": "2023-11-13T18:26:59+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/insurgency_sandstorm/egg-insurgency--sandstorm.json",
     "size": "8.45 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "hyperbeats@raptorhost.fr",
@@ -1447,7 +1609,8 @@
     "exported_at": "2023-01-28T11:45:54+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/iosoccer/eggs-iosoccer.json",
     "size": "5.02 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1456,7 +1619,8 @@
     "exported_at": "2021-04-24T04:44:26+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/killing_floor_2/egg-killing-floor2.json",
     "size": "8.16 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "pterodactyl@mazoyer.eu",
@@ -1465,7 +1629,8 @@
     "exported_at": "2021-10-13T19:07:48+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/left4dead/egg-left4dead.json",
     "size": "2.85 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "pterodactyl@mazoyer.eu",
@@ -1474,7 +1639,8 @@
     "exported_at": "2021-10-13T23:28:59+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/left4dead_2/egg-left4dead_2.json",
     "size": "3 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "tueye@tuworld.de",
@@ -1483,12 +1649,14 @@
     "exported_at": "2023-11-13T18:49:35+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/longvinter/egg-longvinter.json",
     "size": "10.69 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/modiverse/ServerConfiguration.json",
     "size": "345 Bytes",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@softwarenoob.com",
@@ -1497,7 +1665,8 @@
     "exported_at": "2021-03-02T23:42:26+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/modiverse/egg-modiverse.json",
     "size": "4.95 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1506,7 +1675,8 @@
     "exported_at": "2021-08-28T18:01:27+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/mordhau/egg-mordhau-wine.json",
     "size": "8.52 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "trey@chazx.cc",
@@ -1515,7 +1685,8 @@
     "exported_at": "2021-04-24T15:48:02+03:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/mordhau/egg-mordhau.json",
     "size": "5.49 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1524,7 +1695,8 @@
     "exported_at": "2023-10-21T17:16:27+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
     "size": "6.54 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1533,7 +1705,8 @@
     "exported_at": "2024-02-27T16:19:43+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/myth_of_empires/egg-myth-of-empires.json",
     "size": "8.65 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1542,12 +1715,14 @@
     "exported_at": "2024-01-30T12:30:23+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/necesse/egg-necesse.json",
     "size": "7.28 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/neosvr/Config.json",
     "size": "1.33 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "espeon@espeon.dev",
@@ -1556,7 +1731,8 @@
     "exported_at": "2023-06-03T13:33:19-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/neosvr/egg-neos-v-r.json",
     "size": "6.54 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "avalongamecs@gmail.com",
@@ -1565,7 +1741,8 @@
     "exported_at": "2021-04-15T16:54:17+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/nmrih/egg-nmrih.json",
     "size": "4.03 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "imkringle@proton.me",
@@ -1574,7 +1751,8 @@
     "exported_at": "2024-03-15T11:03:18+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/no_love_lost/egg-no-love-lost.json",
     "size": "5.45 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1583,7 +1761,8 @@
     "exported_at": "2023-06-29T10:42:53+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/no_one_survived/egg-no-one-survived.json",
     "size": "10.74 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1592,7 +1771,8 @@
     "exported_at": "2024-03-09T10:08:19+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/novalife_amboise/egg-nova--life--amboise.json",
     "size": "6.82 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1601,7 +1781,8 @@
     "exported_at": "2022-01-20T12:56:32-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/onset/egg-onset.json",
     "size": "3.89 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "espeon@espeon.dev",
@@ -1610,7 +1791,8 @@
     "exported_at": "2024-03-09T13:41:23+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/open_fortress/egg-open-fortress.json",
     "size": "10.06 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1619,7 +1801,8 @@
     "exported_at": "2023-03-11T19:59:13+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
     "size": "7.26 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1628,7 +1811,8 @@
     "exported_at": "2024-03-01T13:53:42+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/palworld/egg-palworld-proton.json",
     "size": "9.82 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@ballaual.de",
@@ -1637,7 +1821,8 @@
     "exported_at": "2024-03-18T22:04:10+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/palworld/egg-palworld.json",
     "size": "9 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@devil.wtf",
@@ -1646,7 +1831,8 @@
     "exported_at": "2023-07-02T17:55:48+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/pavlov_vr/egg-pavlov-v-r.json",
     "size": "6.44 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "hello@venatus.digital",
@@ -1655,7 +1841,8 @@
     "exported_at": "2023-08-11T21:40:04+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/pixark/egg-pix-a-r-k.json",
     "size": "9.59 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1664,7 +1851,8 @@
     "exported_at": "2023-03-05T17:26:48+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/portal_knights/egg-portal-knights.json",
     "size": "8.41 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@softwarenoob.com",
@@ -1673,7 +1861,8 @@
     "exported_at": "2021-02-22T13:23:01+04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/post_scriptum/egg-post-scriptum.json",
     "size": "7.43 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "iamkubi@gmail.com",
@@ -1682,7 +1871,8 @@
     "exported_at": "2023-07-30T20:12:08+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/project_zomboid/egg-project-zomboid.json",
     "size": "7.41 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "patz.michael@gmail.com",
@@ -1691,12 +1881,14 @@
     "exported_at": "2024-01-12T15:34:50+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/quake_live/egg-quake-live.json",
     "size": "6.1 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/resonite/Config.json",
     "size": "1.33 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "espeon@espeon.dev",
@@ -1705,7 +1897,8 @@
     "exported_at": "2024-04-01T09:52:45+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/resonite/egg-resonite.json",
     "size": "7.48 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1714,7 +1907,8 @@
     "exported_at": "2022-10-16T09:21:36+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rising_world/legacy/egg-rising-world-legacy.json",
     "size": "7.12 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1723,7 +1917,8 @@
     "exported_at": "2022-10-23T09:33:48+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rising_world/unity/egg-rising-world-unity.json",
     "size": "9.52 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "alex.chang-lam@protonmail.com",
@@ -1732,7 +1927,8 @@
     "exported_at": "2023-07-22T11:23:29+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/risk_of_rain_2/egg-risk-of-rain2.json",
     "size": "10.15 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "support@pterodactyl.io",
@@ -1741,7 +1937,8 @@
     "exported_at": "2024-02-02T22:25:49-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rust/rust_autowipe/egg-rust-autowipe.json",
     "size": "12.78 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "root@smc.li",
@@ -1750,7 +1947,8 @@
     "exported_at": "2023-01-30T15:13:30+11:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/rust/rust_staging/egg-rust-staging.json",
     "size": "10.2 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -1759,7 +1957,8 @@
     "exported_at": "2023-06-13T23:59:02+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/satisfactory/egg-satisfactory.json",
     "size": "14.32 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1768,7 +1967,8 @@
     "exported_at": "2023-11-18T14:02:28+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/scpsl/dedicated/egg-scpsl.json",
     "size": "6.08 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1777,7 +1977,8 @@
     "exported_at": "2023-01-09T14:18:18+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/scpsl/exiled/egg-s-c-p--s-l--exiled.json",
     "size": "5.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "git@robsti.dev",
@@ -1786,7 +1987,8 @@
     "exported_at": "2024-01-29T20:58:28-08:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
     "size": "10.92 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1795,7 +1997,8 @@
     "exported_at": "2022-10-24T20:12:31+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/solace_crafting/egg-solace-crafting.json",
     "size": "5.52 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1804,7 +2007,8 @@
     "exported_at": "2022-01-20T12:58:19-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/soldat/egg-soldat.json",
     "size": "4.95 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1813,7 +2017,8 @@
     "exported_at": "2024-03-24T15:18:00+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/sonsoftheforest/egg-sons-of-the-forest.json",
     "size": "11.92 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1822,7 +2027,8 @@
     "exported_at": "2024-03-09T11:25:43+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/space_engineers/default/egg-space-engineers.json",
     "size": "13.9 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1831,7 +2037,8 @@
     "exported_at": "2024-03-09T10:48:45+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/space_engineers/torch/egg-space-engineers--torch-server.json",
     "size": "11.37 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "brycea@terrahost.cloud",
@@ -1840,7 +2047,8 @@
     "exported_at": "2024-03-06T13:01:46+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/squad/egg-squad.json",
     "size": "10.68 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1849,7 +2057,8 @@
     "exported_at": "2022-08-20T08:17:48+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/starbound/egg-starbound.json",
     "size": "5.79 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1858,7 +2067,8 @@
     "exported_at": "2023-10-28T19:39:03+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json",
     "size": "11.47 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1867,7 +2077,8 @@
     "exported_at": "2022-12-30T11:39:51+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stationeers/stationeers_vanilla/egg-stationeers.json",
     "size": "8.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "iamkubi@gmail.com",
@@ -1876,7 +2087,8 @@
     "exported_at": "2022-10-27T20:06:01-06:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stormworks/egg-stormworks--build-and-rescue.json",
     "size": "5.33 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "tueye@tuworld.de",
@@ -1885,7 +2097,8 @@
     "exported_at": "2023-05-21T09:59:37-07:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/subnautica_nitrox_mod/egg-subnautica.json",
     "size": "13.07 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "pteroducktyl@yildri.nl",
@@ -1894,7 +2107,8 @@
     "exported_at": "2023-07-28T16:36:08+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/svencoop/egg-sven-co-op.json",
     "size": "7.42 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1903,7 +2117,8 @@
     "exported_at": "2023-08-10T18:31:24+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
     "size": "10 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@scattergun.io",
@@ -1912,7 +2127,8 @@
     "exported_at": "2023-12-14T11:28:43+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/team_fortress_2_classic/egg-team-fortress-2-classic.json",
     "size": "6.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "durzo@durzo.io",
@@ -1921,7 +2137,8 @@
     "exported_at": "2024-03-23T13:50:53+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/terratech_worlds/egg-terra-tech-worlds.json",
     "size": "5.97 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@softwarenoob.com",
@@ -1930,7 +2147,8 @@
     "exported_at": "2024-03-20T08:55:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/the_forest/egg-the-forest.json",
     "size": "14.17 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "fredrik.johansenfuun@gmail.com",
@@ -1939,7 +2157,8 @@
     "exported_at": "2023-12-14T22:50:42+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/the_isle/evrima/egg-the-isle.json",
     "size": "13.26 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -1948,7 +2167,8 @@
     "exported_at": "2023-10-18T15:46:21+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/thefront/egg-the-front.json",
     "size": "12.91 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "teamwuffy@gmail.com",
@@ -1957,7 +2177,8 @@
     "exported_at": "2022-01-20T13:03:59-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/tower_unite/egg-tower-unite.json",
     "size": "4.02 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "chase@cstmgames.com",
@@ -1966,7 +2187,8 @@
     "exported_at": "2023-04-24T17:42:49+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
     "size": "6.81 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -1975,7 +2197,8 @@
     "exported_at": "2023-04-24T17:19:01+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json",
     "size": "6.68 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -1984,7 +2207,8 @@
     "exported_at": "2023-08-03T09:39:35+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/unturned/egg-unturned.json",
     "size": "5.6 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -1993,7 +2217,8 @@
     "exported_at": "2023-11-10T17:55:31+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
     "size": "19.54 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -2002,7 +2227,8 @@
     "exported_at": "2023-05-18T09:31:34+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/v_rising/v_rising_vanilla/egg-v-rising.json",
     "size": "16.04 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -2011,7 +2237,8 @@
     "exported_at": "2024-03-20T08:48:44+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/valheim/valheim_bepinex/egg-valheim-bep-i-nex.json",
     "size": "12.36 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "eggs@goover.dev",
@@ -2020,7 +2247,8 @@
     "exported_at": "2023-10-07T06:47:10+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/valheim/valheim_plus/egg-valheim-plus-mod.json",
     "size": "13.32 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "magi1053@outlook.com",
@@ -2029,7 +2257,8 @@
     "exported_at": "2022-12-27T11:24:35+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/valheim/valheim_vanilla/egg-valheim.json",
     "size": "10.54 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -2038,7 +2267,8 @@
     "exported_at": "2024-03-03T13:47:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/vein/egg-v-e-i-n.json",
     "size": "6.96 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -2047,7 +2277,8 @@
     "exported_at": "2023-12-18T14:40:15+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/wurm_unlimited/egg-wurm-unlimited.json",
     "size": "8.75 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2056,7 +2287,8 @@
     "exported_at": "2022-01-22T05:44:04-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/teeworlds/egg-teeworlds.json",
     "size": "5 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2065,7 +2297,8 @@
     "exported_at": "2024-01-02T11:03:56+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/tmodloader/egg-t-modloader.json",
     "size": "8.89 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2074,7 +2307,8 @@
     "exported_at": "2022-11-06T14:42:12+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/tshock/egg-tshock-legacy.json",
     "size": "4.16 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2083,7 +2317,8 @@
     "exported_at": "2023-03-19T08:36:18+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/tshock/egg-tshock.json",
     "size": "4.16 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "iamkubi@gmail.com",
@@ -2092,7 +2327,8 @@
     "exported_at": "2022-10-25T18:12:06+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/terraria/vanilla/egg-terraria-vanilla.json",
     "size": "7.32 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -2100,7 +2336,8 @@
     "description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits.",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/tycoon_games/openrct2/egg-openrct2.json",
     "size": "15.93 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "admin@justmyrandomstuff.com",
@@ -2109,7 +2346,8 @@
     "exported_at": "2023-03-26T16:13:26+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/tycoon_games/openttd/egg-open-t-t-d-server.json",
     "size": "4.37 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "Juli199696@web.de",
@@ -2118,7 +2356,8 @@
     "exported_at": "2024-02-16T13:34:36+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/urbanterror/egg-urban-terror.json",
     "size": "8.9 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2127,7 +2366,8 @@
     "exported_at": "2022-10-24T19:25:32+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/veloren/egg-veloren.json",
     "size": "3.88 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "mail@wuffy.eu",
@@ -2136,7 +2376,8 @@
     "exported_at": "2024-01-19T10:09:42-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/vintage_story/egg-vintage-story.json",
     "size": "5.35 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2145,7 +2386,8 @@
     "exported_at": "2021-12-16T15:06:26+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/wine/generic/egg-wine-generic.json",
     "size": "3.22 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2154,7 +2396,8 @@
     "exported_at": "2024-01-13T21:03:27+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/xonotic/xonotic/egg-xonotic.json",
     "size": "2.58 KB",
-    "language": "en"
+    "language": "en",
+    "type": "games"
   },
   {
     "author": "mratox@protonmail.com",
@@ -2163,7 +2406,8 @@
     "exported_at": "2023-09-13T17:51:41+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/bun/egg-bun.json",
     "size": "6.7 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -2172,7 +2416,8 @@
     "exported_at": "2024-03-24T14:29:09+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/c#/egg-generic-c.json",
     "size": "6.17 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "alden@knoban.com",
@@ -2181,7 +2426,8 @@
     "exported_at": "2024-04-01T13:16:45-07:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/dart/egg-dart-generic.json",
     "size": "5.85 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2190,7 +2436,8 @@
     "exported_at": "2022-01-22T05:40:17-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/deno/egg-deno-generic.json",
     "size": "6.58 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "mravox@proton.me",
@@ -2199,7 +2446,8 @@
     "exported_at": "2024-01-08T09:43:11+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/elixir/egg-elixir.json",
     "size": "5.43 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2208,7 +2456,8 @@
     "exported_at": "2022-07-25T14:20:37-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/golang/egg-golang-generic.json",
     "size": "1.86 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "sneaky@sneakyhub.com",
@@ -2217,7 +2466,8 @@
     "exported_at": "2024-02-13T17:26:13+0000",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/java/egg-java.json",
     "size": "1.8 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2226,7 +2476,8 @@
     "exported_at": "2022-01-22T05:40:57-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/lua/luvit/egg-luvit-generic.json",
     "size": "5.26 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2235,7 +2486,8 @@
     "exported_at": "2023-10-24T17:44:31+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/nodejs/egg-node-js-generic.json",
     "size": "7.83 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "nick@blackforthosting.com",
@@ -2244,7 +2496,8 @@
     "exported_at": "2021-08-26T23:09:55-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/nodemon/egg-nodemon.json",
     "size": "6.87 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2253,7 +2506,8 @@
     "exported_at": "2023-06-22T14:18:47+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/python/egg-python-generic.json",
     "size": "7.15 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "ethan@ethancoward.dev",
@@ -2262,7 +2516,8 @@
     "exported_at": "2022-10-01T18:32:46+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/generic/rust/egg-rust-generic.json",
     "size": "4.77 KB",
-    "language": "en"
+    "language": "en",
+    "type": "generic"
   },
   {
     "author": "unknown@unknown.com",
@@ -2271,7 +2526,8 @@
     "exported_at": "2022-07-08T15:50:16+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/monitoring/loki/egg-loki.json",
     "size": "2.96 KB",
-    "language": "en"
+    "language": "en",
+    "type": "monitoring"
   },
   {
     "author": "p.zarrad@outlook.de",
@@ -2280,7 +2536,8 @@
     "exported_at": "2023-01-05T11:04:39+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/monitoring/prometheus/egg-prometheus.json",
     "size": "3.53 KB",
-    "language": "en"
+    "language": "en",
+    "type": "monitoring"
   },
   {
     "author": "pterodactyl@demi.cloud",
@@ -2289,7 +2546,8 @@
     "exported_at": "2022-11-27T17:50:04+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/5e-tools/egg-5e-tools.json",
     "size": "4.5 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "mario.franze@gmail.com",
@@ -2298,7 +2556,8 @@
     "exported_at": "2023-02-04T23:01:25+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/code-server/egg-code--server.json",
     "size": "4.38 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "dominic@stilma.net",
@@ -2307,7 +2566,8 @@
     "exported_at": "2021-07-27T08:27:04-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/elasticsearch/egg-elasticsearch.json",
     "size": "2.19 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "fuggschen@krk-gaming.de",
@@ -2316,7 +2576,8 @@
     "exported_at": "2023-04-30T12:31:28+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/foldingathome/egg-folding--home.json",
     "size": "5.34 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "seaswimmerthefsh@gmail.com",
@@ -2325,7 +2586,8 @@
     "exported_at": "2024-03-20T08:45:50+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/forgejo/egg-forgejo.json",
     "size": "4.01 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "mario.franze@gmail.com",
@@ -2334,7 +2596,8 @@
     "exported_at": "2023-02-24T16:18:35+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/gitea/egg-gitea.json",
     "size": "3.95 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "p.zarrad@outlook.de",
@@ -2343,7 +2606,8 @@
     "exported_at": "2023-12-13T14:45:01-05:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/grafana/egg-grafana.json",
     "size": "3.45 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "eggs@harryw.link",
@@ -2352,7 +2616,8 @@
     "exported_at": "2022-11-28T18:11:27+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/haste-server/egg-haste-server.json",
     "size": "1.51 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "thomasruhl@live.de",
@@ -2361,7 +2626,8 @@
     "exported_at": "2023-10-07T07:47:03+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/languagetool/egg-languagetool.json",
     "size": "3.37 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -2370,7 +2636,8 @@
     "exported_at": "2023-09-12T11:04:11+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/meilisearch/egg-meilisearch.json",
     "size": "6.25 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "psychoalex@thevcbc.com",
@@ -2379,7 +2646,8 @@
     "exported_at": "2022-03-31T11:32:42+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/owncast/egg-owncast-online.json",
     "size": "5.41 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "p.zarrad@outlook.de",
@@ -2388,7 +2656,8 @@
     "exported_at": "2023-03-17T19:22:21+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/rabbitmq/egg-rabbit-m-q.json",
     "size": "2.98 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "tunayada@gmail.com",
@@ -2397,7 +2666,8 @@
     "exported_at": "2023-12-16T14:03:42+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/rathole/egg-rathole.json",
     "size": "3.73 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "mk@kcra.me",
@@ -2406,7 +2676,8 @@
     "exported_at": "2024-02-13T17:26:13+0000",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/reposilite/egg-reposilite.json",
     "size": "2.7 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "eggs@goover.dev",
@@ -2415,7 +2686,8 @@
     "exported_at": "2023-10-09T19:06:53+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/uptime-kuma/egg-uptime-kuma.json",
     "size": "3.45 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "sotoluis90@gmail.com",
@@ -2424,7 +2696,8 @@
     "exported_at": "2022-10-17T22:24:46-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/software/yarr/egg-yarr.json",
     "size": "1.93 KB",
-    "language": "en"
+    "language": "en",
+    "type": "software"
   },
   {
     "author": "accounts@bofanodes.io",
@@ -2433,7 +2706,8 @@
     "exported_at": "2022-10-07T04:56:20-04:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/storage/minio/egg-minio-s3.json",
     "size": "2.11 KB",
-    "language": "en"
+    "language": "en",
+    "type": "storage"
   },
   {
     "author": "rehlmgaming@gmail.com",
@@ -2442,7 +2716,8 @@
     "exported_at": "2023-01-27T18:29:17+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/storage/sftp_storage_share/egg-sftp-storage-share.json",
     "size": "1.4 KB",
-    "language": "en"
+    "language": "en",
+    "type": "storage"
   },
   {
     "author": "damuffin36@gmail.com",
@@ -2451,7 +2726,8 @@
     "exported_at": "2023-08-04T08:40:49+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/lavalink/egg-lavalink.json",
     "size": "4.52 KB",
-    "language": "en"
+    "language": "en",
+    "type": "voice_servers"
   },
   {
     "author": "josdekurk@gmail.com",
@@ -2460,7 +2736,8 @@
     "exported_at": "2022-07-06T17:10:16+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
     "size": "3.33 KB",
-    "language": "en"
+    "language": "en",
+    "type": "voice_servers"
   },
   {
     "author": "parker@parkervcp.com",
@@ -2469,7 +2746,8 @@
     "exported_at": "2021-10-13T23:25:12+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/teaspeak/egg-tea-speak.json",
     "size": "4.59 KB",
-    "language": "en"
+    "language": "en",
+    "type": "voice_servers"
   },
   {
     "author": "eggs@goover.dev",
@@ -2478,6 +2756,7 @@
     "exported_at": "2023-10-07T18:01:49+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/voice_servers/ts3_manager/egg-t-s3-manager.json",
     "size": "3.1 KB",
-    "language": "en"
+    "language": "en",
+    "type": "voice_servers"
   }
 ]
