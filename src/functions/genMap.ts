@@ -11,7 +11,8 @@ export async function genMap(eggs: string[], branch: string, repository: string)
         const file = readFileSync(egg, 'utf8')
         const { size } = statSync(egg)
         const { name, description, author, exported_at } = JSON.parse(file) as EggConfig
-        const link = `https://raw.githubusercontent.com/${repository}/${branch}/${egg.replace(`${egg.split('/')[0]}/`, '')}`
+        const pathEgg = egg.replace(`${egg.split('/')[0]}/`, '')
+        const link = `https://raw.githubusercontent.com/${repository}/${branch}/${pathEgg}`
         const language = await cld.detect(description)
             .then(({ languages }) => {
                 return languages.reduce((max, language) => language.percent >  max.percent ?? 0 ? language : max).code
@@ -26,6 +27,15 @@ export async function genMap(eggs: string[], branch: string, repository: string)
                 return 'en'
             })
 
+        let type = undefined
+        const languages = ['pt-br', 'en']
+        const pathEggSplit = pathEgg.split('/')
+        if (pathEggSplit[0].toLowerCase() !== 'eggs') {
+            type = pathEggSplit[0].toLowerCase().replace('game_eggs', 'games')
+        } else if (languages.some(language => pathEggSplit[1].toLowerCase() === language)) {
+            type = pathEggSplit[2]
+        }
+
         EggsMapping.push({
             author,
             name,
@@ -33,7 +43,8 @@ export async function genMap(eggs: string[], branch: string, repository: string)
             exported_at,
             link,
             size: formatBytes(size),
-            language
+            language,
+            type: type ?? null
         })
     }
 
