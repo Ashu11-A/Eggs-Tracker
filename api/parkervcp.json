@@ -271,6 +271,15 @@
     "language": "en"
   },
   {
+    "author": "mattamn107@github.com",
+    "name": "SuperTuxKart",
+    "description": "Egg for hosting a SuperTuxKart Server.",
+    "exported_at": "2024-03-24T19:19:23+01:00",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/SuperTuxKart/egg-super-tux-kart.json",
+    "size": "5.11 KB",
+    "language": "en"
+  },
+  {
     "author": "tobiornotto@gmail.com",
     "name": "BetterCrewlink Server",
     "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
