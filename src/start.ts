@@ -6,7 +6,8 @@ import { rm } from 'fs/promises'
 
 const repos = [
     { repository: 'Ashu11-A/Ashu_eggs', branch: 'main' },
-    { repository: 'parkervcp/eggs', branch: 'master' }
+    { repository: 'parkervcp/eggs', branch: 'master' },
+    { repository: 'drylian/Eggs', branch: 'main' }
 ]
 
 async function start() {
