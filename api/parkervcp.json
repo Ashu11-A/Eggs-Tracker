@@ -69,9 +69,9 @@
     "author": "a-sync@devs.space",
     "name": "Game Server Watcher",
     "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
-    "exported_at": "2023-12-06T09:05:57+00:00",
+    "exported_at": "2023-12-07T05:10:22+00:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/game-server-watcher/egg-game-server-watcher.json",
-    "size": "4.42 KB",
+    "size": "4.43 KB",
     "language": "en",
     "type": "bots"
   },
@@ -428,6 +428,16 @@
     "exported_at": "2022-12-14T14:27:39+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/doom/zandronum/egg-zandronum.json",
     "size": "7.72 KB",
+    "language": "en",
+    "type": "games"
+  },
+  {
+    "author": "dino@papertots.page",
+    "name": "Singleplayer Tarkov",
+    "description": "The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience that retains progression.",
+    "exported_at": "2024-02-21T09:23:22-05:00",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/eft/egg-singleplayer-tarkov.json",
+    "size": "6.02 KB",
     "language": "en",
     "type": "games"
   },
@@ -1122,6 +1132,16 @@
     "exported_at": "2023-08-01T16:53:44+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/mohaa/egg-mohaa.json",
     "size": "5.5 KB",
+    "language": "en",
+    "type": "games"
+  },
+  {
+    "author": "git@robsti.dev",
+    "name": "Neverwinter Nights: Enhanced Edition",
+    "description": "Return to the Forgotten Realms in this bestselling Dungeons & Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!",
+    "exported_at": "2024-01-30T23:02:22-08:00",
+    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/neverwinter_nights_ee/egg-neverwinter-nights--enhanced-edition.json",
+    "size": "10.33 KB",
     "language": "en",
     "type": "games"
   },
@@ -2064,7 +2084,7 @@
     "author": "eggs@goover.dev",
     "name": "Stationeers (BepInEx)",
     "description": "Stationeers Server with very basic BepInEx support",
-    "exported_at": "2023-10-28T19:39:03+02:00",
+    "exported_at": "2024-04-05T01:20:18+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json",
     "size": "11.47 KB",
     "language": "en",
@@ -2074,7 +2094,7 @@
     "author": "eggs@goover.dev",
     "name": "Stationeers",
     "description": "Stationeers Server",
-    "exported_at": "2022-12-30T11:39:51+01:00",
+    "exported_at": "2024-04-05T01:19:24+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/stationeers/stationeers_vanilla/egg-stationeers.json",
     "size": "8.51 KB",
     "language": "en",
