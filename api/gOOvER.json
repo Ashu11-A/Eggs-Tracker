@@ -120,13 +120,6 @@
     "type": "steamcmd"
   },
   {
-    "name": "My Server",
-    "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/enshrouded/config/enshrouded_server.json",
-    "size": "201 Bytes",
-    "language": "en",
-    "type": "steamcmd"
-  },
-  {
     "author": "eggs@goover.dev",
     "name": "Enshrouded Proton",
     "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.",
@@ -263,12 +256,6 @@
     "exported_at": "2024-03-23T08:19:45+01:00",
     "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/terratech-world/egg-terra-tech-worlds.json",
     "size": "6.72 KB",
-    "language": "en",
-    "type": "steamcmd"
-  },
-  {
-    "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/the-front/DefaultConfig_.json",
-    "size": "46.03 KB",
     "language": "en",
     "type": "steamcmd"
   },
