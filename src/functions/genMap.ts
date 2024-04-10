@@ -11,7 +11,17 @@ export async function genMap(eggs: string[], branch: string, repository: string)
         try {
             const file = readFileSync(egg, 'utf8')
             const { size } = statSync(egg)
+            if (size <= 735) {
+                console.log(`Arquivo: ${egg} é muito leve para ser um egg! Pulando.`)
+                continue
+            }
+
             const { name, description, author, exported_at } = JSON.parse(file) as EggConfig
+            if (name === undefined) {
+                console.log(`Arquivo: ${egg} não é um egg!`)
+                continue
+            }
+
             const pathEgg = egg.replace(`${egg.split('/')[0]}/`, '')
             const link = `https://raw.githubusercontent.com/${repository}/${branch}/${pathEgg}`
             const language = await cld.detect(description)
