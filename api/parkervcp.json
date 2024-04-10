@@ -40,12 +40,6 @@
     "type": "bots"
   },
   {
-    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/corpbot/settings_dict.json",
-    "size": "75 Bytes",
-    "language": "en",
-    "type": "bots"
-  },
-  {
     "author": "sebastian.pietschner@gmail.com",
     "name": "Dynamica",
     "description": "An easy-to-use dynamic voice channel bot.",
@@ -112,12 +106,6 @@
     "exported_at": "2024-04-01T11:25:50+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/pixelbot/egg-pixel-bot.json",
     "size": "3.99 KB",
-    "language": "en",
-    "type": "bots"
-  },
-  {
-    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/bots/discord/redbot/config.json",
-    "size": "248 Bytes",
     "language": "en",
     "type": "bots"
   },
@@ -565,13 +553,6 @@
     "exported_at": "2022-09-23T20:11:15+02:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragecoop/egg-rage-c-o-o-p.json",
     "size": "4.14 KB",
-    "language": "en",
-    "type": "games"
-  },
-  {
-    "name": "RAGE:MP Unofficial server",
-    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/gta/ragemp/conf.json",
-    "size": "212 Bytes",
     "language": "en",
     "type": "games"
   },
@@ -1516,13 +1497,6 @@
     "type": "games"
   },
   {
-    "name": "My Server",
-    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/enshrouded/enshrouded_server.json",
-    "size": "210 Bytes",
-    "language": "en",
-    "type": "games"
-  },
-  {
     "author": "avalongamecs@gmail.com",
     "name": "Fof",
     "description": "Fistful of Frags",
@@ -1673,12 +1647,6 @@
     "type": "games"
   },
   {
-    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/modiverse/ServerConfiguration.json",
-    "size": "345 Bytes",
-    "language": "en",
-    "type": "games"
-  },
-  {
     "author": "admin@softwarenoob.com",
     "name": "Modiverse",
     "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
@@ -1735,12 +1703,6 @@
     "exported_at": "2024-01-30T12:30:23+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/necesse/egg-necesse.json",
     "size": "7.28 KB",
-    "language": "en",
-    "type": "games"
-  },
-  {
-    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/neosvr/Config.json",
-    "size": "1.33 KB",
     "language": "en",
     "type": "games"
   },
@@ -1901,12 +1863,6 @@
     "exported_at": "2024-01-12T15:34:50+01:00",
     "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/quake_live/egg-quake-live.json",
     "size": "6.1 KB",
-    "language": "en",
-    "type": "games"
-  },
-  {
-    "link": "https://raw.githubusercontent.com/parkervcp/eggs/master/game_eggs/steamcmd_servers/resonite/Config.json",
-    "size": "1.33 KB",
     "language": "en",
     "type": "games"
   },
