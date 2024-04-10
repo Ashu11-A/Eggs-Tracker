@@ -37,6 +37,8 @@ export async function genMap(eggs: string[], branch: string, repository: string)
                 type = pathEggSplit[2]
             }
 
+            if (type?.endsWith('.json')) type = undefined
+
             EggsMapping.push({
                 author,
                 name,
