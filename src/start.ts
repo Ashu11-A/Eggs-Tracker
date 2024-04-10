@@ -9,7 +9,8 @@ const repos = [
     { repository: 'Ashu11-A/Ashu_eggs', branch: 'main' },
     { repository: 'parkervcp/eggs', branch: 'master' },
     { repository: 'drylian/Eggs', branch: 'main' },
-    { repository: 'QuintenQVD0/Q_eggs', branch: 'main' }
+    { repository: 'QuintenQVD0/Q_eggs', branch: 'main' },
+    { repository: 'kry008/pterodactyl-io-ARM-eggs', branch: 'main' }
 ]
 
 async function start() {
