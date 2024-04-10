@@ -29,6 +29,7 @@ interface LinkData {
 
 async function start() {
     const links: LinkData[] = []
+    let linkData = JSON.parse(readFileSync('api/links.json', 'utf8')) as LinkData[]
 
     for (const { repository, branch } of repos) {
         const array = repository.split('/')
@@ -40,7 +41,6 @@ async function start() {
         }
 
         const repoData = (await axios.get(`https://api.github.com/repos/${repository}`)).data
-        const linkData = JSON.parse(readFileSync('api/links.json', 'utf8')) as LinkData[]
 
         if (repoData.updated_at === linkData.find((element) => element.author === array[0])?.updated_at) {
             console.log('Repositorio sem alterações');
@@ -58,7 +58,7 @@ async function start() {
                                 author: array[0],
                                 link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`,
                                 eggs: eggs.length,
-                                updated_at: repoData.updated_at
+                                updated_at: repoData?.updated_at
                             })
                     } else {
                         console.log(`Download do Repositorio ${repoName} não foi realizado!`)
@@ -72,7 +72,18 @@ async function start() {
             })
     }
 
-    writeFile('api/links.json', JSON.stringify(links, null, 2), {}, ((err) => {
+    // Sistema de mesclagem
+    for (const link of links) {
+        const index = linkData.findIndex((element) => element.author === link.author)
+        if (index !== -1) {
+            linkData[index] = link
+            continue
+        }
+
+        linkData.push(link)
+    }
+
+    writeFile('api/links.json', JSON.stringify(linkData, null, 2), {}, ((err) => {
         if (err) console.log('Ocorreu um erro ao salvar os Dados:', err)
     }))
 }
