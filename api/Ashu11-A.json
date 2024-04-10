@@ -20,12 +20,12 @@
     "type": "games"
   },
   {
-    "author": "parker@pterodactyl.io",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Paper (Super-Optimized)",
-    "description": "💎 Egg: Paper (Super-Optimized)\r\n⚙️ Version: 1.1\r\n❓ What: A branch of Spigot from Alto performance aimed at fixing gameplay and mechanical inconsistencies, but now with an optimization super path by Ashu.\r\n🐛 Bugs fixed/changelogs:\r\n • (1.0) Release.\r\n • (1.0) All done by scripts, better maintenance and updating.\r\n🪄 What's different ?\r\n • Optimizations list: https://github.com/Ashu11-A/Ashu_eggs/blob/main/Paper%20Optimized\r\n • This Egg has several Optimizations in the default files.\r\n • There is a variable called Optimization that changes the boot argument which will significantly improve performance .\r\n 📦 Docker: \r\n • Compatibility with ARM64, 64x\r\n👑 Author: Ashu\r\n👀 Check for updates: https ://github.com/Ashu11-A/Ashu_eggs",
-    "exported_at": "2023-05-08T18:35:23-03:00",
+    "description": "💎 Egg: Paper (Super-Optimized)\r\n⚙️ Version: 1.2\r\n❓ What: A branch of Spigot from Alto performance aimed at fixing gameplay and mechanical inconsistencies, but now with an optimization super path by Ashu.\r\n🐛 Bugs fixed/changelogs:\r\n • (1.0) Release.\r\n • (1.0) All done by scripts, better maintenance and updating.\r\n • (1.2) Possibility of denying the installation of Plugins.\r\n🪄 What's different ?\r\n • Optimizations list: https://github.com/Ashu11-A/Ashu_eggs/blob/main/Paper%20Optimized\r\n • This Egg has several Optimizations in the default files.\r\n • There is a variable called Optimization that changes the boot argument which will significantly improve performance .\r\n 📦 Docker: \r\n • Compatibility with ARM64, 64x\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "exported_at": "2024-04-08T16:55:09-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-paper-super-optimized.json",
-    "size": "5.01 KB",
+    "size": "5.46 KB",
     "language": "en",
     "type": "games"
   },
@@ -190,12 +190,12 @@
     "type": "games"
   },
   {
-    "author": "parker@pterodactyl.io",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Paper (Super-Optimized)",
-    "description": "💎 Egg: Paper (Super-Optimized)\r\n⚙️ Versão: 1.1\r\n❓ Oque é: Uma ramificação do Spigot de alto desempenho que visa consertar a jogabilidade e as inconsistências mecânicas, mas agora com um super path de otimização por Ashu.\r\n🐛 Bugs corrigidos/changelogs:\r\n   • (1.0) Lançamento.\r\n   • (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n🪄 Oque há de diferente?\r\n   • Lista de optimizações: https://github.com/Ashu11-A/Ashu_eggs/blob/main/Paper%20Optimized\r\n   • Este Egg tem várias Otimizações nos arquivos padrões.\r\n   • Há uma variável chamada Otimização que muda o argumento de inicialização que melhorar significativamente o desempenho.\r\n    📦 Docker: \r\n         • Compatibilidade com ARM64, 64x\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
-    "exported_at": "2023-05-08T18:35:23-03:00",
+    "description": "💎 Egg: Paper (Super-Optimized)\r\n⚙️ Versão: 1.2\r\n❓ Oque é: Uma ramificação do Spigot de alto desempenho que visa consertar a jogabilidade e as inconsistências mecânicas, mas agora com um super path de otimização por Ashu.\r\n🐛 Bugs corrigidos/changelogs:\r\n   • (1.0) Lançamento.\r\n   • (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n   • (1.2) Possibilidade de negar a instalação de Plugins.\r\n🪄 Oque há de diferente?\r\n   • Lista de optimizações: https://github.com/Ashu11-A/Ashu_eggs/blob/main/Paper%20Optimized\r\n   • Este Egg tem várias Otimizações nos arquivos padrões.\r\n   • Há uma variável chamada Otimização que muda o argumento de inicialização que melhorar significativamente o desempenho.\r\n    📦 Docker: \r\n         • Compatibilidade com ARM64, 64x\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+    "exported_at": "2024-04-08T16:39:34-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-paper-super-optimized.json",
-    "size": "5.41 KB",
+    "size": "5.89 KB",
     "language": "pt",
     "type": "games"
   },
