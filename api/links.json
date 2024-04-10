@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "author": "Ashu11-A",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Ashu11-A.min.json",
+    "eggs": 35,
+    "updated_at": "2024-04-05T02:26:41Z"
+  },
+  {
+    "author": "parkervcp",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/parkervcp.min.json",
+    "eggs": 281,
+    "updated_at": "2024-04-10T13:02:27Z"
+  },
+  {
+    "author": "drylian",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/drylian.min.json",
+    "eggs": 6,
+    "updated_at": "2023-03-04T20:41:20Z"
+  },
+  {
+    "author": "QuintenQVD0",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/QuintenQVD0.min.json",
+    "eggs": 31,
+    "updated_at": "2024-04-09T17:47:27Z"
+  },
+  {
+    "author": "kry008",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/kry008.min.json",
+    "eggs": 9,
+    "updated_at": "2023-08-21T12:24:52Z"
+  },
+  {
+    "author": "Sigma-Production",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Sigma-Production.min.json",
+    "eggs": 2,
+    "updated_at": "2024-04-10T07:28:48Z"
+  },
+  {
+    "author": "GeyserMC",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/GeyserMC.min.json",
+    "eggs": 6,
+    "updated_at": "2024-04-07T05:39:25Z"
+  },
+  {
+    "author": "DanBot-Hosting",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/DanBot-Hosting.min.json",
+    "eggs": 3,
+    "updated_at": "2024-04-05T11:08:21Z"
+  },
+  {
+    "author": "ysdragon",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/ysdragon.min.json",
+    "eggs": 2,
+    "updated_at": "2024-04-10T05:05:41Z"
+  },
+  {
+    "author": "Draakoor",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Draakoor.min.json",
+    "eggs": 23,
+    "updated_at": "2024-04-05T15:27:24Z"
+  },
+  {
+    "author": "gOOvER",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/gOOvER.min.json",
+    "eggs": 33,
+    "updated_at": "2024-04-09T22:53:17Z"
+  }
+]
