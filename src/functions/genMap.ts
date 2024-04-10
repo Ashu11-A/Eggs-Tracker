@@ -4,7 +4,7 @@ import { readFileSync, statSync, writeFile } from "fs"
 import { formatBytes } from "./format"
 import cld from 'cld'
 
-export async function genMap(eggs: string[], branch: string, repository: string) {
+export async function genMap(eggs: string[], branch: string, repository: string): Promise<EggMap[]> {
     const EggsMapping: EggMap[] = []
 
     for (const egg of eggs) {
@@ -71,4 +71,6 @@ export async function genMap(eggs: string[], branch: string, repository: string)
     writeFile(`api/${repository.split('/')[0]}.json`, JSON.stringify(EggsMapping, null, 2), {}, ((err) => {
         if (err) console.log('Ocorreu um erro ao salvar os Dados:', err)
     }))
+
+    return EggsMapping
 }

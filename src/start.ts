@@ -53,13 +53,13 @@ async function start() {
                     if (existsSync(repoName)) {
                         const { eggs } = getEggs(repoName)
             
-                        await genMap(eggs, branch, repository)
+                        const eggsMapped = await genMap(eggs, branch, repository)
                         links.push({
-                                author: array[0],
-                                link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`,
-                                eggs: eggs.length,
-                                updated_at: repoData?.updated_at
-                            })
+                            author: array[0],
+                            link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`,
+                            eggs: eggsMapped.length,
+                            updated_at: repoData?.updated_at
+                        })
                     } else {
                         console.log(`Download do Repositorio ${repoName} não foi realizado!`)
                     }
