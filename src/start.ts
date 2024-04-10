@@ -12,7 +12,7 @@ const repos = [
 ]
 
 async function start() {
-    const links: { name: string; link: string, eggs: number }[] = []
+    const links: { author: string; link: string, eggs: number }[] = []
 
     for (const { repository, branch } of repos) {
         const array = repository.split('/')
@@ -28,7 +28,7 @@ async function start() {
             const { eggs } = getEggs(repoName)
 
             await genMap(eggs, branch, repository)
-            links.push({ name: repoName, link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`, eggs: eggs.length })
+            links.push({ author: array[0], link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`, eggs: eggs.length })
 
             rm(repoName, { recursive: true })
         } else {
