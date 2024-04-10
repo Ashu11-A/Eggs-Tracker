@@ -1,16 +1,16 @@
 [
   {
-    "name": "Ashu_eggs",
+    "author": "Ashu11-A",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Ashu11-A.min.json",
     "eggs": 35
   },
   {
-    "name": "eggs",
+    "author": "parkervcp",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/parkervcp.min.json",
     "eggs": 281
   },
   {
-    "name": "Eggs",
+    "author": "drylian",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/drylian.min.json",
     "eggs": 6
   }
