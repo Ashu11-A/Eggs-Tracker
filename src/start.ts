@@ -3,6 +3,7 @@ import { simpleGit } from 'simple-git'
 import { genMap } from './functions/genMap'
 import { getEggs } from './functions/getEggs'
 import { rm } from 'fs/promises'
+import { writeFile } from 'fs'
 
 const repos = [
     { repository: 'Ashu11-A/Ashu_eggs', branch: 'main' },
@@ -11,26 +12,34 @@ const repos = [
 ]
 
 async function start() {
+    const links: { name: string; link: string, eggs: number }[] = []
+
     for (const { repository, branch } of repos) {
         const array = repository.split('/')
         const repoName = array.pop()
-        console.log(repoName)
-    
+
         if (repoName === undefined) {
-            console.log('URL invalida!')
+            console.log(`URL invalida: ${repository}`)
             continue
         }
     
-        simpleGit().clone(`https://github.com/${repository}`, { '--branch': branch })
-            .then(async () => {
-                const { eggs } = getEggs(repoName)
-                await genMap(eggs, branch, repository)
-            })
-            .catch((err) => console.log(err))
-            .finally(() => {
-                if (existsSync(repoName)) rm(repoName, { recursive: true })
-            })
+        await simpleGit().clone(`https://github.com/${repository}`, { '--branch': branch })
+        if (existsSync(repoName)) {
+            const { eggs } = getEggs(repoName)
+
+            await genMap(eggs, branch, repository)
+            links.push({ name: repoName, link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`, eggs: eggs.length })
+
+            rm(repoName, { recursive: true })
+        } else {
+            console.log('Download do Repositorio ${repoName} não foi realizado!')
+            continue
+        }
     }
+
+    writeFile('api/links.json', JSON.stringify(links, null, 2), {}, ((err) => {
+        if (err) console.log('Ocorreu um erro ao salvar os Dados:', err)
+    }))
 }
 
 void start()
