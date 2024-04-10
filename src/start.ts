@@ -27,13 +27,17 @@ async function start() {
     
         await simpleGit().clone(`https://github.com/${repository}`, { '--branch': branch })
             .then(async () => {
-                if (existsSync(repoName)) {
-                    const { eggs } = getEggs(repoName)
-        
-                    await genMap(eggs, branch, repository)
-                    links.push({ author: array[0], link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`, eggs: eggs.length })
-                } else {
-                    console.log('Download do Repositorio ${repoName} não foi realizado!')
+                try {
+                    if (existsSync(repoName)) {
+                        const { eggs } = getEggs(repoName)
+            
+                        await genMap(eggs, branch, repository)
+                        links.push({ author: array[0], link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`, eggs: eggs.length })
+                    } else {
+                        console.log(`Download do Repositorio ${repoName} não foi realizado!`)
+                    }
+                } catch {
+                    rm(repoName, { recursive: true })
                 }
             })
             .finally(() => {
