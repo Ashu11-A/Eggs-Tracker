@@ -4,7 +4,7 @@
   "description": "API para o addon de pterodactly",
   "main": "start.js",
   "scripts": {
-    "dev": "ts-node -r tsconfig-paths/register --transpiler sucrase/ts-node-plugin src/start.ts"
+    "dev": "git lfs install --skip-smudge && ts-node -r tsconfig-paths/register --transpiler sucrase/ts-node-plugin src/start.ts"
   },
   "repository": {
     "type": "git",
