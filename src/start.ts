@@ -11,7 +11,13 @@ const repos = [
     { repository: 'parkervcp/eggs', branch: 'master' },
     { repository: 'drylian/Eggs', branch: 'main' },
     { repository: 'QuintenQVD0/Q_eggs', branch: 'main' },
-    { repository: 'kry008/pterodactyl-io-ARM-eggs', branch: 'main' }
+    { repository: 'kry008/pterodactyl-io-ARM-eggs', branch: 'main' },
+    { repository: 'Sigma-Production/ptero-eggs', branch: 'main' },
+    { repository: 'GeyserMC/pterodactyl-stuff', branch: 'master' },
+    { repository: 'DanBot-Hosting/pterodactyl-eggs', branch: 'main' },
+    { repository: 'ysdragon/Pterodactyl-VPS-Egg', branch: 'main' },
+    { repository: 'Draakoor/codptero', branch: 'main' },
+    { repository: 'gOOvER/own-pterodactyl-eggs', branch: 'main' }
 ]
 
 interface LinkData {
