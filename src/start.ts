@@ -42,7 +42,7 @@ async function start() {
 
         const repoData = (await axios.get(`https://api.github.com/repos/${repository}`)).data
 
-        if (repoData.updated_at === linkData.find((element) => element.author === array[0])?.updated_at) {
+        if (repoData.pushed_at === linkData.find((element) => element.author === array[0])?.pushed_at) {
             console.log('Repositorio sem alterações');
             continue
         }
