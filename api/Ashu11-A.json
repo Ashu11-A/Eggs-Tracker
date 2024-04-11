@@ -40,7 +40,7 @@
     "type": "games"
   },
   {
-    "author": "matheusn.biolowons@gmail.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "SA-MP Arm",
     "description": "SA-MP is a free Massively Multiplayer Online game mod for the PC version of Rockstar Games Grand Theft Auto: San Andreas (tm).\r\nModified by Ashu.\r\nVersion: 1.6\r\nCheck for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-04-12T17:36:21-03:00",
@@ -60,17 +60,17 @@
     "type": "games"
   },
   {
-    "author": "megat@alzhahir.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Terraria Vanilla",
     "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Version: 1.0\r\n❓ What is it: Terraria is a 2D survival adventure game, released in 2011. The game allows the player to explore a randomly generated world, gather resources and materials, craft items and build structures to survive and progress.\r\n🐛 Bugs fixed/changelogs:\r\n• (1.0) Launch\r\n• (1.0) System that checks if the Egg is up to date.\r\n• (1.0) Everything is done by scripts, better maintenance and updating.\r\n🪄 What's different?\r\n • United Docker (same image, multiple architectures).\r\n• Docker alpine (lighter than ever).\r\n • Works on both ARM64 and 64x with the same performance.\r\n • Translated.\r\n • Runs by Scripts (better maintenance) ão).\r\n 📝 Variables that other Eggs do not contain: \r\n • Language.\r\n • Optimization.\r\n\ud83d \udc51 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-04-10T17:21:00-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-terraria-vanilla.json",
-    "size": "8.07 KB",
+    "size": "8.08 KB",
     "language": "en",
     "type": "games"
   },
   {
-    "author": "parker@parkervcp.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Bot4All",
     "description": "💎 Egg: Bot4All (BotForAll)\r\n⚙️ Version: 1.0\r\n❓ What it is: \r\n🐛 Bugfixes/changelogs:\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2024-03-24T21:36:44-03:00",
@@ -100,7 +100,7 @@
     "type": "software"
   },
   {
-    "author": "matheusn.biolowons@gmail.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Frp",
     "description": "💎 Egg: Frp\r\n⚙️ Version: 2.1\r\n❓ What is: A fast reverse proxy to help you expose a local server behind a NAT or firewall ​​the Internet.\r\n🐛 Bugs fixed/changelogs:\r\n• Egg is now not dependent on updates, everything is done by scripts, which leads to better maintenance.\r\n• Code is now cleaner.\r\n• New Variables: \r\n • Frps or Frpc?\r\n • Install Example?\r\n• 2.1: Update to the new FRP system (.toml)\r\n⚠️ Attention:\r\n❗’This Egg needs at least 4 ports(see 1 to startup in the panel, and specify the ports, it's hard to move, anything marks me.)\r\n📛Windows will detect Frp as a virus, because of Port Tunneling. \r\n🚫 If you already have this Egg installed on some server, you will need to do a reinstallation (Make a backup of your stuff first.)\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-10-11T20:32:07-03:00",
@@ -140,7 +140,7 @@
     "type": "software"
   },
   {
-    "author": "admin@pterodactyl.shop",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Stress",
     "description": "💎 Egg: Stress\r\n⚙️ Version: 1.5\r\n What: This Egg will stress your machine (I recommend using it if you have any Oracle VM, if your VM stays unused for a long time, your account will be suspended)\r\n🐛 Fixed bugs/changelogs: \r\n • (1.2) Initialization fixed.\r\n • (1.3) Docker Changed.\r\n • (1.4) Install Script fixed\r\n • (1.5) Stop command fixed\r\n• ️ Warning: Use with care!\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/ Ashu11-A/Ashu_eggs",
     "exported_at": "2023-04-12T19:52:27-03:00",
@@ -210,7 +210,7 @@
     "type": "games"
   },
   {
-    "author": "matheusn.biolowons@gmail.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "SA-MP Arm",
     "description": "SA-MP is a free Massively Multiplayer Online game mod for the PC version of Rockstar Games Grand Theft Auto: San Andreas (tm).\r\nModified by Ashu.\r\nVersion: 1.6\r\nCheck for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-04-12T17:36:21-03:00",
@@ -230,22 +230,22 @@
     "type": "games"
   },
   {
-    "author": "megat@alzhahir.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Terraria Vanilla",
     "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Versão: 1.0\r\n❓ Oque é: Terraria é um jogo de aventura e sobrevivência em 2D, lançado em 2011. O jogo permite que o jogador explore um mundo gerado aleatoriamente, colete recursos e materiais, crie itens e construa estruturas para sobreviver e progredir.\r\n🐛 Bugs corrigidos/changelogs:\r\n• (1.0) Lançamento\r\n• (1.0) Sistema que faz a verificação se o Egg esta atualizado.\r\n• (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n🪄 Oque há de diferente?\r\n   • Docker unido (mesma imagem, múltiplas arquiteturas).\r\n   • Docker alpine (mais leve que nunca).\r\n   • Funciona tanto no ARM64 quanto no 64x com o mesmo desemprenho.\r\n   • Traduzido.\r\n   • Roda por Scripts (melhor manutenção).\r\n       📝 Variáveis que os outros Eggs não contem: \r\n             • Idioma.\r\n             • Otimização.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-04-10T17:21:00-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-terraria-vanilla.json",
-    "size": "8.51 KB",
+    "size": "8.52 KB",
     "language": "pt",
     "type": "games"
   },
   {
-    "author": "parker@parkervcp.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Bot4All",
     "description": "💎 Egg: Bot4All (BotForAll)\r\n⚙️ Versão: 1.0\r\n❓ Oque é: \r\n🐛 Bugs corrigidos/changelogs:\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2024-03-24T21:26:57-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-bot4-all.json",
-    "size": "5.78 KB",
+    "size": "5.79 KB",
     "language": "pt",
     "type": "software"
   },
@@ -270,7 +270,7 @@
     "type": "software"
   },
   {
-    "author": "matheusn.biolowons@gmail.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Frp",
     "description": "💎 Egg: Frp\r\n⚙️ Versão: 2.1\r\n❓ Oque é: Um proxy reverso rápido para ajudá-lo a expor um servidor local atrás de um NAT ou firewall à Internet.\r\n🐛 Bugs corrigidos/changelogs:\r\n• Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o que ocasiona na sua melhor manutenção.\r\n• Código agora está mais limpo.\r\n• Novas Variáveis: \r\n   • Frps ou Frpc?\r\n   • Instalar Exemplo?\r\n•  2.1: Atualização para o novo sistema do FRP (.toml)\r\n⚠️ Atenção:\r\n❗️Esse Egg necessita de no mínimo 4 portas(vá para startup no painel, e especifique as portas, é complicado de se mexer, qualquer coisa me marca.)\r\n📛O Windows irá detectar o Frp como vírus, por causa do Tunelamento de Portas.\r\n🚫Se você já houver esse Egg instado em algum servidor, será necessário fazer uma reinstalação (Faça um backup das suas coisas antes.)\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-10-11T20:31:49-03:00",
@@ -320,7 +320,7 @@
     "type": "software"
   },
   {
-    "author": "admin@pterodactyl.shop",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "Stress",
     "description": "💎 Egg: Stress\r\n⚙️ Versão: 1.5\r\n❓ Oque é: Este Egg ira estressar sua máquina (recomendo usar se você tem alguma VM da Oracle, se sua VM ficar muito tempo sem uso, sua conta será suspensa)\r\n🐛 Bugs corrigidos/changelogs: \r\n      • (1.2) Inicialização arrumada.\r\n      • (1.3) Docker Trocado.\r\n      • (1.4) Instalação do Script corrigido\r\n      • (1.5) Comando de Parar corrigido\r\n⚠️ Atenção: Use com cuidado!\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-04-12T19:52:27-03:00",
