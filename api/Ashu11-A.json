@@ -150,12 +150,12 @@
     "type": "software"
   },
   {
-    "author": "Matheunsn.biolowons@gmail.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "VPS",
     "description": "💎 Egg: VPS\r\n⚙️ Version: 2.1\r\n❓ What is it: A VPS, this egg uses Proot (FakeRoot) which tricks the system saying that you are a superuser, installing a Pterodactyl inside another Pterodactyl has never felt so real!\r\n\r\n• It is in no way recommended to use Root in Docker. I am not responsible for any damage/action that you will do with it.\r\n • • At least 1GB of space is required\r\n • Debian/Ubuntu distributions may take more than 15min to finish installation\r\n • Ubuntu distributions are currently not working\r\n\r\n🐛 Bugs fixed/changelogs:\r\n • (1.0) Release.\r \n • (2.0) Detects whether the Egg is up to date or not.\r\n • (2.0) Possibility to change Linux Distribution: (Debian, Ubuntu, Alpine).\r \n • (2.0) Updated arguments, now the system is not so restricted.\r\n • (2.0) Possibility to change arguments.\r\n • (2.0) Run Shutdown command, now it is not necessary to kill the server anymore.\r\n • (2.0) Startup fix is needed, now the Panel knows that the Server is on.\r\n • (2.0) Installation Script has been rebuilt\r\n • (2.1) Serious Script bugs fixed\r\n • (2.1) Possibility of switch root between: PRoot(Default), PRoot-rs, FakechRoot + FakeRoot.\r\n • (2.1) Clean Install Added\r\n\r\n📝 New Variables • (2.0) Your Arguments\r\n • (2.0) Linux Distribution\r\n • (2.1) • (2.0) ) Change Root\r\n • (2.1) Clean Install?\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-01-30T19:05:30-04:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-vps.json",
-    "size": "5.05 KB",
+    "size": "5.04 KB",
     "language": "en",
     "type": "software"
   },
@@ -330,7 +330,7 @@
     "type": "software"
   },
   {
-    "author": "Matheunsn.biolowons@gmail.com",
+    "author": "Matheusn.biolowons@gmail.com",
     "name": "VPS",
     "description": "💎 Egg: VPS\r\n⚙️ Versão: 2.1\r\n❓ Oque é:  Uma VPS, este egg utiliza Proot (FakeRoot) que engana o sistema dizendo que você é um superusuário, instalar um Pterodactyl dentro de outro Pterodactyl nunca foi tão real!\r\n\r\n⚠️ Atenção: \r\n     • Não é recomendável de forma alguma, a utilização de Root no Docker. Eu não me responsabilizo por qualquer dano/ação que você ira fazer com isso.\r\n     • É necessário de no mínimo 1GB de espaço\r\n     • Distribuições Debian/Ubuntu podem levar mais de 15min para terminar a instalação\r\n     • Distribuições Ubuntu não está funcionando no momento\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n     • (1.0) Lançamento.\r\n     • (2.0) Detecta se o Egg está atualizado ou não.\r\n     • (2.0) Possibilidade de trocar de Distribuição Linux: (Debian, Ubuntu, Alpine).\r\n     • (2.0) Argumentos atualizados, agora o sistema não está tão restrito.\r\n     • (2.0) Possibilidade de trocar os argumentos.\r\n     • (2.0) Correção do comando de Desligamento, agora não é mais necessário matar o servidor.\r\n     • (2.0) Correção da Inicialização, agora o Painel sabe que o Servidor está ligado.\r\n     • (2.0) Script de Instalação foi reconstruído\r\n     • (2.1) Bugs graves do Script arrumados\r\n     • (2.1) Possibilidade de trocar de root entre: PRoot(Padrão), PRoot-rs, FakechRoot + FakeRoot.\r\n     • (2.1) Instalação Limpa Adicionada\r\n\r\n📝 Novas Variáveis: \r\n     • (2.0) Usar seus argumentos?\r\n     • (2.0) Seus Argumentos\r\n     • (2.0) Distribuição Linux\r\n     • (2.1) Mudar Root\r\n     • (2.1) Instalação Limpa?\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "exported_at": "2023-01-30T19:05:30-04:00",
