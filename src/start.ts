@@ -58,7 +58,7 @@ async function start() {
                             author: array[0],
                             link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${array[0]}.min.json`,
                             eggs: eggsMapped.length,
-                            updated_at: repoData?.updated_at
+                            pushed_at: repoData?.pushed_at
                         })
                     } else {
                         console.log(`Download do Repositorio ${repoName} não foi realizado!`)
