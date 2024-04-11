@@ -10,6 +10,16 @@
     "type": null
   },
   {
+    "author": "parker@parkervcp.com",
+    "name": "Javascript(Node js)",
+    "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
+    "exported_at": "2024-04-10T17:49:46-03:00",
+    "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-javascript--node-js.json",
+    "size": "4.21 KB",
+    "language": "en",
+    "type": null
+  },
+  {
     "author": "danielolxlol@gmail.com",
     "name": "Mta With Download Accelerator",
     "description": "O que mais você poderia querer? Multi Theft Auto fornece a melhor experiência online Grand Theft Auto que existe. Continue lendo para saber mais, diferente do mta convencional esse possue um que seria o fast-dl , ou acelerador de downloads(muito conhecido)",
