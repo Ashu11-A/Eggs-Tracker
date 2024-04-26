@@ -191,6 +191,16 @@
   },
   {
     "author": "eggs@goover.dev",
+    "name": "Night of the Dead",
+    "description": null,
+    "exported_at": "2024-04-26T15:44:21+02:00",
+    "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/night-of-the-dead/egg-night-of-the-dead.json",
+    "size": "9.51 KB",
+    "language": "en",
+    "type": "steamcmd"
+  },
+  {
+    "author": "eggs@goover.dev",
     "name": "Operation: Harsh Doorstop",
     "description": "Operation: Harsh Doorstop is a shooter sandbox with all the features a game should have.",
     "exported_at": "2024-01-25T14:27:27+01:00",
