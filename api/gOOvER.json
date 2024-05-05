@@ -141,6 +141,16 @@
   },
   {
     "author": "eggs@goover.dev",
+    "name": "Foundry",
+    "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
+    "exported_at": "2024-05-05T09:08:45+02:00",
+    "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/foundry/egg-foundry.json",
+    "size": "11.13 KB",
+    "language": "en",
+    "type": "steamcmd"
+  },
+  {
+    "author": "eggs@goover.dev",
     "name": "HumanitZ",
     "description": "As one of the few human survivors, try to last as long as “humanly” possible. The past can't be changed, but you can make a difference today for the future of humanity",
     "exported_at": "2023-12-25T13:37:58+01:00",
