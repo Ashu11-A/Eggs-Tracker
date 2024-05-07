@@ -5,7 +5,7 @@
     "description": "Run a VPS in pterodactyl!",
     "exported_at": "2024-05-05T11:45:57+03:00",
     "link": "https://raw.githubusercontent.com/ysdragon/Pterodactyl-VPS-Egg/main/egg-vps-arm64.json",
-    "size": "7.92 KB",
+    "size": "7.94 KB",
     "language": "en",
     "type": null
   },
@@ -15,7 +15,7 @@
     "description": "Run a VPS in pterodactyl!",
     "exported_at": "2024-05-05T11:45:57+03:00",
     "link": "https://raw.githubusercontent.com/ysdragon/Pterodactyl-VPS-Egg/main/egg-vps.json",
-    "size": "7.91 KB",
+    "size": "7.92 KB",
     "language": "en",
     "type": null
   }
