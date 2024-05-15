@@ -193,9 +193,9 @@
     "author": "dominique@wellisch-itservice.de",
     "name": "T7X",
     "description": "Run a T7X dedicated server.\r\n\r\nNote: Installation slimming is enabled by default, removing the pre-installed multiplayer maps. This is to reduce the size of the server. You can disable this and have all multiplayer maps installed by default. It's recommended to keep this installed and manually add the maps you want.",
-    "exported_at": "2024-05-05T18:43:43+02:00",
+    "exported_at": "2024-05-15T11:06:47+02:00",
     "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-t7-x.json",
-    "size": "6.9 KB",
+    "size": "5.89 KB",
     "language": "en",
     "type": null
   },
