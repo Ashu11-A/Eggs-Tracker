@@ -47,9 +47,9 @@ const links: LinkData[] = []
 const linkCache: LinkData[] = []
 
 void (async () => {
-  linkCache.push(...JSON.parse(await readFile('api/links.json', 'utf8')) as LinkData[])
+  if (await exists('api/links.json')) linkCache.push(...JSON.parse(await readFile('api/links.json', 'utf8')) as LinkData[])
 
-  for (const { repository, branch } of officialRepos) {
+  for (const { repository, branch } of repos) {
     const author = repository.split('/')[0]
     const repoName = repository.split('/')[1]
     const repoData = (await axios.get(`https://api.github.com/repos/${repository}`)).data as { pushed_at: string }

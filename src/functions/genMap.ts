@@ -16,7 +16,7 @@ export async function genMap(eggs: string[], branch: string, repository: string)
       const { name, description, author, exported_at } = JSON.parse(file) as EggConfig
 
       if (size <= 735) { console.log(`Arquivo: ${eggPath} é muito leve para ser um egg! Pulando.`); continue }
-      if (name === undefined) { console.log(`Arquivo: ${eggPath} não é um egg!`); continue }
+      if (name === undefined || author === undefined) { console.log(`Arquivo: ${eggPath} não é um egg!`); continue }
 
       const pathEgg = eggPath.replace(`${eggPath.split('/')[0]}/`, '')
       const link = `https://raw.githubusercontent.com/${repository}/${branch}/${pathEgg}`
