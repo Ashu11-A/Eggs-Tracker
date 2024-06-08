@@ -6,12 +6,6 @@
     "pushed_at": "2024-05-04T20:21:34Z"
   },
   {
-    "author": "parkervcp",
-    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/parkervcp.min.json",
-    "eggs": 275,
-    "pushed_at": "2024-05-10T19:22:36Z"
-  },
-  {
     "author": "drylian",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/drylian.min.json",
     "eggs": 7,
@@ -64,5 +58,11 @@
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/gOOvER.min.json",
     "eggs": 33,
     "pushed_at": "2024-05-05T13:53:17Z"
+  },
+  {
+    "author": "pelican-eggs",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/pelican-eggs.min.json",
+    "eggs": 539,
+    "pushed_at": "2024-06-02T14:31:06Z"
   }
 ]

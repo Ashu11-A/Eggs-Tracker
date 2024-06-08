@@ -23,3 +23,14 @@ Visando fornecer os dados essenciais para a criação de um Addon do Pterodactyl
 Importante mencionar que o Addon está em processo de desenvolvimento e, consequentemente, não está disponível no momento.
 
 Gostou da API? Então de uma 🌟 ao repositório!
+
+## Running
+```sh
+# Install Git lfs
+# https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
+
+# Install packages
+npm i
+
+npm run dev
+```

@@ -1,7 +1,4 @@
 {
-  "ts-node": {
-    "require": ["tsconfig-paths/register"]
-  },
   "compilerOptions": {
     "target": "ESNext",
     "lib": ["ESNext", "dom"],
@@ -28,6 +25,5 @@
     "skipDefaultLibCheck": true,
     "skipLibCheck": true
   },
-  "include": ["tsconfig.json", "./src/**/*"],
-  "exclude": [""]
+  "include": ["tsconfig.json", "src"]
 }
