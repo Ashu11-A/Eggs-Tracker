@@ -112,10 +112,10 @@
   {
     "author": "Matheusn.biolowons@gmail.com",
     "name": "Jellyfin",
-    "description": "💎 Egg: Jellyfin\r\n⚙️ Version: 2.0\r\n What it is: In short, you can have your own Netflix. Jellyfin allows for you to collect, manage and stream your media. Run the Jellyfin server on your system and get access to the leading free software entertainment system.\r\n🐛 Bugs fixed/changelogs:\r no Now the Egg is not dependent on updates, everything is done by scripts, causes it to be better maintained.\r\n• This is possibly its last version.\r\n• Code is now cleaner.\r\n• Docker updated.\r\n⚠️ Attention: On first launch there will be a Select Server screen, delete the existing server there, and restart the page.\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
-    "exported_at": "2023-01-25T23:01:20-03:00",
+    "description": "💎 Egg: Jellyfin\r\n⚙️ Version: 2.2\r\n❓ What is it: In short, you can have your own Netflix. Jellyfin allows you to collect, manage, and stream your media. Run the Jellyfin server on your system and enjoy access to the leading open-source entertainment software system.\r\n🐛 Fixed Bugs/Changelogs:\r\n• Now Egg is no longer dependent on updates; everything is handled by scripts, resulting in better maintenance.\r\n• This is possibly its final version.\r\n• Code is now cleaner.\r\n• Docker updated.\r\n⚠️ Attention: Upon first startup, you will see a \"Select Server\" screen; delete the existing server there and refresh the page.\r\n👑 Author: Ashu\r\n👀 Check for updates at: https://github.com/Ashu11-A/Ashu_eggs",
+    "exported_at": "2024-06-21T03:05:34-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-jellyfin.json",
-    "size": "2.67 KB",
+    "size": "3.06 KB",
     "language": "en",
     "type": "software"
   },
