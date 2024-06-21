@@ -52,10 +52,10 @@
   {
     "author": "Matheusn.biolowons@gmail.com",
     "name": "tModLoader",
-    "description": "💎 Egg: tModLoader\r\n⚙⚙’Version: 4.0\r\n❓ What’: tModLoader is a Terraria modification that allows you to play with mods. Choose to play however you want!\r\n\r\n🐛 Bugs fixed/changelogs:\r\n• (3.0) [ARM64] Compatibility with original repository, runs on same server than 64x(no outdated 3rd party files, no emulation).\r\n• (3.1) Serious bugs fixed.\r\n• (4.0) Egg optimization.\r \n• (4.0) Docker updated.\r\n• (4.0) Now the Egg is not dependent on updates, everything is done by scripts, resulting in better maintenance\r\n• (4.0) Removed useless settings.\r\n• (4.0) Variables translation.\r\n\r\n\ud83e \ude84 What's different?\r\n • United Docker (same image, multiple architectures).\r\n • Steamworks.NET.dll Changed, more optimized and cross-platform.\r\n• Works on both ARM64 and 64x with the same performance.\r\n • No Emulation.\r\n 📝 Variables that other Eggs do not contain: \r\n • Seed.\r\n • Optimization.\r\n • Security.\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
-    "exported_at": "2023-01-27T16:42:38-03:00",
+    "description": "💎 Egg: tModLoader\r\n⚙️ Version: 4.1\r\n❓ What it is: tModLoader is a modification of Terraria, enabling you to play with mods. Choose to play as you like!\r\n\r\n🐛 Bugs fixed/changelogs:\r\n• (3.0) [ARM64] Compatibility with the original repository, runs the same server as the 64x (no outdated third-party files, no emulation).\r\n• (3.1) Critical errors fixed.\r\n• (4.0) Egg optimization.\r\n• (4.0) Docker updated.\r\n• (4.0) Egg is no longer dependent on updates, everything is done by scripts, resulting in better maintenance.\r\n• (4.0) Removed unnecessary settings.\r\n• (4.0) Translation of variables.\r\n• (4.1) Added Docker Dotnet 8\r\n\r\n🪄 What's different?\r\n   • Unified Docker (same image, multiple architectures).\r\n   • Modified Steamworks.NET.dll, more optimized and cross-platform.\r\n   • Works on both ARM64 and 64x with the same performance.\r\n   • No Emulation.\r\n       📝 Variables that other Eggs do not contain: \r\n             • Seed.\r\n             • Optimization.\r\n             • Security.\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "exported_at": "2024-06-20T21:05:40-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-tModloader.json",
-    "size": "7.68 KB",
+    "size": "7.97 KB",
     "language": "en",
     "type": "games"
   },
