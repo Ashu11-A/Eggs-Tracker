@@ -5180,9 +5180,9 @@
     "author": "eggs@goover.dev",
     "name": "Among Us - Impostor Server",
     "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
-    "exported_at": "2024-06-01T00:17:26+00:00",
+    "exported_at": "2024-07-01T08:27:45+00:00",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
-    "size": "3.41 KB",
+    "size": "3.48 KB",
     "language": "en",
     "type": "games-standalone"
   },
