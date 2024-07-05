@@ -238,5 +238,15 @@
     "size": "2.99 KB",
     "language": "en",
     "type": null
+  },
+  {
+    "author": "dominique@wellisch-itservice.de",
+    "name": "Project Shield",
+    "description": "Runs a Black Ops 4 Server",
+    "exported_at": "2024-07-05T13:10:00+02:00",
+    "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-project-shield.json",
+    "size": "1.9 KB",
+    "language": "en",
+    "type": null
   }
 ]
