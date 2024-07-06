@@ -248,5 +248,15 @@
     "size": "1.9 KB",
     "language": "en",
     "type": null
+  },
+  {
+    "author": "dominique@wellisch-itservice.de",
+    "name": "T7x",
+    "description": "Run a BOIII dedicated server.\r\n\r\nNote: Installation slimming is enabled by default, removing the pre-installed multiplayer maps. This is to reduce the size of the server. You can disable this and have all multiplayer maps installed by default. It's recommended to keep this installed and manually add the maps you want.",
+    "exported_at": "2024-07-06T17:22:02+02:00",
+    "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-t7x.json",
+    "size": "7.45 KB",
+    "language": "en",
+    "type": null
   }
 ]

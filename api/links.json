@@ -50,8 +50,8 @@
   {
     "author": "Draakoor",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Draakoor.min.json",
-    "eggs": 25,
-    "pushed_at": "2024-07-06T14:58:58Z"
+    "eggs": 26,
+    "pushed_at": "2024-07-06T22:04:41Z"
   },
   {
     "author": "gOOvER",
@@ -63,6 +63,6 @@
     "author": "pelican-eggs",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/pelican-eggs.min.json",
     "eggs": 539,
-    "pushed_at": "2024-06-12T20:03:59Z"
+    "pushed_at": "2024-06-02T14:31:06Z"
   }
 ]
