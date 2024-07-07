@@ -2180,12 +2180,12 @@
     "type": "games-steamcmd"
   },
   {
-    "author": "rehlmgaming@gmail.com",
+    "author": "red_thirten@yahoo.com",
     "name": "Arma Reforger",
     "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
-    "exported_at": "2024-06-01T00:03:53+00:00",
+    "exported_at": "2024-07-03T21:46:20-07:00",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma_reforger/egg-arma-reforger.json",
-    "size": "12.24 KB",
+    "size": "11.96 KB",
     "language": "en",
     "type": "games-steamcmd"
   },
