@@ -258,5 +258,15 @@
     "size": "7.45 KB",
     "language": "en",
     "type": null
+  },
+  {
+    "author": "admin@joepena.dev",
+    "name": "TitanFall 2",
+    "description": "--publish 8081:8081/tcp --publish {{SERVER_PORT}}:{{SERVER_PORT}}/udp",
+    "exported_at": "2024-07-08T02:35:15+02:00",
+    "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-titan-fall2.json",
+    "size": "3.83 KB",
+    "language": "en",
+    "type": null
   }
 ]
