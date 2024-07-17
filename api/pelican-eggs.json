@@ -5385,5 +5385,25 @@
     "size": "3.1 KB",
     "language": "en",
     "type": "voice"
+  },
+  {
+    "author": "marshals@gmail.com",
+    "name": "Night Of The Dead",
+    "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+    "exported_at": "2024-06-15T18:59:35+02:00",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+    "size": "9.54 KB",
+    "language": "en",
+    "type": "games-steamcmd"
+  },
+  {
+    "author": "marshals@gmail.com",
+    "name": "Night Of The Dead",
+    "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+    "exported_at": "2024-06-15T18:59:35+02:00",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
+    "size": "10.06 KB",
+    "language": "en",
+    "type": "games-steamcmd"
   }
 ]
