@@ -5411,8 +5411,8 @@
     "name": "Midnight Ghost Hunt",
     "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
     "exported_at": "2024-07-17T15:11:01+02:00",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
-    "size": "8.11 KB",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
+    "size": "8.38 KB",
     "language": "en",
     "type": "games-steamcmd"
   },
