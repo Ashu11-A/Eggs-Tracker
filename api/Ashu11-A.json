@@ -122,8 +122,8 @@
   {
     "author": "Matheusn.biolowons@gmail.com",
     "name": "Nextcloud",
-    "description": "💎 Egg: Nextcloud\r\n⚙⚙️ Version: 2.0\r\n❓ What is it: Nextcloud is an enterprise cloud collaboration platform óopen code that makes it possible to create private or corporate file hosting servers.\r\n⚠️ Attention: This Egg needs a database(Create one, in advance own dashboard).\r\n🐛 Bugs fixed/changelogs:\r\n• Egg self-updates, maybe this is its “last release\r\n• Code is now cleaner\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
-    "exported_at": "2023-01-25T18:24:06-03:00",
+    "description": "💎 Egg: Nextcloud\r\n⚙⚙️ Version: 2.1\r\n❓ What is it: Nextcloud is an enterprise cloud collaboration platform óopen code that makes it possible to create private or corporate file hosting servers.\r\n⚠️ Attention: This Egg needs a database(Create one, in advance own dashboard).\r\n🐛 Bugs fixed/changelogs:\r\n• Egg self-updates, maybe this is its “last release\r\n• Code is now cleaner\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "exported_at": "2024-07-25T22:08:23-03:00",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-nextcloud.json",
     "size": "3.31 KB",
     "language": "en",
