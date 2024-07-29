@@ -268,5 +268,15 @@
     "size": "3.83 KB",
     "language": "en",
     "type": null
+  },
+  {
+    "author": "dominique@wellisch-itservice.de",
+    "name": "Windows",
+    "description": null,
+    "exported_at": "2024-07-29T12:51:00+02:00",
+    "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-windows.json",
+    "size": "4.23 KB",
+    "language": "en",
+    "type": null
   }
 ]
