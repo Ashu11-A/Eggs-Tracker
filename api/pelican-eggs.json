@@ -5160,9 +5160,9 @@
     "author": "noah@noahserver.online",
     "name": "BeamMP Servers",
     "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
-    "exported_at": "2024-06-01T00:17:27+00:00",
+    "exported_at": "2024-08-03T04:06:03+00:00",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
-    "size": "9.52 KB",
+    "size": "9.51 KB",
     "language": "en",
     "type": "games-standalone"
   },
