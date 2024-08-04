@@ -1,13 +1,12 @@
 import axios from 'axios'
+import { exists, readFile, writeFile } from 'fs-extra'
 import { simpleGit } from 'simple-git'
-import { genMap } from './functions/genMap'
+import { Merge } from './class/merge'
 import { getEggs } from './functions/getEggs'
-import { exists, read, readFile, rm, writeFile } from 'fs-extra'
-import { EggMap } from './types/EggMapping'
 
 interface Repo {
     repository: string,
-    branch: string
+    branch?: string
 }
 interface LinkData {
     author: string
@@ -17,39 +16,39 @@ interface LinkData {
 }
 
 const repos = [
-  { repository: 'Ashu11-A/Ashu_eggs', branch: 'main' },
-  { repository: 'drylian/Eggs', branch: 'main' },
-  { repository: 'QuintenQVD0/Q_eggs', branch: 'main' },
-  { repository: 'kry008/pterodactyl-io-ARM-eggs', branch: 'main' },
-  { repository: 'Sigma-Production/ptero-eggs', branch: 'main' },
+  { repository: 'Ashu11-A/Ashu_eggs' },
+  { repository: 'drylian/Eggs' },
+  { repository: 'QuintenQVD0/Q_eggs' },
+  { repository: 'kry008/pterodactyl-io-ARM-eggs' },
+  { repository: 'Sigma-Production/ptero-eggs' },
   { repository: 'GeyserMC/pterodactyl-stuff', branch: 'master' },
-  { repository: 'DanBot-Hosting/pterodactyl-eggs', branch: 'main' },
-  { repository: 'ysdragon/Pterodactyl-VPS-Egg', branch: 'main' },
-  { repository: 'Draakoor/codptero', branch: 'main' },
-  { repository: 'gOOvER/own-pterodactyl-eggs', branch: 'main' }
-] satisfies Repo[]
+  { repository: 'DanBot-Hosting/pterodactyl-eggs' },
+  { repository: 'ysdragon/Pterodactyl-VPS-Egg' },
+  { repository: 'Draakoor/codptero' },
+  { repository: 'gOOvER/own-pterodactyl-eggs' },
 
-const officialRepos = [
-  { repository: 'pelican-eggs/games-steamcmd', branch: 'main' },
-  { repository: 'pelican-eggs/minecraft', branch: 'main' },
-  { repository: 'pelican-eggs/software', branch: 'main' },
-  { repository: 'pelican-eggs/generic', branch: 'main' },
-  { repository: 'pelican-eggs/chatbots', branch: 'main' },
-  { repository: 'pelican-eggs/games-standalone', branch: 'main' },
-  { repository: 'pelican-eggs/monitoring', branch: 'main' },
-  { repository: 'pelican-eggs/database', branch: 'main' },
-  { repository: 'pelican-eggs/voice', branch: 'main' },
+  { repository: 'pelican-eggs/games-steamcmd' },
+  { repository: 'pelican-eggs/minecraft' },
+  { repository: 'pelican-eggs/software' },
+  { repository: 'pelican-eggs/generic' },
+  { repository: 'pelican-eggs/chatbots' },
+  { repository: 'pelican-eggs/games-standalone' },
+  { repository: 'pelican-eggs/monitoring' },
+  { repository: 'pelican-eggs/database' },
+  { repository: 'pelican-eggs/voice' },
 
 ] satisfies Repo[]
 
-repos.push(...officialRepos)
 const links: LinkData[] = []
 const linkCache: LinkData[] = []
 
 void (async () => {
   if (await exists('api/links.json')) linkCache.push(...JSON.parse(await readFile('api/links.json', 'utf8')) as LinkData[])
 
-  for (const { repository, branch } of repos) {
+  for (const repo of repos) {
+    const repository = repo.repository
+    const branch = repo?.branch ?? 'main'
+
     const author = repository.split('/')[0]
     const repoName = repository.split('/')[1]
     const repoData = (await axios.get(`https://api.github.com/repos/${repository}`)).data as { pushed_at: string }
@@ -59,26 +58,25 @@ void (async () => {
       continue
     }
 
-    await simpleGit().clone(`https://github.com/${repository}`, { '--branch': branch })
-      .then(async () => {
-        if (await exists(repoName)) {
-          const eggs = await getEggs(repoName)
-          await genMap(eggs, branch, repository)
+    async function processRepo () {
+      const eggs = await getEggs(repoName, { branch, repository })
+      await (await (new Merge({ author, data: eggs, repoName })).read()).write()
 
-          const eggsMapped = JSON.parse(await readFile(`api/${author}.json`, 'utf-8')) as EggMap[]
-          links.push({
-            author,
-            link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${author}.min.json`,
-            eggs: eggsMapped.length,
-            pushed_at: repoData.pushed_at
-          })
-        } else {
-          console.log(`Download do Repositorio ${repoName} não foi realizado!`)
-        }
+      links.push({
+        author,
+        link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${author}.min.json`,
+        eggs: eggs.length,
+        pushed_at: repoData.pushed_at
       })
-      .finally(async () => {
-        await rm(repoName, { recursive: true })
-      })
+    }
+
+    if (await exists(repoName)) {
+      await processRepo()
+    } else {
+      await simpleGit().clone(`https://github.com/${repository}`, { '--branch': branch }).catch((err) => new Error(err))
+      await processRepo()
+    }
+    // // await rm(repoName, { recursive: true })
   }
 
 })().then(async () => {
