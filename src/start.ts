@@ -3,6 +3,7 @@ import { exists, readFile, writeFile } from 'fs-extra'
 import { simpleGit } from 'simple-git'
 import { Merge } from './class/merge'
 import { getEggs } from './functions/getEggs'
+import { rm } from 'fs/promises'
 
 interface Repo {
     repository: string,
@@ -76,7 +77,7 @@ void (async () => {
       await simpleGit().clone(`https://github.com/${repository}`, { '--branch': branch }).catch((err) => new Error(err))
       await processRepo()
     }
-    // // await rm(repoName, { recursive: true })
+    await rm(repoName, { recursive: true })
   }
 
 })().then(async () => {
