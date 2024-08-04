@@ -1,0 +1,64 @@
+{
+  "pterodactyl-stuff": [
+    {
+      "name": "Waterfall + Geyser + Floodgate",
+      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.\r\n\r\nThis customization installs the GeyserMC and Floodgate plugins, which allows Bedrock players to connect without needing a Java account.",
+      "language": "en",
+      "size": "7.61 KB",
+      "type": ".",
+      "author": "support@geysermc.org",
+      "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-waterfall--geyser--floodgate.json",
+      "exported_at": "2023-07-20T12:28:56-07:00"
+    },
+    {
+      "name": "Velocity + Geyser + Floodgate",
+      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
+      "language": "en",
+      "size": "6.84 KB",
+      "type": ".",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-velocity--geyser--floodgate.json",
+      "exported_at": "2023-07-20T12:27:20-07:00"
+    },
+    {
+      "name": "Paper + Geyser + Floodgate",
+      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.\r\n\r\nThis customized egg will install the GeyserMC and Floodgate plugins as well. This allows Bedrock players to connect to the server without needing a Java account.",
+      "language": "en",
+      "size": "7.61 KB",
+      "type": ".",
+      "author": "support@geysermc.org",
+      "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-paper--geyser--floodgate.json",
+      "exported_at": "2023-07-20T12:34:21-07:00"
+    },
+    {
+      "name": "Paper + Floodgate",
+      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
+      "language": "en",
+      "size": "6.17 KB",
+      "type": ".",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-paper--floodgate.json",
+      "exported_at": "2023-07-20T12:33:21-07:00"
+    },
+    {
+      "name": "GeyserMC",
+      "description": "Geyser is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap from those wanting to play true cross-platform.",
+      "language": "en",
+      "size": "2.89 KB",
+      "type": ".",
+      "author": "support@geysermc.org",
+      "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-geyser-m-c.json",
+      "exported_at": "2023-07-20T12:38:14-07:00"
+    },
+    {
+      "name": "GeyserConnect",
+      "description": "GeyserConnect is an easy way for Bedrock Edition clients to connect to any Java Edition servers without having to run anything.",
+      "language": "en",
+      "size": "3.13 KB",
+      "type": ".",
+      "author": "support@geysermc.org",
+      "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-geyser-connect.json",
+      "exported_at": "2023-07-20T12:54:33-07:00"
+    }
+  ]
+}

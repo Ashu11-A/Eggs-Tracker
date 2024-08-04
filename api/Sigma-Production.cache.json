@@ -1,0 +1,24 @@
+{
+  "ptero-eggs": [
+    {
+      "name": "WebHost Egg",
+      "description": "An egg to host any Website.\r\nit also has composer, just specify your packages in the packages box, and it will install the packages when you start the server, it also has wordpress, just turn on the slider when you make the server, and wordpress will get installed for you\r\n\r\n© Sigma Productions 2023",
+      "language": "en",
+      "size": "7.69 KB",
+      "type": ".",
+      "author": "info@finniedj.nl",
+      "link": "https://raw.githubusercontent.com/Sigma-Production/ptero-eggs/main/egg-web-host-egg.json",
+      "exported_at": "2023-02-07T09:58:34+01:00"
+    },
+    {
+      "name": "Nginx",
+      "description": "An Nginx egg to host any Website",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": ".",
+      "author": "info@finniedj.nl",
+      "link": "https://raw.githubusercontent.com/Sigma-Production/ptero-eggs/main/egg-nginx.json",
+      "exported_at": "2022-06-23T23:05:44+02:00"
+    }
+  ]
+}

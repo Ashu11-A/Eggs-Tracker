@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AIO",
+    "description": "NodeJS LTS, Java (OpenJDK) 21, Python 3.11+, Golang, .NET Core, NodeJS Puppeteer/pm2/yarn. Made by DanBot Hosting.",
+    "language": "en",
+    "size": "1.26 KB",
+    "type": ".",
+    "author": "dan@danbot.host",
+    "link": "https://raw.githubusercontent.com/DanBot-Hosting/pterodactyl-eggs/main/egg-a-i-o.json",
+    "exported_at": "2024-04-21T14:59:52+08:00"
+  },
+  {
+    "name": "Nginx",
+    "description": "Nginx",
+    "language": "en",
+    "size": "1.82 KB",
+    "type": ".",
+    "author": "unknown@unknown.com",
+    "link": "https://raw.githubusercontent.com/DanBot-Hosting/pterodactyl-eggs/main/egg-nginx.json",
+    "exported_at": "2024-04-21T03:14:54-04:00"
+  },
+  {
+    "name": "OpenX",
+    "description": "OpenX upload server, Made by DanBotHosting LTD.",
+    "language": "en",
+    "size": "2.83 KB",
+    "type": ".",
+    "author": "dan@danbot.host",
+    "link": "https://raw.githubusercontent.com/DanBot-Hosting/pterodactyl-eggs/main/egg-open-x.json",
+    "exported_at": "2023-11-19T15:21:51+00:00"
+  },
+  {
+    "name": "ShareX Upload Server",
+    "description": "Tanner ShareX Egg, Made by DanBotHosting LTD.",
+    "language": "en",
+    "size": "1.18 KB",
+    "type": ".",
+    "author": "dan@danbot.host",
+    "link": "https://raw.githubusercontent.com/DanBot-Hosting/pterodactyl-eggs/main/egg-share-x-upload-server.json",
+    "exported_at": "2023-03-28T17:30:18-04:00"
+  }
+]
