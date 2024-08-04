@@ -2,7 +2,7 @@ import axios from 'axios'
 import { exists, readFile, writeFile } from 'fs-extra'
 import { simpleGit } from 'simple-git'
 import { Merge } from './class/merge'
-import { getEggs } from './functions/getEggs'
+import { Egg, getEggs } from './functions/getEggs'
 import { rm } from 'fs/promises'
 
 interface Repo {
@@ -63,10 +63,12 @@ void (async () => {
       const eggs = await getEggs(repoName, { branch, repository })
       await (await (new Merge({ author, data: eggs, repoName })).read()).write()
 
+      const eggsMapped = JSON.parse(await readFile(`api/${author}.json`, 'utf-8')) as Egg[]
+
       links.push({
         author,
         link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${author}.min.json`,
-        eggs: eggs.length,
+        eggs: eggsMapped.length,
         pushed_at: repoData.pushed_at
       })
     }
