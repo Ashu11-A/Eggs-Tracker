@@ -27,9 +27,9 @@ export class Merge {
 
     Merge.metadata.set(this.author,
       Object.assign(
-        { [this.repoName]: this.data },
         cache,
-        Merge.metadata.get(this.author)
+        Merge.metadata.get(this.author),
+        { [this.repoName]: this.data }
       )
     )
 
