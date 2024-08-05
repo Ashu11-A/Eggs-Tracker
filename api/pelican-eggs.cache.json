@@ -1,104 +1,34 @@
 {
-  "database": [
+  "voice": [
     {
-      "name": "Postgres 16",
-      "description": "A default Postgres install that is not really editable.",
+      "name": "TS3 Manager",
+      "description": "The Open Source Webinterface For TeamSpeak Servers",
       "language": "en",
-      "size": "2.8 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres16.json",
-      "exported_at": "2023-12-12T15:33:25+01:00"
+      "size": "3.1 KB",
+      "type": "voice",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/ts3_manager/egg-t-s3-manager.json",
+      "exported_at": "2023-10-07T18:01:49+02:00"
     },
     {
-      "name": "Postgres 14",
-      "description": "A default Postgres install that is not really editable.",
+      "name": "Teamspeak3 Server ARM64",
+      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
       "language": "en",
-      "size": "2.8 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres14.json",
-      "exported_at": "2023-12-12T15:32:12+01:00"
-    },
-    {
-      "name": "MariaDB 10.3",
-      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
-      "language": "en",
-      "size": "2.82 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
-      "exported_at": "2023-12-19T09:54:17+01:00"
-    },
-    {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
-      "name": "rethinkdb",
-      "description": "The open-source database for the realtime web",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "database",
+      "size": "3.33 KB",
+      "type": "voice",
       "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/rethinkdb/egg-rethinkdb.json",
-      "exported_at": "2024-04-02T14:35:12+02:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
+      "exported_at": "2022-07-06T17:10:16+02:00"
     },
     {
-      "name": "MongoDB 7",
-      "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
+      "name": "Lavalink",
+      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
       "language": "en",
-      "size": "2.88 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b7.json",
-      "exported_at": "2024-02-02T10:25:08+01:00"
-    },
-    {
-      "name": "MongoDB 6",
-      "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
-      "language": "en",
-      "size": "2.71 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b6.json",
-      "exported_at": "2022-10-31T17:26:13+00:00"
-    },
-    {
-      "name": "MongoDB",
-      "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
-      "exported_at": "2022-08-28T13:33:51+02:00"
+      "size": "4.52 KB",
+      "type": "voice",
+      "author": "damuffin36@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
+      "exported_at": "2023-08-04T08:40:49+02:00"
     }
   ],
   "monitoring": [
@@ -5405,36 +5335,106 @@
       "exported_at": "2024-06-01T00:03:49+00:00"
     }
   ],
-  "voice": [
+  "database": [
     {
-      "name": "TS3 Manager",
-      "description": "The Open Source Webinterface For TeamSpeak Servers",
+      "name": "Postgres 16",
+      "description": "A default Postgres install that is not really editable.",
       "language": "en",
-      "size": "3.1 KB",
-      "type": "voice",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/ts3_manager/egg-t-s3-manager.json",
-      "exported_at": "2023-10-07T18:01:49+02:00"
+      "size": "2.8 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres16.json",
+      "exported_at": "2023-12-12T15:33:25+01:00"
     },
     {
-      "name": "Teamspeak3 Server ARM64",
-      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+      "name": "Postgres 14",
+      "description": "A default Postgres install that is not really editable.",
       "language": "en",
-      "size": "3.33 KB",
-      "type": "voice",
+      "size": "2.8 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres14.json",
+      "exported_at": "2023-12-12T15:32:12+01:00"
+    },
+    {
+      "name": "MariaDB 10.3",
+      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
+      "language": "en",
+      "size": "2.82 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
+      "exported_at": "2023-12-19T09:54:17+01:00"
+    },
+    {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
+    },
+    {
+      "name": "rethinkdb",
+      "description": "The open-source database for the realtime web",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "database",
       "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
-      "exported_at": "2022-07-06T17:10:16+02:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/rethinkdb/egg-rethinkdb.json",
+      "exported_at": "2024-04-02T14:35:12+02:00"
     },
     {
-      "name": "Lavalink",
-      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
+      "name": "MongoDB 7",
+      "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
       "language": "en",
-      "size": "4.52 KB",
-      "type": "voice",
-      "author": "damuffin36@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
-      "exported_at": "2023-08-04T08:40:49+02:00"
+      "size": "2.88 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b7.json",
+      "exported_at": "2024-02-02T10:25:08+01:00"
+    },
+    {
+      "name": "MongoDB 6",
+      "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
+      "language": "en",
+      "size": "2.71 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b6.json",
+      "exported_at": "2022-10-31T17:26:13+00:00"
+    },
+    {
+      "name": "MongoDB",
+      "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
+      "exported_at": "2022-08-28T13:33:51+02:00"
     }
   ]
 }
