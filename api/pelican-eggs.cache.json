@@ -615,26 +615,6 @@
       "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.59 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.28 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
       "name": "tshock",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
@@ -693,6 +673,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
       "exported_at": "2024-06-15T09:58:09+02:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.59 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.28 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
       "name": "Rimworld Together",
@@ -1237,26 +1237,6 @@
   ],
   "chatbots": [
     {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.99 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1275,6 +1255,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
       "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.99 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -2163,26 +2163,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2591,6 +2571,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -4395,26 +4395,6 @@
       "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
-      "name": "Don't Starve Together",
-      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
-      "language": "en",
-      "size": "10.12 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
-      "name": "Don't Starve Together",
-      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
-      "language": "en",
-      "size": "10.56 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
       "name": "Dead Matter",
       "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
       "language": "en",
@@ -4433,6 +4413,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
       "exported_at": "2024-06-01T00:04:09+00:00"
+    },
+    {
+      "name": "Don't Starve Together",
+      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
+      "language": "en",
+      "size": "10.12 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Don't Starve Together",
+      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
+      "language": "en",
+      "size": "10.56 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
       "name": "DDNet",
