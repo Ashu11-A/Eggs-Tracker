@@ -1639,26 +1639,6 @@
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
-      "name": "node.js generic",
-      "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "7.82 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/egg-pterodactyl-node-js-generic.json",
-      "exported_at": "2024-06-02T14:43:51+00:00"
-    },
-    {
-      "name": "node.js generic",
-      "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "8.19 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/egg-node-js-generic.json",
-      "exported_at": "2024-06-02T14:43:51+00:00"
-    },
-    {
       "name": "nodemon",
       "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
       "language": "en",
@@ -1677,6 +1657,26 @@
       "author": "nick@blackforthosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "node.js generic",
+      "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "7.82 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/egg-pterodactyl-node-js-generic.json",
+      "exported_at": "2024-06-02T14:43:51+00:00"
+    },
+    {
+      "name": "node.js generic",
+      "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "8.19 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/egg-node-js-generic.json",
+      "exported_at": "2024-06-02T14:43:51+00:00"
     },
     {
       "name": "Generic Java",
@@ -4095,26 +4095,6 @@
       "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "4.96 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "5.23 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
       "name": "Killing Floor 2",
       "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
       "language": "en",
@@ -4133,6 +4113,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-killing-floor2.json",
       "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "4.96 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "5.23 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
       "name": "Insurgency: Sandstorm",
