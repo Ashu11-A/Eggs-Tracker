@@ -1,16 +1,6 @@
 {
   "own-pterodactyl-eggs": [
     {
-      "name": "Quake Live with minqlx",
-      "description": "Quake Live with minqlx support",
-      "language": "en",
-      "size": "12.58 KB",
-      "type": "quake-live-minqlx",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/games/quake-live-minqlx/egg-quake-live-with-minqlx.json",
-      "exported_at": "2023-12-30T12:41:39+01:00"
-    },
-    {
       "name": "Wurm Unlimited",
       "description": "Wurm Unlimited is the second game to be released by Code Club AB and features much of the same content as Wurm Online but is not linked to the official servers. Instead players are able to host their own servers, either locally or on a dedicated machine, so that they may have their own private world with their friends or even open the world publicly for everyone to enjoy.",
       "language": "en",
@@ -269,6 +259,16 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/assetto-corsa-assettoserver/egg-assetto-corsa--assetto-server-version.json",
       "exported_at": "2023-09-12T10:38:09+02:00"
+    },
+    {
+      "name": "Quake Live with minqlx",
+      "description": "Quake Live with minqlx support",
+      "language": "en",
+      "size": "12.58 KB",
+      "type": "quake-live-minqlx",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/games/quake-live-minqlx/egg-quake-live-with-minqlx.json",
+      "exported_at": "2023-12-30T12:41:39+01:00"
     },
     {
       "name": "Lynx Multi-Bot",
