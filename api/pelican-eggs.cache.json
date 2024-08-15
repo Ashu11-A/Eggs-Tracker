@@ -975,6 +975,26 @@
       "exported_at": "2024-06-01T00:17:23+00:00"
     },
     {
+      "name": "Factorio-ModUpdate",
+      "description": "The vanilla Factorio server. With automatic Mod Updates after ReInstall.\r\n\r\nhttps://www.factorio.com/",
+      "language": "en",
+      "size": "8.1 KB",
+      "type": "games-standalone",
+      "author": "tueye@tuworld.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio-modupdate/egg-pterodactyl-factorio--mod-update.json",
+      "exported_at": "2024-06-01T00:17:38+00:00"
+    },
+    {
+      "name": "Factorio-ModUpdate",
+      "description": "The vanilla Factorio server. With automatic Mod Updates after ReInstall.\r\n\r\nhttps://www.factorio.com/",
+      "language": "en",
+      "size": "8.49 KB",
+      "type": "games-standalone",
+      "author": "tueye@tuworld.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio-modupdate/egg-factorio--mod-update.json",
+      "exported_at": "2024-06-01T00:17:38+00:00"
+    },
+    {
       "name": "Factorio",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
@@ -1013,26 +1033,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio-a-r-m64.json",
       "exported_at": "2024-06-01T00:17:39+00:00"
-    },
-    {
-      "name": "Factorio-ModUpdate",
-      "description": "The vanilla Factorio server. With automatic Mod Updates after ReInstall.\r\n\r\nhttps://www.factorio.com/",
-      "language": "en",
-      "size": "8.1 KB",
-      "type": "games-standalone",
-      "author": "tueye@tuworld.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio-modupdate/egg-pterodactyl-factorio--mod-update.json",
-      "exported_at": "2024-06-01T00:17:38+00:00"
-    },
-    {
-      "name": "Factorio-ModUpdate",
-      "description": "The vanilla Factorio server. With automatic Mod Updates after ReInstall.\r\n\r\nhttps://www.factorio.com/",
-      "language": "en",
-      "size": "8.49 KB",
-      "type": "games-standalone",
-      "author": "tueye@tuworld.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio-modupdate/egg-factorio--mod-update.json",
-      "exported_at": "2024-06-01T00:17:38+00:00"
     },
     {
       "name": "Clusterio",
@@ -2303,26 +2303,6 @@
       "exported_at": "2024-06-01T19:39:58+00:00"
     },
     {
-      "name": "Paper",
-      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
-      "language": "en",
-      "size": "5.5 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/egg-pterodactyl-paper.json",
-      "exported_at": "2024-08-02T12:05:42+00:00"
-    },
-    {
-      "name": "Paper",
-      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
-      "language": "en",
-      "size": "5.72 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/egg-paper.json",
-      "exported_at": "2024-08-02T12:05:42+00:00"
-    },
-    {
       "name": "NeoForge",
       "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
       "language": "en",
@@ -2341,6 +2321,26 @@
       "author": "glorantv@icloud.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-neo-forge.json",
       "exported_at": "2024-06-01T19:40:05+00:00"
+    },
+    {
+      "name": "Paper",
+      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
+      "language": "en",
+      "size": "5.5 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/egg-pterodactyl-paper.json",
+      "exported_at": "2024-08-02T12:05:42+00:00"
+    },
+    {
+      "name": "Paper",
+      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
+      "language": "en",
+      "size": "5.72 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/egg-paper.json",
+      "exported_at": "2024-08-02T12:05:42+00:00"
     },
     {
       "name": "NanoLimbo",
