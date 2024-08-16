@@ -575,26 +575,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.64 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
       "name": "ET Legacy",
       "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
       "language": "en",
@@ -613,6 +593,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
       "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.64 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -2303,26 +2303,6 @@
       "exported_at": "2024-06-01T19:39:58+00:00"
     },
     {
-      "name": "NeoForge",
-      "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
-      "language": "en",
-      "size": "7.13 KB",
-      "type": "minecraft",
-      "author": "glorantv@icloud.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-pterodactyl-neo-forge.json",
-      "exported_at": "2024-06-01T19:40:05+00:00"
-    },
-    {
-      "name": "NeoForge",
-      "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
-      "language": "en",
-      "size": "7.31 KB",
-      "type": "minecraft",
-      "author": "glorantv@icloud.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-neo-forge.json",
-      "exported_at": "2024-06-01T19:40:05+00:00"
-    },
-    {
       "name": "Paper",
       "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
       "language": "en",
@@ -2341,6 +2321,26 @@
       "author": "parker@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/egg-paper.json",
       "exported_at": "2024-08-02T12:05:42+00:00"
+    },
+    {
+      "name": "NeoForge",
+      "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
+      "language": "en",
+      "size": "7.13 KB",
+      "type": "minecraft",
+      "author": "glorantv@icloud.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-pterodactyl-neo-forge.json",
+      "exported_at": "2024-06-01T19:40:05+00:00"
+    },
+    {
+      "name": "NeoForge",
+      "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
+      "language": "en",
+      "size": "7.31 KB",
+      "type": "minecraft",
+      "author": "glorantv@icloud.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-neo-forge.json",
+      "exported_at": "2024-06-01T19:40:05+00:00"
     },
     {
       "name": "NanoLimbo",
@@ -3715,26 +3715,6 @@
       "exported_at": "2024-07-15T19:02:11+02:00"
     },
     {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.05 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.39 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
       "name": "Open Fortress",
       "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
       "language": "en",
@@ -3752,6 +3732,26 @@
       "type": "games-steamcmd",
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.05 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.39 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
