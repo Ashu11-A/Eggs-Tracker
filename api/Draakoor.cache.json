@@ -171,14 +171,24 @@
       "exported_at": "2024-08-09T17:05:45+02:00"
     },
     {
+      "name": "H2M-Mod",
+      "description": null,
+      "language": "en",
+      "size": "3.98 KB",
+      "type": ".",
+      "author": "dominique@wellisch-itservice.de",
+      "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-h2-m--mod.json",
+      "exported_at": "2024-08-16T22:28:44+02:00"
+    },
+    {
       "name": "H1MOD",
       "description": null,
       "language": "en",
-      "size": "1.32 KB",
+      "size": "2.83 KB",
       "type": ".",
       "author": "dominique@wellisch-itservice.de",
       "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-h1-m-o-d.json",
-      "exported_at": "2023-08-11T21:06:32+02:00"
+      "exported_at": "2024-08-16T22:28:50+02:00"
     },
     {
       "name": "Call of Duty 4 1.2",
