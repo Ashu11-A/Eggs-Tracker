@@ -355,26 +355,6 @@
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
-      "name": "LeagueSandbox",
-      "description": "A simple egg to run LeagueSandbox server in pterodactyl",
-      "language": "en",
-      "size": "1.29 KB",
-      "type": "games-standalone",
-      "author": "domi@imagine.team",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-pterodactyl-league-sandbox.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
-      "name": "LeagueSandbox",
-      "description": "A simple egg to run LeagueSandbox server in pterodactyl",
-      "language": "en",
-      "size": "1.36 KB",
-      "type": "games-standalone",
-      "author": "domi@imagine.team",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-league-sandbox.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
       "name": "LAC-Online Public Server",
       "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
       "language": "en",
@@ -393,6 +373,26 @@
       "author": "jastinlt16@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
       "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "LeagueSandbox",
+      "description": "A simple egg to run LeagueSandbox server in pterodactyl",
+      "language": "en",
+      "size": "1.29 KB",
+      "type": "games-standalone",
+      "author": "domi@imagine.team",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-pterodactyl-league-sandbox.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "LeagueSandbox",
+      "description": "A simple egg to run LeagueSandbox server in pterodactyl",
+      "language": "en",
+      "size": "1.36 KB",
+      "type": "games-standalone",
+      "author": "domi@imagine.team",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-league-sandbox.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
       "name": "KSP DMP",
@@ -435,26 +435,6 @@
       "exported_at": "2024-06-01T00:16:49+00:00"
     },
     {
-      "name": "Foundry VTT",
-      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
-      "language": "en",
-      "size": "4.18 KB",
-      "type": "games-standalone",
-      "author": "pterodactyl@demi.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
-      "exported_at": "2024-06-01T00:16:48+00:00"
-    },
-    {
-      "name": "Foundry VTT",
-      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
-      "language": "en",
-      "size": "4.32 KB",
-      "type": "games-standalone",
-      "author": "pterodactyl@demi.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-foundry-v-t-t.json",
-      "exported_at": "2024-06-01T00:16:48+00:00"
-    },
-    {
       "name": "Tachyon",
       "description": "A multiplayer version of FTL.",
       "language": "en",
@@ -473,6 +453,26 @@
       "author": "alex.chang-lam@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ftl_tachyon/egg-pterodactyl-tachyon.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Foundry VTT",
+      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
+      "language": "en",
+      "size": "4.18 KB",
+      "type": "games-standalone",
+      "author": "pterodactyl@demi.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
+      "exported_at": "2024-06-01T00:16:48+00:00"
+    },
+    {
+      "name": "Foundry VTT",
+      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
+      "language": "en",
+      "size": "4.32 KB",
+      "type": "games-standalone",
+      "author": "pterodactyl@demi.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-foundry-v-t-t.json",
+      "exported_at": "2024-06-01T00:16:48+00:00"
     },
     {
       "name": "Stay In Tarkov",
@@ -2573,6 +2573,26 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2711,26 +2731,6 @@
       "author": "frizth_tatierra@informatics.edu.ph",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.json",
       "exported_at": "2024-06-01T19:40:00+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "Waterfall",
