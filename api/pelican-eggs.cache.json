@@ -135,26 +135,6 @@
       "exported_at": "2024-06-01T00:17:16+00:00"
     },
     {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.78 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.68 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
       "name": "Teeworlds",
       "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
       "language": "en",
@@ -173,6 +153,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
       "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.78 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.68 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
     },
     {
       "name": "Spacestation 14",
@@ -195,26 +195,6 @@
       "exported_at": "2024-06-01T00:17:09+00:00"
     },
     {
-      "name": "Path Of Titans",
-      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
-      "language": "en",
-      "size": "5.4 KB",
-      "type": "games-standalone",
-      "author": "danielivanvladimir.revin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
-      "exported_at": "2024-06-01T00:17:02+00:00"
-    },
-    {
-      "name": "Path Of Titans",
-      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
-      "language": "en",
-      "size": "5.69 KB",
-      "type": "games-standalone",
-      "author": "danielivanvladimir.revin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-path-of-titans.json",
-      "exported_at": "2024-06-01T00:17:02+00:00"
-    },
-    {
       "name": "OpenTTD Server",
       "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
       "language": "en",
@@ -233,6 +213,26 @@
       "author": "admin@justmyrandomstuff.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
       "exported_at": "2024-06-01T00:17:01+00:00"
+    },
+    {
+      "name": "Path Of Titans",
+      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
+      "language": "en",
+      "size": "5.4 KB",
+      "type": "games-standalone",
+      "author": "danielivanvladimir.revin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
+      "exported_at": "2024-06-01T00:17:02+00:00"
+    },
+    {
+      "name": "Path Of Titans",
+      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
+      "language": "en",
+      "size": "5.69 KB",
+      "type": "games-standalone",
+      "author": "danielivanvladimir.revin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-path-of-titans.json",
+      "exported_at": "2024-06-01T00:17:02+00:00"
     },
     {
       "name": "OpenRCT2",
@@ -1619,26 +1619,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "7.65 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "8.01 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "python generic",
       "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
       "language": "en",
@@ -1656,6 +1636,26 @@
       "type": "generic",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "7.65 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "8.01 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
@@ -2163,6 +2163,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2571,26 +2591,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
