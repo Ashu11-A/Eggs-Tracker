@@ -4,21 +4,11 @@
       "name": "VPS - Egg",
       "description": "Run a VPS in pterodactyl!",
       "language": "en",
-      "size": "7.92 KB",
+      "size": "7.83 KB",
       "type": ".",
       "author": "mrnitro2017@gmail.com",
       "link": "https://raw.githubusercontent.com/ysdragon/Pterodactyl-VPS-Egg/main/egg-vps.json",
-      "exported_at": "2024-05-05T11:45:57+03:00"
-    },
-    {
-      "name": "VPS - Egg",
-      "description": "Run a VPS in pterodactyl!",
-      "language": "en",
-      "size": "7.94 KB",
-      "type": ".",
-      "author": "mrnitro2017@gmail.com",
-      "link": "https://raw.githubusercontent.com/ysdragon/Pterodactyl-VPS-Egg/main/egg-vps-arm64.json",
-      "exported_at": "2024-05-05T11:45:57+03:00"
+      "exported_at": "2024-08-21T09:48:24+03:00"
     }
   ]
 }
