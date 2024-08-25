@@ -1513,21 +1513,21 @@
     "name": "Foundry",
     "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
     "language": "en",
-    "size": "11.81 KB",
+    "size": "11.9 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-pterodactyl-foundry.json",
-    "exported_at": "2024-06-01T00:04:12+00:00"
+    "exported_at": "2024-08-25T11:31:45+02:00"
   },
   {
     "name": "Foundry",
     "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
     "language": "en",
-    "size": "12.33 KB",
+    "size": "12.35 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-foundry.json",
-    "exported_at": "2024-06-01T00:04:12+00:00"
+    "exported_at": "2024-08-25T09:33:05+00:00"
   },
   {
     "name": "Foundry VTT",
@@ -2708,6 +2708,26 @@
     "author": "mail@wuffy.eu",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/nanolimbo/egg-nano-limbo.json",
     "exported_at": "2024-06-01T19:40:02+00:00"
+  },
+  {
+    "name": "Nazi Zombies: Portable",
+    "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+    "language": "en",
+    "size": "5.05 KB",
+    "type": "games-standalone",
+    "author": "jordanadamsbusiness@outlook.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
+    "exported_at": "2024-06-24T10:54:48+02:00"
+  },
+  {
+    "name": "Nazi Zombies: Portable",
+    "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+    "language": "en",
+    "size": "5.2 KB",
+    "type": "games-standalone",
+    "author": "jordanadamsbusiness@outlook.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
+    "exported_at": "2024-06-24T08:55:54+00:00"
   },
   {
     "name": "Necesse",
