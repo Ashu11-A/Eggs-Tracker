@@ -895,26 +895,6 @@
       "exported_at": "2024-06-01T00:17:03+00:00"
     },
     {
-      "name": "Multi Theft Auto",
-      "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
-      "language": "en",
-      "size": "2.5 KB",
-      "type": "games-standalone",
-      "author": "info@six-gaming.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json",
-      "exported_at": "2024-06-01T00:16:55+00:00"
-    },
-    {
-      "name": "Multi Theft Auto",
-      "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
-      "language": "en",
-      "size": "2.63 KB",
-      "type": "games-standalone",
-      "author": "info@six-gaming.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-multi-theft-auto.json",
-      "exported_at": "2024-06-01T00:16:55+00:00"
-    },
-    {
       "name": "OpenMP",
       "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
       "language": "en",
@@ -933,6 +913,26 @@
       "author": "vedrancappone@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/openmp/egg-open-m-p.json",
       "exported_at": "2024-06-01T00:16:57+00:00"
+    },
+    {
+      "name": "Multi Theft Auto",
+      "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
+      "language": "en",
+      "size": "2.5 KB",
+      "type": "games-standalone",
+      "author": "info@six-gaming.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json",
+      "exported_at": "2024-06-01T00:16:55+00:00"
+    },
+    {
+      "name": "Multi Theft Auto",
+      "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
+      "language": "en",
+      "size": "2.63 KB",
+      "type": "games-standalone",
+      "author": "info@six-gaming.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-multi-theft-auto.json",
+      "exported_at": "2024-06-01T00:16:55+00:00"
     },
     {
       "name": "Grand Theft Auto Connected",
@@ -2753,26 +2753,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2851,6 +2831,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
