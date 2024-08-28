@@ -375,26 +375,6 @@
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.51 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
       "name": "LeagueSandbox",
       "description": "A simple egg to run LeagueSandbox server in pterodactyl",
       "language": "en",
@@ -413,6 +393,26 @@
       "author": "domi@imagine.team",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-league-sandbox.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.51 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
       "name": "KSP DMP",
@@ -1337,26 +1337,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "22.59 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "21.49 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
       "name": "Sinusbot",
       "description": "Musicbot for Discord and Teamspeak.",
       "language": "en",
@@ -1375,6 +1355,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "22.59 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "21.49 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
       "name": "Red",
@@ -2753,26 +2753,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2851,6 +2831,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -3835,26 +3835,6 @@
       "exported_at": "2024-06-01T00:04:28+00:00"
     },
     {
-      "name": "No Love Lost",
-      "description": "Grab your ragtag crew & take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!",
-      "language": "en",
-      "size": "5.38 KB",
-      "type": "games-steamcmd",
-      "author": "imkringle@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_love_lost/egg-pterodactyl-no-love-lost.json",
-      "exported_at": "2024-06-01T00:04:27+00:00"
-    },
-    {
-      "name": "No Love Lost",
-      "description": "Grab your ragtag crew & take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!",
-      "language": "en",
-      "size": "5.6 KB",
-      "type": "games-steamcmd",
-      "author": "imkringle@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_love_lost/egg-no-love-lost.json",
-      "exported_at": "2024-06-01T00:04:27+00:00"
-    },
-    {
       "name": "nmrih",
       "description": "No More Room In Hell",
       "language": "en",
@@ -3873,6 +3853,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
       "exported_at": "2024-06-01T00:04:26+00:00"
+    },
+    {
+      "name": "No Love Lost",
+      "description": "Grab your ragtag crew & take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!",
+      "language": "en",
+      "size": "5.38 KB",
+      "type": "games-steamcmd",
+      "author": "imkringle@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_love_lost/egg-pterodactyl-no-love-lost.json",
+      "exported_at": "2024-06-01T00:04:27+00:00"
+    },
+    {
+      "name": "No Love Lost",
+      "description": "Grab your ragtag crew & take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!",
+      "language": "en",
+      "size": "5.6 KB",
+      "type": "games-steamcmd",
+      "author": "imkringle@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_love_lost/egg-no-love-lost.json",
+      "exported_at": "2024-06-01T00:04:27+00:00"
     },
     {
       "name": "Night Of The Dead",
