@@ -178,21 +178,21 @@
       "name": "Spacestation 14",
       "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
       "language": "en",
-      "size": "3.46 KB",
+      "size": "3.35 KB",
       "type": "games-standalone",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
-      "exported_at": "2024-06-01T00:17:09+00:00"
+      "exported_at": "2024-08-14T20:05:17+02:00"
     },
     {
       "name": "Spacestation 14",
       "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
       "language": "en",
-      "size": "3.33 KB",
+      "size": "3.22 KB",
       "type": "games-standalone",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
-      "exported_at": "2024-06-01T00:17:09+00:00"
+      "exported_at": "2024-08-14T20:05:17+02:00"
     },
     {
       "name": "Path Of Titans",
@@ -978,21 +978,21 @@
       "name": "alt:V",
       "description": "alt:V Multiplayer a third-party multiplayer modification for Grand Theft Auto: V",
       "language": "en",
-      "size": "4.97 KB",
+      "size": "5.11 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/altv/egg-pterodactyl-alt--v.json",
-      "exported_at": "2024-06-01T00:17:23+00:00"
+      "exported_at": "2024-08-25T10:29:40+02:00"
     },
     {
       "name": "alt:V",
       "description": "alt:V Multiplayer a third-party multiplayer modification for Grand Theft Auto: V",
       "language": "en",
-      "size": "5.23 KB",
+      "size": "5.2 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/altv/egg-alt--v.json",
-      "exported_at": "2024-06-01T00:17:23+00:00"
+      "exported_at": "2024-08-25T08:48:50+00:00"
     },
     {
       "name": "Factorio-ModUpdate",
@@ -2183,6 +2183,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -3255,26 +3255,6 @@
       "exported_at": "2024-06-01T00:04:56+00:00"
     },
     {
-      "name": "Swords 'n Magic and Stuff",
-      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
-      "language": "en",
-      "size": "10.35 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
-      "exported_at": "2024-06-01T00:04:55+00:00"
-    },
-    {
-      "name": "Swords 'n Magic and Stuff",
-      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
-      "language": "en",
-      "size": "9.88 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
-      "exported_at": "2024-06-01T00:04:55+00:00"
-    },
-    {
       "name": "Team Fortress 2 Classic",
       "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
       "language": "en",
@@ -3293,6 +3273,26 @@
       "author": "eggs@scattergun.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json",
       "exported_at": "2024-06-01T00:04:56+00:00"
+    },
+    {
+      "name": "Swords 'n Magic and Stuff",
+      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
+      "language": "en",
+      "size": "10.35 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
+      "exported_at": "2024-06-01T00:04:55+00:00"
+    },
+    {
+      "name": "Swords 'n Magic and Stuff",
+      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
+      "language": "en",
+      "size": "9.88 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
+      "exported_at": "2024-06-01T00:04:55+00:00"
     },
     {
       "name": "Sven Co-op",
@@ -5387,16 +5387,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "rethinkdb",
-      "description": "The open-source database for the realtime web",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "database",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/rethinkdb/egg-rethinkdb.json",
-      "exported_at": "2024-04-02T14:35:12+02:00"
-    },
-    {
       "name": "MongoDB 7",
       "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
       "language": "en",
@@ -5425,6 +5415,16 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "rethinkdb",
+      "description": "The open-source database for the realtime web",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "database",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/rethinkdb/egg-rethinkdb.json",
+      "exported_at": "2024-04-02T14:35:12+02:00"
     },
     {
       "name": "Redis-7",
