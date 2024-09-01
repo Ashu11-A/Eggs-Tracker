@@ -1941,26 +1941,6 @@
       "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
-      "name": "owncast.online",
-      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
-      "language": "en",
-      "size": "5.8 KB",
-      "type": "software",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
-      "name": "owncast.online",
-      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "software",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
       "name": "RabbitMQ",
       "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
       "language": "en",
@@ -1979,6 +1959,26 @@
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "owncast.online",
+      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
+      "language": "en",
+      "size": "5.8 KB",
+      "type": "software",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncast-online.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "owncast.online",
+      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "software",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
     },
     {
       "name": "Meilisearch",
