@@ -595,26 +595,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.64 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
       "name": "ET Legacy",
       "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
       "language": "en",
@@ -633,6 +613,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
       "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.64 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1257,26 +1257,6 @@
   ],
   "chatbots": [
     {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.58 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
       "name": "PhantomBot",
       "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
@@ -1295,6 +1275,26 @@
       "author": "mail@wuffy.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
       "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.58 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -2001,26 +2001,6 @@
       "exported_at": "2024-06-02T14:40:52+00:00"
     },
     {
-      "name": "LanguageTool",
-      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
-      "language": "en",
-      "size": "3.32 KB",
-      "type": "software",
-      "author": "thomasruhl@live.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-pterodactyl-language-tool.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
-      "name": "LanguageTool",
-      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
-      "language": "en",
-      "size": "3.42 KB",
-      "type": "software",
-      "author": "thomasruhl@live.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
       "name": "haste-server",
       "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
       "language": "en",
@@ -2038,6 +2018,26 @@
       "type": "software",
       "author": "eggs@harryw.link",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "LanguageTool",
+      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
+      "language": "en",
+      "size": "3.32 KB",
+      "type": "software",
+      "author": "thomasruhl@live.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-pterodactyl-language-tool.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "LanguageTool",
+      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
+      "language": "en",
+      "size": "3.42 KB",
+      "type": "software",
+      "author": "thomasruhl@live.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
