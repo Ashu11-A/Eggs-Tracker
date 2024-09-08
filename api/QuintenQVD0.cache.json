@@ -211,6 +211,16 @@
       "exported_at": "2023-01-26T19:01:12+01:00"
     },
     {
+      "name": "Path of Titans ARM64",
+      "description": "Path of Titans is an MMO dinosaur video game currently in active development for home computers and mobile devices fully compatible with cross platform play. Play as one of 18 core dinosaurs in a rich ecosystem filled with complex AI creatures and up to 200 other players.",
+      "language": "en",
+      "size": "6.46 KB",
+      "type": "path_of_titans",
+      "author": "felipe@negri.dev",
+      "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/path_of_titans/egg-path-of-titans-a-r-m64.json",
+      "exported_at": "2024-08-28T02:42:32+00:00"
+    },
+    {
       "name": "Vanilla Bedrock ARM64",
       "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
       "language": "en",

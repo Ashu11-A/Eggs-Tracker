@@ -180,6 +180,16 @@
     "exported_at": "2023-01-22T19:08:47+01:00"
   },
   {
+    "name": "Path of Titans ARM64",
+    "description": "Path of Titans is an MMO dinosaur video game currently in active development for home computers and mobile devices fully compatible with cross platform play. Play as one of 18 core dinosaurs in a rich ecosystem filled with complex AI creatures and up to 200 other players.",
+    "language": "en",
+    "size": "6.46 KB",
+    "type": "path_of_titans",
+    "author": "felipe@negri.dev",
+    "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/path_of_titans/egg-path-of-titans-a-r-m64.json",
+    "exported_at": "2024-08-28T02:42:32+00:00"
+  },
+  {
     "name": "Project Zomboid ARM64",
     "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
     "language": "en",

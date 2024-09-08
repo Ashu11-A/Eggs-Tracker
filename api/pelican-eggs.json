@@ -1303,41 +1303,41 @@
     "name": "Factorio",
     "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
     "language": "en",
-    "size": "7.58 KB",
+    "size": "8.08 KB",
     "type": "games-standalone",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-pterodactyl-factorio.json",
-    "exported_at": "2024-06-01T00:17:37+00:00"
+    "exported_at": "2024-09-08T19:55:12+02:00"
   },
   {
     "name": "Factorio",
     "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
     "language": "en",
-    "size": "7.95 KB",
+    "size": "8.34 KB",
     "type": "games-standalone",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio.json",
-    "exported_at": "2024-06-01T00:17:37+00:00"
+    "exported_at": "2024-09-08T19:58:10+02:00"
   },
   {
     "name": "Factorio ARM64",
     "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
     "language": "en",
-    "size": "9.3 KB",
+    "size": "9.79 KB",
     "type": "games-standalone",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-pterodactyl-factorio-a-r-m64.json",
-    "exported_at": "2024-06-01T00:17:39+00:00"
+    "exported_at": "2024-09-08T19:58:10+02:00"
   },
   {
     "name": "Factorio ARM64",
     "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
     "language": "en",
-    "size": "9.82 KB",
+    "size": "10.23 KB",
     "type": "games-standalone",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio-a-r-m64.json",
-    "exported_at": "2024-06-01T00:17:39+00:00"
+    "exported_at": "2024-09-08T19:58:10+02:00"
   },
   {
     "name": "Factorio-ModUpdate",
@@ -1433,21 +1433,21 @@
     "name": "Folding@Home",
     "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
     "language": "en",
-    "size": "5.39 KB",
+    "size": "5.37 KB",
     "type": "software",
     "author": "fuggschen@krk-gaming.de",
     "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-pterodactyl-folding--home.json",
-    "exported_at": "2024-06-02T14:40:59+00:00"
+    "exported_at": "2024-09-08T19:48:06+02:00"
   },
   {
     "name": "Folding@Home",
     "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
     "language": "en",
-    "size": "5.57 KB",
+    "size": "5.55 KB",
     "type": "software",
     "author": "fuggschen@krk-gaming.de",
     "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-folding--home.json",
-    "exported_at": "2024-06-02T14:40:59+00:00"
+    "exported_at": "2024-09-08T19:48:06+02:00"
   },
   {
     "name": "Folia",
@@ -2633,11 +2633,11 @@
     "name": "Multi Theft Auto",
     "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
     "language": "en",
-    "size": "2.5 KB",
+    "size": "2.58 KB",
     "type": "games-standalone",
     "author": "info@six-gaming.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json",
-    "exported_at": "2024-06-01T00:16:55+00:00"
+    "exported_at": "2024-07-11T19:54:02+02:00"
   },
   {
     "name": "Multi Theft Auto",
@@ -2647,7 +2647,7 @@
     "type": "games-standalone",
     "author": "info@six-gaming.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-multi-theft-auto.json",
-    "exported_at": "2024-06-01T00:16:55+00:00"
+    "exported_at": "2024-07-11T19:55:05+02:00"
   },
   {
     "name": "Muse",
