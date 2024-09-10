@@ -95,26 +95,6 @@
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.99 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.82 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
       "name": "Urban Terror",
       "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
       "language": "en",
@@ -133,6 +113,26 @@
       "author": "Juli199696@web.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
       "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.99 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.82 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
     },
     {
       "name": "Teeworlds",
@@ -1135,26 +1135,6 @@
       "exported_at": "2024-06-01T00:17:28+00:00"
     },
     {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.04 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.19 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
       "name": "KissMP Server",
       "description": "Server for the KISS Multiplayer BeamNG.drive mod",
       "language": "en",
@@ -1193,6 +1173,26 @@
       "author": "noah@noahserver.online",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
       "exported_at": "2024-08-03T04:06:03+00:00"
+    },
+    {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.04 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.19 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
       "name": "Among Us - Impostor Server",
@@ -1739,26 +1739,6 @@
       "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
-      "name": "Elixir",
-      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
-      "language": "en",
-      "size": "5.39 KB",
-      "type": "generic",
-      "author": "mravox@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-pterodactyl-elixir.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
-      "name": "Elixir",
-      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
-      "language": "en",
-      "size": "5.6 KB",
-      "type": "generic",
-      "author": "mravox@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
       "name": "Deno Generic",
       "description": "A generic egg to run deno code.",
       "language": "en",
@@ -1776,6 +1756,26 @@
       "type": "generic",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Elixir",
+      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+      "language": "en",
+      "size": "5.39 KB",
+      "type": "generic",
+      "author": "mravox@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-pterodactyl-elixir.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Elixir",
+      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+      "language": "en",
+      "size": "5.6 KB",
+      "type": "generic",
+      "author": "mravox@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
