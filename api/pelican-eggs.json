@@ -1653,21 +1653,21 @@
     "name": "Garry's Mod - Reworked",
     "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
     "language": "en",
-    "size": "3.03 KB",
+    "size": "4.53 KB",
     "type": "games-steamcmd",
     "author": "vilhelm@prytznet.se",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
-    "exported_at": "2024-06-01T00:04:17+00:00"
+    "exported_at": "2024-09-12T19:18:10+02:00"
   },
   {
     "name": "Garry's Mod - Reworked",
     "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
     "language": "en",
-    "size": "3.2 KB",
+    "size": "4.63 KB",
     "type": "games-steamcmd",
     "author": "vilhelm@prytznet.se",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
-    "exported_at": "2024-06-01T00:04:17+00:00"
+    "exported_at": "2024-09-12T17:18:38+00:00"
   },
   {
     "name": "Generic C#",
