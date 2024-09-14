@@ -141,16 +141,6 @@
       "exported_at": "2024-01-25T14:28:42+01:00"
     },
     {
-      "name": "Memories of Mars",
-      "description": "Survive the extreme conditions on Mars. Compete or cooperate with others to gather resources, 3D print your equipment and build your base, unveil the story behind the abandoned mining operations and, ultimately, escape the Red Planet.",
-      "language": "en",
-      "size": "8.56 KB",
-      "type": "memories-of-mars",
-      "author": "info@goover.de",
-      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/memories-of-mars/egg-memories-of-mars.json",
-      "exported_at": "2024-04-28T12:11:46+02:00"
-    },
-    {
       "name": "Miscreated",
       "description": "Miscreated is a multiplayer online hardcore survival game set in a post-apocalyptic future. You will need to survive against mutants, players, and even mother nature herself.",
       "language": "en",
@@ -159,6 +149,16 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/miscreated/egg-miscreated.json",
       "exported_at": "2023-12-25T14:20:04+01:00"
+    },
+    {
+      "name": "Memories of Mars",
+      "description": "Survive the extreme conditions on Mars. Compete or cooperate with others to gather resources, 3D print your equipment and build your base, unveil the story behind the abandoned mining operations and, ultimately, escape the Red Planet.",
+      "language": "en",
+      "size": "8.56 KB",
+      "type": "memories-of-mars",
+      "author": "info@goover.de",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/memories-of-mars/egg-memories-of-mars.json",
+      "exported_at": "2024-04-28T12:11:46+02:00"
     },
     {
       "name": "Last Oasis",

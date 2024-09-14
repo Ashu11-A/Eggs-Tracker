@@ -4043,21 +4043,21 @@
     "name": "SCP:SL - Exiled",
     "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
     "language": "en",
-    "size": "5.61 KB",
+    "size": "5.54 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/exiled/egg-s-c-p--s-l--exiled.json",
-    "exported_at": "2024-06-01T00:04:45+00:00"
+    "exported_at": "2024-09-09T18:01:58+00:00"
   },
   {
     "name": "SCP:SL - Exiled",
     "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
     "language": "en",
-    "size": "5.42 KB",
+    "size": "5.46 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/exiled/egg-pterodactyl-s-c-p--s-l--exiled.json",
-    "exported_at": "2024-06-01T00:04:45+00:00"
+    "exported_at": "2024-09-09T18:01:58+00:00"
   },
   {
     "name": "Sinusbot",
