@@ -1881,26 +1881,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1919,6 +1899,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -3555,6 +3555,26 @@
       "exported_at": "2024-06-01T00:04:41+00:00"
     },
     {
+      "name": "Resonite",
+      "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
+      "language": "en",
+      "size": "7.71 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-resonite.json",
+      "exported_at": "2024-06-01T00:04:38+00:00"
+    },
+    {
+      "name": "Resonite",
+      "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
+      "language": "en",
+      "size": "7.35 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-pterodactyl-resonite.json",
+      "exported_at": "2024-06-01T00:04:38+00:00"
+    },
+    {
       "name": "Quake Live",
       "description": "Quake Live is a first-person shooter video game by id Software. It is an updated version of Quake III Arena that was originally designed as a free-to-play game launched via a web browser plug-in. On September 17, 2014, the game was re-launched as a standalone title on Steam.",
       "language": "en",
@@ -3593,26 +3613,6 @@
       "author": "iamkubi@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-project-zomboid.json",
       "exported_at": "2024-06-01T00:04:36+00:00"
-    },
-    {
-      "name": "Resonite",
-      "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
-      "language": "en",
-      "size": "7.71 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-resonite.json",
-      "exported_at": "2024-06-01T00:04:38+00:00"
-    },
-    {
-      "name": "Resonite",
-      "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
-      "language": "en",
-      "size": "7.35 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-pterodactyl-resonite.json",
-      "exported_at": "2024-06-01T00:04:38+00:00"
     },
     {
       "name": "Post Scriptum",
