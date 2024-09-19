@@ -1257,26 +1257,6 @@
   ],
   "chatbots": [
     {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.58 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
       "name": "PhantomBot",
       "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
@@ -1295,6 +1275,26 @@
       "author": "mail@wuffy.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
       "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.58 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -1577,26 +1577,6 @@
       "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
-      "name": "Aoede",
-      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
-      "language": "en",
-      "size": "4.76 KB",
-      "type": "chatbots",
-      "author": "contact@bldy.ovh",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-pterodactyl-aoede.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
-      "name": "Aoede",
-      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
-      "language": "en",
-      "size": "4.98 KB",
-      "type": "chatbots",
-      "author": "contact@bldy.ovh",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
       "name": "ATLBot",
       "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
       "language": "en",
@@ -1615,6 +1595,26 @@
       "author": "jfeldt19@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
       "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "Aoede",
+      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
+      "language": "en",
+      "size": "4.76 KB",
+      "type": "chatbots",
+      "author": "contact@bldy.ovh",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-pterodactyl-aoede.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Aoede",
+      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
+      "language": "en",
+      "size": "4.98 KB",
+      "type": "chatbots",
+      "author": "contact@bldy.ovh",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
     }
   ],
   "generic": [
@@ -1739,26 +1739,6 @@
       "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
-      "name": "Deno Generic",
-      "description": "A generic egg to run deno code.",
-      "language": "en",
-      "size": "6.76 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-pterodactyl-deno-generic.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
-      "name": "Deno Generic",
-      "description": "A generic egg to run deno code.",
-      "language": "en",
-      "size": "7.01 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
       "name": "Elixir",
       "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
       "language": "en",
@@ -1776,6 +1756,26 @@
       "type": "generic",
       "author": "mravox@proton.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Deno Generic",
+      "description": "A generic egg to run deno code.",
+      "language": "en",
+      "size": "6.76 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-pterodactyl-deno-generic.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Deno Generic",
+      "description": "A generic egg to run deno code.",
+      "language": "en",
+      "size": "7.01 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
@@ -2182,26 +2182,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2611,6 +2591,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
