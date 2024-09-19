@@ -11,16 +11,6 @@
       "exported_at": "2023-10-07T18:01:49+02:00"
     },
     {
-      "name": "Lavalink",
-      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
-      "language": "en",
-      "size": "4.52 KB",
-      "type": "voice",
-      "author": "damuffin36@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
-      "exported_at": "2023-08-04T08:40:49+02:00"
-    },
-    {
       "name": "Teamspeak3 Server ARM64",
       "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
       "language": "en",
@@ -29,6 +19,16 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
       "exported_at": "2022-07-06T17:10:16+02:00"
+    },
+    {
+      "name": "Lavalink",
+      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
+      "language": "en",
+      "size": "4.52 KB",
+      "type": "voice",
+      "author": "damuffin36@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
+      "exported_at": "2023-08-04T08:40:49+02:00"
     }
   ],
   "monitoring": [
@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.71 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
       "name": "JTS3ServerMod",
       "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.71 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1577,26 +1577,6 @@
       "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.42 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Aoede",
       "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
       "language": "en",
@@ -1615,6 +1595,26 @@
       "author": "contact@bldy.ovh",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.42 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     }
   ],
   "generic": [
@@ -1739,26 +1739,6 @@
       "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
-      "name": "Elixir",
-      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
-      "language": "en",
-      "size": "5.39 KB",
-      "type": "generic",
-      "author": "mravox@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-pterodactyl-elixir.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
-      "name": "Elixir",
-      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
-      "language": "en",
-      "size": "5.6 KB",
-      "type": "generic",
-      "author": "mravox@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
       "name": "Deno Generic",
       "description": "A generic egg to run deno code.",
       "language": "en",
@@ -1776,6 +1756,26 @@
       "type": "generic",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Elixir",
+      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+      "language": "en",
+      "size": "5.39 KB",
+      "type": "generic",
+      "author": "mravox@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-pterodactyl-elixir.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Elixir",
+      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+      "language": "en",
+      "size": "5.6 KB",
+      "type": "generic",
+      "author": "mravox@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
@@ -2182,6 +2182,26 @@
     }
   ],
   "minecraft": [
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -4215,26 +4215,6 @@
       "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
-      "name": "Holdfast NaW",
-      "description": "Holdfast: Nations at War",
-      "language": "en",
-      "size": "9.16 KB",
-      "type": "games-steamcmd",
-      "author": "ankit@bmghosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
-      "name": "Holdfast NaW",
-      "description": "Holdfast: Nations at War",
-      "language": "en",
-      "size": "9.58 KB",
-      "type": "games-steamcmd",
-      "author": "ankit@bmghosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-holdfast-na-w.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
       "name": "HumanitZ",
       "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
       "language": "en",
@@ -4253,6 +4233,26 @@
       "author": "engels74@marx.ps",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-humanit-z.json",
       "exported_at": "2024-06-01T00:04:20+00:00"
+    },
+    {
+      "name": "Holdfast NaW",
+      "description": "Holdfast: Nations at War",
+      "language": "en",
+      "size": "9.16 KB",
+      "type": "games-steamcmd",
+      "author": "ankit@bmghosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Holdfast NaW",
+      "description": "Holdfast: Nations at War",
+      "language": "en",
+      "size": "9.58 KB",
+      "type": "games-steamcmd",
+      "author": "ankit@bmghosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-holdfast-na-w.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "Ground Branch",
