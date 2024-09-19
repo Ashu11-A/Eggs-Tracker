@@ -1257,26 +1257,6 @@
   ],
   "chatbots": [
     {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.99 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1297,24 +1277,24 @@
       "exported_at": "2024-06-01T19:44:08+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
-      "size": "2.7 KB",
+      "size": "6.68 KB",
       "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
-      "size": "2.8 KB",
+      "size": "6.99 KB",
       "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "Big Brother Bot",
@@ -1335,6 +1315,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1619,46 +1619,6 @@
   ],
   "generic": [
     {
-      "name": "rust generic",
-      "description": "Creates a container that runs rust with cargo.",
-      "language": "en",
-      "size": "4.94 KB",
-      "type": "generic",
-      "author": "ethan@ethancoward.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-rust-generic.json",
-      "exported_at": "2024-06-02T14:43:53+00:00"
-    },
-    {
-      "name": "rust generic",
-      "description": "Creates a container that runs rust with cargo.",
-      "language": "en",
-      "size": "4.73 KB",
-      "type": "generic",
-      "author": "ethan@ethancoward.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-pterodactyl-rust-generic.json",
-      "exported_at": "2024-06-02T14:43:53+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.38 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.06 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "nodemon",
       "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
       "language": "en",
@@ -1739,6 +1699,26 @@
       "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
+      "name": "rust generic",
+      "description": "Creates a container that runs rust with cargo.",
+      "language": "en",
+      "size": "4.94 KB",
+      "type": "generic",
+      "author": "ethan@ethancoward.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-rust-generic.json",
+      "exported_at": "2024-06-02T14:43:53+00:00"
+    },
+    {
+      "name": "rust generic",
+      "description": "Creates a container that runs rust with cargo.",
+      "language": "en",
+      "size": "4.73 KB",
+      "type": "generic",
+      "author": "ethan@ethancoward.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-pterodactyl-rust-generic.json",
+      "exported_at": "2024-06-02T14:43:53+00:00"
+    },
+    {
       "name": "Elixir",
       "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
       "language": "en",
@@ -1797,6 +1777,26 @@
       "author": "alden@knoban.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
       "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.38 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.06 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
       "name": "Generic C#",
@@ -3518,21 +3518,21 @@
       "name": "Satisfactory",
       "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
       "language": "en",
-      "size": "11.09 KB",
+      "size": "8 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/satisfactory/egg-satisfactory.json",
-      "exported_at": "2024-09-10T16:33:10+00:00"
+      "exported_at": "2024-09-12T17:23:14+00:00"
     },
     {
       "name": "Satisfactory",
       "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
       "language": "en",
-      "size": "10.89 KB",
+      "size": "7.79 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/satisfactory/egg-pterodactyl-satisfactory.json",
-      "exported_at": "2024-09-10T17:58:10+02:00"
+      "exported_at": "2024-09-10T11:11:13-07:00"
     },
     {
       "name": "Risk of Rain 2",
@@ -3635,26 +3635,6 @@
       "exported_at": "2024-06-01T00:04:36+00:00"
     },
     {
-      "name": "Portal Knights",
-      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
-      "language": "en",
-      "size": "8.32 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-pterodactyl-portal-knights.json",
-      "exported_at": "2024-06-01T00:04:35+00:00"
-    },
-    {
-      "name": "Portal Knights",
-      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
-      "language": "en",
-      "size": "8.76 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-portal-knights.json",
-      "exported_at": "2024-06-01T00:04:35+00:00"
-    },
-    {
       "name": "PixARK",
       "description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel",
       "language": "en",
@@ -3673,6 +3653,26 @@
       "author": "hello@venatus.digital",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pixark/egg-pix-a-r-k.json",
       "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
+      "name": "Portal Knights",
+      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+      "language": "en",
+      "size": "8.32 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-pterodactyl-portal-knights.json",
+      "exported_at": "2024-06-01T00:04:35+00:00"
+    },
+    {
+      "name": "Portal Knights",
+      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+      "language": "en",
+      "size": "8.76 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-portal-knights.json",
+      "exported_at": "2024-06-01T00:04:35+00:00"
     },
     {
       "name": "Pavlov VR",
@@ -4035,26 +4035,6 @@
       "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
-      "name": "Midnight Ghost Hunt",
-      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
-      "language": "en",
-      "size": "8.11 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
-      "exported_at": "2024-07-28T19:43:17+02:00"
-    },
-    {
-      "name": "Midnight Ghost Hunt",
-      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
-      "language": "en",
-      "size": "8.38 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
-      "exported_at": "2024-07-28T19:43:17+02:00"
-    },
-    {
       "name": "Longvinter",
       "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
       "language": "en",
@@ -4073,6 +4053,26 @@
       "author": "tueye@tuworld.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
       "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Midnight Ghost Hunt",
+      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
+      "language": "en",
+      "size": "8.11 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
+      "exported_at": "2024-07-28T19:43:17+02:00"
+    },
+    {
+      "name": "Midnight Ghost Hunt",
+      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
+      "language": "en",
+      "size": "8.38 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
+      "exported_at": "2024-07-28T19:43:17+02:00"
     },
     {
       "name": "Left 4 Dead 2",
@@ -4275,26 +4275,6 @@
       "exported_at": "2024-06-01T00:04:18+00:00"
     },
     {
-      "name": "Garry's Mod - Reworked",
-      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-      "language": "en",
-      "size": "4.53 KB",
-      "type": "games-steamcmd",
-      "author": "vilhelm@prytznet.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
-      "exported_at": "2024-09-12T19:18:10+02:00"
-    },
-    {
-      "name": "Garry's Mod - Reworked",
-      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-      "language": "en",
-      "size": "4.63 KB",
-      "type": "games-steamcmd",
-      "author": "vilhelm@prytznet.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
-      "exported_at": "2024-09-12T17:18:38+00:00"
-    },
-    {
       "name": "Frozen Flame",
       "description": "Frozen Flame Dedicated Server",
       "language": "en",
@@ -4313,6 +4293,26 @@
       "author": "theblitzbat@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-frozen-flame.json",
       "exported_at": "2024-06-01T00:04:14+00:00"
+    },
+    {
+      "name": "Garry's Mod - Reworked",
+      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
+      "language": "en",
+      "size": "4.53 KB",
+      "type": "games-steamcmd",
+      "author": "vilhelm@prytznet.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
+      "exported_at": "2024-09-12T19:18:10+02:00"
+    },
+    {
+      "name": "Garry's Mod - Reworked",
+      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
+      "language": "en",
+      "size": "4.63 KB",
+      "type": "games-steamcmd",
+      "author": "vilhelm@prytznet.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
+      "exported_at": "2024-09-12T17:18:38+00:00"
     },
     {
       "name": "Foundry",
@@ -4395,26 +4395,6 @@
       "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
-      "name": "Eco",
-      "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
-      "language": "en",
-      "size": "8.96 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-pterodactyl-eco.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
-      "name": "Eco",
-      "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
-      "language": "en",
-      "size": "9.37 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-eco.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
       "name": "Don't Starve Together",
       "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
       "language": "en",
@@ -4433,6 +4413,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
       "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Eco",
+      "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
+      "language": "en",
+      "size": "8.96 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-pterodactyl-eco.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Eco",
+      "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
+      "language": "en",
+      "size": "9.37 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-eco.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
       "name": "Dead Matter",
@@ -4595,26 +4595,6 @@
       "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.3 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.57 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
       "name": "Black Mesa",
       "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
       "language": "en",
@@ -4633,6 +4613,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
       "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.3 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.57 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
       "name": "BATTALION: Legacy",
