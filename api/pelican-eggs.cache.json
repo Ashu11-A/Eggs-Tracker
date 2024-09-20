@@ -295,26 +295,6 @@
       "exported_at": "2024-06-01T00:16:56+00:00"
     },
     {
-      "name": "mohaa",
-      "description": "Medal of Honor: Allied Assault",
-      "language": "en",
-      "size": "5.45 KB",
-      "type": "games-standalone",
-      "author": "th3dilli@gmx.at",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-pterodactyl-mohaa.json",
-      "exported_at": "2024-06-01T00:16:54+00:00"
-    },
-    {
-      "name": "mohaa",
-      "description": "Medal of Honor: Allied Assault",
-      "language": "en",
-      "size": "5.75 KB",
-      "type": "games-standalone",
-      "author": "th3dilli@gmx.at",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-mohaa.json",
-      "exported_at": "2024-06-01T00:16:54+00:00"
-    },
-    {
       "name": "Nazi Zombies: Portable",
       "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
       "language": "en",
@@ -333,6 +313,26 @@
       "author": "jordanadamsbusiness@outlook.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
       "exported_at": "2024-06-24T08:55:54+00:00"
+    },
+    {
+      "name": "mohaa",
+      "description": "Medal of Honor: Allied Assault",
+      "language": "en",
+      "size": "5.45 KB",
+      "type": "games-standalone",
+      "author": "th3dilli@gmx.at",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-pterodactyl-mohaa.json",
+      "exported_at": "2024-06-01T00:16:54+00:00"
+    },
+    {
+      "name": "mohaa",
+      "description": "Medal of Honor: Allied Assault",
+      "language": "en",
+      "size": "5.75 KB",
+      "type": "games-standalone",
+      "author": "th3dilli@gmx.at",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-mohaa.json",
+      "exported_at": "2024-06-01T00:16:54+00:00"
     },
     {
       "name": "Minetest",
@@ -2141,26 +2141,6 @@
       "exported_at": "2024-06-02T14:40:58+00:00"
     },
     {
-      "name": "Code-Server",
-      "description": "Run VS Code on any machine anywhere and access it in the browser.",
-      "language": "en",
-      "size": "4.29 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-pterodactyl-code--server.json",
-      "exported_at": "2024-06-02T14:40:57+00:00"
-    },
-    {
-      "name": "Code-Server",
-      "description": "Run VS Code on any machine anywhere and access it in the browser.",
-      "language": "en",
-      "size": "4.47 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-code--server.json",
-      "exported_at": "2024-06-02T14:40:57+00:00"
-    },
-    {
       "name": "5e Tools",
       "description": "A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters.",
       "language": "en",
@@ -2179,6 +2159,26 @@
       "author": "pterodactyl@demi.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/5e-tools/egg-5e-tools.json",
       "exported_at": "2024-06-02T14:40:56+00:00"
+    },
+    {
+      "name": "Code-Server",
+      "description": "Run VS Code on any machine anywhere and access it in the browser.",
+      "language": "en",
+      "size": "4.29 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-pterodactyl-code--server.json",
+      "exported_at": "2024-06-02T14:40:57+00:00"
+    },
+    {
+      "name": "Code-Server",
+      "description": "Run VS Code on any machine anywhere and access it in the browser.",
+      "language": "en",
+      "size": "4.47 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-code--server.json",
+      "exported_at": "2024-06-02T14:40:57+00:00"
     }
   ],
   "minecraft": [
@@ -4875,6 +4875,46 @@
       "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
+      "name": "V Rising",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "15.85 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-v-rising.json",
+      "exported_at": "2024-08-02T10:52:39-07:00"
+    },
+    {
+      "name": "V Rising",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "15.11 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
+      "exported_at": "2024-08-02T10:52:39-07:00"
+    },
+    {
+      "name": "V Rising BepInEx",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "20.88 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
+      "exported_at": "2024-06-01T00:05:07+00:00"
+    },
+    {
+      "name": "V Rising BepInEx",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "20.03 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
+      "exported_at": "2024-06-01T00:05:07+00:00"
+    },
+    {
       "name": "Valheim",
       "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
       "language": "en",
@@ -4933,46 +4973,6 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_bepinex/egg-pterodactyl-valheim-bep-i-nex.json",
       "exported_at": "2024-06-01T00:05:04+00:00"
-    },
-    {
-      "name": "V Rising",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "15.85 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-v-rising.json",
-      "exported_at": "2024-08-02T10:52:39-07:00"
-    },
-    {
-      "name": "V Rising",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "15.11 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
-      "exported_at": "2024-08-02T10:52:39-07:00"
-    },
-    {
-      "name": "V Rising BepInEx",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "20.88 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
-    },
-    {
-      "name": "V Rising BepInEx",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "20.03 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
     },
     {
       "name": "Euro Truck Simulator 2 Dedicated server",
@@ -5155,26 +5155,6 @@
       "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
-      "name": "Rust Staging",
-      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
-      "language": "en",
-      "size": "10.6 KB",
-      "type": "games-steamcmd",
-      "author": "root@smc.li",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_staging/egg-rust-staging.json",
-      "exported_at": "2024-06-01T00:04:43+00:00"
-    },
-    {
-      "name": "Rust Staging",
-      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
-      "language": "en",
-      "size": "10.12 KB",
-      "type": "games-steamcmd",
-      "author": "root@smc.li",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_staging/egg-pterodactyl-rust-staging.json",
-      "exported_at": "2024-06-01T00:04:43+00:00"
-    },
-    {
       "name": "Rust Autowipe",
       "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
       "language": "en",
@@ -5192,6 +5172,26 @@
       "type": "games-steamcmd",
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_autowipe/egg-pterodactyl-rust-autowipe.json",
+      "exported_at": "2024-06-01T00:04:43+00:00"
+    },
+    {
+      "name": "Rust Staging",
+      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
+      "language": "en",
+      "size": "10.6 KB",
+      "type": "games-steamcmd",
+      "author": "root@smc.li",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_staging/egg-rust-staging.json",
+      "exported_at": "2024-06-01T00:04:43+00:00"
+    },
+    {
+      "name": "Rust Staging",
+      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
+      "language": "en",
+      "size": "10.12 KB",
+      "type": "games-steamcmd",
+      "author": "root@smc.li",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_staging/egg-pterodactyl-rust-staging.json",
       "exported_at": "2024-06-01T00:04:43+00:00"
     },
     {
