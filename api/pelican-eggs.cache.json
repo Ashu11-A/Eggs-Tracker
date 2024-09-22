@@ -395,26 +395,6 @@
       "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
-      "name": "KSP DMP",
-      "description": "Dark Multiplayer mod server for Kerbal Space Program",
-      "language": "en",
-      "size": "4.14 KB",
-      "type": "games-standalone",
-      "author": "rufanyin29@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ksp/egg-pterodactyl-k-s-p-d-m-p.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
-      "name": "KSP DMP",
-      "description": "Dark Multiplayer mod server for Kerbal Space Program",
-      "language": "en",
-      "size": "4.37 KB",
-      "type": "games-standalone",
-      "author": "rufanyin29@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ksp/egg-k-s-p-d-m-p.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
       "name": "LeagueSandbox",
       "description": "A simple egg to run LeagueSandbox server in pterodactyl",
       "language": "en",
@@ -433,6 +413,26 @@
       "author": "domi@imagine.team",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-league-sandbox.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "KSP DMP",
+      "description": "Dark Multiplayer mod server for Kerbal Space Program",
+      "language": "en",
+      "size": "4.14 KB",
+      "type": "games-standalone",
+      "author": "rufanyin29@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ksp/egg-pterodactyl-k-s-p-d-m-p.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "KSP DMP",
+      "description": "Dark Multiplayer mod server for Kerbal Space Program",
+      "language": "en",
+      "size": "4.37 KB",
+      "type": "games-standalone",
+      "author": "rufanyin29@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ksp/egg-k-s-p-d-m-p.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
       "name": "Hogwarp",
@@ -1155,26 +1155,6 @@
       "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
-      "name": "BeamMP Servers",
-      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
-      "language": "en",
-      "size": "9.28 KB",
-      "type": "games-standalone",
-      "author": "noah@noahserver.online",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
-      "exported_at": "2024-08-03T06:04:16+02:00"
-    },
-    {
-      "name": "BeamMP Servers",
-      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
-      "language": "en",
-      "size": "9.51 KB",
-      "type": "games-standalone",
-      "author": "noah@noahserver.online",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
-      "exported_at": "2024-08-03T04:06:03+00:00"
-    },
-    {
       "name": "KissMP Server",
       "description": "Server for the KISS Multiplayer BeamNG.drive mod",
       "language": "en",
@@ -1193,6 +1173,26 @@
       "author": "me@weilbyte.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-kiss-m-p-server.json",
       "exported_at": "2024-06-01T00:16:50+00:00"
+    },
+    {
+      "name": "BeamMP Servers",
+      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+      "language": "en",
+      "size": "9.28 KB",
+      "type": "games-standalone",
+      "author": "noah@noahserver.online",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
+      "exported_at": "2024-08-03T06:04:16+02:00"
+    },
+    {
+      "name": "BeamMP Servers",
+      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+      "language": "en",
+      "size": "9.51 KB",
+      "type": "games-standalone",
+      "author": "noah@noahserver.online",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
+      "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
       "name": "Among Us - Impostor Server",
@@ -4335,26 +4335,6 @@
       "exported_at": "2024-06-01T00:04:14+00:00"
     },
     {
-      "name": "Fof",
-      "description": "Fistful of Frags",
-      "language": "en",
-      "size": "5.48 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-pterodactyl-fof.json",
-      "exported_at": "2024-06-01T00:04:13+00:00"
-    },
-    {
-      "name": "Fof",
-      "description": "Fistful of Frags",
-      "language": "en",
-      "size": "5.68 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
-      "exported_at": "2024-06-01T00:04:13+00:00"
-    },
-    {
       "name": "Foundry",
       "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
       "language": "en",
@@ -4373,6 +4353,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-foundry.json",
       "exported_at": "2024-08-25T09:33:05+00:00"
+    },
+    {
+      "name": "Fof",
+      "description": "Fistful of Frags",
+      "language": "en",
+      "size": "5.48 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-pterodactyl-fof.json",
+      "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Fof",
+      "description": "Fistful of Frags",
+      "language": "en",
+      "size": "5.68 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
+      "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
       "name": "Enshrouded",
