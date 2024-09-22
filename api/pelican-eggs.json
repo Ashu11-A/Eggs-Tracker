@@ -4710,6 +4710,26 @@
     "exported_at": "2024-06-01T19:40:18+00:00"
   },
   {
+    "name": "Tekkit SMP",
+    "description": "Tekkit SMP contains the full range of mods from Tekkit 2, plus the extra mods that were originally dropped in the transition from Technic SSP (to Technic SMP) to Tekkit, in favour of multiplayer and Bukkit support: mainly Thaumcraft, Mystcraft, and Mo' Creatures. The new Tekkit SMP expands on that with various carefully selected Thaumcraft and Mystcraft addons, alongside Mo' Creatures Extended, and smaller custom additions such as Re-Crystallized Wing. Electro-Magic Tools is another starring mod, being an addon to both Industrial Craft and Thaumcraft, combining the worlds of tech and magic.",
+    "language": "en",
+    "size": "3.96 KB",
+    "type": "minecraft",
+    "author": "lovinoes@lovinoes.de",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-smp/egg-tekkit-smp.json",
+    "exported_at": "2024-09-12T19:50:57+00:00"
+  },
+  {
+    "name": "Tekkit SMP",
+    "description": "Tekkit SMP contains the full range of mods from Tekkit 2, plus the extra mods that were originally dropped in the transition from Technic SSP (to Technic SMP) to Tekkit, in favour of multiplayer and Bukkit support: mainly Thaumcraft, Mystcraft, and Mo' Creatures. The new Tekkit SMP expands on that with various carefully selected Thaumcraft and Mystcraft addons, alongside Mo' Creatures Extended, and smaller custom additions such as Re-Crystallized Wing. Electro-Magic Tools is another starring mod, being an addon to both Industrial Craft and Thaumcraft, combining the worlds of tech and magic.",
+    "language": "en",
+    "size": "3.73 KB",
+    "type": "minecraft",
+    "author": "lovinoes@lovinoes.de",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-smp/egg-pterodactyl-tekkit-smp.json",
+    "exported_at": "2024-09-12T21:48:20+02:00"
+  },
+  {
     "name": "Terraria Vanilla",
     "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
     "language": "en",
