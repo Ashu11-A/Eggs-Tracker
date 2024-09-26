@@ -195,26 +195,6 @@
       "exported_at": "2024-09-10T18:24:40+02:00"
     },
     {
-      "name": "OpenTTD Server",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.3 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
-      "exported_at": "2024-06-01T00:17:01+00:00"
-    },
-    {
-      "name": "OpenTTD Server",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.5 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
-      "exported_at": "2024-06-01T00:17:01+00:00"
-    },
-    {
       "name": "Path Of Titans",
       "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
       "language": "en",
@@ -233,6 +213,26 @@
       "author": "danielivanvladimir.revin@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-path-of-titans.json",
       "exported_at": "2024-06-01T00:17:02+00:00"
+    },
+    {
+      "name": "OpenTTD Server",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.3 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
+      "exported_at": "2024-06-01T00:17:01+00:00"
+    },
+    {
+      "name": "OpenTTD Server",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.5 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
+      "exported_at": "2024-06-01T00:17:01+00:00"
     },
     {
       "name": "OpenRCT2",
@@ -2553,26 +2553,6 @@
       "exported_at": "2024-08-02T12:14:52+00:00"
     },
     {
-      "name": "CurseForge Generic",
-      "description": "A generic egg for a CurseForge modpack.",
-      "language": "en",
-      "size": "20.14 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
-      "exported_at": "2024-06-01T19:39:54+00:00"
-    },
-    {
-      "name": "CurseForge Generic",
-      "description": "A generic egg for a CurseForge modpack.",
-      "language": "en",
-      "size": "20.3 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
-      "exported_at": "2024-06-01T19:39:54+00:00"
-    },
-    {
       "name": "Cuberite",
       "description": "A lightweight, fast and extensible game server for Minecraft",
       "language": "en",
@@ -2591,6 +2571,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "CurseForge Generic",
+      "description": "A generic egg for a CurseForge modpack.",
+      "language": "en",
+      "size": "20.14 KB",
+      "type": "minecraft",
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
+      "exported_at": "2024-06-01T19:39:54+00:00"
+    },
+    {
+      "name": "CurseForge Generic",
+      "description": "A generic egg for a CurseForge modpack.",
+      "language": "en",
+      "size": "20.3 KB",
+      "type": "minecraft",
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
+      "exported_at": "2024-06-01T19:39:54+00:00"
     },
     {
       "name": "Purpur-Geyser-Floodgate",
