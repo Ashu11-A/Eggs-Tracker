@@ -195,26 +195,6 @@
       "exported_at": "2024-09-10T18:24:40+02:00"
     },
     {
-      "name": "Path Of Titans",
-      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
-      "language": "en",
-      "size": "5.4 KB",
-      "type": "games-standalone",
-      "author": "danielivanvladimir.revin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
-      "exported_at": "2024-06-01T00:17:02+00:00"
-    },
-    {
-      "name": "Path Of Titans",
-      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
-      "language": "en",
-      "size": "5.69 KB",
-      "type": "games-standalone",
-      "author": "danielivanvladimir.revin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-path-of-titans.json",
-      "exported_at": "2024-06-01T00:17:02+00:00"
-    },
-    {
       "name": "OpenTTD Server",
       "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
       "language": "en",
@@ -233,6 +213,26 @@
       "author": "admin@justmyrandomstuff.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
       "exported_at": "2024-06-01T00:17:01+00:00"
+    },
+    {
+      "name": "Path Of Titans",
+      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
+      "language": "en",
+      "size": "5.4 KB",
+      "type": "games-standalone",
+      "author": "danielivanvladimir.revin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
+      "exported_at": "2024-06-01T00:17:02+00:00"
+    },
+    {
+      "name": "Path Of Titans",
+      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
+      "language": "en",
+      "size": "5.69 KB",
+      "type": "games-standalone",
+      "author": "danielivanvladimir.revin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-path-of-titans.json",
+      "exported_at": "2024-06-01T00:17:02+00:00"
     },
     {
       "name": "OpenRCT2",
@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.71 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
       "name": "JTS3ServerMod",
       "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.71 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Sinusbot",
@@ -4175,26 +4175,6 @@
       "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
-      "name": "Icarus-Dedicated",
-      "description": "Icarus is a survival game that with dedicated servers as a public beta",
-      "language": "en",
-      "size": "6.26 KB",
-      "type": "games-steamcmd",
-      "author": "bolverblitz@ebg.pw",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-pterodactyl-icarus--dedicated.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
-      "name": "Icarus-Dedicated",
-      "description": "Icarus is a survival game that with dedicated servers as a public beta",
-      "language": "en",
-      "size": "6.61 KB",
-      "type": "games-steamcmd",
-      "author": "bolverblitz@ebg.pw",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
       "name": "Insurgency: Sandstorm",
       "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
       "language": "en",
@@ -4213,6 +4193,26 @@
       "author": "brycea@terrahost.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
       "exported_at": "2023-11-13T18:26:59+01:00"
+    },
+    {
+      "name": "Icarus-Dedicated",
+      "description": "Icarus is a survival game that with dedicated servers as a public beta",
+      "language": "en",
+      "size": "6.26 KB",
+      "type": "games-steamcmd",
+      "author": "bolverblitz@ebg.pw",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-pterodactyl-icarus--dedicated.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Icarus-Dedicated",
+      "description": "Icarus is a survival game that with dedicated servers as a public beta",
+      "language": "en",
+      "size": "6.61 KB",
+      "type": "games-steamcmd",
+      "author": "bolverblitz@ebg.pw",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
       "name": "Hurtworld",
