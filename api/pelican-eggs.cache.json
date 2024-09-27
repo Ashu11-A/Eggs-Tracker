@@ -11,16 +11,6 @@
       "exported_at": "2023-10-07T18:01:49+02:00"
     },
     {
-      "name": "Teamspeak3 Server ARM64",
-      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
-      "language": "en",
-      "size": "3.33 KB",
-      "type": "voice",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
-      "exported_at": "2022-07-06T17:10:16+02:00"
-    },
-    {
       "name": "Lavalink",
       "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
       "language": "en",
@@ -29,6 +19,16 @@
       "author": "damuffin36@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
       "exported_at": "2023-08-04T08:40:49+02:00"
+    },
+    {
+      "name": "Teamspeak3 Server ARM64",
+      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+      "language": "en",
+      "size": "3.33 KB",
+      "type": "voice",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
+      "exported_at": "2022-07-06T17:10:16+02:00"
     }
   ],
   "monitoring": [
@@ -315,26 +315,6 @@
       "exported_at": "2024-06-24T08:55:54+00:00"
     },
     {
-      "name": "Minetest",
-      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
-      "language": "en",
-      "size": "11.02 KB",
-      "type": "games-standalone",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-pterodactyl-minetest.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
-      "name": "Minetest",
-      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
-      "language": "en",
-      "size": "11.54 KB",
-      "type": "games-standalone",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-minetest.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
       "name": "mohaa",
       "description": "Medal of Honor: Allied Assault",
       "language": "en",
@@ -353,6 +333,26 @@
       "author": "th3dilli@gmx.at",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-mohaa.json",
       "exported_at": "2024-06-01T00:16:54+00:00"
+    },
+    {
+      "name": "Minetest",
+      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
+      "language": "en",
+      "size": "11.02 KB",
+      "type": "games-standalone",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-pterodactyl-minetest.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "Minetest",
+      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
+      "language": "en",
+      "size": "11.54 KB",
+      "type": "games-standalone",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-minetest.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
       "name": "Mindustry",
@@ -595,26 +595,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.26 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.4 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
@@ -633,6 +613,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.26 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.4 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1639,26 +1639,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.38 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.06 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "nodemon",
       "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
       "language": "en",
@@ -1676,6 +1656,26 @@
       "type": "generic",
       "author": "nick@blackforthosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.38 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.06 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
