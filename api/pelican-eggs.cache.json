@@ -1257,26 +1257,6 @@
   ],
   "chatbots": [
     {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.58 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
       "name": "PhantomBot",
       "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
@@ -1295,6 +1275,26 @@
       "author": "mail@wuffy.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
       "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.58 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -3795,26 +3795,6 @@
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
-      "name": "Nova-Life: Amboise",
-      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
-      "language": "en",
-      "size": "6.74 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
-      "name": "Nova-Life: Amboise",
-      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
-      "language": "en",
-      "size": "6.97 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-nova--life--amboise.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
       "name": "Onset",
       "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
       "language": "en",
@@ -3832,6 +3812,26 @@
       "type": "games-steamcmd",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Nova-Life: Amboise",
+      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
+      "language": "en",
+      "size": "6.74 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Nova-Life: Amboise",
+      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
+      "language": "en",
+      "size": "6.97 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-nova--life--amboise.json",
       "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
@@ -4135,26 +4135,6 @@
       "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "4.96 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "5.23 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
       "name": "Killing Floor 2",
       "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
       "language": "en",
@@ -4173,6 +4153,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-killing-floor2.json",
       "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "4.96 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "5.23 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
       "name": "Insurgency: Sandstorm",
@@ -4955,26 +4955,6 @@
       "exported_at": "2024-06-01T00:05:04+00:00"
     },
     {
-      "name": "V Rising",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "15.85 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-v-rising.json",
-      "exported_at": "2024-08-02T10:52:39-07:00"
-    },
-    {
-      "name": "V Rising",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "15.11 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
-      "exported_at": "2024-08-02T10:52:39-07:00"
-    },
-    {
       "name": "V Rising BepInEx",
       "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
       "language": "en",
@@ -4993,6 +4973,26 @@
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
       "exported_at": "2024-06-01T00:05:07+00:00"
+    },
+    {
+      "name": "V Rising",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "15.85 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-v-rising.json",
+      "exported_at": "2024-08-02T10:52:39-07:00"
+    },
+    {
+      "name": "V Rising",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "15.11 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
+      "exported_at": "2024-08-02T10:52:39-07:00"
     },
     {
       "name": "Euro Truck Simulator 2 Dedicated server",
