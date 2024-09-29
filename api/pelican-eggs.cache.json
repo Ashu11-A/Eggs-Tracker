@@ -33,16 +33,6 @@
   ],
   "monitoring": [
     {
-      "name": "Loki",
-      "description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this",
-      "language": "en",
-      "size": "3 KB",
-      "type": "monitoring",
-      "author": "unknown@unknown.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/loki/egg-loki.json",
-      "exported_at": "2024-06-02T14:38:07+00:00"
-    },
-    {
       "name": "Prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "language": "en",
@@ -51,6 +41,16 @@
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/prometheus/egg-prometheus.json",
       "exported_at": "2024-06-02T14:38:06+00:00"
+    },
+    {
+      "name": "Loki",
+      "description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this",
+      "language": "en",
+      "size": "3 KB",
+      "type": "monitoring",
+      "author": "unknown@unknown.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/loki/egg-loki.json",
+      "exported_at": "2024-06-02T14:38:07+00:00"
     }
   ],
   "games-standalone": [
@@ -1015,26 +1015,6 @@
       "exported_at": "2024-06-01T00:17:38+00:00"
     },
     {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.08 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.37 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
       "name": "Factorio",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
@@ -1073,6 +1053,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio-a-r-m64.json",
       "exported_at": "2024-09-08T19:58:10+02:00"
+    },
+    {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.08 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.37 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
     },
     {
       "name": "Zandronum",
@@ -1195,26 +1195,6 @@
       "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
-      "name": "Among Us - Impostor Server",
-      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
-      "language": "en",
-      "size": "3.42 KB",
-      "type": "games-standalone",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
-      "exported_at": "2024-07-01T10:26:38+02:00"
-    },
-    {
-      "name": "Among Us - Impostor Server",
-      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "games-standalone",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
-      "exported_at": "2024-07-01T08:27:45+00:00"
-    },
-    {
       "name": "Crewlink server",
       "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
       "language": "en",
@@ -1233,6 +1213,26 @@
       "author": "panel@oxtroit.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Among Us - Impostor Server",
+      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
+      "language": "en",
+      "size": "3.42 KB",
+      "type": "games-standalone",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
+      "exported_at": "2024-07-01T10:26:38+02:00"
+    },
+    {
+      "name": "Among Us - Impostor Server",
+      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "games-standalone",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
+      "exported_at": "2024-07-01T08:27:45+00:00"
     },
     {
       "name": "BetterCrewlink Server",
@@ -2183,26 +2183,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2423,26 +2403,6 @@
       "exported_at": "2024-06-01T19:40:02+00:00"
     },
     {
-      "name": "Limbo",
-      "description": "Standalone server program Limbo.",
-      "language": "en",
-      "size": "2.28 KB",
-      "type": "minecraft",
-      "author": "xEfinax@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/limbo/egg-pterodactyl-limbo.json",
-      "exported_at": "2024-06-01T19:40:00+00:00"
-    },
-    {
-      "name": "Limbo",
-      "description": "Standalone server program Limbo.",
-      "language": "en",
-      "size": "2.4 KB",
-      "type": "minecraft",
-      "author": "xEfinax@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/limbo/egg-limbo.json",
-      "exported_at": "2024-06-01T19:40:00+00:00"
-    },
-    {
       "name": "Magma",
       "description": "Magma is most powerful Forge server providing you with Forge mods and Bukkit Plugins using Spigot and Paper for Performance Optimization and Stability. Using: https://github.com/magmamaintained",
       "language": "en",
@@ -2481,6 +2441,26 @@
       "author": "callum.seabrook@prevarinite.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/krypton/egg-krypton.json",
       "exported_at": "2024-06-01T19:39:47+00:00"
+    },
+    {
+      "name": "Limbo",
+      "description": "Standalone server program Limbo.",
+      "language": "en",
+      "size": "2.28 KB",
+      "type": "minecraft",
+      "author": "xEfinax@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/limbo/egg-pterodactyl-limbo.json",
+      "exported_at": "2024-06-01T19:40:00+00:00"
+    },
+    {
+      "name": "Limbo",
+      "description": "Standalone server program Limbo.",
+      "language": "en",
+      "size": "2.4 KB",
+      "type": "minecraft",
+      "author": "xEfinax@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/limbo/egg-limbo.json",
+      "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
       "name": "Glowstone",
@@ -2611,6 +2591,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -4815,26 +4815,6 @@
       "exported_at": "2024-06-01T00:03:54+00:00"
     },
     {
-      "name": "ARK: Survival Ascended",
-      "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
-      "language": "en",
-      "size": "11.57 KB",
-      "type": "games-steamcmd",
-      "author": "blood@darkartsgaming.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
-    },
-    {
-      "name": "ARK: Survival Ascended",
-      "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
-      "language": "en",
-      "size": "11.99 KB",
-      "type": "games-steamcmd",
-      "author": "blood@darkartsgaming.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
-    },
-    {
       "name": "Ark: Survival Evolved",
       "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
       "language": "en",
@@ -4852,6 +4832,26 @@
       "type": "games-steamcmd",
       "author": "dev@shepper.fr",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
+      "exported_at": "2024-06-01T00:03:48+00:00"
+    },
+    {
+      "name": "ARK: Survival Ascended",
+      "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+      "language": "en",
+      "size": "11.57 KB",
+      "type": "games-steamcmd",
+      "author": "blood@darkartsgaming.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json",
+      "exported_at": "2024-06-01T00:03:48+00:00"
+    },
+    {
+      "name": "ARK: Survival Ascended",
+      "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+      "language": "en",
+      "size": "11.99 KB",
+      "type": "games-steamcmd",
+      "author": "blood@darkartsgaming.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json",
       "exported_at": "2024-06-01T00:03:48+00:00"
     },
     {
