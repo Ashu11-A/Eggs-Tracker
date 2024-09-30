@@ -215,26 +215,6 @@
       "exported_at": "2024-06-01T00:17:02+00:00"
     },
     {
-      "name": "OpenTTD Server",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.3 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
-      "exported_at": "2024-06-01T00:17:01+00:00"
-    },
-    {
-      "name": "OpenTTD Server",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.5 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
-      "exported_at": "2024-06-01T00:17:01+00:00"
-    },
-    {
       "name": "OpenRCT2",
       "description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits.",
       "language": "en",
@@ -252,6 +232,26 @@
       "type": "games-standalone",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openrct2/egg-open-r-c-t2.json",
+      "exported_at": "2024-06-01T00:17:01+00:00"
+    },
+    {
+      "name": "OpenTTD Server",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.3 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
+      "exported_at": "2024-06-01T00:17:01+00:00"
+    },
+    {
+      "name": "OpenTTD Server",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.5 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
       "exported_at": "2024-06-01T00:17:01+00:00"
     },
     {
@@ -715,26 +715,6 @@
       "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
-      "name": "Rimworld Together",
-      "description": "A community driven multiplayer mod, for Rimworld.",
-      "language": "en",
-      "size": "4.12 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-rimworld-together.json",
-      "exported_at": "2024-06-01T00:17:07+00:00"
-    },
-    {
-      "name": "Rimworld Together",
-      "description": "A community driven multiplayer mod, for Rimworld.",
-      "language": "en",
-      "size": "3.97 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
-      "exported_at": "2024-06-01T00:17:07+00:00"
-    },
-    {
       "name": "Rimworld: Open World",
       "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
       "language": "en",
@@ -753,6 +733,26 @@
       "author": "kyle@williquette.us",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
       "exported_at": "2024-06-01T00:17:08+00:00"
+    },
+    {
+      "name": "Rimworld Together",
+      "description": "A community driven multiplayer mod, for Rimworld.",
+      "language": "en",
+      "size": "4.12 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-rimworld-together.json",
+      "exported_at": "2024-06-01T00:17:07+00:00"
+    },
+    {
+      "name": "Rimworld Together",
+      "description": "A community driven multiplayer mod, for Rimworld.",
+      "language": "en",
+      "size": "3.97 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
+      "exported_at": "2024-06-01T00:17:07+00:00"
     },
     {
       "name": "RedM",
@@ -1257,26 +1257,6 @@
   ],
   "chatbots": [
     {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.99 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1295,6 +1275,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
       "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.99 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -4955,26 +4955,6 @@
       "exported_at": "2024-06-01T00:05:04+00:00"
     },
     {
-      "name": "V Rising BepInEx",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "20.88 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
-    },
-    {
-      "name": "V Rising BepInEx",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "20.03 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
-    },
-    {
       "name": "V Rising",
       "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
       "language": "en",
@@ -4993,6 +4973,26 @@
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
       "exported_at": "2024-08-02T10:52:39-07:00"
+    },
+    {
+      "name": "V Rising BepInEx",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "20.88 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
+      "exported_at": "2024-06-01T00:05:07+00:00"
+    },
+    {
+      "name": "V Rising BepInEx",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "20.03 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
+      "exported_at": "2024-06-01T00:05:07+00:00"
     },
     {
       "name": "Euro Truck Simulator 2 Dedicated server",
