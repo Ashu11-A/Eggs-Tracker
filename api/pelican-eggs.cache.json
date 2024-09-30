@@ -1215,26 +1215,6 @@
       "exported_at": "2024-07-01T08:27:45+00:00"
     },
     {
-      "name": "BetterCrewlink Server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
-      "language": "en",
-      "size": "3.66 KB",
-      "type": "games-standalone",
-      "author": "tobiornotto@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-pterodactyl-better-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
-      "name": "BetterCrewlink Server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
-      "language": "en",
-      "size": "3.87 KB",
-      "type": "games-standalone",
-      "author": "tobiornotto@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
       "name": "Crewlink server",
       "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
       "language": "en",
@@ -1253,6 +1233,26 @@
       "author": "panel@oxtroit.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "BetterCrewlink Server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
+      "language": "en",
+      "size": "3.66 KB",
+      "type": "games-standalone",
+      "author": "tobiornotto@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-pterodactyl-better-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "BetterCrewlink Server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
+      "language": "en",
+      "size": "3.87 KB",
+      "type": "games-standalone",
+      "author": "tobiornotto@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
     }
   ],
   "chatbots": [
@@ -2183,6 +2183,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -3915,26 +3915,6 @@
       "exported_at": "2024-06-15T18:59:35+02:00"
     },
     {
-      "name": "Necesse",
-      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
-      "language": "en",
-      "size": "7.19 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-pterodactyl-necesse.json",
-      "exported_at": "2024-06-01T00:04:25+00:00"
-    },
-    {
-      "name": "Necesse",
-      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
-      "language": "en",
-      "size": "7.46 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-necesse.json",
-      "exported_at": "2024-06-01T00:04:25+00:00"
-    },
-    {
       "name": "NeosVR",
       "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
       "language": "en",
@@ -3952,6 +3932,26 @@
       "type": "games-steamcmd",
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/neosvr/egg-neos-v-r.json",
+      "exported_at": "2024-06-01T00:04:25+00:00"
+    },
+    {
+      "name": "Necesse",
+      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+      "language": "en",
+      "size": "7.19 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-pterodactyl-necesse.json",
+      "exported_at": "2024-06-01T00:04:25+00:00"
+    },
+    {
+      "name": "Necesse",
+      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+      "language": "en",
+      "size": "7.46 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-necesse.json",
       "exported_at": "2024-06-01T00:04:25+00:00"
     },
     {
