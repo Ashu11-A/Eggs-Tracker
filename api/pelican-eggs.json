@@ -1143,21 +1143,21 @@
     "name": "Eco",
     "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
     "language": "en",
-    "size": "8.96 KB",
+    "size": "13.13 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-pterodactyl-eco.json",
-    "exported_at": "2024-06-01T00:04:11+00:00"
+    "exported_at": "2024-09-20T09:14:59+02:00"
   },
   {
     "name": "Eco",
     "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
     "language": "en",
-    "size": "9.37 KB",
+    "size": "14.76 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-eco.json",
-    "exported_at": "2024-06-01T00:04:11+00:00"
+    "exported_at": "2024-09-20T07:15:26+00:00"
   },
   {
     "name": "Elasticsearch",
