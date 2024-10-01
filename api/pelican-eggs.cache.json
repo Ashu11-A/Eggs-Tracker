@@ -715,26 +715,6 @@
       "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
-      "name": "Rimworld Together",
-      "description": "A community driven multiplayer mod, for Rimworld.",
-      "language": "en",
-      "size": "4.12 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-rimworld-together.json",
-      "exported_at": "2024-06-01T00:17:07+00:00"
-    },
-    {
-      "name": "Rimworld Together",
-      "description": "A community driven multiplayer mod, for Rimworld.",
-      "language": "en",
-      "size": "3.97 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
-      "exported_at": "2024-06-01T00:17:07+00:00"
-    },
-    {
       "name": "Rimworld: Open World",
       "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
       "language": "en",
@@ -753,6 +733,26 @@
       "author": "kyle@williquette.us",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
       "exported_at": "2024-06-01T00:17:08+00:00"
+    },
+    {
+      "name": "Rimworld Together",
+      "description": "A community driven multiplayer mod, for Rimworld.",
+      "language": "en",
+      "size": "4.12 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-rimworld-together.json",
+      "exported_at": "2024-06-01T00:17:07+00:00"
+    },
+    {
+      "name": "Rimworld Together",
+      "description": "A community driven multiplayer mod, for Rimworld.",
+      "language": "en",
+      "size": "3.97 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
+      "exported_at": "2024-06-01T00:17:07+00:00"
     },
     {
       "name": "RedM",
@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -2753,6 +2753,126 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
+      "name": "Waterfall",
+      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.81 KB",
+      "type": "minecraft",
+      "author": "hostmaster@waterfallgaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-waterfall.json",
+      "exported_at": "2024-06-01T19:40:11+00:00"
+    },
+    {
+      "name": "Waterfall",
+      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.58 KB",
+      "type": "minecraft",
+      "author": "hostmaster@waterfallgaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
+      "exported_at": "2024-06-01T19:40:11+00:00"
+    },
+    {
+      "name": "VIAaaS",
+      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "language": "en",
+      "size": "2.71 KB",
+      "type": "minecraft",
+      "author": "regulad@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-v-i-aaa-s.json",
+      "exported_at": "2024-06-01T19:40:09+00:00"
+    },
+    {
+      "name": "VIAaaS",
+      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "language": "en",
+      "size": "2.59 KB",
+      "type": "minecraft",
+      "author": "regulad@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
+      "exported_at": "2024-06-01T19:40:09+00:00"
+    },
+    {
+      "name": "Velocity",
+      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
+      "language": "en",
+      "size": "6.23 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-velocity.json",
+      "exported_at": "2024-06-01T19:40:07+00:00"
+    },
+    {
+      "name": "Velocity",
+      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
+      "language": "en",
+      "size": "6.01 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-pterodactyl-velocity.json",
+      "exported_at": "2024-06-01T19:40:07+00:00"
+    },
+    {
+      "name": "Travertine",
+      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.67 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-travertine.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Travertine",
+      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.44 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog PE",
+      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
+      "language": "en",
+      "size": "3.49 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog PE",
+      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
+      "language": "en",
+      "size": "3.33 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-pterodactyl-waterdog-p-e.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
       "name": "The 1.7.10 Pack",
       "description": "The 1.7.10 Pack",
       "language": "en",
@@ -3011,126 +3131,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/forge/forge/egg-forge-enhanced.json",
       "exported_at": "2024-06-01T19:39:43+00:00"
-    },
-    {
-      "name": "Waterfall",
-      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.81 KB",
-      "type": "minecraft",
-      "author": "hostmaster@waterfallgaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-waterfall.json",
-      "exported_at": "2024-06-01T19:40:11+00:00"
-    },
-    {
-      "name": "Waterfall",
-      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.58 KB",
-      "type": "minecraft",
-      "author": "hostmaster@waterfallgaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
-      "exported_at": "2024-06-01T19:40:11+00:00"
-    },
-    {
-      "name": "VIAaaS",
-      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
-      "language": "en",
-      "size": "2.71 KB",
-      "type": "minecraft",
-      "author": "regulad@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-v-i-aaa-s.json",
-      "exported_at": "2024-06-01T19:40:09+00:00"
-    },
-    {
-      "name": "VIAaaS",
-      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
-      "language": "en",
-      "size": "2.59 KB",
-      "type": "minecraft",
-      "author": "regulad@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
-      "exported_at": "2024-06-01T19:40:09+00:00"
-    },
-    {
-      "name": "Velocity",
-      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
-      "language": "en",
-      "size": "6.23 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-velocity.json",
-      "exported_at": "2024-06-01T19:40:07+00:00"
-    },
-    {
-      "name": "Velocity",
-      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
-      "language": "en",
-      "size": "6.01 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-pterodactyl-velocity.json",
-      "exported_at": "2024-06-01T19:40:07+00:00"
-    },
-    {
-      "name": "Travertine",
-      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.67 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-travertine.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Travertine",
-      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.44 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog PE",
-      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
-      "language": "en",
-      "size": "3.49 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog PE",
-      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
-      "language": "en",
-      "size": "3.33 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-pterodactyl-waterdog-p-e.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
     }
   ],
   "games-steamcmd": [
@@ -3495,26 +3495,6 @@
       "exported_at": "2024-06-01T00:04:50+00:00"
     },
     {
-      "name": "Smalland: Survive the Wilds",
-      "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
-      "language": "en",
-      "size": "11.32 KB",
-      "type": "games-steamcmd",
-      "author": "git@robsti.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
-      "exported_at": "2024-06-01T00:04:47+00:00"
-    },
-    {
-      "name": "Smalland: Survive the Wilds",
-      "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
-      "language": "en",
-      "size": "10.84 KB",
-      "type": "games-steamcmd",
-      "author": "git@robsti.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-pterodactyl-smalland--survive-the-wilds.json",
-      "exported_at": "2024-06-01T00:04:47+00:00"
-    },
-    {
       "name": "Solace Crafting",
       "description": "Open-world fantasy survival RPG. Borderless distance-based difficulty with player built fast-travel, modular-building, and town management.",
       "language": "en",
@@ -3533,6 +3513,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/solace_crafting/egg-pterodactyl-solace-crafting.json",
       "exported_at": "2024-06-01T00:04:51+00:00"
+    },
+    {
+      "name": "Smalland: Survive the Wilds",
+      "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
+      "language": "en",
+      "size": "11.32 KB",
+      "type": "games-steamcmd",
+      "author": "git@robsti.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
+      "exported_at": "2024-06-01T00:04:47+00:00"
+    },
+    {
+      "name": "Smalland: Survive the Wilds",
+      "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
+      "language": "en",
+      "size": "10.84 KB",
+      "type": "games-steamcmd",
+      "author": "git@robsti.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-pterodactyl-smalland--survive-the-wilds.json",
+      "exported_at": "2024-06-01T00:04:47+00:00"
     },
     {
       "name": "Satisfactory",
@@ -4995,26 +4995,6 @@
       "exported_at": "2024-06-01T00:05:07+00:00"
     },
     {
-      "name": "Euro Truck Simulator 2 Dedicated server",
-      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
-      "language": "en",
-      "size": "6.52 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
-      "exported_at": "2024-06-01T00:04:12+00:00"
-    },
-    {
-      "name": "Euro Truck Simulator 2 Dedicated server",
-      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
-      "language": "en",
-      "size": "6.83 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json",
-      "exported_at": "2024-06-01T00:04:12+00:00"
-    },
-    {
       "name": "American Truck Simulator Dedicated Server",
       "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
       "language": "en",
@@ -5033,6 +5013,26 @@
       "author": "chase@cstmgames.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
       "exported_at": "2024-06-01T00:03:47+00:00"
+    },
+    {
+      "name": "Euro Truck Simulator 2 Dedicated server",
+      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+      "language": "en",
+      "size": "6.52 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
+      "exported_at": "2024-06-01T00:04:12+00:00"
+    },
+    {
+      "name": "Euro Truck Simulator 2 Dedicated server",
+      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+      "language": "en",
+      "size": "6.83 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json",
+      "exported_at": "2024-06-01T00:04:12+00:00"
     },
     {
       "name": "The Isle",
