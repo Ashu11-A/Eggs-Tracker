@@ -715,26 +715,6 @@
       "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
-      "name": "Rimworld: Open World",
-      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
-      "language": "en",
-      "size": "7.75 KB",
-      "type": "games-standalone",
-      "author": "kyle@williquette.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-rimworld--open-world.json",
-      "exported_at": "2024-06-01T00:17:08+00:00"
-    },
-    {
-      "name": "Rimworld: Open World",
-      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
-      "language": "en",
-      "size": "7.48 KB",
-      "type": "games-standalone",
-      "author": "kyle@williquette.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
-      "exported_at": "2024-06-01T00:17:08+00:00"
-    },
-    {
       "name": "Rimworld Together",
       "description": "A community driven multiplayer mod, for Rimworld.",
       "language": "en",
@@ -753,6 +733,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
       "exported_at": "2024-06-01T00:17:07+00:00"
+    },
+    {
+      "name": "Rimworld: Open World",
+      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
+      "language": "en",
+      "size": "7.75 KB",
+      "type": "games-standalone",
+      "author": "kyle@williquette.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-rimworld--open-world.json",
+      "exported_at": "2024-06-01T00:17:08+00:00"
+    },
+    {
+      "name": "Rimworld: Open World",
+      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
+      "language": "en",
+      "size": "7.48 KB",
+      "type": "games-standalone",
+      "author": "kyle@williquette.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
+      "exported_at": "2024-06-01T00:17:08+00:00"
     },
     {
       "name": "RedM",
@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.71 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
       "name": "JTS3ServerMod",
       "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.71 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Sinusbot",
@@ -2183,6 +2183,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -4995,26 +4995,6 @@
       "exported_at": "2024-06-01T00:05:07+00:00"
     },
     {
-      "name": "American Truck Simulator Dedicated Server",
-      "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
-      "language": "en",
-      "size": "6.65 KB",
-      "type": "games-steamcmd",
-      "author": "chase@cstmgames.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-pterodactyl-american-truck-simulator-dedicated-server.json",
-      "exported_at": "2024-06-01T00:03:47+00:00"
-    },
-    {
-      "name": "American Truck Simulator Dedicated Server",
-      "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
-      "language": "en",
-      "size": "6.96 KB",
-      "type": "games-steamcmd",
-      "author": "chase@cstmgames.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
-      "exported_at": "2024-06-01T00:03:47+00:00"
-    },
-    {
       "name": "Euro Truck Simulator 2 Dedicated server",
       "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
       "language": "en",
@@ -5033,6 +5013,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json",
       "exported_at": "2024-06-01T00:04:12+00:00"
+    },
+    {
+      "name": "American Truck Simulator Dedicated Server",
+      "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
+      "language": "en",
+      "size": "6.65 KB",
+      "type": "games-steamcmd",
+      "author": "chase@cstmgames.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-pterodactyl-american-truck-simulator-dedicated-server.json",
+      "exported_at": "2024-06-01T00:03:47+00:00"
+    },
+    {
+      "name": "American Truck Simulator Dedicated Server",
+      "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
+      "language": "en",
+      "size": "6.96 KB",
+      "type": "games-steamcmd",
+      "author": "chase@cstmgames.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
+      "exported_at": "2024-06-01T00:03:47+00:00"
     },
     {
       "name": "The Isle",
