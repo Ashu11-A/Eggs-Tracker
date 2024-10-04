@@ -1457,26 +1457,6 @@
       "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
-      "name": "JMusicBot",
-      "description": "A Discord music bot that's easy to set up and run yourself!",
-      "language": "en",
-      "size": "10.37 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json",
-      "exported_at": "2024-06-01T19:44:14+00:00"
-    },
-    {
-      "name": "JMusicBot",
-      "description": "A Discord music bot that's easy to set up and run yourself!",
-      "language": "en",
-      "size": "10.72 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
-      "exported_at": "2024-06-01T19:44:14+00:00"
-    },
-    {
       "name": "Game Server Watcher",
       "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
       "language": "en",
@@ -1495,6 +1475,26 @@
       "author": "a-sync@devs.space",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-game-server-watcher.json",
       "exported_at": "2024-06-01T19:44:15+00:00"
+    },
+    {
+      "name": "JMusicBot",
+      "description": "A Discord music bot that's easy to set up and run yourself!",
+      "language": "en",
+      "size": "10.37 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json",
+      "exported_at": "2024-06-01T19:44:14+00:00"
+    },
+    {
+      "name": "JMusicBot",
+      "description": "A Discord music bot that's easy to set up and run yourself!",
+      "language": "en",
+      "size": "10.72 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
+      "exported_at": "2024-06-01T19:44:14+00:00"
     },
     {
       "name": "fragbot",
@@ -4375,26 +4375,6 @@
       "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.36 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.55 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
       "name": "Empyrion: Galactic Survival",
       "description": "Empyrion: Galactic Survival dedicated server",
       "language": "en",
@@ -4413,6 +4393,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
       "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.36 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.55 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
       "name": "Eco",
