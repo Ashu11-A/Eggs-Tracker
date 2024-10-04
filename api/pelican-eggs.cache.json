@@ -33,16 +33,6 @@
   ],
   "monitoring": [
     {
-      "name": "Prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "en",
-      "size": "3.61 KB",
-      "type": "monitoring",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/prometheus/egg-prometheus.json",
-      "exported_at": "2024-06-02T14:38:06+00:00"
-    },
-    {
       "name": "Loki",
       "description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this",
       "language": "en",
@@ -51,6 +41,16 @@
       "author": "unknown@unknown.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/loki/egg-loki.json",
       "exported_at": "2024-06-02T14:38:07+00:00"
+    },
+    {
+      "name": "Prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "en",
+      "size": "3.61 KB",
+      "type": "monitoring",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/prometheus/egg-prometheus.json",
+      "exported_at": "2024-06-02T14:38:06+00:00"
     }
   ],
   "games-standalone": [
@@ -1457,26 +1457,6 @@
       "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
-      "name": "Game Server Watcher",
-      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
-      "language": "en",
-      "size": "4.59 KB",
-      "type": "chatbots",
-      "author": "a-sync@devs.space",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-pterodactyl-game-server-watcher.json",
-      "exported_at": "2024-06-01T19:44:15+00:00"
-    },
-    {
-      "name": "Game Server Watcher",
-      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
-      "language": "en",
-      "size": "4.87 KB",
-      "type": "chatbots",
-      "author": "a-sync@devs.space",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-game-server-watcher.json",
-      "exported_at": "2024-06-01T19:44:15+00:00"
-    },
-    {
       "name": "JMusicBot",
       "description": "A Discord music bot that's easy to set up and run yourself!",
       "language": "en",
@@ -1495,6 +1475,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
       "exported_at": "2024-06-01T19:44:14+00:00"
+    },
+    {
+      "name": "Game Server Watcher",
+      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
+      "language": "en",
+      "size": "4.59 KB",
+      "type": "chatbots",
+      "author": "a-sync@devs.space",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-pterodactyl-game-server-watcher.json",
+      "exported_at": "2024-06-01T19:44:15+00:00"
+    },
+    {
+      "name": "Game Server Watcher",
+      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
+      "language": "en",
+      "size": "4.87 KB",
+      "type": "chatbots",
+      "author": "a-sync@devs.space",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-game-server-watcher.json",
+      "exported_at": "2024-06-01T19:44:15+00:00"
     },
     {
       "name": "fragbot",
@@ -3013,26 +3013,6 @@
       "exported_at": "2024-06-01T19:39:49+00:00"
     },
     {
-      "name": "Attack of the B-Team",
-      "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
-      "language": "en",
-      "size": "2.3 KB",
-      "type": "minecraft",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-pterodactyl-attack-of-the-b--team.json",
-      "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Attack of the B-Team",
-      "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
-      "language": "en",
-      "size": "2.39 KB",
-      "type": "minecraft",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json",
-      "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
       "name": "Tekkit 2",
       "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
       "language": "en",
@@ -3051,6 +3031,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json",
       "exported_at": "2024-06-01T19:40:17+00:00"
+    },
+    {
+      "name": "Attack of the B-Team",
+      "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
+      "language": "en",
+      "size": "2.3 KB",
+      "type": "minecraft",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-pterodactyl-attack-of-the-b--team.json",
+      "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Attack of the B-Team",
+      "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
+      "language": "en",
+      "size": "2.39 KB",
+      "type": "minecraft",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json",
+      "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
       "name": "Tekkit",
@@ -4375,26 +4375,6 @@
       "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
-      "name": "Empyrion: Galactic Survival",
-      "description": "Empyrion: Galactic Survival dedicated server",
-      "language": "en",
-      "size": "8.01 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
-      "name": "Empyrion: Galactic Survival",
-      "description": "Empyrion: Galactic Survival dedicated server",
-      "language": "en",
-      "size": "8.44 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
       "name": "Enshrouded",
       "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
       "language": "en",
@@ -4413,6 +4393,26 @@
       "author": "vapokrocks@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
       "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Empyrion: Galactic Survival",
+      "description": "Empyrion: Galactic Survival dedicated server",
+      "language": "en",
+      "size": "8.01 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Empyrion: Galactic Survival",
+      "description": "Empyrion: Galactic Survival dedicated server",
+      "language": "en",
+      "size": "8.44 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
       "name": "Eco",
@@ -5407,36 +5407,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5475,6 +5445,36 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
