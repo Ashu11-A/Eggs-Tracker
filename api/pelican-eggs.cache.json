@@ -11,16 +11,6 @@
       "exported_at": "2023-10-07T18:01:49+02:00"
     },
     {
-      "name": "Teamspeak3 Server ARM64",
-      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
-      "language": "en",
-      "size": "3.33 KB",
-      "type": "voice",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
-      "exported_at": "2022-07-06T17:10:16+02:00"
-    },
-    {
       "name": "Lavalink",
       "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
       "language": "en",
@@ -29,19 +19,19 @@
       "author": "damuffin36@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
       "exported_at": "2023-08-04T08:40:49+02:00"
+    },
+    {
+      "name": "Teamspeak3 Server ARM64",
+      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+      "language": "en",
+      "size": "3.33 KB",
+      "type": "voice",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
+      "exported_at": "2022-07-06T17:10:16+02:00"
     }
   ],
   "monitoring": [
-    {
-      "name": "Loki",
-      "description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this",
-      "language": "en",
-      "size": "3 KB",
-      "type": "monitoring",
-      "author": "unknown@unknown.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/loki/egg-loki.json",
-      "exported_at": "2024-06-02T14:38:07+00:00"
-    },
     {
       "name": "Prometheus",
       "description": "The Prometheus monitoring system and time series database.",
@@ -51,6 +41,16 @@
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/prometheus/egg-prometheus.json",
       "exported_at": "2024-06-02T14:38:06+00:00"
+    },
+    {
+      "name": "Loki",
+      "description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this",
+      "language": "en",
+      "size": "3 KB",
+      "type": "monitoring",
+      "author": "unknown@unknown.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/loki/egg-loki.json",
+      "exported_at": "2024-06-02T14:38:07+00:00"
     }
   ],
   "games-standalone": [
@@ -1639,26 +1639,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.38 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.06 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "nodemon",
       "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
       "language": "en",
@@ -1676,6 +1656,26 @@
       "type": "generic",
       "author": "nick@blackforthosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.38 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.06 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
@@ -3013,26 +3013,6 @@
       "exported_at": "2024-06-01T19:39:49+00:00"
     },
     {
-      "name": "Tekkit 2",
-      "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
-      "language": "en",
-      "size": "3.13 KB",
-      "type": "minecraft",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-tekkit2.json",
-      "exported_at": "2024-06-01T19:40:17+00:00"
-    },
-    {
-      "name": "Tekkit 2",
-      "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
-      "language": "en",
-      "size": "3.02 KB",
-      "type": "minecraft",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json",
-      "exported_at": "2024-06-01T19:40:17+00:00"
-    },
-    {
       "name": "Attack of the B-Team",
       "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
       "language": "en",
@@ -3051,6 +3031,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Tekkit 2",
+      "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
+      "language": "en",
+      "size": "3.13 KB",
+      "type": "minecraft",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-tekkit2.json",
+      "exported_at": "2024-06-01T19:40:17+00:00"
+    },
+    {
+      "name": "Tekkit 2",
+      "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
+      "language": "en",
+      "size": "3.02 KB",
+      "type": "minecraft",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json",
+      "exported_at": "2024-06-01T19:40:17+00:00"
     },
     {
       "name": "Tekkit",
@@ -4435,26 +4435,6 @@
       "exported_at": "2024-09-20T07:15:26+00:00"
     },
     {
-      "name": "Don't Starve Together",
-      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
-      "language": "en",
-      "size": "10.12 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
-      "name": "Don't Starve Together",
-      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
-      "language": "en",
-      "size": "10.56 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
       "name": "Dead Matter",
       "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
       "language": "en",
@@ -4473,6 +4453,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
       "exported_at": "2024-06-01T00:04:09+00:00"
+    },
+    {
+      "name": "Don't Starve Together",
+      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
+      "language": "en",
+      "size": "10.12 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Don't Starve Together",
+      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
+      "language": "en",
+      "size": "10.56 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
       "name": "DDNet",
@@ -4838,21 +4838,21 @@
       "name": "ARK: Survival Ascended",
       "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
       "language": "en",
-      "size": "11.57 KB",
+      "size": "11.62 KB",
       "type": "games-steamcmd",
       "author": "blood@darkartsgaming.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
+      "exported_at": "2024-10-04T17:28:26+02:00"
     },
     {
       "name": "ARK: Survival Ascended",
       "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
       "language": "en",
-      "size": "11.99 KB",
+      "size": "13.06 KB",
       "type": "games-steamcmd",
       "author": "blood@darkartsgaming.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
+      "exported_at": "2024-10-04T17:57:36+00:00"
     },
     {
       "name": "Abiotic Factor",
