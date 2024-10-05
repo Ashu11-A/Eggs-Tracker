@@ -1417,26 +1417,6 @@
       "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
-      "name": "parkertron",
-      "description": "The stupid chatbot parkertron by Parkervcp.\r\n\r\nhttps://github.com/parkervcp/parkertron",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/parkertron/egg-pterodactyl-parkertron.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "parkertron",
-      "description": "The stupid chatbot parkertron by Parkervcp.\r\n\r\nhttps://github.com/parkervcp/parkertron",
-      "language": "en",
-      "size": "1.73 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/parkertron/egg-parkertron.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
       "name": "Muse",
       "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
       "language": "en",
@@ -1455,6 +1435,26 @@
       "author": "hello@apollo.moe",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-muse.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "parkertron",
+      "description": "The stupid chatbot parkertron by Parkervcp.\r\n\r\nhttps://github.com/parkervcp/parkertron",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/parkertron/egg-pterodactyl-parkertron.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "parkertron",
+      "description": "The stupid chatbot parkertron by Parkervcp.\r\n\r\nhttps://github.com/parkervcp/parkertron",
+      "language": "en",
+      "size": "1.73 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/parkertron/egg-parkertron.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "JMusicBot",
@@ -1901,26 +1901,6 @@
       "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Rathole",
       "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
       "language": "en",
@@ -1939,6 +1919,26 @@
       "author": "tunayada@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
       "exported_at": "2024-06-02T14:40:53+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "RabbitMQ",
@@ -4095,26 +4095,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Left 4 Dead 2",
-      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
-      "language": "en",
-      "size": "5.69 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
-      "exported_at": "2024-06-01T00:03:58+00:00"
-    },
-    {
-      "name": "Left 4 Dead 2",
-      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
-      "language": "en",
-      "size": "5.86 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
-      "exported_at": "2024-06-01T00:03:58+00:00"
-    },
-    {
       "name": "Left 4 Dead",
       "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
       "language": "en",
@@ -4133,6 +4113,26 @@
       "author": "pterodactyl@mazoyer.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
+      "language": "en",
+      "size": "5.69 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
+      "exported_at": "2024-06-01T00:03:58+00:00"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
+      "language": "en",
+      "size": "5.86 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
+      "exported_at": "2024-06-01T00:03:58+00:00"
     },
     {
       "name": "Killing Floor 2",
@@ -4195,26 +4195,6 @@
       "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
-      "name": "Icarus-Dedicated",
-      "description": "Icarus is a survival game that with dedicated servers as a public beta",
-      "language": "en",
-      "size": "6.26 KB",
-      "type": "games-steamcmd",
-      "author": "bolverblitz@ebg.pw",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-pterodactyl-icarus--dedicated.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
-      "name": "Icarus-Dedicated",
-      "description": "Icarus is a survival game that with dedicated servers as a public beta",
-      "language": "en",
-      "size": "6.61 KB",
-      "type": "games-steamcmd",
-      "author": "bolverblitz@ebg.pw",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
       "name": "Hurtworld",
       "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
       "language": "en",
@@ -4233,6 +4213,26 @@
       "author": "brycea@terrahost.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
       "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Icarus-Dedicated",
+      "description": "Icarus is a survival game that with dedicated servers as a public beta",
+      "language": "en",
+      "size": "6.26 KB",
+      "type": "games-steamcmd",
+      "author": "bolverblitz@ebg.pw",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-pterodactyl-icarus--dedicated.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Icarus-Dedicated",
+      "description": "Icarus is a survival game that with dedicated servers as a public beta",
+      "language": "en",
+      "size": "6.61 KB",
+      "type": "games-steamcmd",
+      "author": "bolverblitz@ebg.pw",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
       "name": "HumanitZ",
@@ -4435,26 +4435,6 @@
       "exported_at": "2024-09-20T07:15:26+00:00"
     },
     {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.61 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.84 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
       "name": "Don't Starve Together",
       "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
       "language": "en",
@@ -4473,6 +4453,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
       "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.61 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.84 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
     },
     {
       "name": "DDNet",
@@ -4615,26 +4615,6 @@
       "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.3 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.57 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
       "name": "Black Mesa",
       "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
       "language": "en",
@@ -4653,6 +4633,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
       "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.3 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.57 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
       "name": "BATTALION: Legacy",
@@ -5407,6 +5407,36 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
+    },
+    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5445,36 +5475,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
-    },
-    {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
