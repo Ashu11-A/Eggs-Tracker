@@ -1739,26 +1739,6 @@
       "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
-      "name": "Deno Generic",
-      "description": "A generic egg to run deno code.",
-      "language": "en",
-      "size": "6.76 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-pterodactyl-deno-generic.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
-      "name": "Deno Generic",
-      "description": "A generic egg to run deno code.",
-      "language": "en",
-      "size": "7.01 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
       "name": "Elixir",
       "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
       "language": "en",
@@ -1776,6 +1756,26 @@
       "type": "generic",
       "author": "mravox@proton.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Deno Generic",
+      "description": "A generic egg to run deno code.",
+      "language": "en",
+      "size": "6.76 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-pterodactyl-deno-generic.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Deno Generic",
+      "description": "A generic egg to run deno code.",
+      "language": "en",
+      "size": "7.01 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
@@ -1881,26 +1881,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1919,6 +1899,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -2182,6 +2182,26 @@
     }
   ],
   "minecraft": [
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -4095,26 +4095,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Left 4 Dead 2",
-      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
-      "language": "en",
-      "size": "5.69 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
-      "exported_at": "2024-06-01T00:03:58+00:00"
-    },
-    {
-      "name": "Left 4 Dead 2",
-      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
-      "language": "en",
-      "size": "5.86 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
-      "exported_at": "2024-06-01T00:03:58+00:00"
-    },
-    {
       "name": "Left 4 Dead",
       "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
       "language": "en",
@@ -4133,6 +4113,26 @@
       "author": "pterodactyl@mazoyer.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
+      "language": "en",
+      "size": "5.69 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
+      "exported_at": "2024-06-01T00:03:58+00:00"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
+      "language": "en",
+      "size": "5.86 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
+      "exported_at": "2024-06-01T00:03:58+00:00"
     },
     {
       "name": "Killing Floor 2",
