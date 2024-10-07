@@ -1881,26 +1881,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1919,6 +1899,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -2182,26 +2182,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2611,6 +2591,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -3815,26 +3815,6 @@
       "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
-      "name": "Nova-Life: Amboise",
-      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
-      "language": "en",
-      "size": "6.74 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
-      "name": "Nova-Life: Amboise",
-      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
-      "language": "en",
-      "size": "6.97 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-nova--life--amboise.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
       "name": "No One Survived",
       "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
       "language": "en",
@@ -3853,6 +3833,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-no-one-survived.json",
       "exported_at": "2024-06-01T00:04:28+00:00"
+    },
+    {
+      "name": "Nova-Life: Amboise",
+      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
+      "language": "en",
+      "size": "6.74 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Nova-Life: Amboise",
+      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
+      "language": "en",
+      "size": "6.97 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-nova--life--amboise.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
       "name": "No Love Lost",
@@ -4095,26 +4095,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Left 4 Dead",
-      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
-      "language": "en",
-      "size": "5.55 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-pterodactyl-left4-dead.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
-      "name": "Left 4 Dead",
-      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
-      "language": "en",
-      "size": "5.72 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
       "name": "Left 4 Dead 2",
       "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
       "language": "en",
@@ -4133,6 +4113,26 @@
       "author": "pterodactyl@mazoyer.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
       "exported_at": "2024-06-01T00:03:58+00:00"
+    },
+    {
+      "name": "Left 4 Dead",
+      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
+      "language": "en",
+      "size": "5.55 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-pterodactyl-left4-dead.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Left 4 Dead",
+      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
+      "language": "en",
+      "size": "5.72 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
       "name": "Killing Floor 2",
@@ -4635,26 +4635,6 @@
       "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.96 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
       "name": "BATTALION: Legacy",
       "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
       "language": "en",
@@ -4673,6 +4653,26 @@
       "author": "diedyesterdaywashere@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
       "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.96 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
       "name": "Barotrauma",
@@ -4735,46 +4735,6 @@
       "exported_at": "2024-06-01T00:03:55+00:00"
     },
     {
-      "name": "Astro Colony",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "11.87 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony.json",
-      "exported_at": "2024-06-01T00:03:53+00:00"
-    },
-    {
-      "name": "Astro Colony [wine]",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "12.2 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony-wine.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
-    },
-    {
-      "name": "Astro Colony",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "12.38 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
-      "exported_at": "2024-06-01T00:03:53+00:00"
-    },
-    {
-      "name": "Astro Colony [wine]",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "12.74 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony-wine.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
-    },
-    {
       "name": "Assetto Corsa",
       "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
       "language": "en",
@@ -4812,6 +4772,46 @@
       "type": "games-steamcmd",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
+      "exported_at": "2024-06-01T00:03:54+00:00"
+    },
+    {
+      "name": "Astro Colony",
+      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+      "language": "en",
+      "size": "11.87 KB",
+      "type": "games-steamcmd",
+      "author": "limmek@swedon.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony.json",
+      "exported_at": "2024-06-01T00:03:53+00:00"
+    },
+    {
+      "name": "Astro Colony [wine]",
+      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+      "language": "en",
+      "size": "12.2 KB",
+      "type": "games-steamcmd",
+      "author": "limmek@swedon.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony-wine.json",
+      "exported_at": "2024-06-01T00:03:54+00:00"
+    },
+    {
+      "name": "Astro Colony",
+      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+      "language": "en",
+      "size": "12.38 KB",
+      "type": "games-steamcmd",
+      "author": "limmek@swedon.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
+      "exported_at": "2024-06-01T00:03:53+00:00"
+    },
+    {
+      "name": "Astro Colony [wine]",
+      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+      "language": "en",
+      "size": "12.74 KB",
+      "type": "games-steamcmd",
+      "author": "limmek@swedon.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony-wine.json",
       "exported_at": "2024-06-01T00:03:54+00:00"
     },
     {
@@ -5407,16 +5407,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
       "name": "Redis-7",
       "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
       "language": "en",
@@ -5425,6 +5415,16 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
       "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
     },
     {
       "name": "Redis",
