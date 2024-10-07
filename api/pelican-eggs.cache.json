@@ -1639,26 +1639,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.38 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.06 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "nodemon",
       "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
       "language": "en",
@@ -1676,6 +1656,26 @@
       "type": "generic",
       "author": "nick@blackforthosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.38 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.06 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
@@ -3595,26 +3595,6 @@
       "exported_at": "2024-06-01T00:04:38+00:00"
     },
     {
-      "name": "Project Zomboid",
-      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
-      "language": "en",
-      "size": "7.32 KB",
-      "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
-      "exported_at": "2024-06-01T00:04:36+00:00"
-    },
-    {
-      "name": "Project Zomboid",
-      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
-      "language": "en",
-      "size": "7.63 KB",
-      "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-project-zomboid.json",
-      "exported_at": "2024-06-01T00:04:36+00:00"
-    },
-    {
       "name": "Quake Live",
       "description": "Quake Live is a first-person shooter video game by id Software. It is an updated version of Quake III Arena that was originally designed as a free-to-play game launched via a web browser plug-in. On September 17, 2014, the game was re-launched as a standalone title on Steam.",
       "language": "en",
@@ -3633,6 +3613,26 @@
       "author": "patz.michael@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/quake_live/egg-pterodactyl-quake-live.json",
       "exported_at": "2024-06-01T00:04:37+00:00"
+    },
+    {
+      "name": "Project Zomboid",
+      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
+      "language": "en",
+      "size": "7.32 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
+      "exported_at": "2024-06-01T00:04:36+00:00"
+    },
+    {
+      "name": "Project Zomboid",
+      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
+      "language": "en",
+      "size": "7.63 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-project-zomboid.json",
+      "exported_at": "2024-06-01T00:04:36+00:00"
     },
     {
       "name": "Post Scriptum",
@@ -3975,6 +3975,26 @@
       "exported_at": "2024-06-01T00:04:23+00:00"
     },
     {
+      "name": "Mount & Blade II: Bannerlord",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "language": "en",
+      "size": "6.46 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
+      "exported_at": "2024-06-01T00:04:24+00:00"
+    },
+    {
+      "name": "Mount & Blade II: Bannerlord",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "language": "en",
+      "size": "6.77 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
+      "exported_at": "2024-06-01T00:04:24+00:00"
+    },
+    {
       "name": "Mordhau",
       "description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization.",
       "language": "en",
@@ -4015,24 +4035,24 @@
       "exported_at": "2024-06-01T00:04:22+00:00"
     },
     {
-      "name": "Mount & Blade II: Bannerlord",
-      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "name": "Modiverse",
+      "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
       "language": "en",
-      "size": "6.46 KB",
+      "size": "7.18 KB",
       "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
-      "exported_at": "2024-06-01T00:04:24+00:00"
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/modiverse/egg-pterodactyl-modiverse.json",
+      "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
-      "name": "Mount & Blade II: Bannerlord",
-      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "name": "Modiverse",
+      "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
       "language": "en",
-      "size": "6.77 KB",
+      "size": "7.46 KB",
       "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
-      "exported_at": "2024-06-01T00:04:24+00:00"
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/modiverse/egg-modiverse.json",
+      "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
       "name": "Midnight Ghost Hunt",
@@ -4053,26 +4073,6 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
       "exported_at": "2024-07-28T19:43:17+02:00"
-    },
-    {
-      "name": "Modiverse",
-      "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
-      "language": "en",
-      "size": "7.18 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/modiverse/egg-pterodactyl-modiverse.json",
-      "exported_at": "2024-06-01T00:04:21+00:00"
-    },
-    {
-      "name": "Modiverse",
-      "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
-      "language": "en",
-      "size": "7.46 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/modiverse/egg-modiverse.json",
-      "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
       "name": "Longvinter",
@@ -4135,26 +4135,6 @@
       "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "4.96 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "5.23 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
       "name": "Killing Floor 2",
       "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
       "language": "en",
@@ -4173,6 +4153,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-killing-floor2.json",
       "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "4.96 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "5.23 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
       "name": "Insurgency: Sandstorm",
@@ -4435,26 +4435,6 @@
       "exported_at": "2024-09-20T07:15:26+00:00"
     },
     {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.61 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.84 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
       "name": "Don't Starve Together",
       "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
       "language": "en",
@@ -4473,6 +4453,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
       "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.61 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.84 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
     },
     {
       "name": "DDNet",
@@ -4575,26 +4575,6 @@
       "exported_at": "2024-06-01T00:03:59+00:00"
     },
     {
-      "name": "Colony Survival",
-      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
-      "language": "en",
-      "size": "4.92 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-pterodactyl-colony-survival.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
-      "name": "Colony Survival",
-      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
-      "language": "en",
-      "size": "5.17 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-colony-survival.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
       "name": "Conan Exiles",
       "description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare.",
       "language": "en",
@@ -4613,6 +4593,26 @@
       "author": "brycea@terrahost.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/conan_exiles/egg-conan-exiles.json",
       "exported_at": "2024-06-01T00:04:00+00:00"
+    },
+    {
+      "name": "Colony Survival",
+      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
+      "language": "en",
+      "size": "4.92 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-pterodactyl-colony-survival.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "Colony Survival",
+      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
+      "language": "en",
+      "size": "5.17 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-colony-survival.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
       "name": "Citadel: Forged with Fire",
@@ -4735,46 +4735,6 @@
       "exported_at": "2024-06-01T00:03:55+00:00"
     },
     {
-      "name": "Assetto Corsa",
-      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
-      "language": "en",
-      "size": "7.28 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json",
-      "exported_at": "2024-06-01T00:03:50+00:00"
-    },
-    {
-      "name": "Assetto Corsa (Freeroam + AI)",
-      "description": "Custom Assetto Corsa server with focus on freeroam",
-      "language": "en",
-      "size": "5.01 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
-    },
-    {
-      "name": "Assetto Corsa",
-      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
-      "language": "en",
-      "size": "7.63 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa.json",
-      "exported_at": "2024-06-01T00:03:50+00:00"
-    },
-    {
-      "name": "Assetto Corsa (Freeroam + AI)",
-      "description": "Custom Assetto Corsa server with focus on freeroam",
-      "language": "en",
-      "size": "5.22 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
-    },
-    {
       "name": "Astro Colony",
       "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
       "language": "en",
@@ -4812,6 +4772,46 @@
       "type": "games-steamcmd",
       "author": "limmek@swedon.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony-wine.json",
+      "exported_at": "2024-06-01T00:03:54+00:00"
+    },
+    {
+      "name": "Assetto Corsa",
+      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
+      "language": "en",
+      "size": "7.28 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json",
+      "exported_at": "2024-06-01T00:03:50+00:00"
+    },
+    {
+      "name": "Assetto Corsa (Freeroam + AI)",
+      "description": "Custom Assetto Corsa server with focus on freeroam",
+      "language": "en",
+      "size": "5.01 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json",
+      "exported_at": "2024-06-01T00:03:54+00:00"
+    },
+    {
+      "name": "Assetto Corsa",
+      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
+      "language": "en",
+      "size": "7.63 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa.json",
+      "exported_at": "2024-06-01T00:03:50+00:00"
+    },
+    {
+      "name": "Assetto Corsa (Freeroam + AI)",
+      "description": "Custom Assetto Corsa server with focus on freeroam",
+      "language": "en",
+      "size": "5.22 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
       "exported_at": "2024-06-01T00:03:54+00:00"
     },
     {
