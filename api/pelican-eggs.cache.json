@@ -655,6 +655,26 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
+      "name": "tModloader",
+      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
+      "language": "en",
+      "size": "9.17 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-t-modloader.json",
+      "exported_at": "2024-06-15T09:58:09+02:00"
+    },
+    {
+      "name": "tModloader",
+      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
+      "language": "en",
+      "size": "8.88 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
+      "exported_at": "2024-06-15T09:58:09+02:00"
+    },
+    {
       "name": "tshock",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
@@ -693,26 +713,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
       "exported_at": "2024-06-01T00:17:19+00:00"
-    },
-    {
-      "name": "tModloader",
-      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
-      "language": "en",
-      "size": "9.17 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-t-modloader.json",
-      "exported_at": "2024-06-15T09:58:09+02:00"
-    },
-    {
-      "name": "tModloader",
-      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
-      "language": "en",
-      "size": "8.88 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
-      "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
       "name": "Rimworld Together",
@@ -2183,6 +2183,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -3815,26 +3815,6 @@
       "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
-      "name": "No One Survived",
-      "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
-      "language": "en",
-      "size": "10.66 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-pterodactyl-no-one-survived.json",
-      "exported_at": "2024-06-01T00:04:28+00:00"
-    },
-    {
-      "name": "No One Survived",
-      "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
-      "language": "en",
-      "size": "11.19 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-no-one-survived.json",
-      "exported_at": "2024-06-01T00:04:28+00:00"
-    },
-    {
       "name": "Nova-Life: Amboise",
       "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
       "language": "en",
@@ -3853,6 +3833,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-nova--life--amboise.json",
       "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "No One Survived",
+      "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
+      "language": "en",
+      "size": "10.66 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-pterodactyl-no-one-survived.json",
+      "exported_at": "2024-06-01T00:04:28+00:00"
+    },
+    {
+      "name": "No One Survived",
+      "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
+      "language": "en",
+      "size": "11.19 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-no-one-survived.json",
+      "exported_at": "2024-06-01T00:04:28+00:00"
     },
     {
       "name": "No Love Lost",
@@ -4635,26 +4635,6 @@
       "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
-      "name": "BATTALION: Legacy",
-      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
-      "language": "en",
-      "size": "6.15 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-pterodactyl-b-a-t-t-a-l-i-o-n--legacy.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
-      "name": "BATTALION: Legacy",
-      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
-      "language": "en",
-      "size": "6.38 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
       "name": "Black Mesa",
       "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
       "language": "en",
@@ -4673,6 +4653,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
       "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "BATTALION: Legacy",
+      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
+      "language": "en",
+      "size": "6.15 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-pterodactyl-b-a-t-t-a-l-i-o-n--legacy.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "BATTALION: Legacy",
+      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
+      "language": "en",
+      "size": "6.38 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
       "name": "Barotrauma",
@@ -4735,46 +4735,6 @@
       "exported_at": "2024-06-01T00:03:55+00:00"
     },
     {
-      "name": "Assetto Corsa",
-      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
-      "language": "en",
-      "size": "7.28 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json",
-      "exported_at": "2024-06-01T00:03:50+00:00"
-    },
-    {
-      "name": "Assetto Corsa (Freeroam + AI)",
-      "description": "Custom Assetto Corsa server with focus on freeroam",
-      "language": "en",
-      "size": "5.01 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
-    },
-    {
-      "name": "Assetto Corsa",
-      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
-      "language": "en",
-      "size": "7.63 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa.json",
-      "exported_at": "2024-06-01T00:03:50+00:00"
-    },
-    {
-      "name": "Assetto Corsa (Freeroam + AI)",
-      "description": "Custom Assetto Corsa server with focus on freeroam",
-      "language": "en",
-      "size": "5.22 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
-    },
-    {
       "name": "Astro Colony",
       "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
       "language": "en",
@@ -4812,6 +4772,46 @@
       "type": "games-steamcmd",
       "author": "limmek@swedon.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony-wine.json",
+      "exported_at": "2024-06-01T00:03:54+00:00"
+    },
+    {
+      "name": "Assetto Corsa",
+      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
+      "language": "en",
+      "size": "7.28 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json",
+      "exported_at": "2024-06-01T00:03:50+00:00"
+    },
+    {
+      "name": "Assetto Corsa (Freeroam + AI)",
+      "description": "Custom Assetto Corsa server with focus on freeroam",
+      "language": "en",
+      "size": "5.01 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json",
+      "exported_at": "2024-06-01T00:03:54+00:00"
+    },
+    {
+      "name": "Assetto Corsa",
+      "description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability",
+      "language": "en",
+      "size": "7.63 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa.json",
+      "exported_at": "2024-06-01T00:03:50+00:00"
+    },
+    {
+      "name": "Assetto Corsa (Freeroam + AI)",
+      "description": "Custom Assetto Corsa server with focus on freeroam",
+      "language": "en",
+      "size": "5.22 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
       "exported_at": "2024-06-01T00:03:54+00:00"
     },
     {
