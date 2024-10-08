@@ -215,26 +215,6 @@
       "exported_at": "2024-06-01T00:17:02+00:00"
     },
     {
-      "name": "OpenTTD Server",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.3 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
-      "exported_at": "2024-06-01T00:17:01+00:00"
-    },
-    {
-      "name": "OpenTTD Server",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.5 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
-      "exported_at": "2024-06-01T00:17:01+00:00"
-    },
-    {
       "name": "OpenRCT2",
       "description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits.",
       "language": "en",
@@ -252,6 +232,26 @@
       "type": "games-standalone",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openrct2/egg-open-r-c-t2.json",
+      "exported_at": "2024-06-01T00:17:01+00:00"
+    },
+    {
+      "name": "OpenTTD Server",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.3 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
+      "exported_at": "2024-06-01T00:17:01+00:00"
+    },
+    {
+      "name": "OpenTTD Server",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.5 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
       "exported_at": "2024-06-01T00:17:01+00:00"
     },
     {
@@ -355,26 +355,6 @@
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.51 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
       "name": "Mindustry",
       "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
       "language": "en",
@@ -393,6 +373,26 @@
       "author": "sir3lit@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
       "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.51 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
       "name": "LeagueSandbox",
@@ -1337,26 +1337,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "22.59 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "21.49 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
       "name": "Sinusbot",
       "description": "Musicbot for Discord and Teamspeak.",
       "language": "en",
@@ -1375,6 +1355,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "22.59 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "21.49 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
       "name": "Red",
@@ -1577,26 +1577,6 @@
       "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.42 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Aoede",
       "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
       "language": "en",
@@ -1615,6 +1595,26 @@
       "author": "contact@bldy.ovh",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.42 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     }
   ],
   "generic": [
@@ -2183,26 +2183,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2223,26 +2203,6 @@
       "exported_at": "2024-06-01T19:40:08+00:00"
     },
     {
-      "name": "SpongeForge",
-      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
-      "language": "en",
-      "size": "9.44 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-sponge-forge.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
-      "name": "SpongeForge",
-      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
-      "language": "en",
-      "size": "9.19 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
       "name": "SpongeVanilla",
       "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
       "language": "en",
@@ -2260,6 +2220,26 @@
       "type": "minecraft",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeForge",
+      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+      "language": "en",
+      "size": "9.44 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-sponge-forge.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeForge",
+      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+      "language": "en",
+      "size": "9.19 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
       "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
@@ -2611,6 +2591,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -5407,6 +5407,36 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
+    },
+    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5445,36 +5475,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
-    },
-    {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
