@@ -355,26 +355,6 @@
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
-      "name": "Mindustry",
-      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
-      "language": "en",
-      "size": "4.38 KB",
-      "type": "games-standalone",
-      "author": "sir3lit@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-pterodactyl-mindustry.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
-      "name": "Mindustry",
-      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
-      "language": "en",
-      "size": "4.52 KB",
-      "type": "games-standalone",
-      "author": "sir3lit@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
       "name": "LAC-Online Public Server",
       "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
       "language": "en",
@@ -393,6 +373,26 @@
       "author": "jastinlt16@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
       "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "Mindustry",
+      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
+      "language": "en",
+      "size": "4.38 KB",
+      "type": "games-standalone",
+      "author": "sir3lit@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-pterodactyl-mindustry.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "Mindustry",
+      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
+      "language": "en",
+      "size": "4.52 KB",
+      "type": "games-standalone",
+      "author": "sir3lit@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
       "name": "LeagueSandbox",
@@ -1337,26 +1337,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
-      "language": "en",
-      "size": "3.63 KB",
-      "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
-      "language": "en",
-      "size": "3.5 KB",
-      "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
       "name": "Ree6",
       "description": "All-in-one, open source and 100% free Discord Bot!",
       "language": "en",
@@ -1375,6 +1355,26 @@
       "author": "presti@presti.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
       "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.63 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.5 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
     },
     {
       "name": "Red",
@@ -2223,26 +2223,6 @@
       "exported_at": "2024-06-01T19:40:08+00:00"
     },
     {
-      "name": "SpongeVanilla",
-      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
-      "language": "en",
-      "size": "4.95 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-sponge-vanilla.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
-      "name": "SpongeVanilla",
-      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
-      "language": "en",
-      "size": "4.78 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
       "name": "SpongeForge",
       "description": "A community-driven open source Minecraft: Java Edition modding platform.",
       "language": "en",
@@ -2260,6 +2240,26 @@
       "type": "minecraft",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeVanilla",
+      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
+      "language": "en",
+      "size": "4.95 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-sponge-vanilla.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeVanilla",
+      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
+      "language": "en",
+      "size": "4.78 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
       "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
