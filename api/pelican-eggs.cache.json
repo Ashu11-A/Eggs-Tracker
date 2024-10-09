@@ -11,16 +11,6 @@
       "exported_at": "2023-10-07T18:01:49+02:00"
     },
     {
-      "name": "Lavalink",
-      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
-      "language": "en",
-      "size": "4.52 KB",
-      "type": "voice",
-      "author": "damuffin36@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
-      "exported_at": "2023-08-04T08:40:49+02:00"
-    },
-    {
       "name": "Teamspeak3 Server ARM64",
       "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
       "language": "en",
@@ -29,6 +19,16 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
       "exported_at": "2022-07-06T17:10:16+02:00"
+    },
+    {
+      "name": "Lavalink",
+      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
+      "language": "en",
+      "size": "4.52 KB",
+      "type": "voice",
+      "author": "damuffin36@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
+      "exported_at": "2023-08-04T08:40:49+02:00"
     }
   ],
   "monitoring": [
@@ -1155,26 +1155,6 @@
       "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
-      "name": "KissMP Server",
-      "description": "Server for the KISS Multiplayer BeamNG.drive mod",
-      "language": "en",
-      "size": "1.9 KB",
-      "type": "games-standalone",
-      "author": "me@weilbyte.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-pterodactyl-kiss-m-p-server.json",
-      "exported_at": "2024-06-01T00:16:50+00:00"
-    },
-    {
-      "name": "KissMP Server",
-      "description": "Server for the KISS Multiplayer BeamNG.drive mod",
-      "language": "en",
-      "size": "1.98 KB",
-      "type": "games-standalone",
-      "author": "me@weilbyte.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-kiss-m-p-server.json",
-      "exported_at": "2024-06-01T00:16:50+00:00"
-    },
-    {
       "name": "BeamMP Servers",
       "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
       "language": "en",
@@ -1193,6 +1173,26 @@
       "author": "noah@noahserver.online",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
       "exported_at": "2024-08-03T04:06:03+00:00"
+    },
+    {
+      "name": "KissMP Server",
+      "description": "Server for the KISS Multiplayer BeamNG.drive mod",
+      "language": "en",
+      "size": "1.9 KB",
+      "type": "games-standalone",
+      "author": "me@weilbyte.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-pterodactyl-kiss-m-p-server.json",
+      "exported_at": "2024-06-01T00:16:50+00:00"
+    },
+    {
+      "name": "KissMP Server",
+      "description": "Server for the KISS Multiplayer BeamNG.drive mod",
+      "language": "en",
+      "size": "1.98 KB",
+      "type": "games-standalone",
+      "author": "me@weilbyte.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-kiss-m-p-server.json",
+      "exported_at": "2024-06-01T00:16:50+00:00"
     },
     {
       "name": "Among Us - Impostor Server",
@@ -2183,26 +2183,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2611,6 +2591,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
