@@ -635,6 +635,26 @@
       "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.59 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.28 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
       "name": "tshock",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
@@ -673,26 +693,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
       "exported_at": "2024-06-01T00:17:19+00:00"
-    },
-    {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.59 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.28 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
       "name": "tModloader",
@@ -1881,26 +1881,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1919,6 +1899,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -3875,26 +3875,6 @@
       "exported_at": "2024-06-01T00:04:27+00:00"
     },
     {
-      "name": "nmrih",
-      "description": "No More Room In Hell",
-      "language": "en",
-      "size": "5.49 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-pterodactyl-nmrih.json",
-      "exported_at": "2024-06-01T00:04:26+00:00"
-    },
-    {
-      "name": "nmrih",
-      "description": "No More Room In Hell",
-      "language": "en",
-      "size": "5.69 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
-      "exported_at": "2024-06-01T00:04:26+00:00"
-    },
-    {
       "name": "Night Of The Dead",
       "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
       "language": "en",
@@ -3913,6 +3893,26 @@
       "author": "marshals@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
       "exported_at": "2024-06-15T18:59:35+02:00"
+    },
+    {
+      "name": "nmrih",
+      "description": "No More Room In Hell",
+      "language": "en",
+      "size": "5.49 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-pterodactyl-nmrih.json",
+      "exported_at": "2024-06-01T00:04:26+00:00"
+    },
+    {
+      "name": "nmrih",
+      "description": "No More Room In Hell",
+      "language": "en",
+      "size": "5.69 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
+      "exported_at": "2024-06-01T00:04:26+00:00"
     },
     {
       "name": "NeosVR",
@@ -4115,26 +4115,6 @@
       "exported_at": "2024-06-01T00:03:58+00:00"
     },
     {
-      "name": "Left 4 Dead",
-      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
-      "language": "en",
-      "size": "5.55 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-pterodactyl-left4-dead.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
-      "name": "Left 4 Dead",
-      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
-      "language": "en",
-      "size": "5.72 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
       "name": "Killing Floor 2",
       "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
       "language": "en",
@@ -4153,6 +4133,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-killing-floor2.json",
       "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Left 4 Dead",
+      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
+      "language": "en",
+      "size": "5.55 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-pterodactyl-left4-dead.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Left 4 Dead",
+      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
+      "language": "en",
+      "size": "5.72 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
       "name": "Iosoccer server",
@@ -4215,26 +4215,6 @@
       "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "5.92 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "6.21 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
       "name": "HumanitZ",
       "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
       "language": "en",
@@ -4253,6 +4233,26 @@
       "author": "engels74@marx.ps",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-humanit-z.json",
       "exported_at": "2024-06-01T00:04:20+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "5.92 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "6.21 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "Holdfast NaW",
@@ -4315,26 +4315,6 @@
       "exported_at": "2024-09-12T17:18:38+00:00"
     },
     {
-      "name": "Frozen Flame",
-      "description": "Frozen Flame Dedicated Server",
-      "language": "en",
-      "size": "6.62 KB",
-      "type": "games-steamcmd",
-      "author": "theblitzbat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-pterodactyl-frozen-flame.json",
-      "exported_at": "2024-06-01T00:04:14+00:00"
-    },
-    {
-      "name": "Frozen Flame",
-      "description": "Frozen Flame Dedicated Server",
-      "language": "en",
-      "size": "6.95 KB",
-      "type": "games-steamcmd",
-      "author": "theblitzbat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-frozen-flame.json",
-      "exported_at": "2024-06-01T00:04:14+00:00"
-    },
-    {
       "name": "Foundry",
       "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
       "language": "en",
@@ -4353,6 +4333,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-foundry.json",
       "exported_at": "2024-08-25T09:33:05+00:00"
+    },
+    {
+      "name": "Frozen Flame",
+      "description": "Frozen Flame Dedicated Server",
+      "language": "en",
+      "size": "6.62 KB",
+      "type": "games-steamcmd",
+      "author": "theblitzbat@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-pterodactyl-frozen-flame.json",
+      "exported_at": "2024-06-01T00:04:14+00:00"
+    },
+    {
+      "name": "Frozen Flame",
+      "description": "Frozen Flame Dedicated Server",
+      "language": "en",
+      "size": "6.95 KB",
+      "type": "games-steamcmd",
+      "author": "theblitzbat@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-frozen-flame.json",
+      "exported_at": "2024-06-01T00:04:14+00:00"
     },
     {
       "name": "Fof",
