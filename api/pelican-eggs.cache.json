@@ -2183,6 +2183,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2593,26 +2613,6 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2753,26 +2753,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2851,6 +2831,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -3875,26 +3875,6 @@
       "exported_at": "2024-06-01T00:04:27+00:00"
     },
     {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "9.54 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "10.06 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
       "name": "nmrih",
       "description": "No More Room In Hell",
       "language": "en",
@@ -3913,6 +3893,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
       "exported_at": "2024-06-01T00:04:26+00:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "9.54 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "10.06 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
     },
     {
       "name": "NeosVR",
@@ -4115,26 +4115,6 @@
       "exported_at": "2024-06-01T00:03:58+00:00"
     },
     {
-      "name": "Killing Floor 2",
-      "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
-      "language": "en",
-      "size": "10.01 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-pterodactyl-killing-floor2.json",
-      "exported_at": "2024-06-01T00:03:57+00:00"
-    },
-    {
-      "name": "Killing Floor 2",
-      "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
-      "language": "en",
-      "size": "10.45 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-killing-floor2.json",
-      "exported_at": "2024-06-01T00:03:57+00:00"
-    },
-    {
       "name": "Left 4 Dead",
       "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
       "language": "en",
@@ -4153,6 +4133,26 @@
       "author": "pterodactyl@mazoyer.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Killing Floor 2",
+      "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
+      "language": "en",
+      "size": "10.01 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-pterodactyl-killing-floor2.json",
+      "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Killing Floor 2",
+      "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
+      "language": "en",
+      "size": "10.45 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-killing-floor2.json",
+      "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
       "name": "Iosoccer server",
@@ -4195,6 +4195,26 @@
       "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "5.92 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "6.21 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
       "name": "Icarus-Dedicated",
       "description": "Icarus is a survival game that with dedicated servers as a public beta",
       "language": "en",
@@ -4233,26 +4253,6 @@
       "author": "engels74@marx.ps",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-humanit-z.json",
       "exported_at": "2024-06-01T00:04:20+00:00"
-    },
-    {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "5.92 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "6.21 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "Holdfast NaW",
@@ -4315,26 +4315,6 @@
       "exported_at": "2024-09-12T17:18:38+00:00"
     },
     {
-      "name": "Foundry",
-      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
-      "language": "en",
-      "size": "11.9 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-pterodactyl-foundry.json",
-      "exported_at": "2024-08-25T11:31:45+02:00"
-    },
-    {
-      "name": "Foundry",
-      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
-      "language": "en",
-      "size": "12.35 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-foundry.json",
-      "exported_at": "2024-08-25T09:33:05+00:00"
-    },
-    {
       "name": "Frozen Flame",
       "description": "Frozen Flame Dedicated Server",
       "language": "en",
@@ -4353,6 +4333,26 @@
       "author": "theblitzbat@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-frozen-flame.json",
       "exported_at": "2024-06-01T00:04:14+00:00"
+    },
+    {
+      "name": "Foundry",
+      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
+      "language": "en",
+      "size": "11.9 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-pterodactyl-foundry.json",
+      "exported_at": "2024-08-25T11:31:45+02:00"
+    },
+    {
+      "name": "Foundry",
+      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
+      "language": "en",
+      "size": "12.35 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-foundry.json",
+      "exported_at": "2024-08-25T09:33:05+00:00"
     },
     {
       "name": "Fof",
