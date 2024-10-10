@@ -635,26 +635,6 @@
       "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.59 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.28 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
       "name": "tshock",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
@@ -693,6 +673,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
       "exported_at": "2024-06-01T00:17:19+00:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.59 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.28 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
       "name": "tModloader",
@@ -2081,26 +2081,6 @@
       "exported_at": "2024-06-02T14:40:59+00:00"
     },
     {
-      "name": "Folding@Home",
-      "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
-      "language": "en",
-      "size": "5.37 KB",
-      "type": "software",
-      "author": "fuggschen@krk-gaming.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-pterodactyl-folding--home.json",
-      "exported_at": "2024-09-08T19:48:06+02:00"
-    },
-    {
-      "name": "Folding@Home",
-      "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
-      "language": "en",
-      "size": "5.55 KB",
-      "type": "software",
-      "author": "fuggschen@krk-gaming.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-folding--home.json",
-      "exported_at": "2024-09-08T19:48:06+02:00"
-    },
-    {
       "name": "Forgejo",
       "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
       "language": "en",
@@ -2119,6 +2099,26 @@
       "author": "seaswimmerthefsh@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-forgejo.json",
       "exported_at": "2024-06-02T14:40:58+00:00"
+    },
+    {
+      "name": "Folding@Home",
+      "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
+      "language": "en",
+      "size": "5.37 KB",
+      "type": "software",
+      "author": "fuggschen@krk-gaming.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-pterodactyl-folding--home.json",
+      "exported_at": "2024-09-08T19:48:06+02:00"
+    },
+    {
+      "name": "Folding@Home",
+      "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
+      "language": "en",
+      "size": "5.55 KB",
+      "type": "software",
+      "author": "fuggschen@krk-gaming.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-folding--home.json",
+      "exported_at": "2024-09-08T19:48:06+02:00"
     },
     {
       "name": "Elasticsearch",
@@ -2182,26 +2182,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2613,6 +2593,26 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2753,6 +2753,26 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2831,26 +2851,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -5377,36 +5377,6 @@
   ],
   "database": [
     {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
       "name": "Postgres 16",
       "description": "A default Postgres install that is not really editable.",
       "language": "en",
@@ -5435,6 +5405,36 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
       "exported_at": "2023-12-19T09:54:17+01:00"
+    },
+    {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
     },
     {
       "name": "rethinkdb",
