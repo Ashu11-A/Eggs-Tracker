@@ -1557,26 +1557,6 @@
       "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
-      "name": "Bastion",
-      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
-      "language": "en",
-      "size": "5.93 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-pterodactyl-bastion.json",
-      "exported_at": "2024-06-01T19:44:09+00:00"
-    },
-    {
-      "name": "Bastion",
-      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
-      "language": "en",
-      "size": "6.26 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
-      "exported_at": "2024-06-01T19:44:09+00:00"
-    },
-    {
       "name": "ATLBot",
       "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
       "language": "en",
@@ -1595,6 +1575,26 @@
       "author": "jfeldt19@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
       "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "Bastion",
+      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
+      "language": "en",
+      "size": "5.93 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-pterodactyl-bastion.json",
+      "exported_at": "2024-06-01T19:44:09+00:00"
+    },
+    {
+      "name": "Bastion",
+      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
+      "language": "en",
+      "size": "6.26 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
+      "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
       "name": "Aoede",
@@ -2183,26 +2183,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2611,6 +2591,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -4195,26 +4195,6 @@
       "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "5.92 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "6.21 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
       "name": "Icarus-Dedicated",
       "description": "Icarus is a survival game that with dedicated servers as a public beta",
       "language": "en",
@@ -4233,6 +4213,26 @@
       "author": "bolverblitz@ebg.pw",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "5.92 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "6.21 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "HumanitZ",
