@@ -1215,26 +1215,6 @@
       "exported_at": "2024-07-01T08:27:45+00:00"
     },
     {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.56 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.78 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
       "name": "BetterCrewlink Server",
       "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
       "language": "en",
@@ -1253,6 +1233,26 @@
       "author": "tobiornotto@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.56 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.78 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
     }
   ],
   "chatbots": [
@@ -4155,26 +4155,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "4.96 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
-      "name": "Iosoccer server",
-      "description": "SERVER IOSOCCER",
-      "language": "en",
-      "size": "5.23 KB",
-      "type": "games-steamcmd",
-      "author": "contact-hyperbeats@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
       "name": "Insurgency: Sandstorm",
       "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
       "language": "en",
@@ -4193,6 +4173,26 @@
       "author": "brycea@terrahost.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
       "exported_at": "2023-11-13T18:26:59+01:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "4.96 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
+    },
+    {
+      "name": "Iosoccer server",
+      "description": "SERVER IOSOCCER",
+      "language": "en",
+      "size": "5.23 KB",
+      "type": "games-steamcmd",
+      "author": "contact-hyperbeats@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
       "name": "Icarus-Dedicated",
@@ -4375,26 +4375,6 @@
       "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
-      "name": "Empyrion: Galactic Survival",
-      "description": "Empyrion: Galactic Survival dedicated server",
-      "language": "en",
-      "size": "8.01 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
-      "name": "Empyrion: Galactic Survival",
-      "description": "Empyrion: Galactic Survival dedicated server",
-      "language": "en",
-      "size": "8.44 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
       "name": "Enshrouded",
       "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
       "language": "en",
@@ -4413,6 +4393,26 @@
       "author": "vapokrocks@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
       "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Empyrion: Galactic Survival",
+      "description": "Empyrion: Galactic Survival dedicated server",
+      "language": "en",
+      "size": "8.01 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Empyrion: Galactic Survival",
+      "description": "Empyrion: Galactic Survival dedicated server",
+      "language": "en",
+      "size": "8.44 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
       "name": "Eco",
