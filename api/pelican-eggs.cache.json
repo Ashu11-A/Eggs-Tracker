@@ -1517,26 +1517,6 @@
       "exported_at": "2024-06-01T19:44:14+00:00"
     },
     {
-      "name": "CorpBot",
-      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
-      "language": "en",
-      "size": "2.85 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-pterodactyl-corp-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "CorpBot",
-      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
-      "language": "en",
-      "size": "3 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-corp-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Dynamica",
       "description": "An easy-to-use dynamic voice channel bot.",
       "language": "en",
@@ -1555,6 +1535,26 @@
       "author": "sebastian.pietschner@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/dynamica/egg-dynamica.json",
       "exported_at": "2024-06-01T19:44:12+00:00"
+    },
+    {
+      "name": "CorpBot",
+      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
+      "language": "en",
+      "size": "2.85 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-pterodactyl-corp-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "CorpBot",
+      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
+      "language": "en",
+      "size": "3 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-corp-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
       "name": "Bastion",
@@ -2183,6 +2183,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.97 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.97 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -3275,26 +3275,6 @@
       "exported_at": "2024-06-01T00:04:56+00:00"
     },
     {
-      "name": "Team Fortress 2 Classic",
-      "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
-      "language": "en",
-      "size": "6.66 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@scattergun.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-team-fortress2-classic.json",
-      "exported_at": "2024-06-01T00:04:56+00:00"
-    },
-    {
-      "name": "Team Fortress 2 Classic",
-      "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
-      "language": "en",
-      "size": "6.42 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@scattergun.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json",
-      "exported_at": "2024-06-01T00:04:56+00:00"
-    },
-    {
       "name": "Swords 'n Magic and Stuff",
       "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
       "language": "en",
@@ -3313,6 +3293,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
       "exported_at": "2024-06-01T00:04:55+00:00"
+    },
+    {
+      "name": "Team Fortress 2 Classic",
+      "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
+      "language": "en",
+      "size": "6.66 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@scattergun.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-team-fortress2-classic.json",
+      "exported_at": "2024-06-01T00:04:56+00:00"
+    },
+    {
+      "name": "Team Fortress 2 Classic",
+      "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
+      "language": "en",
+      "size": "6.42 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@scattergun.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json",
+      "exported_at": "2024-06-01T00:04:56+00:00"
     },
     {
       "name": "Sven Co-op",
@@ -4555,26 +4555,6 @@
       "exported_at": "2024-06-01T00:04:05+00:00"
     },
     {
-      "name": "Conan Exiles",
-      "description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare.",
-      "language": "en",
-      "size": "7.74 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/conan_exiles/egg-pterodactyl-conan-exiles.json",
-      "exported_at": "2024-06-01T00:04:00+00:00"
-    },
-    {
-      "name": "Conan Exiles",
-      "description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare.",
-      "language": "en",
-      "size": "8.1 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/conan_exiles/egg-conan-exiles.json",
-      "exported_at": "2024-06-01T00:04:00+00:00"
-    },
-    {
       "name": "Core Keeper",
       "description": "Core Keeper is a survival sandbox game for single or multiplayers.\r\n\r\n--- Drawn towards a mysterious relic, you are an explorer who awakens in an ancient cavern of creatures, resources and trinkets. Trapped deep underground will your survival skills be up to the task? Mine relics and resources to build your base, craft new equipment, survive, and power up the Core. ---",
       "language": "en",
@@ -4593,6 +4573,26 @@
       "author": "karsten@fiedleronline.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/core_keeper/egg-core-keeper.json",
       "exported_at": "2024-06-01T00:03:59+00:00"
+    },
+    {
+      "name": "Conan Exiles",
+      "description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare.",
+      "language": "en",
+      "size": "7.74 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/conan_exiles/egg-pterodactyl-conan-exiles.json",
+      "exported_at": "2024-06-01T00:04:00+00:00"
+    },
+    {
+      "name": "Conan Exiles",
+      "description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare.",
+      "language": "en",
+      "size": "8.1 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/conan_exiles/egg-conan-exiles.json",
+      "exported_at": "2024-06-01T00:04:00+00:00"
     },
     {
       "name": "Colony Survival",
@@ -4695,26 +4695,6 @@
       "exported_at": "2024-06-01T00:03:42+00:00"
     },
     {
-      "name": "Astroneer Dedicated Server",
-      "description": "A game of aerospace industry and interplanetary exploration.",
-      "language": "en",
-      "size": "7.55 KB",
-      "type": "games-steamcmd",
-      "author": "melethainiel.aerin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json",
-      "exported_at": "2024-06-01T00:03:55+00:00"
-    },
-    {
-      "name": "Astroneer Dedicated Server",
-      "description": "A game of aerospace industry and interplanetary exploration.",
-      "language": "en",
-      "size": "7.9 KB",
-      "type": "games-steamcmd",
-      "author": "melethainiel.aerin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-astroneer-dedicated-server.json",
-      "exported_at": "2024-06-01T00:03:55+00:00"
-    },
-    {
       "name": "Avorion",
       "description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.",
       "language": "en",
@@ -4733,6 +4713,26 @@
       "author": "iamkubi@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/avorion/egg-avorion.json",
       "exported_at": "2024-06-01T00:03:42+00:00"
+    },
+    {
+      "name": "Astroneer Dedicated Server",
+      "description": "A game of aerospace industry and interplanetary exploration.",
+      "language": "en",
+      "size": "7.55 KB",
+      "type": "games-steamcmd",
+      "author": "melethainiel.aerin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json",
+      "exported_at": "2024-06-01T00:03:55+00:00"
+    },
+    {
+      "name": "Astroneer Dedicated Server",
+      "description": "A game of aerospace industry and interplanetary exploration.",
+      "language": "en",
+      "size": "7.9 KB",
+      "type": "games-steamcmd",
+      "author": "melethainiel.aerin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-astroneer-dedicated-server.json",
+      "exported_at": "2024-06-01T00:03:55+00:00"
     },
     {
       "name": "Astro Colony",
