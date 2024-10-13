@@ -715,26 +715,6 @@
       "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
-      "name": "Rimworld: Open World",
-      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
-      "language": "en",
-      "size": "7.75 KB",
-      "type": "games-standalone",
-      "author": "kyle@williquette.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-rimworld--open-world.json",
-      "exported_at": "2024-06-01T00:17:08+00:00"
-    },
-    {
-      "name": "Rimworld: Open World",
-      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
-      "language": "en",
-      "size": "7.48 KB",
-      "type": "games-standalone",
-      "author": "kyle@williquette.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
-      "exported_at": "2024-06-01T00:17:08+00:00"
-    },
-    {
       "name": "Rimworld Together",
       "description": "A community driven multiplayer mod, for Rimworld.",
       "language": "en",
@@ -753,6 +733,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
       "exported_at": "2024-06-01T00:17:07+00:00"
+    },
+    {
+      "name": "Rimworld: Open World",
+      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
+      "language": "en",
+      "size": "7.75 KB",
+      "type": "games-standalone",
+      "author": "kyle@williquette.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-rimworld--open-world.json",
+      "exported_at": "2024-06-01T00:17:08+00:00"
+    },
+    {
+      "name": "Rimworld: Open World",
+      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
+      "language": "en",
+      "size": "7.48 KB",
+      "type": "games-standalone",
+      "author": "kyle@williquette.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
+      "exported_at": "2024-06-01T00:17:08+00:00"
     },
     {
       "name": "RedM",
@@ -1195,26 +1195,6 @@
       "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
-      "name": "Among Us - Impostor Server",
-      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
-      "language": "en",
-      "size": "3.42 KB",
-      "type": "games-standalone",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
-      "exported_at": "2024-07-01T10:26:38+02:00"
-    },
-    {
-      "name": "Among Us - Impostor Server",
-      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "games-standalone",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
-      "exported_at": "2024-07-01T08:27:45+00:00"
-    },
-    {
       "name": "Crewlink server",
       "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
       "language": "en",
@@ -1233,6 +1213,26 @@
       "author": "panel@oxtroit.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Among Us - Impostor Server",
+      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
+      "language": "en",
+      "size": "3.42 KB",
+      "type": "games-standalone",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
+      "exported_at": "2024-07-01T10:26:38+02:00"
+    },
+    {
+      "name": "Among Us - Impostor Server",
+      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "games-standalone",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
+      "exported_at": "2024-07-01T08:27:45+00:00"
     },
     {
       "name": "BetterCrewlink Server",
@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.71 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
       "name": "JTS3ServerMod",
       "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.71 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1437,26 +1437,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Muse",
-      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
-      "language": "en",
-      "size": "5.28 KB",
-      "type": "chatbots",
-      "author": "hello@apollo.moe",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-pterodactyl-muse.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "Muse",
-      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
-      "language": "en",
-      "size": "5.53 KB",
-      "type": "chatbots",
-      "author": "hello@apollo.moe",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-muse.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "JMusicBot",
       "description": "A Discord music bot that's easy to set up and run yourself!",
       "language": "en",
@@ -1475,6 +1455,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
       "exported_at": "2024-06-01T19:44:14+00:00"
+    },
+    {
+      "name": "Muse",
+      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
+      "language": "en",
+      "size": "5.28 KB",
+      "type": "chatbots",
+      "author": "hello@apollo.moe",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-pterodactyl-muse.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Muse",
+      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
+      "language": "en",
+      "size": "5.53 KB",
+      "type": "chatbots",
+      "author": "hello@apollo.moe",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-muse.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Game Server Watcher",
@@ -1577,26 +1577,6 @@
       "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.42 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Aoede",
       "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
       "language": "en",
@@ -1615,6 +1595,26 @@
       "author": "contact@bldy.ovh",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.42 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     }
   ],
   "generic": [
@@ -1961,26 +1961,6 @@
       "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
-      "name": "Meilisearch",
-      "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "software",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/meilisearch/egg-pterodactyl-meilisearch.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
-      "name": "Meilisearch",
-      "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
-      "language": "en",
-      "size": "6.37 KB",
-      "type": "software",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/meilisearch/egg-meilisearch.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
       "name": "owncast.online",
       "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
       "language": "en",
@@ -1998,6 +1978,26 @@
       "type": "software",
       "author": "psychoalex@thevcbc.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "Meilisearch",
+      "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "software",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/meilisearch/egg-pterodactyl-meilisearch.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "Meilisearch",
+      "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
+      "language": "en",
+      "size": "6.37 KB",
+      "type": "software",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/meilisearch/egg-meilisearch.json",
       "exported_at": "2024-06-02T14:40:52+00:00"
     },
     {
@@ -2753,6 +2753,26 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2831,26 +2851,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -3895,26 +3895,6 @@
       "exported_at": "2024-06-01T00:04:26+00:00"
     },
     {
-      "name": "NeosVR",
-      "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
-      "language": "en",
-      "size": "6.44 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/neosvr/egg-pterodactyl-neos-v-r.json",
-      "exported_at": "2024-06-01T00:04:25+00:00"
-    },
-    {
-      "name": "NeosVR",
-      "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
-      "language": "en",
-      "size": "6.76 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/neosvr/egg-neos-v-r.json",
-      "exported_at": "2024-06-01T00:04:25+00:00"
-    },
-    {
       "name": "Night Of The Dead",
       "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
       "language": "en",
@@ -3933,6 +3913,26 @@
       "author": "marshals@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
       "exported_at": "2024-06-15T18:59:35+02:00"
+    },
+    {
+      "name": "NeosVR",
+      "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
+      "language": "en",
+      "size": "6.44 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/neosvr/egg-pterodactyl-neos-v-r.json",
+      "exported_at": "2024-06-01T00:04:25+00:00"
+    },
+    {
+      "name": "NeosVR",
+      "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
+      "language": "en",
+      "size": "6.76 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/neosvr/egg-neos-v-r.json",
+      "exported_at": "2024-06-01T00:04:25+00:00"
     },
     {
       "name": "Necesse",
@@ -4375,26 +4375,6 @@
       "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
-      "name": "Empyrion: Galactic Survival",
-      "description": "Empyrion: Galactic Survival dedicated server",
-      "language": "en",
-      "size": "8.01 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
-      "name": "Empyrion: Galactic Survival",
-      "description": "Empyrion: Galactic Survival dedicated server",
-      "language": "en",
-      "size": "8.44 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
       "name": "Enshrouded",
       "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
       "language": "en",
@@ -4413,6 +4393,26 @@
       "author": "vapokrocks@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
       "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Empyrion: Galactic Survival",
+      "description": "Empyrion: Galactic Survival dedicated server",
+      "language": "en",
+      "size": "8.01 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Empyrion: Galactic Survival",
+      "description": "Empyrion: Galactic Survival dedicated server",
+      "language": "en",
+      "size": "8.44 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
       "name": "Eco",
