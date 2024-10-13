@@ -715,26 +715,6 @@
       "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
-      "name": "RedM",
-      "description": "A new RedM egg for the latest builds due to recent changes in RedM",
-      "language": "en",
-      "size": "7.19 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rdr/redm/egg-red-m.json",
-      "exported_at": "2024-06-01T00:17:04+00:00"
-    },
-    {
-      "name": "RedM",
-      "description": "A new RedM egg for the latest builds due to recent changes in RedM",
-      "language": "en",
-      "size": "6.88 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rdr/redm/egg-pterodactyl-red-m.json",
-      "exported_at": "2024-06-01T00:17:04+00:00"
-    },
-    {
       "name": "Rimworld: Open World",
       "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
       "language": "en",
@@ -773,6 +753,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
       "exported_at": "2024-06-01T00:17:07+00:00"
+    },
+    {
+      "name": "RedM",
+      "description": "A new RedM egg for the latest builds due to recent changes in RedM",
+      "language": "en",
+      "size": "7.19 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rdr/redm/egg-red-m.json",
+      "exported_at": "2024-06-01T00:17:04+00:00"
+    },
+    {
+      "name": "RedM",
+      "description": "A new RedM egg for the latest builds due to recent changes in RedM",
+      "language": "en",
+      "size": "6.88 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rdr/redm/egg-pterodactyl-red-m.json",
+      "exported_at": "2024-06-01T00:17:04+00:00"
     },
     {
       "name": "OpenRA - Tiberian Dawn",
@@ -1155,26 +1155,6 @@
       "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
-      "name": "BeamMP Servers",
-      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
-      "language": "en",
-      "size": "9.28 KB",
-      "type": "games-standalone",
-      "author": "noah@noahserver.online",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
-      "exported_at": "2024-08-03T06:04:16+02:00"
-    },
-    {
-      "name": "BeamMP Servers",
-      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
-      "language": "en",
-      "size": "9.51 KB",
-      "type": "games-standalone",
-      "author": "noah@noahserver.online",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
-      "exported_at": "2024-08-03T04:06:03+00:00"
-    },
-    {
       "name": "KissMP Server",
       "description": "Server for the KISS Multiplayer BeamNG.drive mod",
       "language": "en",
@@ -1193,6 +1173,26 @@
       "author": "me@weilbyte.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-kiss-m-p-server.json",
       "exported_at": "2024-06-01T00:16:50+00:00"
+    },
+    {
+      "name": "BeamMP Servers",
+      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+      "language": "en",
+      "size": "9.28 KB",
+      "type": "games-standalone",
+      "author": "noah@noahserver.online",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
+      "exported_at": "2024-08-03T06:04:16+02:00"
+    },
+    {
+      "name": "BeamMP Servers",
+      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+      "language": "en",
+      "size": "9.51 KB",
+      "type": "games-standalone",
+      "author": "noah@noahserver.online",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
+      "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
       "name": "Among Us - Impostor Server",
@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1961,26 +1961,6 @@
       "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
-      "name": "owncast.online",
-      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
-      "language": "en",
-      "size": "5.8 KB",
-      "type": "software",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
-      "name": "owncast.online",
-      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "software",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
       "name": "Meilisearch",
       "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
       "language": "en",
@@ -1998,6 +1978,26 @@
       "type": "software",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/meilisearch/egg-meilisearch.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "owncast.online",
+      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
+      "language": "en",
+      "size": "5.8 KB",
+      "type": "software",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncast-online.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "owncast.online",
+      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "software",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
       "exported_at": "2024-06-02T14:40:52+00:00"
     },
     {
@@ -3895,26 +3895,6 @@
       "exported_at": "2024-06-01T00:04:26+00:00"
     },
     {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "9.54 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "10.06 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
       "name": "NeosVR",
       "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
       "language": "en",
@@ -3933,6 +3913,26 @@
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/neosvr/egg-neos-v-r.json",
       "exported_at": "2024-06-01T00:04:25+00:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "9.54 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "10.06 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
     },
     {
       "name": "Necesse",
@@ -4375,26 +4375,6 @@
       "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.36 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.55 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
       "name": "Empyrion: Galactic Survival",
       "description": "Empyrion: Galactic Survival dedicated server",
       "language": "en",
@@ -4413,6 +4393,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
       "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.36 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.55 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
       "name": "Eco",
