@@ -775,26 +775,6 @@
       "exported_at": "2024-06-01T00:17:04+00:00"
     },
     {
-      "name": "OpenRA",
-      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
-      "language": "en",
-      "size": "5.78 KB",
-      "type": "games-standalone",
-      "author": "patz.michael@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_red_alert/egg-pterodactyl-open-r-a.json",
-      "exported_at": "2024-06-01T00:16:59+00:00"
-    },
-    {
-      "name": "OpenRA",
-      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
-      "language": "en",
-      "size": "6.06 KB",
-      "type": "games-standalone",
-      "author": "patz.michael@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_red_alert/egg-open-r-a.json",
-      "exported_at": "2024-06-01T00:16:59+00:00"
-    },
-    {
       "name": "OpenRA - Tiberian Dawn",
       "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
       "language": "en",
@@ -813,6 +793,26 @@
       "author": "patz.michael@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json",
       "exported_at": "2024-06-01T00:17:00+00:00"
+    },
+    {
+      "name": "OpenRA",
+      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+      "language": "en",
+      "size": "5.78 KB",
+      "type": "games-standalone",
+      "author": "patz.michael@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_red_alert/egg-pterodactyl-open-r-a.json",
+      "exported_at": "2024-06-01T00:16:59+00:00"
+    },
+    {
+      "name": "OpenRA",
+      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+      "language": "en",
+      "size": "6.06 KB",
+      "type": "games-standalone",
+      "author": "patz.michael@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_red_alert/egg-open-r-a.json",
+      "exported_at": "2024-06-01T00:16:59+00:00"
     },
     {
       "name": "OpenRA - Dune2000",
@@ -895,26 +895,6 @@
       "exported_at": "2024-06-01T00:17:03+00:00"
     },
     {
-      "name": "OpenMP",
-      "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
-      "language": "en",
-      "size": "3.54 KB",
-      "type": "games-standalone",
-      "author": "vedrancappone@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/openmp/egg-pterodactyl-open-m-p.json",
-      "exported_at": "2024-06-01T00:16:57+00:00"
-    },
-    {
-      "name": "OpenMP",
-      "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
-      "language": "en",
-      "size": "3.66 KB",
-      "type": "games-standalone",
-      "author": "vedrancappone@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/openmp/egg-open-m-p.json",
-      "exported_at": "2024-06-01T00:16:57+00:00"
-    },
-    {
       "name": "Multi Theft Auto",
       "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
       "language": "en",
@@ -933,6 +913,26 @@
       "author": "info@six-gaming.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-multi-theft-auto.json",
       "exported_at": "2024-07-11T19:55:05+02:00"
+    },
+    {
+      "name": "OpenMP",
+      "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
+      "language": "en",
+      "size": "3.54 KB",
+      "type": "games-standalone",
+      "author": "vedrancappone@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/openmp/egg-pterodactyl-open-m-p.json",
+      "exported_at": "2024-06-01T00:16:57+00:00"
+    },
+    {
+      "name": "OpenMP",
+      "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
+      "language": "en",
+      "size": "3.66 KB",
+      "type": "games-standalone",
+      "author": "vedrancappone@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/openmp/egg-open-m-p.json",
+      "exported_at": "2024-06-01T00:16:57+00:00"
     },
     {
       "name": "Grand Theft Auto Connected",
@@ -3695,6 +3695,26 @@
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.31 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.62 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
       "name": "Palworld",
       "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
       "language": "en",
@@ -3733,26 +3753,6 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
-    },
-    {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.31 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
-    },
-    {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.62 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
       "name": "Operation Harsh Doorstop",
@@ -4995,26 +4995,6 @@
       "exported_at": "2024-06-01T00:05:07+00:00"
     },
     {
-      "name": "Euro Truck Simulator 2 Dedicated server",
-      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
-      "language": "en",
-      "size": "6.52 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
-      "exported_at": "2024-06-01T00:04:12+00:00"
-    },
-    {
-      "name": "Euro Truck Simulator 2 Dedicated server",
-      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
-      "language": "en",
-      "size": "6.83 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json",
-      "exported_at": "2024-06-01T00:04:12+00:00"
-    },
-    {
       "name": "American Truck Simulator Dedicated Server",
       "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
       "language": "en",
@@ -5033,6 +5013,26 @@
       "author": "chase@cstmgames.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
       "exported_at": "2024-06-01T00:03:47+00:00"
+    },
+    {
+      "name": "Euro Truck Simulator 2 Dedicated server",
+      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+      "language": "en",
+      "size": "6.52 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
+      "exported_at": "2024-06-01T00:04:12+00:00"
+    },
+    {
+      "name": "Euro Truck Simulator 2 Dedicated server",
+      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+      "language": "en",
+      "size": "6.83 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json",
+      "exported_at": "2024-06-01T00:04:12+00:00"
     },
     {
       "name": "The Isle",
@@ -5295,26 +5295,6 @@
       "exported_at": "2024-06-01T00:04:07+00:00"
     },
     {
-      "name": "Counter-Strike: Source",
-      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
-      "language": "en",
-      "size": "6.35 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-pterodactyl-counter--strike--source.json",
-      "exported_at": "2024-06-01T00:04:02+00:00"
-    },
-    {
-      "name": "Counter-Strike: Source",
-      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
-      "language": "en",
-      "size": "6.61 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-counter--strike--source.json",
-      "exported_at": "2024-06-01T00:04:02+00:00"
-    },
-    {
       "name": "Counter-Strike 2",
       "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
       "language": "en",
@@ -5333,6 +5313,26 @@
       "author": "admin@ballaual.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_2/egg-counter--strike2.json",
       "exported_at": "2024-06-01T00:04:01+00:00"
+    },
+    {
+      "name": "Counter-Strike: Source",
+      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+      "language": "en",
+      "size": "6.35 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-pterodactyl-counter--strike--source.json",
+      "exported_at": "2024-06-01T00:04:02+00:00"
+    },
+    {
+      "name": "Counter-Strike: Source",
+      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+      "language": "en",
+      "size": "6.61 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-counter--strike--source.json",
+      "exported_at": "2024-06-01T00:04:02+00:00"
     },
     {
       "name": "Arma Reforger",
