@@ -1557,26 +1557,6 @@
       "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.42 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Bastion",
       "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
       "language": "en",
@@ -1595,6 +1575,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
       "exported_at": "2024-06-01T19:44:09+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.42 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
       "name": "Aoede",
@@ -1639,26 +1639,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "7.65 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "8.01 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "python generic",
       "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
       "language": "en",
@@ -1676,6 +1656,26 @@
       "type": "generic",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "7.65 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "8.01 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
@@ -2183,6 +2183,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2591,26 +2611,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -4955,26 +4955,6 @@
       "exported_at": "2024-06-01T00:05:04+00:00"
     },
     {
-      "name": "V Rising BepInEx",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "20.88 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
-    },
-    {
-      "name": "V Rising BepInEx",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
-      "language": "en",
-      "size": "20.03 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
-    },
-    {
       "name": "V Rising",
       "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
       "language": "en",
@@ -4993,6 +4973,26 @@
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
       "exported_at": "2024-08-02T10:52:39-07:00"
+    },
+    {
+      "name": "V Rising BepInEx",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "20.88 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
+      "exported_at": "2024-06-01T00:05:07+00:00"
+    },
+    {
+      "name": "V Rising BepInEx",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
+      "size": "20.03 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
+      "exported_at": "2024-06-01T00:05:07+00:00"
     },
     {
       "name": "Euro Truck Simulator 2 Dedicated server",
@@ -5255,26 +5255,6 @@
       "exported_at": "2024-06-01T00:04:41+00:00"
     },
     {
-      "name": "Custom ReHLDS Engine Game",
-      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
-      "language": "en",
-      "size": "8.33 KB",
-      "type": "games-steamcmd",
-      "author": "shigbeard@ndlee.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/rehlds/egg-pterodactyl-custom-re-h-l-d-s-engine-game.json",
-      "exported_at": "2024-06-01T00:04:07+00:00"
-    },
-    {
-      "name": "Custom ReHLDS Engine Game",
-      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
-      "language": "en",
-      "size": "8.73 KB",
-      "type": "games-steamcmd",
-      "author": "shigbeard@ndlee.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json",
-      "exported_at": "2024-06-01T00:04:07+00:00"
-    },
-    {
       "name": "Custom HLDS Engine Game",
       "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel.",
       "language": "en",
@@ -5292,6 +5272,26 @@
       "type": "games-steamcmd",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/vanilla/egg-custom-h-l-d-s-engine-game.json",
+      "exported_at": "2024-06-01T00:04:07+00:00"
+    },
+    {
+      "name": "Custom ReHLDS Engine Game",
+      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
+      "language": "en",
+      "size": "8.33 KB",
+      "type": "games-steamcmd",
+      "author": "shigbeard@ndlee.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/rehlds/egg-pterodactyl-custom-re-h-l-d-s-engine-game.json",
+      "exported_at": "2024-06-01T00:04:07+00:00"
+    },
+    {
+      "name": "Custom ReHLDS Engine Game",
+      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
+      "language": "en",
+      "size": "8.73 KB",
+      "type": "games-steamcmd",
+      "author": "shigbeard@ndlee.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json",
       "exported_at": "2024-06-01T00:04:07+00:00"
     },
     {
@@ -5407,36 +5407,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5475,6 +5445,36 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
