@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1881,26 +1881,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1919,6 +1899,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -1941,26 +1941,6 @@
       "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
-      "name": "RabbitMQ",
-      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
-      "language": "en",
-      "size": "3.03 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "RabbitMQ",
-      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
-      "language": "en",
-      "size": "2.91 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "owncast.online",
       "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
       "language": "en",
@@ -1979,6 +1959,26 @@
       "author": "psychoalex@thevcbc.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
       "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "RabbitMQ",
+      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
+      "language": "en",
+      "size": "3.03 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-rabbit-m-q.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "RabbitMQ",
+      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
+      "language": "en",
+      "size": "2.91 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Meilisearch",
@@ -2182,26 +2182,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2611,6 +2591,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -4815,26 +4815,6 @@
       "exported_at": "2024-06-01T00:03:54+00:00"
     },
     {
-      "name": "Ark: Survival Evolved",
-      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
-      "language": "en",
-      "size": "8.68 KB",
-      "type": "games-steamcmd",
-      "author": "dev@shepper.fr",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
-    },
-    {
-      "name": "Ark: Survival Evolved",
-      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
-      "language": "en",
-      "size": "9.07 KB",
-      "type": "games-steamcmd",
-      "author": "dev@shepper.fr",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
-    },
-    {
       "name": "ARK: Survival Ascended",
       "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
       "language": "en",
@@ -4853,6 +4833,26 @@
       "author": "blood@darkartsgaming.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json",
       "exported_at": "2024-10-04T17:57:36+00:00"
+    },
+    {
+      "name": "Ark: Survival Evolved",
+      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
+      "language": "en",
+      "size": "8.68 KB",
+      "type": "games-steamcmd",
+      "author": "dev@shepper.fr",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
+      "exported_at": "2024-06-01T00:03:48+00:00"
+    },
+    {
+      "name": "Ark: Survival Evolved",
+      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
+      "language": "en",
+      "size": "9.07 KB",
+      "type": "games-steamcmd",
+      "author": "dev@shepper.fr",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
+      "exported_at": "2024-06-01T00:03:48+00:00"
     },
     {
       "name": "Abiotic Factor",
