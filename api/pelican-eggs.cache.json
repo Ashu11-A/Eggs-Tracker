@@ -135,26 +135,6 @@
       "exported_at": "2024-06-01T00:17:16+00:00"
     },
     {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.78 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.68 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
       "name": "Teeworlds",
       "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
       "language": "en",
@@ -173,6 +153,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
       "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.78 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.68 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
     },
     {
       "name": "Spacestation 14",
@@ -3775,26 +3775,6 @@
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
-      "name": "Onset",
-      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-pterodactyl-onset.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
-      "name": "Onset",
-      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
-      "language": "en",
-      "size": "6 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
       "name": "Open Fortress",
       "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
       "language": "en",
@@ -3813,6 +3793,26 @@
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
       "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Onset",
+      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-pterodactyl-onset.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Onset",
+      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
+      "language": "en",
+      "size": "6 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
       "name": "Nova-Life: Amboise",
