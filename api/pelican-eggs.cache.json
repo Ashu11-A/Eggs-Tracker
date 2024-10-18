@@ -1639,26 +1639,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "7.65 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "8.01 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "python generic",
       "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
       "language": "en",
@@ -1676,6 +1656,26 @@
       "type": "generic",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "7.65 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "8.01 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
@@ -2001,26 +2001,6 @@
       "exported_at": "2024-06-02T14:40:52+00:00"
     },
     {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.46 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.53 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
       "name": "LanguageTool",
       "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
       "language": "en",
@@ -2038,6 +2018,26 @@
       "type": "software",
       "author": "thomasruhl@live.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.46 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.53 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
