@@ -438,21 +438,21 @@
       "name": "Hogwarp",
       "description": "A Pterodactyl egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378",
       "language": "en",
-      "size": "6.55 KB",
+      "size": "5.98 KB",
       "type": "games-standalone",
       "author": "imkringle@proton.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/hogwarp/egg-pterodactyl-hogwarp.json",
-      "exported_at": "2024-06-01T00:16:49+00:00"
+      "exported_at": "2024-10-20T20:24:42+02:00"
     },
     {
       "name": "Hogwarp",
       "description": "A Pterodactyl egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378",
       "language": "en",
-      "size": "6.87 KB",
+      "size": "6.65 KB",
       "type": "games-standalone",
       "author": "imkringle@proton.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/hogwarp/egg-hogwarp.json",
-      "exported_at": "2024-06-01T00:16:49+00:00"
+      "exported_at": "2024-10-20T18:23:50+00:00"
     },
     {
       "name": "Tachyon",
@@ -1639,26 +1639,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.38 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.06 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "nodemon",
       "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
       "language": "en",
@@ -1676,6 +1656,26 @@
       "type": "generic",
       "author": "nick@blackforthosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.38 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.06 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
@@ -2183,26 +2183,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2613,6 +2593,26 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2753,26 +2753,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2813,6 +2793,26 @@
       "exported_at": "2024-06-01T19:40:09+00:00"
     },
     {
+      "name": "Travertine",
+      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.67 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-travertine.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Travertine",
+      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.44 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
       "name": "Velocity",
       "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
       "language": "en",
@@ -2833,24 +2833,24 @@
       "exported_at": "2024-06-01T19:40:07+00:00"
     },
     {
-      "name": "Travertine",
-      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
       "language": "en",
-      "size": "5.67 KB",
+      "size": "3.57 KB",
       "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-travertine.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
-      "name": "Travertine",
-      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
       "language": "en",
-      "size": "5.44 KB",
+      "size": "3.4 KB",
       "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
