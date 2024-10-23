@@ -3130,24 +3130,24 @@
     "exported_at": "2024-10-16T18:29:26-07:00"
   },
   {
-    "name": "OpenTTD Server",
+    "name": "OpenTTD",
     "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
     "language": "en",
-    "size": "4.3 KB",
+    "size": "4.36 KB",
     "type": "games-standalone",
     "author": "admin@justmyrandomstuff.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
-    "exported_at": "2024-06-01T00:17:01+00:00"
+    "exported_at": "2024-10-21T21:46:13+02:00"
   },
   {
-    "name": "OpenTTD Server",
+    "name": "OpenTTD",
     "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
     "language": "en",
-    "size": "4.5 KB",
+    "size": "4.75 KB",
     "type": "games-standalone",
     "author": "admin@justmyrandomstuff.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
-    "exported_at": "2024-06-01T00:17:01+00:00"
+    "exported_at": "2024-10-21T19:12:22+00:00"
   },
   {
     "name": "Operation Harsh Doorstop",
