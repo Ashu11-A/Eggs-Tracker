@@ -1,16 +1,6 @@
 {
   "voice": [
     {
-      "name": "Teamspeak3 Server ARM64",
-      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
-      "language": "en",
-      "size": "3.33 KB",
-      "type": "voice",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
-      "exported_at": "2022-07-06T17:10:16+02:00"
-    },
-    {
       "name": "TS3 Manager",
       "description": "The Open Source Webinterface For TeamSpeak Servers",
       "language": "en",
@@ -19,6 +9,16 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/ts3_manager/egg-t-s3-manager.json",
       "exported_at": "2023-10-07T18:01:49+02:00"
+    },
+    {
+      "name": "Teamspeak3 Server ARM64",
+      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+      "language": "en",
+      "size": "3.33 KB",
+      "type": "voice",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
+      "exported_at": "2022-07-06T17:10:16+02:00"
     },
     {
       "name": "Lavalink",
@@ -1215,26 +1215,6 @@
       "exported_at": "2024-07-01T08:27:45+00:00"
     },
     {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.56 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.78 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
       "name": "BetterCrewlink Server",
       "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
       "language": "en",
@@ -1253,6 +1233,26 @@
       "author": "tobiornotto@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.56 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.78 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
     }
   ],
   "chatbots": [
