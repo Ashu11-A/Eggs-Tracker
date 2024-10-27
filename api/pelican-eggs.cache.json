@@ -1719,26 +1719,6 @@
       "exported_at": "2024-06-02T14:43:51+00:00"
     },
     {
-      "name": "Elixir",
-      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
-      "language": "en",
-      "size": "5.39 KB",
-      "type": "generic",
-      "author": "mravox@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-pterodactyl-elixir.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
-      "name": "Elixir",
-      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
-      "language": "en",
-      "size": "5.6 KB",
-      "type": "generic",
-      "author": "mravox@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
       "name": "golang generic",
       "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
       "language": "en",
@@ -1757,6 +1737,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-golang-generic.json",
       "exported_at": "2024-06-02T14:43:56+00:00"
+    },
+    {
+      "name": "Elixir",
+      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+      "language": "en",
+      "size": "5.39 KB",
+      "type": "generic",
+      "author": "mravox@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-pterodactyl-elixir.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Elixir",
+      "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+      "language": "en",
+      "size": "5.6 KB",
+      "type": "generic",
+      "author": "mravox@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
       "name": "Deno Generic",
@@ -1941,26 +1941,6 @@
       "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
-      "name": "owncast.online",
-      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
-      "language": "en",
-      "size": "5.8 KB",
-      "type": "software",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
-      "name": "owncast.online",
-      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "software",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
       "name": "RabbitMQ",
       "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
       "language": "en",
@@ -1979,6 +1959,26 @@
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "owncast.online",
+      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
+      "language": "en",
+      "size": "5.8 KB",
+      "type": "software",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncast-online.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "owncast.online",
+      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "software",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
+      "exported_at": "2024-06-02T14:40:52+00:00"
     },
     {
       "name": "Meilisearch",
@@ -2041,26 +2041,6 @@
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.44 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.54 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
       "name": "Gitea",
       "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
       "language": "en",
@@ -2079,6 +2059,26 @@
       "author": "mario.franze@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
       "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.44 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.54 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
     },
     {
       "name": "Forgejo",
@@ -5407,6 +5407,36 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
+    },
+    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5445,36 +5475,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
-    },
-    {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
