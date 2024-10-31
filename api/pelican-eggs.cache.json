@@ -1779,26 +1779,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
       "name": "Generic C#",
       "description": "A generic C# (dotnet) egg that runs your C# project.",
       "language": "en",
@@ -1817,6 +1797,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-generic-c.json",
       "exported_at": "2024-06-02T14:43:56+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
     },
     {
       "name": "Bun",
@@ -4435,26 +4435,6 @@
       "exported_at": "2024-09-20T07:15:26+00:00"
     },
     {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.61 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.84 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
       "name": "Don't Starve Together",
       "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
       "language": "en",
@@ -4473,6 +4453,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
       "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.61 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.84 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
     },
     {
       "name": "DDNet",
