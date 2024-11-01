@@ -635,6 +635,26 @@
       "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.59 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+      "language": "en",
+      "size": "7.28 KB",
+      "type": "games-standalone",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
       "name": "tshock",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
@@ -673,26 +693,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
       "exported_at": "2024-06-01T00:17:19+00:00"
-    },
-    {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.59 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
-      "name": "Terraria Vanilla",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
-      "language": "en",
-      "size": "7.28 KB",
-      "type": "games-standalone",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
       "name": "tModloader",
@@ -1297,26 +1297,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1337,24 +1317,24 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
-      "size": "3.63 KB",
+      "size": "2.7 KB",
       "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
-      "size": "3.5 KB",
+      "size": "2.8 KB",
       "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Ree6",
@@ -1375,6 +1355,26 @@
       "author": "presti@presti.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
       "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.63 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.5 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
     },
     {
       "name": "Red",
