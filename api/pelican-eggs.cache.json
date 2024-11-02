@@ -95,26 +95,6 @@
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.99 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.82 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
       "name": "Urban Terror",
       "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
       "language": "en",
@@ -133,6 +113,26 @@
       "author": "Juli199696@web.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
       "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.99 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.82 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
     },
     {
       "name": "Teeworlds",
@@ -155,26 +155,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.34 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
-      "exported_at": "2024-09-10T16:25:49+00:00"
-    },
-    {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.24 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
-      "exported_at": "2024-09-10T18:24:40+02:00"
-    },
-    {
       "name": "starmade",
       "description": "starmade",
       "language": "en",
@@ -193,6 +173,26 @@
       "author": "contact@hunters-tavern.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.34 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
+      "exported_at": "2024-09-10T16:25:49+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.24 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
+      "exported_at": "2024-09-10T18:24:40+02:00"
     },
     {
       "name": "Path Of Titans",
@@ -255,6 +255,26 @@
       "exported_at": "2024-10-16T18:29:26-07:00"
     },
     {
+      "name": "OpenArena",
+      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
+      "language": "en",
+      "size": "1.98 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-pterodactyl-open-arena.json",
+      "exported_at": "2024-06-01T00:16:55+00:00"
+    },
+    {
+      "name": "OpenArena",
+      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
+      "language": "en",
+      "size": "2.09 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-open-arena.json",
+      "exported_at": "2024-06-01T00:16:55+00:00"
+    },
+    {
       "name": "Neverwinter Nights: Enhanced Edition",
       "description": "Return to the Forgotten Realms in this bestselling Dungeons & Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!",
       "language": "en",
@@ -293,26 +313,6 @@
       "author": "jordanadamsbusiness@outlook.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
       "exported_at": "2024-06-24T08:55:54+00:00"
-    },
-    {
-      "name": "OpenArena",
-      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
-      "language": "en",
-      "size": "1.98 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-pterodactyl-open-arena.json",
-      "exported_at": "2024-06-01T00:16:55+00:00"
-    },
-    {
-      "name": "OpenArena",
-      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
-      "language": "en",
-      "size": "2.09 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-open-arena.json",
-      "exported_at": "2024-06-01T00:16:55+00:00"
     },
     {
       "name": "mohaa",
@@ -573,6 +573,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/clone_hero/egg-clone-hero.json",
       "exported_at": "2024-06-01T00:17:30+00:00"
+    },
+    {
+      "name": "Archean",
+      "description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build.",
+      "language": "en",
+      "size": "8.47 KB",
+      "type": "games-standalone",
+      "author": "tueem@tomatentum.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/archean/egg-pterodactyl-archean.json",
+      "exported_at": "2024-11-02T09:35:11+01:00"
+    },
+    {
+      "name": "Archean",
+      "description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build.",
+      "language": "en",
+      "size": "9.24 KB",
+      "type": "games-standalone",
+      "author": "tueem@tomatentum.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/archean/egg-archean.json",
+      "exported_at": "2024-11-02T08:25:16+00:00"
     },
     {
       "name": "SuperTuxKart",
@@ -1901,26 +1921,6 @@
       "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
-      "name": "Rathole",
-      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "software",
-      "author": "tunayada@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-rathole.json",
-      "exported_at": "2024-06-02T14:40:53+00:00"
-    },
-    {
-      "name": "Rathole",
-      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
-      "language": "en",
-      "size": "3.69 KB",
-      "type": "software",
-      "author": "tunayada@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
-      "exported_at": "2024-06-02T14:40:53+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1939,6 +1939,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "software",
+      "author": "tunayada@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-rathole.json",
+      "exported_at": "2024-06-02T14:40:53+00:00"
+    },
+    {
+      "name": "Rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "en",
+      "size": "3.69 KB",
+      "type": "software",
+      "author": "tunayada@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
+      "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
       "name": "RabbitMQ",
@@ -2203,6 +2223,146 @@
       "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
+      "name": "PocketmineMP",
+      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
+      "language": "en",
+      "size": "5.68 KB",
+      "type": "minecraft",
+      "author": "info@swisscrafting.ch",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json",
+      "exported_at": "2024-06-01T19:39:56+00:00"
+    },
+    {
+      "name": "PocketmineMP",
+      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
+      "language": "en",
+      "size": "5.79 KB",
+      "type": "minecraft",
+      "author": "info@swisscrafting.ch",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
+      "exported_at": "2024-06-01T19:39:56+00:00"
+    },
+    {
+      "name": "Nukkit",
+      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
+      "language": "en",
+      "size": "4.04 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-pterodactyl-nukkit.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "Nukkit",
+      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
+      "language": "en",
+      "size": "4.23 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-nukkit.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "GoMint",
+      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
+      "language": "en",
+      "size": "3.65 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-pterodactyl-go-mint.json",
+      "exported_at": "2024-06-01T19:39:46+00:00"
+    },
+    {
+      "name": "GoMint",
+      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
+      "language": "en",
+      "size": "3.76 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-go-mint.json",
+      "exported_at": "2024-06-01T19:39:46+00:00"
+    },
+    {
+      "name": "Vanilla Bedrock",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.18 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock.json",
+      "exported_at": "2024-09-25T01:03:44+00:00"
+    },
+    {
+      "name": "Vanilla Bedrock ARM64",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.28 KB",
+      "type": "minecraft",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock-a-r-m64.json",
+      "exported_at": "2024-09-25T01:03:38+00:00"
+    },
+    {
+      "name": "Vanilla Bedrock",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.01 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json",
+      "exported_at": "2024-09-24T13:43:28-07:00"
+    },
+    {
+      "name": "Vanilla Bedrock ARM64",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.11 KB",
+      "type": "minecraft",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json",
+      "exported_at": "2024-09-24T13:43:50-07:00"
+    },
+    {
+      "name": "PowerNukkitX",
+      "description": "PowerNukkitX support for Pterodactyl",
+      "language": "en",
+      "size": "3.2 KB",
+      "type": "minecraft",
+      "author": "powernukkitx@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "PowerNukkitX",
+      "description": "PowerNukkitX support for Pterodactyl",
+      "language": "en",
+      "size": "3.25 KB",
+      "type": "minecraft",
+      "author": "powernukkitx@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "Liteloader Bedrock Dedicated Server",
+      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
+      "language": "en",
+      "size": "7.77 KB",
+      "type": "minecraft",
+      "author": "frizth_tatierra@informatics.edu.ph",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-pterodactyl-liteloader-bedrock-dedicated-server.json",
+      "exported_at": "2024-06-01T19:40:00+00:00"
+    },
+    {
+      "name": "Liteloader Bedrock Dedicated Server",
+      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
+      "language": "en",
+      "size": "8.04 KB",
+      "type": "minecraft",
+      "author": "frizth_tatierra@informatics.edu.ph",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.json",
+      "exported_at": "2024-06-01T19:40:00+00:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2383,24 +2543,24 @@
       "exported_at": "2024-06-01T19:40:02+00:00"
     },
     {
-      "name": "Mohist",
+      "name": "MohistMC",
       "description": "Spigot fork with performance optimizations.",
       "language": "en",
-      "size": "3.5 KB",
+      "size": "5.34 KB",
       "type": "minecraft",
       "author": "alex.chang-lam@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/mohist/egg-pterodactyl-mohist.json",
-      "exported_at": "2024-06-01T19:40:03+00:00"
+      "exported_at": "2024-11-02T09:48:29+01:00"
     },
     {
-      "name": "Mohist",
+      "name": "MohistMC",
       "description": "Spigot fork with performance optimizations.",
       "language": "en",
-      "size": "3.66 KB",
+      "size": "5.63 KB",
       "type": "minecraft",
       "author": "alex.chang-lam@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/mohist/egg-mohist.json",
-      "exported_at": "2024-06-01T19:40:03+00:00"
+      "exported_at": "2024-11-02T08:50:15+00:00"
     },
     {
       "name": "Modrinth Generic",
@@ -2576,21 +2736,21 @@
       "name": "CurseForge Generic",
       "description": "A generic egg for a CurseForge modpack.",
       "language": "en",
-      "size": "20.14 KB",
+      "size": "20.19 KB",
       "type": "minecraft",
       "author": "contact@chromozone.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
-      "exported_at": "2024-06-01T19:39:54+00:00"
+      "exported_at": "2024-11-02T09:40:55+01:00"
     },
     {
       "name": "CurseForge Generic",
       "description": "A generic egg for a CurseForge modpack.",
       "language": "en",
-      "size": "20.3 KB",
+      "size": "20.35 KB",
       "type": "minecraft",
       "author": "contact@chromozone.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
-      "exported_at": "2024-06-01T19:39:54+00:00"
+      "exported_at": "2024-11-02T08:41:36+00:00"
     },
     {
       "name": "Cuberite",
@@ -2611,146 +2771,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "PocketmineMP",
-      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
-      "language": "en",
-      "size": "5.68 KB",
-      "type": "minecraft",
-      "author": "info@swisscrafting.ch",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json",
-      "exported_at": "2024-06-01T19:39:56+00:00"
-    },
-    {
-      "name": "PocketmineMP",
-      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
-      "language": "en",
-      "size": "5.79 KB",
-      "type": "minecraft",
-      "author": "info@swisscrafting.ch",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
-      "exported_at": "2024-06-01T19:39:56+00:00"
-    },
-    {
-      "name": "Nukkit",
-      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
-      "language": "en",
-      "size": "4.04 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-pterodactyl-nukkit.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "Nukkit",
-      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
-      "language": "en",
-      "size": "4.23 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-nukkit.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "GoMint",
-      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
-      "language": "en",
-      "size": "3.65 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-pterodactyl-go-mint.json",
-      "exported_at": "2024-06-01T19:39:46+00:00"
-    },
-    {
-      "name": "GoMint",
-      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
-      "language": "en",
-      "size": "3.76 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-go-mint.json",
-      "exported_at": "2024-06-01T19:39:46+00:00"
-    },
-    {
-      "name": "Vanilla Bedrock",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.18 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock.json",
-      "exported_at": "2024-09-25T01:03:44+00:00"
-    },
-    {
-      "name": "Vanilla Bedrock ARM64",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.28 KB",
-      "type": "minecraft",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock-a-r-m64.json",
-      "exported_at": "2024-09-25T01:03:38+00:00"
-    },
-    {
-      "name": "Vanilla Bedrock",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.01 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json",
-      "exported_at": "2024-09-24T13:43:28-07:00"
-    },
-    {
-      "name": "Vanilla Bedrock ARM64",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.11 KB",
-      "type": "minecraft",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json",
-      "exported_at": "2024-09-24T13:43:50-07:00"
-    },
-    {
-      "name": "PowerNukkitX",
-      "description": "PowerNukkitX support for Pterodactyl",
-      "language": "en",
-      "size": "3.2 KB",
-      "type": "minecraft",
-      "author": "powernukkitx@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "PowerNukkitX",
-      "description": "PowerNukkitX support for Pterodactyl",
-      "language": "en",
-      "size": "3.25 KB",
-      "type": "minecraft",
-      "author": "powernukkitx@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "Liteloader Bedrock Dedicated Server",
-      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
-      "language": "en",
-      "size": "7.77 KB",
-      "type": "minecraft",
-      "author": "frizth_tatierra@informatics.edu.ph",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-pterodactyl-liteloader-bedrock-dedicated-server.json",
-      "exported_at": "2024-06-01T19:40:00+00:00"
-    },
-    {
-      "name": "Liteloader Bedrock Dedicated Server",
-      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
-      "language": "en",
-      "size": "8.04 KB",
-      "type": "minecraft",
-      "author": "frizth_tatierra@informatics.edu.ph",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.json",
-      "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
       "name": "Waterfall",
