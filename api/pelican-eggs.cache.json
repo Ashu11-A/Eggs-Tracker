@@ -1277,26 +1277,6 @@
   ],
   "chatbots": [
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1335,6 +1315,26 @@
       "author": "mail@wuffy.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
       "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Big Brother Bot",
@@ -2203,26 +2203,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2631,6 +2611,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -5427,6 +5427,36 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
+    },
+    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5465,36 +5495,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
-    },
-    {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
