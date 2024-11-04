@@ -1277,46 +1277,6 @@
   ],
   "chatbots": [
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.71 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1355,6 +1315,46 @@
       "author": "mail@wuffy.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
       "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.71 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1901,26 +1901,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1939,6 +1919,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -2773,26 +2773,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2871,6 +2851,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -5355,26 +5355,6 @@
       "exported_at": "2024-06-01T00:04:01+00:00"
     },
     {
-      "name": "Arma 3",
-      "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC's premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
-      "language": "en",
-      "size": "16.17 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma3/egg-pterodactyl-arma3.json",
-      "exported_at": "2024-06-01T00:03:49+00:00"
-    },
-    {
-      "name": "Arma 3",
-      "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC's premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
-      "language": "en",
-      "size": "16.87 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma3/egg-arma3.json",
-      "exported_at": "2024-06-01T00:03:49+00:00"
-    },
-    {
       "name": "Arma Reforger",
       "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
       "language": "en",
@@ -5393,6 +5373,26 @@
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma_reforger/egg-arma-reforger.json",
       "exported_at": "2024-07-03T21:46:20-07:00"
+    },
+    {
+      "name": "Arma 3",
+      "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC's premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
+      "language": "en",
+      "size": "16.17 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma3/egg-pterodactyl-arma3.json",
+      "exported_at": "2024-06-01T00:03:49+00:00"
+    },
+    {
+      "name": "Arma 3",
+      "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC's premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
+      "language": "en",
+      "size": "16.87 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma3/egg-arma3.json",
+      "exported_at": "2024-06-01T00:03:49+00:00"
     }
   ],
   "database": [
