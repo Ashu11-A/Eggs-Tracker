@@ -3013,26 +3013,6 @@
       "exported_at": "2024-06-01T19:39:46+00:00"
     },
     {
-      "name": "Blightfall",
-      "description": "Blightfall is a combination modpack and adventure map about surviving on an alien planet. It uses magic mods and tech mods to create a novel gameplay experience. Can you survive on a world completely covered by Thaumcraft taint?\r\n\r\nhttps://www.technicpack.net/modpack/blightfall.592618",
-      "language": "en",
-      "size": "2.34 KB",
-      "type": "minecraft",
-      "author": "aevum@decess.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/blightfall/egg-pterodactyl-blightfall.json",
-      "exported_at": "2024-06-01T19:39:49+00:00"
-    },
-    {
-      "name": "Blightfall",
-      "description": "Blightfall is a combination modpack and adventure map about surviving on an alien planet. It uses magic mods and tech mods to create a novel gameplay experience. Can you survive on a world completely covered by Thaumcraft taint?\r\n\r\nhttps://www.technicpack.net/modpack/blightfall.592618",
-      "language": "en",
-      "size": "2.44 KB",
-      "type": "minecraft",
-      "author": "aevum@decess.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/blightfall/egg-blightfall.json",
-      "exported_at": "2024-06-01T19:39:49+00:00"
-    },
-    {
       "name": "Attack of the B-Team",
       "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
       "language": "en",
@@ -3091,6 +3071,26 @@
       "author": "contact@zennodes.dk",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit/egg-pterodactyl-tekkit.json",
       "exported_at": "2024-06-01T19:40:13+00:00"
+    },
+    {
+      "name": "Blightfall",
+      "description": "Blightfall is a combination modpack and adventure map about surviving on an alien planet. It uses magic mods and tech mods to create a novel gameplay experience. Can you survive on a world completely covered by Thaumcraft taint?\r\n\r\nhttps://www.technicpack.net/modpack/blightfall.592618",
+      "language": "en",
+      "size": "2.34 KB",
+      "type": "minecraft",
+      "author": "aevum@decess.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/blightfall/egg-pterodactyl-blightfall.json",
+      "exported_at": "2024-06-01T19:39:49+00:00"
+    },
+    {
+      "name": "Blightfall",
+      "description": "Blightfall is a combination modpack and adventure map about surviving on an alien planet. It uses magic mods and tech mods to create a novel gameplay experience. Can you survive on a world completely covered by Thaumcraft taint?\r\n\r\nhttps://www.technicpack.net/modpack/blightfall.592618",
+      "language": "en",
+      "size": "2.44 KB",
+      "type": "minecraft",
+      "author": "aevum@decess.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/blightfall/egg-blightfall.json",
+      "exported_at": "2024-06-01T19:39:49+00:00"
     },
     {
       "name": "Feed the Beast",
