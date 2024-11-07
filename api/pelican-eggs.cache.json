@@ -615,26 +615,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.64 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
       "name": "ET Legacy",
       "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
       "language": "en",
@@ -653,6 +633,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
       "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.64 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1779,26 +1779,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
       "name": "Deno Generic",
       "description": "A generic egg to run deno code.",
       "language": "en",
@@ -1817,6 +1797,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
     },
     {
       "name": "Generic C#",
@@ -1901,26 +1901,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1939,6 +1919,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -2202,26 +2202,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2631,6 +2611,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
