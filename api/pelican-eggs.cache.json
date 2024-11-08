@@ -2203,6 +2203,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2611,26 +2631,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -3515,26 +3515,6 @@
       "exported_at": "2024-06-01T00:04:50+00:00"
     },
     {
-      "name": "Solace Crafting",
-      "description": "Open-world fantasy survival RPG. Borderless distance-based difficulty with player built fast-travel, modular-building, and town management.",
-      "language": "en",
-      "size": "5.6 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/solace_crafting/egg-solace-crafting.json",
-      "exported_at": "2024-06-01T00:04:51+00:00"
-    },
-    {
-      "name": "Solace Crafting",
-      "description": "Open-world fantasy survival RPG. Borderless distance-based difficulty with player built fast-travel, modular-building, and town management.",
-      "language": "en",
-      "size": "5.45 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/solace_crafting/egg-pterodactyl-solace-crafting.json",
-      "exported_at": "2024-06-01T00:04:51+00:00"
-    },
-    {
       "name": "Smalland: Survive the Wilds",
       "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
       "language": "en",
@@ -3553,6 +3533,26 @@
       "author": "git@robsti.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-pterodactyl-smalland--survive-the-wilds.json",
       "exported_at": "2024-06-01T00:04:47+00:00"
+    },
+    {
+      "name": "Solace Crafting",
+      "description": "Open-world fantasy survival RPG. Borderless distance-based difficulty with player built fast-travel, modular-building, and town management.",
+      "language": "en",
+      "size": "5.6 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/solace_crafting/egg-solace-crafting.json",
+      "exported_at": "2024-06-01T00:04:51+00:00"
+    },
+    {
+      "name": "Solace Crafting",
+      "description": "Open-world fantasy survival RPG. Borderless distance-based difficulty with player built fast-travel, modular-building, and town management.",
+      "language": "en",
+      "size": "5.45 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/solace_crafting/egg-pterodactyl-solace-crafting.json",
+      "exported_at": "2024-06-01T00:04:51+00:00"
     },
     {
       "name": "Satisfactory",
