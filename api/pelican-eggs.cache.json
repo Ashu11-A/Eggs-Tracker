@@ -455,26 +455,6 @@
       "exported_at": "2024-10-20T18:23:50+00:00"
     },
     {
-      "name": "Foundry VTT",
-      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
-      "language": "en",
-      "size": "4.18 KB",
-      "type": "games-standalone",
-      "author": "pterodactyl@demi.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
-      "exported_at": "2024-06-01T00:16:48+00:00"
-    },
-    {
-      "name": "Foundry VTT",
-      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
-      "language": "en",
-      "size": "4.32 KB",
-      "type": "games-standalone",
-      "author": "pterodactyl@demi.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-foundry-v-t-t.json",
-      "exported_at": "2024-06-01T00:16:48+00:00"
-    },
-    {
       "name": "Tachyon",
       "description": "A multiplayer version of FTL.",
       "language": "en",
@@ -493,6 +473,26 @@
       "author": "alex.chang-lam@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ftl_tachyon/egg-pterodactyl-tachyon.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Foundry VTT",
+      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
+      "language": "en",
+      "size": "4.18 KB",
+      "type": "games-standalone",
+      "author": "pterodactyl@demi.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
+      "exported_at": "2024-06-01T00:16:48+00:00"
+    },
+    {
+      "name": "Foundry VTT",
+      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
+      "language": "en",
+      "size": "4.32 KB",
+      "type": "games-standalone",
+      "author": "pterodactyl@demi.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-foundry-v-t-t.json",
+      "exported_at": "2024-06-01T00:16:48+00:00"
     },
     {
       "name": "Stay In Tarkov",
@@ -2081,26 +2081,6 @@
       "exported_at": "2024-06-02T14:41:00+00:00"
     },
     {
-      "name": "Forgejo",
-      "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
-      "language": "en",
-      "size": "3.95 KB",
-      "type": "software",
-      "author": "seaswimmerthefsh@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-pterodactyl-forgejo.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
-      "name": "Forgejo",
-      "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
-      "language": "en",
-      "size": "4.11 KB",
-      "type": "software",
-      "author": "seaswimmerthefsh@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-forgejo.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
       "name": "Gitea",
       "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
       "language": "en",
@@ -2119,6 +2099,26 @@
       "author": "mario.franze@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
       "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Forgejo",
+      "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
+      "language": "en",
+      "size": "3.95 KB",
+      "type": "software",
+      "author": "seaswimmerthefsh@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-pterodactyl-forgejo.json",
+      "exported_at": "2024-06-02T14:40:58+00:00"
+    },
+    {
+      "name": "Forgejo",
+      "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
+      "language": "en",
+      "size": "4.11 KB",
+      "type": "software",
+      "author": "seaswimmerthefsh@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-forgejo.json",
+      "exported_at": "2024-06-02T14:40:58+00:00"
     },
     {
       "name": "Folding@Home",
@@ -3355,26 +3355,6 @@
       "exported_at": "2024-06-01T00:04:54+00:00"
     },
     {
-      "name": "Stormworks: Build and Rescue",
-      "description": "Join a world where you design, create and pilot your own air sea rescue service. Release your inner hero as you battle fierce storms out at sea to rescue those in need.",
-      "language": "en",
-      "size": "5.43 KB",
-      "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stormworks/egg-stormworks--build-and-rescue.json",
-      "exported_at": "2024-06-01T00:05:10+00:00"
-    },
-    {
-      "name": "Stormworks: Build and Rescue",
-      "description": "Join a world where you design, create and pilot your own air sea rescue service. Release your inner hero as you battle fierce storms out at sea to rescue those in need.",
-      "language": "en",
-      "size": "5.26 KB",
-      "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stormworks/egg-pterodactyl-stormworks--build-and-rescue.json",
-      "exported_at": "2024-06-01T00:05:10+00:00"
-    },
-    {
       "name": "Subnautica",
       "description": "Subnautica is an open world survival action-adventure video game developed and published by Unknown Worlds Entertainment. In it, players are free to explore the ocean on an alien planet, known as planet 4546B, after their spaceship, the Aurora, crashes on the planet's surface.\r\n\r\nNote: NitroxMod version >=1.7.0.0 is required",
       "language": "en",
@@ -3393,6 +3373,26 @@
       "author": "tueye@tuworld.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/subnautica_nitrox_mod/egg-pterodactyl-subnautica.json",
       "exported_at": "2024-06-01T00:05:11+00:00"
+    },
+    {
+      "name": "Stormworks: Build and Rescue",
+      "description": "Join a world where you design, create and pilot your own air sea rescue service. Release your inner hero as you battle fierce storms out at sea to rescue those in need.",
+      "language": "en",
+      "size": "5.43 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stormworks/egg-stormworks--build-and-rescue.json",
+      "exported_at": "2024-06-01T00:05:10+00:00"
+    },
+    {
+      "name": "Stormworks: Build and Rescue",
+      "description": "Join a world where you design, create and pilot your own air sea rescue service. Release your inner hero as you battle fierce storms out at sea to rescue those in need.",
+      "language": "en",
+      "size": "5.26 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stormworks/egg-pterodactyl-stormworks--build-and-rescue.json",
+      "exported_at": "2024-06-01T00:05:10+00:00"
     },
     {
       "name": "Starbound",
@@ -5427,36 +5427,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5495,6 +5465,36 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
