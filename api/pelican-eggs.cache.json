@@ -615,26 +615,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.26 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.4 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
@@ -653,6 +633,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.26 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.4 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -4435,26 +4435,6 @@
       "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
-      "name": "Don't Starve Together",
-      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
-      "language": "en",
-      "size": "10.12 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
-      "name": "Don't Starve Together",
-      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
-      "language": "en",
-      "size": "10.56 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
-      "exported_at": "2024-06-01T00:04:10+00:00"
-    },
-    {
       "name": "Eco",
       "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
       "language": "en",
@@ -4473,6 +4453,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-eco.json",
       "exported_at": "2024-09-20T07:15:26+00:00"
+    },
+    {
+      "name": "Don't Starve Together",
+      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
+      "language": "en",
+      "size": "10.12 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Don't Starve Together",
+      "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
+      "language": "en",
+      "size": "10.56 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
+      "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
       "name": "Dead Matter",
