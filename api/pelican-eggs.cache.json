@@ -95,26 +95,6 @@
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.99 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.82 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
       "name": "Urban Terror",
       "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
       "language": "en",
@@ -133,6 +113,26 @@
       "author": "Juli199696@web.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
       "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.99 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.82 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
     },
     {
       "name": "Teeworlds",
@@ -615,26 +615,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.26 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.4 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
@@ -653,6 +633,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.26 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.4 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1961,26 +1961,6 @@
       "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
-      "name": "RabbitMQ",
-      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
-      "language": "en",
-      "size": "3.03 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "RabbitMQ",
-      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
-      "language": "en",
-      "size": "2.91 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "owncast.online",
       "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
       "language": "en",
@@ -1999,6 +1979,26 @@
       "author": "psychoalex@thevcbc.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
       "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "RabbitMQ",
+      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
+      "language": "en",
+      "size": "3.03 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-rabbit-m-q.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "RabbitMQ",
+      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
+      "language": "en",
+      "size": "2.91 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Meilisearch",
@@ -2081,26 +2081,6 @@
       "exported_at": "2024-06-02T14:41:00+00:00"
     },
     {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "3.9 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "4.06 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
       "name": "Forgejo",
       "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
       "language": "en",
@@ -2119,6 +2099,26 @@
       "author": "seaswimmerthefsh@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-forgejo.json",
       "exported_at": "2024-06-02T14:40:58+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "3.9 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "4.06 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
     },
     {
       "name": "Folding@Home",
