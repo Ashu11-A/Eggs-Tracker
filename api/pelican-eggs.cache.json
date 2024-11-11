@@ -155,26 +155,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.78 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.68 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
       "name": "Spacestation 14",
       "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
       "language": "en",
@@ -193,6 +173,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
       "exported_at": "2024-09-10T18:24:40+02:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.78 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.68 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
     },
     {
       "name": "Path Of Titans",
@@ -1659,26 +1659,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "7.65 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "8.01 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "python generic",
       "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
       "language": "en",
@@ -1696,6 +1676,26 @@
       "type": "generic",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "7.65 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "8.01 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
