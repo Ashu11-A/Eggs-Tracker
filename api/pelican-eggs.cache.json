@@ -1357,26 +1357,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "22.59 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "21.49 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
       "name": "Sinusbot",
       "description": "Musicbot for Discord and Teamspeak.",
       "language": "en",
@@ -1395,6 +1375,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "22.59 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "21.49 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
       "name": "Red",
@@ -2203,6 +2203,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2611,26 +2631,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -3715,26 +3715,6 @@
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.31 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
-    },
-    {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.62 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
-    },
-    {
       "name": "Palworld",
       "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
       "language": "en",
@@ -3773,6 +3753,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
+    },
+    {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.31 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.62 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
       "name": "Operation Harsh Doorstop",
