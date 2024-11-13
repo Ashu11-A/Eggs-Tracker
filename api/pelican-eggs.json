@@ -1303,11 +1303,11 @@
     "name": "Fabric",
     "description": "Fabric is a modular modding toolchain targeting Minecraft 1.14 and above, including snapshots.",
     "language": "en",
-    "size": "4.81 KB",
+    "size": "4.94 KB",
     "type": "minecraft",
     "author": "accounts@bofanodes.io",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/fabric/egg-pterodactyl-fabric.json",
-    "exported_at": "2024-06-01T19:39:50+00:00"
+    "exported_at": "2024-11-13T15:26:34+00:00"
   },
   {
     "name": "Fabric",
