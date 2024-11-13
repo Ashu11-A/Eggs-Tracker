@@ -1317,26 +1317,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1355,6 +1335,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -2383,26 +2383,6 @@
       "exported_at": "2024-06-01T19:40:02+00:00"
     },
     {
-      "name": "Modrinth Generic",
-      "description": "A generic egg for a Modrinth modpack.",
-      "language": "en",
-      "size": "15.18 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/modrinth/egg-pterodactyl-modrinth-generic.json",
-      "exported_at": "2024-06-01T19:40:02+00:00"
-    },
-    {
-      "name": "Modrinth Generic",
-      "description": "A generic egg for a Modrinth modpack.",
-      "language": "en",
-      "size": "15.31 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/modrinth/egg-modrinth-generic.json",
-      "exported_at": "2024-06-01T19:40:02+00:00"
-    },
-    {
       "name": "MohistMC",
       "description": "Spigot fork with performance optimizations.",
       "language": "en",
@@ -2421,6 +2401,26 @@
       "author": "alex.chang-lam@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/mohist/egg-mohist.json",
       "exported_at": "2024-11-02T08:50:15+00:00"
+    },
+    {
+      "name": "Modrinth Generic",
+      "description": "A generic egg for a Modrinth modpack.",
+      "language": "en",
+      "size": "15.18 KB",
+      "type": "minecraft",
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/modrinth/egg-pterodactyl-modrinth-generic.json",
+      "exported_at": "2024-06-01T19:40:02+00:00"
+    },
+    {
+      "name": "Modrinth Generic",
+      "description": "A generic egg for a Modrinth modpack.",
+      "language": "en",
+      "size": "15.31 KB",
+      "type": "minecraft",
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/modrinth/egg-modrinth-generic.json",
+      "exported_at": "2024-06-01T19:40:02+00:00"
     },
     {
       "name": "Magma",
