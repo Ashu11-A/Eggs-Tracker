@@ -32,8 +32,8 @@
   {
     "author": "GeyserMC",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/GeyserMC.min.json",
-    "eggs": 6,
-    "pushed_at": "2024-04-05T19:46:27Z"
+    "eggs": 4,
+    "pushed_at": "2024-11-18T23:09:40Z"
   },
   {
     "author": "DanBot-Hosting",
@@ -63,6 +63,6 @@
     "author": "pelican-eggs",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/pelican-eggs.min.json",
     "eggs": 548,
-    "pushed_at": "2024-06-02T14:31:06Z"
+    "pushed_at": "2024-08-08T11:56:42Z"
   }
 ]
