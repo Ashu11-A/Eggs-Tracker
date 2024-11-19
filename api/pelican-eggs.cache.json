@@ -155,26 +155,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.34 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
-      "exported_at": "2024-09-10T16:25:49+00:00"
-    },
-    {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.24 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
-      "exported_at": "2024-09-10T18:24:40+02:00"
-    },
-    {
       "name": "starmade",
       "description": "starmade",
       "language": "en",
@@ -193,6 +173,26 @@
       "author": "contact@hunters-tavern.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.34 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
+      "exported_at": "2024-09-10T16:25:49+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.24 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
+      "exported_at": "2024-09-10T18:24:40+02:00"
     },
     {
       "name": "Path Of Titans",
