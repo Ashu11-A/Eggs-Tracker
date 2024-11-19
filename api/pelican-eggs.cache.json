@@ -11,16 +11,6 @@
       "exported_at": "2023-10-07T18:01:49+02:00"
     },
     {
-      "name": "Teamspeak3 Server ARM64",
-      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
-      "language": "en",
-      "size": "3.33 KB",
-      "type": "voice",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
-      "exported_at": "2022-07-06T17:10:16+02:00"
-    },
-    {
       "name": "Lavalink",
       "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
       "language": "en",
@@ -29,6 +19,16 @@
       "author": "damuffin36@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
       "exported_at": "2023-08-04T08:40:49+02:00"
+    },
+    {
+      "name": "Teamspeak3 Server ARM64",
+      "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+      "language": "en",
+      "size": "3.33 KB",
+      "type": "voice",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
+      "exported_at": "2022-07-06T17:10:16+02:00"
     }
   ],
   "monitoring": [
@@ -155,26 +155,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.78 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.68 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
       "name": "Spacestation 14",
       "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
       "language": "en",
@@ -193,6 +173,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
       "exported_at": "2024-09-10T18:24:40+02:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.78 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.68 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
     },
     {
       "name": "Path Of Titans",
@@ -1357,26 +1357,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "22.59 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "21.49 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
       "name": "Sinusbot",
       "description": "Musicbot for Discord and Teamspeak.",
       "language": "en",
@@ -1395,6 +1375,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "22.59 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "21.49 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
       "name": "Red",
@@ -2203,26 +2203,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2631,6 +2611,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -3255,26 +3255,6 @@
       "exported_at": "2024-06-01T00:04:57+00:00"
     },
     {
-      "name": "TerraTech Worlds",
-      "description": "TerraTech Worlds",
-      "language": "en",
-      "size": "6.12 KB",
-      "type": "games-steamcmd",
-      "author": "durzo@durzo.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/terratech_worlds/egg-terra-tech-worlds.json",
-      "exported_at": "2024-06-01T00:04:56+00:00"
-    },
-    {
-      "name": "TerraTech Worlds",
-      "description": "TerraTech Worlds",
-      "language": "en",
-      "size": "5.9 KB",
-      "type": "games-steamcmd",
-      "author": "durzo@durzo.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/terratech_worlds/egg-pterodactyl-terra-tech-worlds.json",
-      "exported_at": "2024-06-01T00:04:56+00:00"
-    },
-    {
       "name": "The Forest",
       "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first-person survival horror simulator.",
       "language": "en",
@@ -3293,6 +3273,26 @@
       "author": "admin@softwarenoob.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/the_forest/egg-pterodactyl-the-forest.json",
       "exported_at": "2024-06-01T00:04:57+00:00"
+    },
+    {
+      "name": "TerraTech Worlds",
+      "description": "TerraTech Worlds",
+      "language": "en",
+      "size": "6.12 KB",
+      "type": "games-steamcmd",
+      "author": "durzo@durzo.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/terratech_worlds/egg-terra-tech-worlds.json",
+      "exported_at": "2024-06-01T00:04:56+00:00"
+    },
+    {
+      "name": "TerraTech Worlds",
+      "description": "TerraTech Worlds",
+      "language": "en",
+      "size": "5.9 KB",
+      "type": "games-steamcmd",
+      "author": "durzo@durzo.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/terratech_worlds/egg-pterodactyl-terra-tech-worlds.json",
+      "exported_at": "2024-06-01T00:04:56+00:00"
     },
     {
       "name": "Team Fortress 2 Classic",
