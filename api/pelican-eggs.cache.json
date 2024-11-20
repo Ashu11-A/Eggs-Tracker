@@ -815,26 +815,6 @@
       "exported_at": "2024-06-01T00:17:00+00:00"
     },
     {
-      "name": "OpenRA - Dune2000",
-      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
-      "language": "en",
-      "size": "5.79 KB",
-      "type": "games-standalone",
-      "author": "patz.michael@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_dune2000/egg-pterodactyl-open-r-a--dune2000.json",
-      "exported_at": "2024-06-01T00:17:00+00:00"
-    },
-    {
-      "name": "OpenRA - Dune2000",
-      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
-      "language": "en",
-      "size": "6.06 KB",
-      "type": "games-standalone",
-      "author": "patz.michael@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_dune2000/egg-open-r-a--dune2000.json",
-      "exported_at": "2024-06-01T00:17:00+00:00"
-    },
-    {
       "name": "OpenRA",
       "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
       "language": "en",
@@ -853,6 +833,26 @@
       "author": "patz.michael@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_red_alert/egg-open-r-a.json",
       "exported_at": "2024-06-01T00:16:59+00:00"
+    },
+    {
+      "name": "OpenRA - Dune2000",
+      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+      "language": "en",
+      "size": "5.79 KB",
+      "type": "games-standalone",
+      "author": "patz.michael@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_dune2000/egg-pterodactyl-open-r-a--dune2000.json",
+      "exported_at": "2024-06-01T00:17:00+00:00"
+    },
+    {
+      "name": "OpenRA - Dune2000",
+      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+      "language": "en",
+      "size": "6.06 KB",
+      "type": "games-standalone",
+      "author": "patz.michael@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_dune2000/egg-open-r-a--dune2000.json",
+      "exported_at": "2024-06-01T00:17:00+00:00"
     },
     {
       "name": "SA-MP",
@@ -1457,26 +1457,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Muse",
-      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
-      "language": "en",
-      "size": "5.28 KB",
-      "type": "chatbots",
-      "author": "hello@apollo.moe",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-pterodactyl-muse.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "Muse",
-      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
-      "language": "en",
-      "size": "5.53 KB",
-      "type": "chatbots",
-      "author": "hello@apollo.moe",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-muse.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "JMusicBot",
       "description": "A Discord music bot that's easy to set up and run yourself!",
       "language": "en",
@@ -1495,6 +1475,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
       "exported_at": "2024-06-01T19:44:14+00:00"
+    },
+    {
+      "name": "Muse",
+      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
+      "language": "en",
+      "size": "5.28 KB",
+      "type": "chatbots",
+      "author": "hello@apollo.moe",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-pterodactyl-muse.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Muse",
+      "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
+      "language": "en",
+      "size": "5.53 KB",
+      "type": "chatbots",
+      "author": "hello@apollo.moe",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-muse.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Game Server Watcher",
@@ -1779,26 +1779,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
       "name": "Deno Generic",
       "description": "A generic egg to run deno code.",
       "language": "en",
@@ -1817,6 +1797,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
     },
     {
       "name": "Generic C#",
@@ -3315,26 +3315,6 @@
       "exported_at": "2024-06-01T00:04:56+00:00"
     },
     {
-      "name": "Swords 'n Magic and Stuff",
-      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
-      "language": "en",
-      "size": "10.35 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
-      "exported_at": "2024-06-01T00:04:55+00:00"
-    },
-    {
-      "name": "Swords 'n Magic and Stuff",
-      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
-      "language": "en",
-      "size": "9.88 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
-      "exported_at": "2024-06-01T00:04:55+00:00"
-    },
-    {
       "name": "Sven Co-op",
       "description": "Sven Co-op is a co-operative game originally based around Valve Software's Half-Life. In this game players must work together against computer controlled enemies and solve puzzles as a team.",
       "language": "en",
@@ -3353,6 +3333,26 @@
       "author": "pteroducktyl@yildri.nl",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/svencoop/egg-pterodactyl-sven-co-op.json",
       "exported_at": "2024-06-01T00:04:54+00:00"
+    },
+    {
+      "name": "Swords 'n Magic and Stuff",
+      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
+      "language": "en",
+      "size": "10.35 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
+      "exported_at": "2024-06-01T00:04:55+00:00"
+    },
+    {
+      "name": "Swords 'n Magic and Stuff",
+      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
+      "language": "en",
+      "size": "9.88 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
+      "exported_at": "2024-06-01T00:04:55+00:00"
     },
     {
       "name": "Subnautica",
