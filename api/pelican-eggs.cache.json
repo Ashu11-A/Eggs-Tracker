@@ -1457,26 +1457,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JMusicBot",
-      "description": "A Discord music bot that's easy to set up and run yourself!",
-      "language": "en",
-      "size": "10.37 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json",
-      "exported_at": "2024-06-01T19:44:14+00:00"
-    },
-    {
-      "name": "JMusicBot",
-      "description": "A Discord music bot that's easy to set up and run yourself!",
-      "language": "en",
-      "size": "10.72 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
-      "exported_at": "2024-06-01T19:44:14+00:00"
-    },
-    {
       "name": "Muse",
       "description": "🎧 a self-hosted midwestern Discord music bot that doesn't suck",
       "language": "en",
@@ -1495,6 +1475,26 @@
       "author": "hello@apollo.moe",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-muse.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JMusicBot",
+      "description": "A Discord music bot that's easy to set up and run yourself!",
+      "language": "en",
+      "size": "10.37 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json",
+      "exported_at": "2024-06-01T19:44:14+00:00"
+    },
+    {
+      "name": "JMusicBot",
+      "description": "A Discord music bot that's easy to set up and run yourself!",
+      "language": "en",
+      "size": "10.72 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
+      "exported_at": "2024-06-01T19:44:14+00:00"
     },
     {
       "name": "Game Server Watcher",
@@ -3315,26 +3315,6 @@
       "exported_at": "2024-06-01T00:04:56+00:00"
     },
     {
-      "name": "Sven Co-op",
-      "description": "Sven Co-op is a co-operative game originally based around Valve Software's Half-Life. In this game players must work together against computer controlled enemies and solve puzzles as a team.",
-      "language": "en",
-      "size": "7.59 KB",
-      "type": "games-steamcmd",
-      "author": "pteroducktyl@yildri.nl",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/svencoop/egg-sven-co-op.json",
-      "exported_at": "2024-06-01T00:04:54+00:00"
-    },
-    {
-      "name": "Sven Co-op",
-      "description": "Sven Co-op is a co-operative game originally based around Valve Software's Half-Life. In this game players must work together against computer controlled enemies and solve puzzles as a team.",
-      "language": "en",
-      "size": "7.34 KB",
-      "type": "games-steamcmd",
-      "author": "pteroducktyl@yildri.nl",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/svencoop/egg-pterodactyl-sven-co-op.json",
-      "exported_at": "2024-06-01T00:04:54+00:00"
-    },
-    {
       "name": "Swords 'n Magic and Stuff",
       "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
       "language": "en",
@@ -3353,6 +3333,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
       "exported_at": "2024-06-01T00:04:55+00:00"
+    },
+    {
+      "name": "Sven Co-op",
+      "description": "Sven Co-op is a co-operative game originally based around Valve Software's Half-Life. In this game players must work together against computer controlled enemies and solve puzzles as a team.",
+      "language": "en",
+      "size": "7.59 KB",
+      "type": "games-steamcmd",
+      "author": "pteroducktyl@yildri.nl",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/svencoop/egg-sven-co-op.json",
+      "exported_at": "2024-06-01T00:04:54+00:00"
+    },
+    {
+      "name": "Sven Co-op",
+      "description": "Sven Co-op is a co-operative game originally based around Valve Software's Half-Life. In this game players must work together against computer controlled enemies and solve puzzles as a team.",
+      "language": "en",
+      "size": "7.34 KB",
+      "type": "games-steamcmd",
+      "author": "pteroducktyl@yildri.nl",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/svencoop/egg-pterodactyl-sven-co-op.json",
+      "exported_at": "2024-06-01T00:04:54+00:00"
     },
     {
       "name": "Subnautica",
