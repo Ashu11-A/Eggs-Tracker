@@ -2211,13 +2211,23 @@
   },
   {
     "name": "Lavalink",
-    "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/freyacodes/Lavalink",
+    "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/lavalink-devs/Lavalink",
     "language": "en",
-    "size": "4.52 KB",
-    "type": "voice",
+    "size": "4.53 KB",
+    "type": "software",
     "author": "damuffin36@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/lavalink/egg-lavalink.json",
-    "exported_at": "2023-08-04T08:40:49+02:00"
+    "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-pterodactyl-lavalink.json",
+    "exported_at": "2024-10-26T08:33:32+02:00"
+  },
+  {
+    "name": "Lavalink",
+    "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\nDescription taken from https://github.com/lavalink-devs/Lavalink",
+    "language": "en",
+    "size": "4.77 KB",
+    "type": "software",
+    "author": "damuffin36@gmail.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-lavalink.json",
+    "exported_at": "2024-11-20T10:10:31+00:00"
   },
   {
     "name": "LeagueSandbox",
@@ -2733,21 +2743,21 @@
     "name": "Nazi Zombies: Portable",
     "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
     "language": "en",
-    "size": "5.05 KB",
+    "size": "4.62 KB",
     "type": "games-standalone",
     "author": "jordanadamsbusiness@outlook.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
-    "exported_at": "2024-06-24T10:54:48+02:00"
+    "exported_at": "2024-11-03T13:12:47-05:00"
   },
   {
     "name": "Nazi Zombies: Portable",
     "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
     "language": "en",
-    "size": "5.2 KB",
+    "size": "4.87 KB",
     "type": "games-standalone",
     "author": "jordanadamsbusiness@outlook.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
-    "exported_at": "2024-06-24T08:55:54+00:00"
+    "exported_at": "2024-11-03T18:19:58+00:00"
   },
   {
     "name": "Necesse",
@@ -3523,21 +3533,21 @@
     "name": "Purpur",
     "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",
     "language": "en",
-    "size": "5.21 KB",
+    "size": "5.25 KB",
     "type": "minecraft",
     "author": "purpur@birdflop.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/purpur/egg-purpur.json",
-    "exported_at": "2024-06-01T19:39:58+00:00"
+    "exported_at": "2024-11-20T09:50:13+00:00"
   },
   {
     "name": "Purpur",
     "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",
     "language": "en",
-    "size": "5.02 KB",
+    "size": "5.05 KB",
     "type": "minecraft",
     "author": "purpur@birdflop.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/purpur/egg-pterodactyl-purpur.json",
-    "exported_at": "2024-06-01T19:39:58+00:00"
+    "exported_at": "2024-11-20T10:52:34+01:00"
   },
   {
     "name": "Purpur-Geyser-Floodgate",
@@ -4830,6 +4840,26 @@
     "exported_at": "2024-06-01T19:40:17+00:00"
   },
   {
+    "name": "The Battle for Wesnoth",
+    "description": "Egg for hosting a Battle for Wesnoth Server.",
+    "language": "en",
+    "size": "4.26 KB",
+    "type": "games-standalone",
+    "author": "mattman107@github.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-the-battle-for-wesnoth.json",
+    "exported_at": "2024-11-20T09:59:56+00:00"
+  },
+  {
+    "name": "The Battle for Wesnoth",
+    "description": "Egg for hosting a Battle for Wesnoth Server.",
+    "language": "en",
+    "size": "4.11 KB",
+    "type": "games-standalone",
+    "author": "mattman107@github.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
+    "exported_at": "2024-11-20T10:57:52+01:00"
+  },
+  {
     "name": "The Forest",
     "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first-person survival horror simulator.",
     "language": "en",
@@ -4853,21 +4883,21 @@
     "name": "The Front",
     "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
     "language": "en",
-    "size": "13.46 KB",
+    "size": "14.04 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/thefront/egg-the-front.json",
-    "exported_at": "2024-06-01T00:04:57+00:00"
+    "exported_at": "2024-11-20T10:05:44+00:00"
   },
   {
     "name": "The Front",
     "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
     "language": "en",
-    "size": "12.84 KB",
+    "size": "12.91 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/thefront/egg-pterodactyl-the-front.json",
-    "exported_at": "2024-06-01T00:04:57+00:00"
+    "exported_at": "2024-09-20T09:00:40+02:00"
   },
   {
     "name": "The Isle",
