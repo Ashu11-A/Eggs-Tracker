@@ -23,16 +23,6 @@
   ],
   "monitoring": [
     {
-      "name": "Prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "en",
-      "size": "3.61 KB",
-      "type": "monitoring",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/prometheus/egg-prometheus.json",
-      "exported_at": "2024-06-02T14:38:06+00:00"
-    },
-    {
       "name": "Loki",
       "description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this",
       "language": "en",
@@ -41,6 +31,16 @@
       "author": "unknown@unknown.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/loki/egg-loki.json",
       "exported_at": "2024-06-02T14:38:07+00:00"
+    },
+    {
+      "name": "Prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "en",
+      "size": "3.61 KB",
+      "type": "monitoring",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/monitoring/main/prometheus/egg-prometheus.json",
+      "exported_at": "2024-06-02T14:38:06+00:00"
     }
   ],
   "games-standalone": [
@@ -2803,6 +2803,26 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2881,26 +2901,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
