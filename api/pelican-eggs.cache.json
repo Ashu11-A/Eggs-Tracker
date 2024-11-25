@@ -5185,26 +5185,6 @@
       "exported_at": "2024-06-01T00:04:54+00:00"
     },
     {
-      "name": "SCP:SL",
-      "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server",
-      "language": "en",
-      "size": "6.23 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/dedicated/egg-s-c-p--s-l.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
-      "name": "SCP:SL",
-      "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server",
-      "language": "en",
-      "size": "6.01 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/dedicated/egg-pterodactyl-s-c-p--s-l.json",
-      "exported_at": "2024-06-01T00:04:46+00:00"
-    },
-    {
       "name": "SCP:SL - Exiled",
       "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
       "language": "en",
@@ -5223,6 +5203,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/exiled/egg-pterodactyl-s-c-p--s-l--exiled.json",
       "exported_at": "2024-09-09T18:01:58+00:00"
+    },
+    {
+      "name": "SCP:SL",
+      "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server",
+      "language": "en",
+      "size": "6.23 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/dedicated/egg-s-c-p--s-l.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
+    },
+    {
+      "name": "SCP:SL",
+      "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server",
+      "language": "en",
+      "size": "6.01 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/dedicated/egg-pterodactyl-s-c-p--s-l.json",
+      "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
       "name": "Rust Staging",
@@ -5345,26 +5345,6 @@
       "exported_at": "2024-06-01T00:04:07+00:00"
     },
     {
-      "name": "Counter-Strike: Source",
-      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
-      "language": "en",
-      "size": "6.35 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-pterodactyl-counter--strike--source.json",
-      "exported_at": "2024-06-01T00:04:02+00:00"
-    },
-    {
-      "name": "Counter-Strike: Source",
-      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
-      "language": "en",
-      "size": "6.61 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-counter--strike--source.json",
-      "exported_at": "2024-06-01T00:04:02+00:00"
-    },
-    {
       "name": "Counter-Strike 2",
       "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
       "language": "en",
@@ -5383,6 +5363,26 @@
       "author": "admin@ballaual.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_2/egg-counter--strike2.json",
       "exported_at": "2024-06-01T00:04:01+00:00"
+    },
+    {
+      "name": "Counter-Strike: Source",
+      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+      "language": "en",
+      "size": "6.35 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-pterodactyl-counter--strike--source.json",
+      "exported_at": "2024-06-01T00:04:02+00:00"
+    },
+    {
+      "name": "Counter-Strike: Source",
+      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+      "language": "en",
+      "size": "6.61 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-counter--strike--source.json",
+      "exported_at": "2024-06-01T00:04:02+00:00"
     },
     {
       "name": "Arma Reforger",
