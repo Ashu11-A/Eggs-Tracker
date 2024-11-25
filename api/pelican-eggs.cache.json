@@ -1327,26 +1327,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1365,6 +1345,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -2171,26 +2171,6 @@
       "exported_at": "2024-09-08T19:48:06+02:00"
     },
     {
-      "name": "Elasticsearch",
-      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "software",
-      "author": "dominic@stilma.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-pterodactyl-elasticsearch.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
-      "name": "Elasticsearch",
-      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
-      "language": "en",
-      "size": "2.67 KB",
-      "type": "software",
-      "author": "dominic@stilma.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-elasticsearch.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
       "name": "Code-Server",
       "description": "Run VS Code on any machine anywhere and access it in the browser.",
       "language": "en",
@@ -2209,6 +2189,26 @@
       "author": "mario.franze@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-code--server.json",
       "exported_at": "2024-06-02T14:40:57+00:00"
+    },
+    {
+      "name": "Elasticsearch",
+      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "software",
+      "author": "dominic@stilma.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-pterodactyl-elasticsearch.json",
+      "exported_at": "2024-06-02T14:40:58+00:00"
+    },
+    {
+      "name": "Elasticsearch",
+      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
+      "language": "en",
+      "size": "2.67 KB",
+      "type": "software",
+      "author": "dominic@stilma.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-elasticsearch.json",
+      "exported_at": "2024-06-02T14:40:58+00:00"
     },
     {
       "name": "5e Tools",
@@ -2232,26 +2232,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2661,6 +2641,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -3505,26 +3505,6 @@
       "exported_at": "2024-06-01T13:27:43+02:00"
     },
     {
-      "name": "Sons Of The Forest",
-      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
-      "language": "en",
-      "size": "12.33 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-sons-of-the-forest.json",
-      "exported_at": "2024-06-01T00:04:52+00:00"
-    },
-    {
-      "name": "Sons Of The Forest",
-      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
-      "language": "en",
-      "size": "11.81 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json",
-      "exported_at": "2024-06-01T00:04:52+00:00"
-    },
-    {
       "name": "Soldat",
       "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.\r\n\r\nSteam: https://store.steampowered.com/app/638490/Soldat/",
       "language": "en",
@@ -3563,6 +3543,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/solace_crafting/egg-pterodactyl-solace-crafting.json",
       "exported_at": "2024-06-01T00:04:51+00:00"
+    },
+    {
+      "name": "Sons Of The Forest",
+      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
+      "language": "en",
+      "size": "12.33 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-sons-of-the-forest.json",
+      "exported_at": "2024-06-01T00:04:52+00:00"
+    },
+    {
+      "name": "Sons Of The Forest",
+      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
+      "language": "en",
+      "size": "11.81 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json",
+      "exported_at": "2024-06-01T00:04:52+00:00"
     },
     {
       "name": "Smalland: Survive the Wilds",
@@ -5345,26 +5345,6 @@
       "exported_at": "2024-06-01T00:04:07+00:00"
     },
     {
-      "name": "Counter-Strike 2",
-      "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
-      "language": "en",
-      "size": "9.06 KB",
-      "type": "games-steamcmd",
-      "author": "admin@ballaual.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_2/egg-pterodactyl-counter--strike2.json",
-      "exported_at": "2024-06-01T00:04:01+00:00"
-    },
-    {
-      "name": "Counter-Strike 2",
-      "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
-      "language": "en",
-      "size": "9.5 KB",
-      "type": "games-steamcmd",
-      "author": "admin@ballaual.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_2/egg-counter--strike2.json",
-      "exported_at": "2024-06-01T00:04:01+00:00"
-    },
-    {
       "name": "Counter-Strike: Source",
       "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
       "language": "en",
@@ -5383,6 +5363,26 @@
       "author": "diedyesterdaywashere@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_source/egg-counter--strike--source.json",
       "exported_at": "2024-06-01T00:04:02+00:00"
+    },
+    {
+      "name": "Counter-Strike 2",
+      "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+      "language": "en",
+      "size": "9.06 KB",
+      "type": "games-steamcmd",
+      "author": "admin@ballaual.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_2/egg-pterodactyl-counter--strike2.json",
+      "exported_at": "2024-06-01T00:04:01+00:00"
+    },
+    {
+      "name": "Counter-Strike 2",
+      "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+      "language": "en",
+      "size": "9.5 KB",
+      "type": "games-steamcmd",
+      "author": "admin@ballaual.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/counter_strike/counter_strike_2/egg-counter--strike2.json",
+      "exported_at": "2024-06-01T00:04:01+00:00"
     },
     {
       "name": "Arma Reforger",
