@@ -345,26 +345,6 @@
       "exported_at": "2024-06-01T00:16:54+00:00"
     },
     {
-      "name": "Minetest",
-      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
-      "language": "en",
-      "size": "11.02 KB",
-      "type": "games-standalone",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-pterodactyl-minetest.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
-      "name": "Minetest",
-      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
-      "language": "en",
-      "size": "11.54 KB",
-      "type": "games-standalone",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-minetest.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
       "name": "Mindustry",
       "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
       "language": "en",
@@ -382,6 +362,26 @@
       "type": "games-standalone",
       "author": "sir3lit@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "Minetest",
+      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
+      "language": "en",
+      "size": "11.02 KB",
+      "type": "games-standalone",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-pterodactyl-minetest.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "Minetest",
+      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
+      "language": "en",
+      "size": "11.54 KB",
+      "type": "games-standalone",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-minetest.json",
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
@@ -885,26 +885,6 @@
       "exported_at": "2024-06-01T00:17:08+00:00"
     },
     {
-      "name": "Rage.MP",
-      "description": "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server.",
-      "language": "en",
-      "size": "3.08 KB",
-      "type": "games-standalone",
-      "author": "noreply.waypointhosting@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragemp/egg-rage--m-p.json",
-      "exported_at": "2024-06-01T00:17:04+00:00"
-    },
-    {
-      "name": "Rage.MP",
-      "description": "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server.",
-      "language": "en",
-      "size": "2.94 KB",
-      "type": "games-standalone",
-      "author": "noreply.waypointhosting@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragemp/egg-pterodactyl-rage--m-p.json",
-      "exported_at": "2024-06-01T00:17:04+00:00"
-    },
-    {
       "name": "RageCOOP",
       "description": "Drive around the interstate with your buddy, enjoy GTAs environment, make own missions and events or just chill in Grove Street! 🌐",
       "language": "en",
@@ -923,6 +903,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragecoop/egg-pterodactyl-rage-c-o-o-p.json",
       "exported_at": "2024-06-01T00:17:03+00:00"
+    },
+    {
+      "name": "Rage.MP",
+      "description": "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server.",
+      "language": "en",
+      "size": "3.08 KB",
+      "type": "games-standalone",
+      "author": "noreply.waypointhosting@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragemp/egg-rage--m-p.json",
+      "exported_at": "2024-06-01T00:17:04+00:00"
+    },
+    {
+      "name": "Rage.MP",
+      "description": "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server.",
+      "language": "en",
+      "size": "2.94 KB",
+      "type": "games-standalone",
+      "author": "noreply.waypointhosting@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragemp/egg-pterodactyl-rage--m-p.json",
+      "exported_at": "2024-06-01T00:17:04+00:00"
     },
     {
       "name": "OpenMP",
@@ -1669,26 +1669,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.38 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.06 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "nodemon",
       "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
       "language": "en",
@@ -1706,6 +1686,26 @@
       "type": "generic",
       "author": "nick@blackforthosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.38 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.06 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
@@ -2233,26 +2233,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2661,6 +2641,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
