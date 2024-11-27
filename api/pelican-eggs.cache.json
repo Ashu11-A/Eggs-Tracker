@@ -385,26 +385,6 @@
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.51 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
       "name": "LeagueSandbox",
       "description": "A simple egg to run LeagueSandbox server in pterodactyl",
       "language": "en",
@@ -423,6 +403,26 @@
       "author": "domi@imagine.team",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-league-sandbox.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.51 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
       "name": "KSP DMP",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -2723,26 +2723,6 @@
       "exported_at": "2024-06-01T19:39:46+00:00"
     },
     {
-      "name": "PowerNukkitX",
-      "description": "PowerNukkitX support for Pterodactyl",
-      "language": "en",
-      "size": "3.2 KB",
-      "type": "minecraft",
-      "author": "powernukkitx@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "PowerNukkitX",
-      "description": "PowerNukkitX support for Pterodactyl",
-      "language": "en",
-      "size": "3.25 KB",
-      "type": "minecraft",
-      "author": "powernukkitx@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
       "name": "Vanilla Bedrock",
       "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
       "language": "en",
@@ -2781,6 +2761,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json",
       "exported_at": "2024-09-24T13:43:50-07:00"
+    },
+    {
+      "name": "PowerNukkitX",
+      "description": "PowerNukkitX support for Pterodactyl",
+      "language": "en",
+      "size": "3.2 KB",
+      "type": "minecraft",
+      "author": "powernukkitx@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "PowerNukkitX",
+      "description": "PowerNukkitX support for Pterodactyl",
+      "language": "en",
+      "size": "3.25 KB",
+      "type": "minecraft",
+      "author": "powernukkitx@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
     },
     {
       "name": "Liteloader Bedrock Dedicated Server",
