@@ -1327,26 +1327,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.71 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
       "name": "JTS3ServerMod",
       "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
@@ -1365,6 +1345,26 @@
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.71 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Sinusbot",
@@ -2233,6 +2233,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2643,44 +2663,24 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
-      "size": "5.68 KB",
+      "size": "6.02 KB",
       "type": "minecraft",
       "author": "info@swisscrafting.ch",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json",
-      "exported_at": "2024-06-01T19:39:56+00:00"
+      "exported_at": "2024-11-29T11:53:20+01:00"
     },
     {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
-      "size": "5.79 KB",
+      "size": "6.11 KB",
       "type": "minecraft",
       "author": "info@swisscrafting.ch",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
-      "exported_at": "2024-06-01T19:39:56+00:00"
+      "exported_at": "2024-11-29T10:54:34+00:00"
     },
     {
       "name": "Nukkit",
@@ -5225,26 +5225,6 @@
       "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
-      "name": "Rust Autowipe",
-      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
-      "language": "en",
-      "size": "13.28 KB",
-      "type": "games-steamcmd",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_autowipe/egg-rust-autowipe.json",
-      "exported_at": "2024-06-01T00:04:43+00:00"
-    },
-    {
-      "name": "Rust Autowipe",
-      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
-      "language": "en",
-      "size": "12.69 KB",
-      "type": "games-steamcmd",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_autowipe/egg-pterodactyl-rust-autowipe.json",
-      "exported_at": "2024-06-01T00:04:43+00:00"
-    },
-    {
       "name": "Rust Staging",
       "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
       "language": "en",
@@ -5262,6 +5242,26 @@
       "type": "games-steamcmd",
       "author": "root@smc.li",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_staging/egg-pterodactyl-rust-staging.json",
+      "exported_at": "2024-06-01T00:04:43+00:00"
+    },
+    {
+      "name": "Rust Autowipe",
+      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
+      "language": "en",
+      "size": "13.28 KB",
+      "type": "games-steamcmd",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_autowipe/egg-rust-autowipe.json",
+      "exported_at": "2024-06-01T00:04:43+00:00"
+    },
+    {
+      "name": "Rust Autowipe",
+      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
+      "language": "en",
+      "size": "12.69 KB",
+      "type": "games-steamcmd",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_autowipe/egg-pterodactyl-rust-autowipe.json",
       "exported_at": "2024-06-01T00:04:43+00:00"
     },
     {
@@ -5388,21 +5388,21 @@
       "name": "Arma Reforger",
       "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
       "language": "en",
-      "size": "11.61 KB",
+      "size": "13.29 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma_reforger/egg-pterodactyl-arma-reforger.json",
-      "exported_at": "2024-07-03T21:46:20-07:00"
+      "exported_at": "2024-11-28T14:47:08-08:00"
     },
     {
       "name": "Arma Reforger",
       "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
       "language": "en",
-      "size": "11.96 KB",
+      "size": "13.69 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma_reforger/egg-arma-reforger.json",
-      "exported_at": "2024-07-03T21:46:20-07:00"
+      "exported_at": "2024-11-28T14:47:08-08:00"
     },
     {
       "name": "Arma 3",
