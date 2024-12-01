@@ -173,11 +173,11 @@
     "name": "ARK: Survival Ascended",
     "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
     "language": "en",
-    "size": "13.06 KB",
+    "size": "12.59 KB",
     "type": "games-steamcmd",
     "author": "blood@darkartsgaming.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json",
-    "exported_at": "2024-10-04T17:57:36+00:00"
+    "exported_at": "2024-11-30T15:44:05+00:00"
   },
   {
     "name": "Ark: Survival Evolved",
@@ -193,11 +193,11 @@
     "name": "Ark: Survival Evolved",
     "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
     "language": "en",
-    "size": "9.07 KB",
+    "size": "9.43 KB",
     "type": "games-steamcmd",
     "author": "dev@shepper.fr",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
-    "exported_at": "2024-06-01T00:03:48+00:00"
+    "exported_at": "2024-11-30T15:45:55+00:00"
   },
   {
     "name": "Arma 3",
@@ -4033,11 +4033,11 @@
     "name": "Satisfactory",
     "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
     "language": "en",
-    "size": "8 KB",
+    "size": "8.34 KB",
     "type": "games-steamcmd",
     "author": "red_thirten@yahoo.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/satisfactory/egg-satisfactory.json",
-    "exported_at": "2024-09-12T17:23:14+00:00"
+    "exported_at": "2024-11-30T15:42:32+00:00"
   },
   {
     "name": "Satisfactory",
