@@ -265,26 +265,6 @@
       "exported_at": "2024-10-16T18:29:26-07:00"
     },
     {
-      "name": "OpenArena",
-      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
-      "language": "en",
-      "size": "1.98 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-pterodactyl-open-arena.json",
-      "exported_at": "2024-06-01T00:16:55+00:00"
-    },
-    {
-      "name": "OpenArena",
-      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
-      "language": "en",
-      "size": "2.09 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-open-arena.json",
-      "exported_at": "2024-06-01T00:16:55+00:00"
-    },
-    {
       "name": "Neverwinter Nights: Enhanced Edition",
       "description": "Return to the Forgotten Realms in this bestselling Dungeons & Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!",
       "language": "en",
@@ -305,24 +285,24 @@
       "exported_at": "2024-06-01T00:16:56+00:00"
     },
     {
-      "name": "Nazi Zombies: Portable",
-      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+      "name": "OpenArena",
+      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
       "language": "en",
-      "size": "4.62 KB",
+      "size": "1.98 KB",
       "type": "games-standalone",
-      "author": "jordanadamsbusiness@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
-      "exported_at": "2024-11-03T13:12:47-05:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-pterodactyl-open-arena.json",
+      "exported_at": "2024-06-01T00:16:55+00:00"
     },
     {
-      "name": "Nazi Zombies: Portable",
-      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+      "name": "OpenArena",
+      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
       "language": "en",
-      "size": "4.87 KB",
+      "size": "2.09 KB",
       "type": "games-standalone",
-      "author": "jordanadamsbusiness@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
-      "exported_at": "2024-11-03T18:19:58+00:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-open-arena.json",
+      "exported_at": "2024-06-01T00:16:55+00:00"
     },
     {
       "name": "mohaa",
@@ -343,6 +323,26 @@
       "author": "th3dilli@gmx.at",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-mohaa.json",
       "exported_at": "2024-06-01T00:16:54+00:00"
+    },
+    {
+      "name": "Nazi Zombies: Portable",
+      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+      "language": "en",
+      "size": "4.62 KB",
+      "type": "games-standalone",
+      "author": "jordanadamsbusiness@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
+      "exported_at": "2024-11-03T13:12:47-05:00"
+    },
+    {
+      "name": "Nazi Zombies: Portable",
+      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+      "language": "en",
+      "size": "4.87 KB",
+      "type": "games-standalone",
+      "author": "jordanadamsbusiness@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
+      "exported_at": "2024-11-03T18:19:58+00:00"
     },
     {
       "name": "Minetest",
@@ -685,26 +685,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "tModloader",
-      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
-      "language": "en",
-      "size": "9.17 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-t-modloader.json",
-      "exported_at": "2024-06-15T09:58:09+02:00"
-    },
-    {
-      "name": "tModloader",
-      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
-      "language": "en",
-      "size": "8.88 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
-      "exported_at": "2024-06-15T09:58:09+02:00"
-    },
-    {
       "name": "tshock",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
@@ -743,6 +723,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
       "exported_at": "2024-06-01T00:17:19+00:00"
+    },
+    {
+      "name": "tModloader",
+      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
+      "language": "en",
+      "size": "9.17 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-t-modloader.json",
+      "exported_at": "2024-06-15T09:58:09+02:00"
+    },
+    {
+      "name": "tModloader",
+      "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
+      "language": "en",
+      "size": "8.88 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
+      "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
       "name": "Rimworld Together",
@@ -1185,26 +1185,6 @@
       "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
-      "name": "BeamMP Servers",
-      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
-      "language": "en",
-      "size": "9.28 KB",
-      "type": "games-standalone",
-      "author": "noah@noahserver.online",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
-      "exported_at": "2024-08-03T06:04:16+02:00"
-    },
-    {
-      "name": "BeamMP Servers",
-      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
-      "language": "en",
-      "size": "9.51 KB",
-      "type": "games-standalone",
-      "author": "noah@noahserver.online",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
-      "exported_at": "2024-08-03T04:06:03+00:00"
-    },
-    {
       "name": "KissMP Server",
       "description": "Server for the KISS Multiplayer BeamNG.drive mod",
       "language": "en",
@@ -1223,6 +1203,26 @@
       "author": "me@weilbyte.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-kiss-m-p-server.json",
       "exported_at": "2024-06-01T00:16:50+00:00"
+    },
+    {
+      "name": "BeamMP Servers",
+      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+      "language": "en",
+      "size": "9.28 KB",
+      "type": "games-standalone",
+      "author": "noah@noahserver.online",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
+      "exported_at": "2024-08-03T06:04:16+02:00"
+    },
+    {
+      "name": "BeamMP Servers",
+      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+      "language": "en",
+      "size": "9.51 KB",
+      "type": "games-standalone",
+      "author": "noah@noahserver.online",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
+      "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
       "name": "Among Us - Impostor Server",
@@ -1367,26 +1367,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "22.59 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
-      "language": "en",
-      "size": "21.49 KB",
-      "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
       "name": "Sinusbot",
       "description": "Musicbot for Discord and Teamspeak.",
       "language": "en",
@@ -1405,6 +1385,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "22.59 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "21.49 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
       "name": "Red",
@@ -2293,26 +2293,6 @@
       "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
-      "name": "Spigot",
-      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
-      "language": "en",
-      "size": "6.32 KB",
-      "type": "minecraft",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-spigot.json",
-      "exported_at": "2024-06-01T19:39:58+00:00"
-    },
-    {
-      "name": "Spigot",
-      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
-      "language": "en",
-      "size": "6.14 KB",
-      "type": "minecraft",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-pterodactyl-spigot.json",
-      "exported_at": "2024-06-01T19:39:58+00:00"
-    },
-    {
       "name": "Quilt",
       "description": "The Quilt project is an open-source, community-driven modding toolchain designed primarily for Minecraft. By focusing on speed, ease of use and modularity, Quilt aims to provide a sleek and modern modding toolchain with an open ecosystem.",
       "language": "en",
@@ -2331,6 +2311,26 @@
       "author": "diedyesterdaywashere@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/quilt/egg-pterodactyl-quilt.json",
       "exported_at": "2024-06-01T19:39:59+00:00"
+    },
+    {
+      "name": "Spigot",
+      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
+      "language": "en",
+      "size": "6.32 KB",
+      "type": "minecraft",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-spigot.json",
+      "exported_at": "2024-06-01T19:39:58+00:00"
+    },
+    {
+      "name": "Spigot",
+      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
+      "language": "en",
+      "size": "6.14 KB",
+      "type": "minecraft",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-pterodactyl-spigot.json",
+      "exported_at": "2024-06-01T19:39:58+00:00"
     },
     {
       "name": "Purpur",
