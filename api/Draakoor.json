@@ -183,11 +183,11 @@
     "name": "Plutonium BO2",
     "description": null,
     "language": "en",
-    "size": "4.94 KB",
+    "size": "5.14 KB",
     "type": ".",
     "author": "atom@our-space.xyz",
     "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-plutonium-b-o2.json",
-    "exported_at": "2024-06-03T11:40:58+02:00"
+    "exported_at": "2024-12-01T23:50:42+01:00"
   },
   {
     "name": "Plutonium MW3",
@@ -213,11 +213,11 @@
     "name": "Plutonium with Logserver",
     "description": "Plutonium with logserver",
     "language": "en",
-    "size": "16.24 KB",
+    "size": "16.22 KB",
     "type": ".",
     "author": "dominique@wellisch-itservice.de",
     "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-plutonium-with-logserver.json",
-    "exported_at": "2024-03-08T01:37:45+01:00"
+    "exported_at": "2024-12-01T23:37:40+01:00"
   },
   {
     "name": "Project Shield",
