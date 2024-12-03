@@ -2233,26 +2233,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2661,6 +2641,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -3805,26 +3805,6 @@
       "exported_at": "2024-07-15T19:02:11+02:00"
     },
     {
-      "name": "Open Fortress",
-      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
-      "language": "en",
-      "size": "9.86 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Open Fortress",
-      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
-      "language": "en",
-      "size": "10.19 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
       "name": "Operation Harsh Doorstop",
       "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
       "language": "en",
@@ -3842,6 +3822,26 @@
       "type": "games-steamcmd",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Open Fortress",
+      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+      "language": "en",
+      "size": "9.86 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Open Fortress",
+      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+      "language": "en",
+      "size": "10.19 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
