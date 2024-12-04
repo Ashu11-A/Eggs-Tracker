@@ -1245,26 +1245,6 @@
       "exported_at": "2024-07-01T08:27:45+00:00"
     },
     {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.56 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.78 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
       "name": "BetterCrewlink Server",
       "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
       "language": "en",
@@ -1283,29 +1263,29 @@
       "author": "tobiornotto@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.56 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.78 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
     }
   ],
   "chatbots": [
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.99 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
     {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
@@ -1325,6 +1305,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
       "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.99 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "JTS3ServerMod",
