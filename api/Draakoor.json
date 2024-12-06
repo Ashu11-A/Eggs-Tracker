@@ -214,10 +214,20 @@
     "description": "Plutonium with logserver",
     "language": "en",
     "size": "16.22 KB",
+    "type": "oldshit",
+    "author": "dominique@wellisch-itservice.de",
+    "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/oldshit/egg-plutonium-with-logserver.json",
+    "exported_at": "2024-12-01T23:37:40+01:00"
+  },
+  {
+    "name": "Plutonium with python Logserver",
+    "description": "Plutonium Client with python iw4m log server.\r\nYou need to add +set zombiemode 1 for t4 zombies to the start arguments",
+    "language": "en",
+    "size": "17.59 KB",
     "type": ".",
     "author": "dominique@wellisch-itservice.de",
-    "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-plutonium-with-logserver.json",
-    "exported_at": "2024-12-01T23:37:40+01:00"
+    "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-plutonium-with-python-logserver.json",
+    "exported_at": "2024-12-06T06:02:07+01:00"
   },
   {
     "name": "Project Shield",
