@@ -11,6 +11,16 @@
       "exported_at": "2023-07-20T12:27:20-07:00"
     },
     {
+      "name": "Paper + Geyser + Floodgate",
+      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.\r\n\r\nThis customized egg will install the GeyserMC and Floodgate plugins as well. This allows Bedrock players to connect to the server without needing a Java account.",
+      "language": "en",
+      "size": "7.7 KB",
+      "type": ".",
+      "author": "support@geysermc.org",
+      "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-paper--geyser--floodgate.json",
+      "exported_at": "2023-07-20T12:34:21-07:00"
+    },
+    {
       "name": "Paper + Floodgate",
       "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
       "language": "en",
