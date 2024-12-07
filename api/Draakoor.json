@@ -71,13 +71,13 @@
   },
   {
     "name": "H2M-Mod",
-    "description": null,
+    "description": "You need to provide call of duty modern warfare remasterd files and horizonmw files (see variables).\r\nThe wine executable will be downloaded automaticly.",
     "language": "en",
-    "size": "5.12 KB",
+    "size": "5.67 KB",
     "type": ".",
     "author": "dominique@wellisch-itservice.de",
     "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-h2-m--mod.json",
-    "exported_at": "2024-08-17T02:16:40+02:00"
+    "exported_at": "2024-12-07T17:57:51+01:00"
   },
   {
     "name": "IW4Admin",
