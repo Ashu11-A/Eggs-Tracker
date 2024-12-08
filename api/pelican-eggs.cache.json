@@ -1125,26 +1125,6 @@
       "exported_at": "2024-06-01T00:17:22+00:00"
     },
     {
-      "name": "AssaultCube",
-      "description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.\r\n\r\nTaking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!",
-      "language": "en",
-      "size": "6.49 KB",
-      "type": "games-standalone",
-      "author": "holeintheseat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-pterodactyl-assault-cube.json",
-      "exported_at": "2024-06-01T00:17:28+00:00"
-    },
-    {
-      "name": "AssaultCube",
-      "description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.\r\n\r\nTaking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!",
-      "language": "en",
-      "size": "6.78 KB",
-      "type": "games-standalone",
-      "author": "holeintheseat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-assault-cube.json",
-      "exported_at": "2024-06-01T00:17:28+00:00"
-    },
-    {
       "name": "Cube 2: Sauerbraten",
       "description": "Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.\r\nMuch like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game.",
       "language": "en",
@@ -1163,6 +1143,26 @@
       "author": "holeintheseat@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/cube2/egg-cube2--sauerbraten.json",
       "exported_at": "2024-06-01T00:17:32+00:00"
+    },
+    {
+      "name": "AssaultCube",
+      "description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.\r\n\r\nTaking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!",
+      "language": "en",
+      "size": "6.49 KB",
+      "type": "games-standalone",
+      "author": "holeintheseat@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-pterodactyl-assault-cube.json",
+      "exported_at": "2024-06-01T00:17:28+00:00"
+    },
+    {
+      "name": "AssaultCube",
+      "description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.\r\n\r\nTaking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!",
+      "language": "en",
+      "size": "6.78 KB",
+      "type": "games-standalone",
+      "author": "holeintheseat@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-assault-cube.json",
+      "exported_at": "2024-06-01T00:17:28+00:00"
     },
     {
       "name": "ClassiCube(MGC)",
@@ -1327,26 +1327,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1365,6 +1345,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -2051,26 +2051,6 @@
       "exported_at": "2024-11-20T10:10:31+00:00"
     },
     {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.46 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.53 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
       "name": "LanguageTool",
       "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
       "language": "en",
@@ -2088,6 +2068,26 @@
       "type": "software",
       "author": "thomasruhl@live.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.46 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.53 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
@@ -2232,166 +2232,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
-      "name": "PocketmineMP",
-      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
-      "language": "en",
-      "size": "6.02 KB",
-      "type": "minecraft",
-      "author": "info@swisscrafting.ch",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json",
-      "exported_at": "2024-11-29T11:53:20+01:00"
-    },
-    {
-      "name": "PocketmineMP",
-      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
-      "language": "en",
-      "size": "6.11 KB",
-      "type": "minecraft",
-      "author": "info@swisscrafting.ch",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
-      "exported_at": "2024-11-29T10:54:34+00:00"
-    },
-    {
-      "name": "Nukkit",
-      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
-      "language": "en",
-      "size": "4.04 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-pterodactyl-nukkit.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "Nukkit",
-      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
-      "language": "en",
-      "size": "4.23 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-nukkit.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "GoMint",
-      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
-      "language": "en",
-      "size": "3.65 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-pterodactyl-go-mint.json",
-      "exported_at": "2024-06-01T19:39:46+00:00"
-    },
-    {
-      "name": "GoMint",
-      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
-      "language": "en",
-      "size": "3.76 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-go-mint.json",
-      "exported_at": "2024-06-01T19:39:46+00:00"
-    },
-    {
-      "name": "Vanilla Bedrock",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.18 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock.json",
-      "exported_at": "2024-09-25T01:03:44+00:00"
-    },
-    {
-      "name": "Vanilla Bedrock ARM64",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.28 KB",
-      "type": "minecraft",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock-a-r-m64.json",
-      "exported_at": "2024-09-25T01:03:38+00:00"
-    },
-    {
-      "name": "Vanilla Bedrock",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.01 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json",
-      "exported_at": "2024-09-24T13:43:28-07:00"
-    },
-    {
-      "name": "Vanilla Bedrock ARM64",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
-      "size": "6.11 KB",
-      "type": "minecraft",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json",
-      "exported_at": "2024-09-24T13:43:50-07:00"
-    },
-    {
-      "name": "PowerNukkitX",
-      "description": "PowerNukkitX support for Pterodactyl",
-      "language": "en",
-      "size": "3.2 KB",
-      "type": "minecraft",
-      "author": "powernukkitx@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "PowerNukkitX",
-      "description": "PowerNukkitX support for Pterodactyl",
-      "language": "en",
-      "size": "3.25 KB",
-      "type": "minecraft",
-      "author": "powernukkitx@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
-    },
-    {
-      "name": "Liteloader Bedrock Dedicated Server",
-      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
-      "language": "en",
-      "size": "7.77 KB",
-      "type": "minecraft",
-      "author": "frizth_tatierra@informatics.edu.ph",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-pterodactyl-liteloader-bedrock-dedicated-server.json",
-      "exported_at": "2024-06-01T19:40:00+00:00"
-    },
-    {
-      "name": "Liteloader Bedrock Dedicated Server",
-      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
-      "language": "en",
-      "size": "8.04 KB",
-      "type": "minecraft",
-      "author": "frizth_tatierra@informatics.edu.ph",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.json",
-      "exported_at": "2024-06-01T19:40:00+00:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2801,6 +2641,166 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
+      "name": "PocketmineMP",
+      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
+      "language": "en",
+      "size": "6.02 KB",
+      "type": "minecraft",
+      "author": "info@swisscrafting.ch",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json",
+      "exported_at": "2024-11-29T11:53:20+01:00"
+    },
+    {
+      "name": "PocketmineMP",
+      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
+      "language": "en",
+      "size": "6.11 KB",
+      "type": "minecraft",
+      "author": "info@swisscrafting.ch",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
+      "exported_at": "2024-11-29T10:54:34+00:00"
+    },
+    {
+      "name": "Nukkit",
+      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
+      "language": "en",
+      "size": "4.04 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-pterodactyl-nukkit.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "Nukkit",
+      "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition\r\n\r\nhttps://cloudburstmc.org",
+      "language": "en",
+      "size": "4.23 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/nukkit/egg-nukkit.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "GoMint",
+      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
+      "language": "en",
+      "size": "3.65 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-pterodactyl-go-mint.json",
+      "exported_at": "2024-06-01T19:39:46+00:00"
+    },
+    {
+      "name": "GoMint",
+      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
+      "language": "en",
+      "size": "3.76 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-go-mint.json",
+      "exported_at": "2024-06-01T19:39:46+00:00"
+    },
+    {
+      "name": "Vanilla Bedrock",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.18 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock.json",
+      "exported_at": "2024-09-25T01:03:44+00:00"
+    },
+    {
+      "name": "Vanilla Bedrock ARM64",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.28 KB",
+      "type": "minecraft",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock-a-r-m64.json",
+      "exported_at": "2024-09-25T01:03:38+00:00"
+    },
+    {
+      "name": "Vanilla Bedrock",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.01 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json",
+      "exported_at": "2024-09-24T13:43:28-07:00"
+    },
+    {
+      "name": "Vanilla Bedrock ARM64",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "6.11 KB",
+      "type": "minecraft",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json",
+      "exported_at": "2024-09-24T13:43:50-07:00"
+    },
+    {
+      "name": "PowerNukkitX",
+      "description": "PowerNukkitX support for Pterodactyl",
+      "language": "en",
+      "size": "3.2 KB",
+      "type": "minecraft",
+      "author": "powernukkitx@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "PowerNukkitX",
+      "description": "PowerNukkitX support for Pterodactyl",
+      "language": "en",
+      "size": "3.25 KB",
+      "type": "minecraft",
+      "author": "powernukkitx@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
+    },
+    {
+      "name": "Liteloader Bedrock Dedicated Server",
+      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
+      "language": "en",
+      "size": "7.77 KB",
+      "type": "minecraft",
+      "author": "frizth_tatierra@informatics.edu.ph",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-pterodactyl-liteloader-bedrock-dedicated-server.json",
+      "exported_at": "2024-06-01T19:40:00+00:00"
+    },
+    {
+      "name": "Liteloader Bedrock Dedicated Server",
+      "description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader\r\n\r\nLiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.",
+      "language": "en",
+      "size": "8.04 KB",
+      "type": "minecraft",
+      "author": "frizth_tatierra@informatics.edu.ph",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.json",
+      "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
       "name": "Waterfall",
@@ -3425,26 +3425,6 @@
       "exported_at": "2024-06-01T00:05:10+00:00"
     },
     {
-      "name": "Starbound",
-      "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
-      "language": "en",
-      "size": "5.96 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/starbound/egg-starbound.json",
-      "exported_at": "2024-06-01T00:05:08+00:00"
-    },
-    {
-      "name": "Starbound",
-      "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
-      "language": "en",
-      "size": "5.67 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/starbound/egg-pterodactyl-starbound.json",
-      "exported_at": "2024-06-01T00:05:08+00:00"
-    },
-    {
       "name": "Squad",
       "description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking & radio.",
       "language": "en",
@@ -3463,6 +3443,26 @@
       "author": "brycea@terrahost.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/squad/egg-pterodactyl-squad.json",
       "exported_at": "2024-06-01T00:04:21+00:00"
+    },
+    {
+      "name": "Starbound",
+      "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
+      "language": "en",
+      "size": "5.96 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/starbound/egg-starbound.json",
+      "exported_at": "2024-06-01T00:05:08+00:00"
+    },
+    {
+      "name": "Starbound",
+      "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
+      "language": "en",
+      "size": "5.67 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/starbound/egg-pterodactyl-starbound.json",
+      "exported_at": "2024-06-01T00:05:08+00:00"
     },
     {
       "name": "SourceCoop",
@@ -4545,26 +4545,6 @@
       "exported_at": "2024-06-01T00:04:08+00:00"
     },
     {
-      "name": "DayZ",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
-      "language": "en",
-      "size": "22.34 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-pterodactyl-day-z.json",
-      "exported_at": "2024-07-04T17:23:00-07:00"
-    },
-    {
-      "name": "DayZ",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
-      "language": "en",
-      "size": "23.36 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
-      "exported_at": "2024-06-13T12:52:57+07:00"
-    },
-    {
       "name": "CryoFall",
       "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
       "language": "en",
@@ -4583,6 +4563,26 @@
       "author": "contact@zennodes.dk",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
       "exported_at": "2024-06-01T00:04:06+00:00"
+    },
+    {
+      "name": "DayZ",
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "language": "en",
+      "size": "22.34 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-pterodactyl-day-z.json",
+      "exported_at": "2024-07-04T17:23:00-07:00"
+    },
+    {
+      "name": "DayZ",
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "language": "en",
+      "size": "23.36 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
+      "exported_at": "2024-06-13T12:52:57+07:00"
     },
     {
       "name": "Craftopia",
