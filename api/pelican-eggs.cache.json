@@ -165,26 +165,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.78 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.68 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
       "name": "Spacestation 14",
       "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
       "language": "en",
@@ -203,6 +183,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
       "exported_at": "2024-09-10T18:24:40+02:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.78 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.68 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
     },
     {
       "name": "Path Of Titans",
@@ -3705,26 +3705,6 @@
       "exported_at": "2024-06-01T00:04:36+00:00"
     },
     {
-      "name": "Portal Knights",
-      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
-      "language": "en",
-      "size": "8.32 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-pterodactyl-portal-knights.json",
-      "exported_at": "2024-06-01T00:04:35+00:00"
-    },
-    {
-      "name": "Portal Knights",
-      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
-      "language": "en",
-      "size": "8.76 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-portal-knights.json",
-      "exported_at": "2024-06-01T00:04:35+00:00"
-    },
-    {
       "name": "PixARK",
       "description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel",
       "language": "en",
@@ -3743,6 +3723,26 @@
       "author": "hello@venatus.digital",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pixark/egg-pix-a-r-k.json",
       "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
+      "name": "Portal Knights",
+      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+      "language": "en",
+      "size": "8.32 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-pterodactyl-portal-knights.json",
+      "exported_at": "2024-06-01T00:04:35+00:00"
+    },
+    {
+      "name": "Portal Knights",
+      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+      "language": "en",
+      "size": "8.76 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-portal-knights.json",
+      "exported_at": "2024-06-01T00:04:35+00:00"
     },
     {
       "name": "Pavlov VR",
@@ -4225,26 +4225,6 @@
       "exported_at": "2024-06-01T00:04:46+00:00"
     },
     {
-      "name": "Insurgency: Sandstorm",
-      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
-      "language": "en",
-      "size": "8.37 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
-      "exported_at": "2023-11-13T18:26:59+01:00"
-    },
-    {
-      "name": "Insurgency: Sandstorm",
-      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
-      "language": "en",
-      "size": "8.45 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
-      "exported_at": "2023-11-13T18:26:59+01:00"
-    },
-    {
       "name": "Icarus-Dedicated",
       "description": "Icarus is a survival game that with dedicated servers as a public beta",
       "language": "en",
@@ -4263,6 +4243,26 @@
       "author": "bolverblitz@ebg.pw",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Insurgency: Sandstorm",
+      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
+      "language": "en",
+      "size": "8.37 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
+      "exported_at": "2023-11-13T18:26:59+01:00"
+    },
+    {
+      "name": "Insurgency: Sandstorm",
+      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
+      "language": "en",
+      "size": "8.45 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
+      "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
       "name": "Hurtworld",
@@ -4685,26 +4685,6 @@
       "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.96 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
       "name": "BATTALION: Legacy",
       "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
       "language": "en",
@@ -4723,6 +4703,26 @@
       "author": "diedyesterdaywashere@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
       "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.96 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
       "name": "Barotrauma",
