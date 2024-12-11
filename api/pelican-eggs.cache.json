@@ -1649,26 +1649,6 @@
   ],
   "generic": [
     {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.38 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "python generic",
-      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "7.06 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "rust generic",
       "description": "Creates a container that runs rust with cargo.",
       "language": "en",
@@ -1687,6 +1667,26 @@
       "author": "ethan@ethancoward.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-pterodactyl-rust-generic.json",
       "exported_at": "2024-06-02T14:43:53+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.38 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "python generic",
+      "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "7.06 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
       "name": "nodemon",
