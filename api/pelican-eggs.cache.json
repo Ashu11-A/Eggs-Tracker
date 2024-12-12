@@ -1587,26 +1587,6 @@
       "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
-      "name": "Bastion",
-      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
-      "language": "en",
-      "size": "5.93 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-pterodactyl-bastion.json",
-      "exported_at": "2024-06-01T19:44:09+00:00"
-    },
-    {
-      "name": "Bastion",
-      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
-      "language": "en",
-      "size": "6.26 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
-      "exported_at": "2024-06-01T19:44:09+00:00"
-    },
-    {
       "name": "ATLBot",
       "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
       "language": "en",
@@ -1625,6 +1605,26 @@
       "author": "jfeldt19@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
       "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "Bastion",
+      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
+      "language": "en",
+      "size": "5.93 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-pterodactyl-bastion.json",
+      "exported_at": "2024-06-01T19:44:09+00:00"
+    },
+    {
+      "name": "Bastion",
+      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
+      "language": "en",
+      "size": "6.26 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
+      "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
       "name": "Aoede",
@@ -1789,26 +1789,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "Deno Generic",
-      "description": "A generic egg to run deno code.",
-      "language": "en",
-      "size": "6.76 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-pterodactyl-deno-generic.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
-      "name": "Deno Generic",
-      "description": "A generic egg to run deno code.",
-      "language": "en",
-      "size": "7.01 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
-      "exported_at": "2024-06-02T14:43:55+00:00"
-    },
-    {
       "name": "dart generic",
       "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
       "language": "en",
@@ -1827,6 +1807,26 @@
       "author": "alden@knoban.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
       "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "Deno Generic",
+      "description": "A generic egg to run deno code.",
+      "language": "en",
+      "size": "6.76 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-pterodactyl-deno-generic.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Deno Generic",
+      "description": "A generic egg to run deno code.",
+      "language": "en",
+      "size": "7.01 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
+      "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
       "name": "Generic C#",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -2803,26 +2803,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2901,6 +2881,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -4145,26 +4145,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Left 4 Dead",
-      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
-      "language": "en",
-      "size": "5.55 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-pterodactyl-left4-dead.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
-      "name": "Left 4 Dead",
-      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
-      "language": "en",
-      "size": "5.72 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
-      "exported_at": "2024-06-01T00:03:56+00:00"
-    },
-    {
       "name": "Left 4 Dead 2",
       "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
       "language": "en",
@@ -4183,6 +4163,26 @@
       "author": "pterodactyl@mazoyer.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
       "exported_at": "2024-06-01T00:03:58+00:00"
+    },
+    {
+      "name": "Left 4 Dead",
+      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
+      "language": "en",
+      "size": "5.55 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-pterodactyl-left4-dead.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Left 4 Dead",
+      "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
+      "language": "en",
+      "size": "5.72 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
+      "exported_at": "2024-06-01T00:03:56+00:00"
     },
     {
       "name": "Killing Floor 2",
@@ -4345,26 +4345,6 @@
       "exported_at": "2024-06-01T00:04:18+00:00"
     },
     {
-      "name": "Frozen Flame",
-      "description": "Frozen Flame Dedicated Server",
-      "language": "en",
-      "size": "6.62 KB",
-      "type": "games-steamcmd",
-      "author": "theblitzbat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-pterodactyl-frozen-flame.json",
-      "exported_at": "2024-06-01T00:04:14+00:00"
-    },
-    {
-      "name": "Frozen Flame",
-      "description": "Frozen Flame Dedicated Server",
-      "language": "en",
-      "size": "6.95 KB",
-      "type": "games-steamcmd",
-      "author": "theblitzbat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-frozen-flame.json",
-      "exported_at": "2024-06-01T00:04:14+00:00"
-    },
-    {
       "name": "Garry's Mod - Reworked",
       "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
       "language": "en",
@@ -4383,6 +4363,26 @@
       "author": "vilhelm@prytznet.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
       "exported_at": "2024-09-12T17:18:38+00:00"
+    },
+    {
+      "name": "Frozen Flame",
+      "description": "Frozen Flame Dedicated Server",
+      "language": "en",
+      "size": "6.62 KB",
+      "type": "games-steamcmd",
+      "author": "theblitzbat@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-pterodactyl-frozen-flame.json",
+      "exported_at": "2024-06-01T00:04:14+00:00"
+    },
+    {
+      "name": "Frozen Flame",
+      "description": "Frozen Flame Dedicated Server",
+      "language": "en",
+      "size": "6.95 KB",
+      "type": "games-steamcmd",
+      "author": "theblitzbat@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-frozen-flame.json",
+      "exported_at": "2024-06-01T00:04:14+00:00"
     },
     {
       "name": "Foundry",
@@ -4565,26 +4565,6 @@
       "exported_at": "2024-06-13T12:52:57+07:00"
     },
     {
-      "name": "Craftopia",
-      "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
-      "language": "en",
-      "size": "5.61 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/egg-pterodactyl-craftopia.json",
-      "exported_at": "2024-06-01T00:04:05+00:00"
-    },
-    {
-      "name": "Craftopia",
-      "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
-      "language": "en",
-      "size": "5.8 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/egg-craftopia.json",
-      "exported_at": "2024-06-01T00:04:05+00:00"
-    },
-    {
       "name": "CryoFall",
       "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
       "language": "en",
@@ -4603,6 +4583,26 @@
       "author": "contact@zennodes.dk",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
       "exported_at": "2024-06-01T00:04:06+00:00"
+    },
+    {
+      "name": "Craftopia",
+      "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
+      "language": "en",
+      "size": "5.61 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/egg-pterodactyl-craftopia.json",
+      "exported_at": "2024-06-01T00:04:05+00:00"
+    },
+    {
+      "name": "Craftopia",
+      "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
+      "language": "en",
+      "size": "5.8 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/egg-craftopia.json",
+      "exported_at": "2024-06-01T00:04:05+00:00"
     },
     {
       "name": "Core Keeper",
@@ -4705,26 +4705,6 @@
       "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
-      "name": "Barotrauma",
-      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
-      "language": "en",
-      "size": "4.01 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-pterodactyl-barotrauma.json",
-      "exported_at": "2024-06-01T00:03:42+00:00"
-    },
-    {
-      "name": "Barotrauma",
-      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
-      "language": "en",
-      "size": "4.15 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-barotrauma.json",
-      "exported_at": "2024-06-01T00:03:42+00:00"
-    },
-    {
       "name": "BATTALION: Legacy",
       "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
       "language": "en",
@@ -4762,6 +4742,26 @@
       "type": "games-steamcmd",
       "author": "iamkubi@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/avorion/egg-avorion.json",
+      "exported_at": "2024-06-01T00:03:42+00:00"
+    },
+    {
+      "name": "Barotrauma",
+      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
+      "language": "en",
+      "size": "4.01 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-pterodactyl-barotrauma.json",
+      "exported_at": "2024-06-01T00:03:42+00:00"
+    },
+    {
+      "name": "Barotrauma",
+      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
+      "language": "en",
+      "size": "4.15 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-barotrauma.json",
       "exported_at": "2024-06-01T00:03:42+00:00"
     },
     {
@@ -5145,26 +5145,6 @@
       "exported_at": "2024-06-01T00:05:09+00:00"
     },
     {
-      "name": "Space Engineers",
-      "description": "Space Engineers is a voxel-based sandbox game set in space and on planets.",
-      "language": "en",
-      "size": "14.41 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/default/egg-space-engineers.json",
-      "exported_at": "2024-06-01T00:04:54+00:00"
-    },
-    {
-      "name": "Space Engineers",
-      "description": "Space Engineers is a voxel-based sandbox game set in space and on planets.",
-      "language": "en",
-      "size": "13.79 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/default/egg-pterodactyl-space-engineers.json",
-      "exported_at": "2024-06-01T00:04:54+00:00"
-    },
-    {
       "name": "Space Engineers - Torch Server",
       "description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.\r\n\r\n!!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!",
       "language": "en",
@@ -5183,6 +5163,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/torch/egg-pterodactyl-space-engineers--torch-server.json",
       "exported_at": "2024-06-01T00:04:53+00:00"
+    },
+    {
+      "name": "Space Engineers",
+      "description": "Space Engineers is a voxel-based sandbox game set in space and on planets.",
+      "language": "en",
+      "size": "14.41 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/default/egg-space-engineers.json",
+      "exported_at": "2024-06-01T00:04:54+00:00"
+    },
+    {
+      "name": "Space Engineers",
+      "description": "Space Engineers is a voxel-based sandbox game set in space and on planets.",
+      "language": "en",
+      "size": "13.79 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/default/egg-pterodactyl-space-engineers.json",
+      "exported_at": "2024-06-01T00:04:54+00:00"
     },
     {
       "name": "SCP:SL - Exiled",
