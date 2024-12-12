@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -2232,26 +2232,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2663,6 +2643,26 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2803,6 +2803,26 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2881,26 +2901,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -4145,26 +4145,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Left 4 Dead 2",
-      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
-      "language": "en",
-      "size": "5.69 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
-      "exported_at": "2024-06-01T00:03:58+00:00"
-    },
-    {
-      "name": "Left 4 Dead 2",
-      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
-      "language": "en",
-      "size": "5.86 KB",
-      "type": "games-steamcmd",
-      "author": "pterodactyl@mazoyer.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
-      "exported_at": "2024-06-01T00:03:58+00:00"
-    },
-    {
       "name": "Left 4 Dead",
       "description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts.",
       "language": "en",
@@ -4183,6 +4163,26 @@
       "author": "pterodactyl@mazoyer.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead/egg-left4-dead.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
+      "language": "en",
+      "size": "5.69 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
+      "exported_at": "2024-06-01T00:03:58+00:00"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible.",
+      "language": "en",
+      "size": "5.86 KB",
+      "type": "games-steamcmd",
+      "author": "pterodactyl@mazoyer.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/left4dead_2/egg-left4-dead2.json",
+      "exported_at": "2024-06-01T00:03:58+00:00"
     },
     {
       "name": "Killing Floor 2",
@@ -4345,26 +4345,6 @@
       "exported_at": "2024-06-01T00:04:18+00:00"
     },
     {
-      "name": "Garry's Mod - Reworked",
-      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-      "language": "en",
-      "size": "4.53 KB",
-      "type": "games-steamcmd",
-      "author": "vilhelm@prytznet.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
-      "exported_at": "2024-09-12T19:18:10+02:00"
-    },
-    {
-      "name": "Garry's Mod - Reworked",
-      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-      "language": "en",
-      "size": "4.63 KB",
-      "type": "games-steamcmd",
-      "author": "vilhelm@prytznet.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
-      "exported_at": "2024-09-12T17:18:38+00:00"
-    },
-    {
       "name": "Frozen Flame",
       "description": "Frozen Flame Dedicated Server",
       "language": "en",
@@ -4383,6 +4363,26 @@
       "author": "theblitzbat@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/frozen_flame/egg-frozen-flame.json",
       "exported_at": "2024-06-01T00:04:14+00:00"
+    },
+    {
+      "name": "Garry's Mod - Reworked",
+      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
+      "language": "en",
+      "size": "4.53 KB",
+      "type": "games-steamcmd",
+      "author": "vilhelm@prytznet.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
+      "exported_at": "2024-09-12T19:18:10+02:00"
+    },
+    {
+      "name": "Garry's Mod - Reworked",
+      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
+      "language": "en",
+      "size": "4.63 KB",
+      "type": "games-steamcmd",
+      "author": "vilhelm@prytznet.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
+      "exported_at": "2024-09-12T17:18:38+00:00"
     },
     {
       "name": "Foundry",
@@ -4485,26 +4485,6 @@
       "exported_at": "2024-09-20T07:15:26+00:00"
     },
     {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.61 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
-      "name": "Dead Matter",
-      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
-      "language": "en",
-      "size": "5.84 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
-      "exported_at": "2024-06-01T00:04:09+00:00"
-    },
-    {
       "name": "Don't Starve Together",
       "description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic.",
       "language": "en",
@@ -4523,6 +4503,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dont_starve/egg-don-t-starve-together.json",
       "exported_at": "2024-06-01T00:04:10+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.61 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-pterodactyl-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
+    },
+    {
+      "name": "Dead Matter",
+      "description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors.",
+      "language": "en",
+      "size": "5.84 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dead_matter/egg-dead-matter.json",
+      "exported_at": "2024-06-01T00:04:09+00:00"
     },
     {
       "name": "DDNet",
@@ -4565,26 +4565,6 @@
       "exported_at": "2024-06-13T12:52:57+07:00"
     },
     {
-      "name": "CryoFall",
-      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
-      "language": "en",
-      "size": "5.36 KB",
-      "type": "games-steamcmd",
-      "author": "contact@zennodes.dk",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-pterodactyl-cryo-fall.json",
-      "exported_at": "2024-06-01T00:04:06+00:00"
-    },
-    {
-      "name": "CryoFall",
-      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
-      "language": "en",
-      "size": "5.51 KB",
-      "type": "games-steamcmd",
-      "author": "contact@zennodes.dk",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
-      "exported_at": "2024-06-01T00:04:06+00:00"
-    },
-    {
       "name": "Craftopia",
       "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
       "language": "en",
@@ -4603,6 +4583,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/egg-craftopia.json",
       "exported_at": "2024-06-01T00:04:05+00:00"
+    },
+    {
+      "name": "CryoFall",
+      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
+      "language": "en",
+      "size": "5.36 KB",
+      "type": "games-steamcmd",
+      "author": "contact@zennodes.dk",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-pterodactyl-cryo-fall.json",
+      "exported_at": "2024-06-01T00:04:06+00:00"
+    },
+    {
+      "name": "CryoFall",
+      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
+      "language": "en",
+      "size": "5.51 KB",
+      "type": "games-steamcmd",
+      "author": "contact@zennodes.dk",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
+      "exported_at": "2024-06-01T00:04:06+00:00"
     },
     {
       "name": "Core Keeper",
@@ -4705,26 +4705,6 @@
       "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
-      "name": "BATTALION: Legacy",
-      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
-      "language": "en",
-      "size": "6.15 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-pterodactyl-b-a-t-t-a-l-i-o-n--legacy.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
-      "name": "BATTALION: Legacy",
-      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
-      "language": "en",
-      "size": "6.38 KB",
-      "type": "games-steamcmd",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
       "name": "Barotrauma",
       "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
       "language": "en",
@@ -4743,6 +4723,26 @@
       "author": "admin@softwarenoob.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-barotrauma.json",
       "exported_at": "2024-06-01T00:03:42+00:00"
+    },
+    {
+      "name": "BATTALION: Legacy",
+      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
+      "language": "en",
+      "size": "6.15 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-pterodactyl-b-a-t-t-a-l-i-o-n--legacy.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "BATTALION: Legacy",
+      "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
+      "language": "en",
+      "size": "6.38 KB",
+      "type": "games-steamcmd",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
       "name": "Avorion",
@@ -5145,26 +5145,6 @@
       "exported_at": "2024-06-01T00:05:09+00:00"
     },
     {
-      "name": "Space Engineers - Torch Server",
-      "description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.\r\n\r\n!!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!",
-      "language": "en",
-      "size": "11.77 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/torch/egg-space-engineers--torch-server.json",
-      "exported_at": "2024-06-01T00:04:53+00:00"
-    },
-    {
-      "name": "Space Engineers - Torch Server",
-      "description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.\r\n\r\n!!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!",
-      "language": "en",
-      "size": "11.25 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/torch/egg-pterodactyl-space-engineers--torch-server.json",
-      "exported_at": "2024-06-01T00:04:53+00:00"
-    },
-    {
       "name": "Space Engineers",
       "description": "Space Engineers is a voxel-based sandbox game set in space and on planets.",
       "language": "en",
@@ -5183,6 +5163,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/default/egg-pterodactyl-space-engineers.json",
       "exported_at": "2024-06-01T00:04:54+00:00"
+    },
+    {
+      "name": "Space Engineers - Torch Server",
+      "description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.\r\n\r\n!!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!",
+      "language": "en",
+      "size": "11.77 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/torch/egg-space-engineers--torch-server.json",
+      "exported_at": "2024-06-01T00:04:53+00:00"
+    },
+    {
+      "name": "Space Engineers - Torch Server",
+      "description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.\r\n\r\n!!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!",
+      "language": "en",
+      "size": "11.25 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/space_engineers/torch/egg-pterodactyl-space-engineers--torch-server.json",
+      "exported_at": "2024-06-01T00:04:53+00:00"
     },
     {
       "name": "SCP:SL - Exiled",
