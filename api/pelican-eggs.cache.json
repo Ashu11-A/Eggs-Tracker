@@ -105,26 +105,6 @@
       "exported_at": "2024-06-01T00:17:20+00:00"
     },
     {
-      "name": "The Battle for Wesnoth",
-      "description": "Egg for hosting a Battle for Wesnoth Server.",
-      "language": "en",
-      "size": "4.26 KB",
-      "type": "games-standalone",
-      "author": "mattman107@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-the-battle-for-wesnoth.json",
-      "exported_at": "2024-11-20T09:59:56+00:00"
-    },
-    {
-      "name": "The Battle for Wesnoth",
-      "description": "Egg for hosting a Battle for Wesnoth Server.",
-      "language": "en",
-      "size": "4.11 KB",
-      "type": "games-standalone",
-      "author": "mattman107@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
-      "exported_at": "2024-11-20T10:57:52+01:00"
-    },
-    {
       "name": "Urban Terror",
       "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
       "language": "en",
@@ -143,6 +123,26 @@
       "author": "Juli199696@web.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
       "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "The Battle for Wesnoth",
+      "description": "Egg for hosting a Battle for Wesnoth Server.",
+      "language": "en",
+      "size": "4.26 KB",
+      "type": "games-standalone",
+      "author": "mattman107@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-the-battle-for-wesnoth.json",
+      "exported_at": "2024-11-20T09:59:56+00:00"
+    },
+    {
+      "name": "The Battle for Wesnoth",
+      "description": "Egg for hosting a Battle for Wesnoth Server.",
+      "language": "en",
+      "size": "4.11 KB",
+      "type": "games-standalone",
+      "author": "mattman107@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
+      "exported_at": "2024-11-20T10:57:52+01:00"
     },
     {
       "name": "Teeworlds",
@@ -2051,26 +2051,6 @@
       "exported_at": "2024-11-20T10:10:31+00:00"
     },
     {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.46 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.53 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
       "name": "LanguageTool",
       "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
       "language": "en",
@@ -2088,6 +2068,26 @@
       "type": "software",
       "author": "thomasruhl@live.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.46 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.53 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
@@ -2803,6 +2803,26 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2881,26 +2901,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -4405,26 +4405,6 @@
       "exported_at": "2024-08-25T09:33:05+00:00"
     },
     {
-      "name": "Fof",
-      "description": "Fistful of Frags",
-      "language": "en",
-      "size": "5.48 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-pterodactyl-fof.json",
-      "exported_at": "2024-06-01T00:04:13+00:00"
-    },
-    {
-      "name": "Fof",
-      "description": "Fistful of Frags",
-      "language": "en",
-      "size": "5.68 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
-      "exported_at": "2024-06-01T00:04:13+00:00"
-    },
-    {
       "name": "Enshrouded",
       "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
       "language": "en",
@@ -4443,6 +4423,26 @@
       "author": "vapokrocks@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
       "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Fof",
+      "description": "Fistful of Frags",
+      "language": "en",
+      "size": "5.48 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-pterodactyl-fof.json",
+      "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Fof",
+      "description": "Fistful of Frags",
+      "language": "en",
+      "size": "5.68 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
+      "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
       "name": "Empyrion: Galactic Survival",
