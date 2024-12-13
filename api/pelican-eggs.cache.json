@@ -2803,26 +2803,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2901,6 +2881,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
@@ -4405,26 +4405,6 @@
       "exported_at": "2024-08-25T09:33:05+00:00"
     },
     {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.36 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.55 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
       "name": "Fof",
       "description": "Fistful of Frags",
       "language": "en",
@@ -4443,6 +4423,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
       "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.36 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.55 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
       "name": "Empyrion: Galactic Survival",
@@ -4545,26 +4545,6 @@
       "exported_at": "2024-06-01T00:04:08+00:00"
     },
     {
-      "name": "DayZ",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
-      "language": "en",
-      "size": "22.34 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-pterodactyl-day-z.json",
-      "exported_at": "2024-07-04T17:23:00-07:00"
-    },
-    {
-      "name": "DayZ",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
-      "language": "en",
-      "size": "23.36 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
-      "exported_at": "2024-06-13T12:52:57+07:00"
-    },
-    {
       "name": "CryoFall",
       "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
       "language": "en",
@@ -4583,6 +4563,26 @@
       "author": "contact@zennodes.dk",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
       "exported_at": "2024-06-01T00:04:06+00:00"
+    },
+    {
+      "name": "DayZ",
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "language": "en",
+      "size": "22.34 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-pterodactyl-day-z.json",
+      "exported_at": "2024-07-04T17:23:00-07:00"
+    },
+    {
+      "name": "DayZ",
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "language": "en",
+      "size": "23.36 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
+      "exported_at": "2024-06-13T12:52:57+07:00"
     },
     {
       "name": "Craftopia",
