@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -2031,26 +2031,6 @@
       "exported_at": "2024-06-02T14:40:52+00:00"
     },
     {
-      "name": "Lavalink",
-      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/lavalink-devs/Lavalink",
-      "language": "en",
-      "size": "4.53 KB",
-      "type": "software",
-      "author": "damuffin36@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-pterodactyl-lavalink.json",
-      "exported_at": "2024-10-26T08:33:32+02:00"
-    },
-    {
-      "name": "Lavalink",
-      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\nDescription taken from https://github.com/lavalink-devs/Lavalink",
-      "language": "en",
-      "size": "4.77 KB",
-      "type": "software",
-      "author": "damuffin36@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-lavalink.json",
-      "exported_at": "2024-11-20T10:10:31+00:00"
-    },
-    {
       "name": "LanguageTool",
       "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
       "language": "en",
@@ -2069,6 +2049,26 @@
       "author": "thomasruhl@live.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
       "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "Lavalink",
+      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/lavalink-devs/Lavalink",
+      "language": "en",
+      "size": "4.53 KB",
+      "type": "software",
+      "author": "damuffin36@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-pterodactyl-lavalink.json",
+      "exported_at": "2024-10-26T08:33:32+02:00"
+    },
+    {
+      "name": "Lavalink",
+      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\nDescription taken from https://github.com/lavalink-devs/Lavalink",
+      "language": "en",
+      "size": "4.77 KB",
+      "type": "software",
+      "author": "damuffin36@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-lavalink.json",
+      "exported_at": "2024-11-20T10:10:31+00:00"
     },
     {
       "name": "haste-server",
@@ -3825,26 +3825,6 @@
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
-      "name": "Open Fortress",
-      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
-      "language": "en",
-      "size": "9.86 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Open Fortress",
-      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
-      "language": "en",
-      "size": "10.19 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
       "name": "Onset",
       "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
       "language": "en",
@@ -3863,6 +3843,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
       "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Open Fortress",
+      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+      "language": "en",
+      "size": "9.86 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Open Fortress",
+      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+      "language": "en",
+      "size": "10.19 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
       "name": "Nova-Life: Amboise",
@@ -4545,26 +4545,6 @@
       "exported_at": "2024-06-01T00:04:08+00:00"
     },
     {
-      "name": "CryoFall",
-      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
-      "language": "en",
-      "size": "5.36 KB",
-      "type": "games-steamcmd",
-      "author": "contact@zennodes.dk",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-pterodactyl-cryo-fall.json",
-      "exported_at": "2024-06-01T00:04:06+00:00"
-    },
-    {
-      "name": "CryoFall",
-      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
-      "language": "en",
-      "size": "5.51 KB",
-      "type": "games-steamcmd",
-      "author": "contact@zennodes.dk",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
-      "exported_at": "2024-06-01T00:04:06+00:00"
-    },
-    {
       "name": "DayZ",
       "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
       "language": "en",
@@ -4583,6 +4563,26 @@
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
       "exported_at": "2024-06-13T12:52:57+07:00"
+    },
+    {
+      "name": "CryoFall",
+      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
+      "language": "en",
+      "size": "5.36 KB",
+      "type": "games-steamcmd",
+      "author": "contact@zennodes.dk",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-pterodactyl-cryo-fall.json",
+      "exported_at": "2024-06-01T00:04:06+00:00"
+    },
+    {
+      "name": "CryoFall",
+      "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
+      "language": "en",
+      "size": "5.51 KB",
+      "type": "games-steamcmd",
+      "author": "contact@zennodes.dk",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
+      "exported_at": "2024-06-01T00:04:06+00:00"
     },
     {
       "name": "Craftopia",
