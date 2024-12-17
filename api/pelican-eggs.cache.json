@@ -1045,26 +1045,6 @@
       "exported_at": "2024-06-01T00:17:38+00:00"
     },
     {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.08 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.37 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
       "name": "Factorio",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
@@ -1103,6 +1083,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio-a-r-m64.json",
       "exported_at": "2024-09-08T19:58:10+02:00"
+    },
+    {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.08 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.37 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
     },
     {
       "name": "Zandronum",
@@ -1407,26 +1407,6 @@
       "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
-      "name": "pixel-bot",
-      "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "3.92 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/pixelbot/egg-pterodactyl-pixel-bot.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
-      "name": "pixel-bot",
-      "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps://github.com/Ispira/pixel-bot",
-      "language": "en",
-      "size": "4.14 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/pixelbot/egg-pixel-bot.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
-    },
-    {
       "name": "Red",
       "description": "A multifunction Discord bot \r\n\r\nhttps://github.com/Cog-Creators/Red-DiscordBot",
       "language": "en",
@@ -1445,6 +1425,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/redbot/egg-pterodactyl-red.json",
       "exported_at": "2024-06-01T19:44:05+00:00"
+    },
+    {
+      "name": "pixel-bot",
+      "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "3.92 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/pixelbot/egg-pterodactyl-pixel-bot.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "pixel-bot",
+      "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps://github.com/Ispira/pixel-bot",
+      "language": "en",
+      "size": "4.14 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/pixelbot/egg-pixel-bot.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
       "name": "parkertron",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -2253,26 +2253,6 @@
       "exported_at": "2024-06-01T19:40:08+00:00"
     },
     {
-      "name": "SpongeVanilla",
-      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
-      "language": "en",
-      "size": "4.95 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-sponge-vanilla.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
-      "name": "SpongeVanilla",
-      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
-      "language": "en",
-      "size": "4.78 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
       "name": "SpongeForge",
       "description": "A community-driven open source Minecraft: Java Edition modding platform.",
       "language": "en",
@@ -2290,6 +2270,26 @@
       "type": "minecraft",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeVanilla",
+      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
+      "language": "en",
+      "size": "4.95 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-sponge-vanilla.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeVanilla",
+      "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
+      "language": "en",
+      "size": "4.78 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
       "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
@@ -2553,6 +2553,26 @@
       "exported_at": "2024-06-01T19:39:44+00:00"
     },
     {
+      "name": "Folia",
+      "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
+      "language": "en",
+      "size": "5.39 KB",
+      "type": "minecraft",
+      "author": "Hosting@NeverStopGaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-pterodactyl-folia.json",
+      "exported_at": "2024-06-01T19:39:42+00:00"
+    },
+    {
+      "name": "Folia",
+      "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
+      "language": "en",
+      "size": "5.6 KB",
+      "type": "minecraft",
+      "author": "Hosting@NeverStopGaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-folia.json",
+      "exported_at": "2024-06-01T19:39:42+00:00"
+    },
+    {
       "name": "Feather",
       "description": "An experimental Minecraft server implementation written in Rust.",
       "language": "en",
@@ -2581,26 +2601,6 @@
       "author": "accounts@bofanodes.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/fabric/egg-fabric.json",
       "exported_at": "2024-08-02T12:14:52+00:00"
-    },
-    {
-      "name": "Folia",
-      "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
-      "language": "en",
-      "size": "5.39 KB",
-      "type": "minecraft",
-      "author": "Hosting@NeverStopGaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-pterodactyl-folia.json",
-      "exported_at": "2024-06-01T19:39:42+00:00"
-    },
-    {
-      "name": "Folia",
-      "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
-      "language": "en",
-      "size": "5.6 KB",
-      "type": "minecraft",
-      "author": "Hosting@NeverStopGaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-folia.json",
-      "exported_at": "2024-06-01T19:39:42+00:00"
     },
     {
       "name": "CurseForge Generic",
@@ -2803,6 +2803,26 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2881,26 +2901,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
