@@ -1287,26 +1287,6 @@
   ],
   "chatbots": [
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1345,6 +1325,26 @@
       "author": "mail@wuffy.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
       "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Big Brother Bot",
@@ -1789,26 +1789,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
       "name": "Deno Generic",
       "description": "A generic egg to run deno code.",
       "language": "en",
@@ -1827,6 +1807,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
     },
     {
       "name": "Generic C#",
@@ -2232,26 +2232,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2663,6 +2643,26 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2983,26 +2983,6 @@
       "exported_at": "2024-09-12T21:48:20+02:00"
     },
     {
-      "name": "Tekkit Legends",
-      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
-      "language": "en",
-      "size": "2.5 KB",
-      "type": "minecraft",
-      "author": "aevum@decess.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-tekkit-legends.json",
-      "exported_at": "2024-06-01T19:40:18+00:00"
-    },
-    {
-      "name": "Tekkit Legends",
-      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
-      "language": "en",
-      "size": "2.4 KB",
-      "type": "minecraft",
-      "author": "aevum@decess.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json",
-      "exported_at": "2024-06-01T19:40:18+00:00"
-    },
-    {
       "name": "Tekkit Classic",
       "description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft. \r\nIt brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!",
       "language": "en",
@@ -3021,6 +3001,26 @@
       "author": "geoffrey@remedygaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-classic/egg-pterodactyl-tekkit-classic.json",
       "exported_at": "2024-06-01T19:40:16+00:00"
+    },
+    {
+      "name": "Tekkit Legends",
+      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
+      "language": "en",
+      "size": "2.5 KB",
+      "type": "minecraft",
+      "author": "aevum@decess.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-tekkit-legends.json",
+      "exported_at": "2024-06-01T19:40:18+00:00"
+    },
+    {
+      "name": "Tekkit Legends",
+      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
+      "language": "en",
+      "size": "2.4 KB",
+      "type": "minecraft",
+      "author": "aevum@decess.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json",
+      "exported_at": "2024-06-01T19:40:18+00:00"
     },
     {
       "name": "Hexxit",
@@ -4205,26 +4205,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Insurgency: Sandstorm",
-      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
-      "language": "en",
-      "size": "8.37 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
-      "exported_at": "2023-11-13T18:26:59+01:00"
-    },
-    {
-      "name": "Insurgency: Sandstorm",
-      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
-      "language": "en",
-      "size": "8.45 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
-      "exported_at": "2023-11-13T18:26:59+01:00"
-    },
-    {
       "name": "Iosoccer server",
       "description": "SERVER IOSOCCER",
       "language": "en",
@@ -4243,6 +4223,26 @@
       "author": "contact-hyperbeats@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
       "exported_at": "2024-06-01T00:04:46+00:00"
+    },
+    {
+      "name": "Insurgency: Sandstorm",
+      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
+      "language": "en",
+      "size": "8.37 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
+      "exported_at": "2023-11-13T18:26:59+01:00"
+    },
+    {
+      "name": "Insurgency: Sandstorm",
+      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
+      "language": "en",
+      "size": "8.45 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
+      "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
       "name": "Icarus-Dedicated",
@@ -5457,16 +5457,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
       "name": "Redis-7",
       "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
       "language": "en",
@@ -5475,6 +5465,16 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
       "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
     },
     {
       "name": "Redis",
