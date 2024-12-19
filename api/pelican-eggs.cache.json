@@ -1567,26 +1567,6 @@
       "exported_at": "2024-06-01T19:44:12+00:00"
     },
     {
-      "name": "CorpBot",
-      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
-      "language": "en",
-      "size": "2.85 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-pterodactyl-corp-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "CorpBot",
-      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
-      "language": "en",
-      "size": "3 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-corp-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Bastion",
       "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
       "language": "en",
@@ -1605,6 +1585,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
       "exported_at": "2024-06-01T19:44:09+00:00"
+    },
+    {
+      "name": "CorpBot",
+      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
+      "language": "en",
+      "size": "2.85 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-pterodactyl-corp-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "CorpBot",
+      "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
+      "language": "en",
+      "size": "3 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-corp-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
       "name": "ATLBot",
@@ -4105,26 +4105,6 @@
       "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
-      "name": "Midnight Ghost Hunt",
-      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
-      "language": "en",
-      "size": "8.11 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
-      "exported_at": "2024-07-28T19:43:17+02:00"
-    },
-    {
-      "name": "Midnight Ghost Hunt",
-      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
-      "language": "en",
-      "size": "8.38 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
-      "exported_at": "2024-07-28T19:43:17+02:00"
-    },
-    {
       "name": "Longvinter",
       "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
       "language": "en",
@@ -4143,6 +4123,26 @@
       "author": "tueye@tuworld.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
       "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Midnight Ghost Hunt",
+      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
+      "language": "en",
+      "size": "8.11 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
+      "exported_at": "2024-07-28T19:43:17+02:00"
+    },
+    {
+      "name": "Midnight Ghost Hunt",
+      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
+      "language": "en",
+      "size": "8.38 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
+      "exported_at": "2024-07-28T19:43:17+02:00"
     },
     {
       "name": "Left 4 Dead 2",
