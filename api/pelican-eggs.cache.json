@@ -1287,26 +1287,6 @@
   ],
   "chatbots": [
     {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.58 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
       "name": "PhantomBot",
       "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
@@ -1325,6 +1305,26 @@
       "author": "mail@wuffy.eu",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
       "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.58 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -1809,26 +1809,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
       "name": "Generic C#",
       "description": "A generic C# (dotnet) egg that runs your C# project.",
       "language": "en",
@@ -1847,6 +1827,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-generic-c.json",
       "exported_at": "2024-06-02T14:43:56+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
     },
     {
       "name": "Bun",
@@ -2803,26 +2803,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterfall",
-      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.81 KB",
-      "type": "minecraft",
-      "author": "hostmaster@waterfallgaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-waterfall.json",
-      "exported_at": "2024-06-01T19:40:11+00:00"
-    },
-    {
-      "name": "Waterfall",
-      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.58 KB",
-      "type": "minecraft",
-      "author": "hostmaster@waterfallgaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
-      "exported_at": "2024-06-01T19:40:11+00:00"
-    },
-    {
       "name": "VIAaaS",
       "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
       "language": "en",
@@ -2841,6 +2821,26 @@
       "author": "regulad@outlook.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
       "exported_at": "2024-06-01T19:40:09+00:00"
+    },
+    {
+      "name": "Waterfall",
+      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.81 KB",
+      "type": "minecraft",
+      "author": "hostmaster@waterfallgaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-waterfall.json",
+      "exported_at": "2024-06-01T19:40:11+00:00"
+    },
+    {
+      "name": "Waterfall",
+      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.58 KB",
+      "type": "minecraft",
+      "author": "hostmaster@waterfallgaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
+      "exported_at": "2024-06-01T19:40:11+00:00"
     },
     {
       "name": "Velocity",
@@ -2983,26 +2983,6 @@
       "exported_at": "2024-09-12T21:48:20+02:00"
     },
     {
-      "name": "Tekkit Classic",
-      "description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft. \r\nIt brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!",
-      "language": "en",
-      "size": "2.85 KB",
-      "type": "minecraft",
-      "author": "geoffrey@remedygaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-classic/egg-tekkit-classic.json",
-      "exported_at": "2024-06-01T19:40:16+00:00"
-    },
-    {
-      "name": "Tekkit Classic",
-      "description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft. \r\nIt brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!",
-      "language": "en",
-      "size": "2.74 KB",
-      "type": "minecraft",
-      "author": "geoffrey@remedygaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-classic/egg-pterodactyl-tekkit-classic.json",
-      "exported_at": "2024-06-01T19:40:16+00:00"
-    },
-    {
       "name": "Tekkit Legends",
       "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
       "language": "en",
@@ -3021,6 +3001,26 @@
       "author": "aevum@decess.us",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json",
       "exported_at": "2024-06-01T19:40:18+00:00"
+    },
+    {
+      "name": "Tekkit Classic",
+      "description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft. \r\nIt brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!",
+      "language": "en",
+      "size": "2.85 KB",
+      "type": "minecraft",
+      "author": "geoffrey@remedygaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-classic/egg-tekkit-classic.json",
+      "exported_at": "2024-06-01T19:40:16+00:00"
+    },
+    {
+      "name": "Tekkit Classic",
+      "description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft. \r\nIt brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!",
+      "language": "en",
+      "size": "2.74 KB",
+      "type": "minecraft",
+      "author": "geoffrey@remedygaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-classic/egg-pterodactyl-tekkit-classic.json",
+      "exported_at": "2024-06-01T19:40:16+00:00"
     },
     {
       "name": "Hexxit",
