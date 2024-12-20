@@ -1287,26 +1287,6 @@
   ],
   "chatbots": [
     {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.99 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1325,6 +1305,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
       "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.99 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -1809,26 +1809,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "Generic C#",
-      "description": "A generic C# (dotnet) egg that runs your C# project.",
-      "language": "en",
-      "size": "6.14 KB",
-      "type": "generic",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-pterodactyl-generic-c.json",
-      "exported_at": "2024-06-02T14:43:56+00:00"
-    },
-    {
-      "name": "Generic C#",
-      "description": "A generic C# (dotnet) egg that runs your C# project.",
-      "language": "en",
-      "size": "6.42 KB",
-      "type": "generic",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-generic-c.json",
-      "exported_at": "2024-06-02T14:43:56+00:00"
-    },
-    {
       "name": "dart generic",
       "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
       "language": "en",
@@ -1847,6 +1827,26 @@
       "author": "alden@knoban.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
       "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "Generic C#",
+      "description": "A generic C# (dotnet) egg that runs your C# project.",
+      "language": "en",
+      "size": "6.14 KB",
+      "type": "generic",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-pterodactyl-generic-c.json",
+      "exported_at": "2024-06-02T14:43:56+00:00"
+    },
+    {
+      "name": "Generic C#",
+      "description": "A generic C# (dotnet) egg that runs your C# project.",
+      "language": "en",
+      "size": "6.42 KB",
+      "type": "generic",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-generic-c.json",
+      "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
       "name": "Bun",
@@ -2803,26 +2803,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "VIAaaS",
-      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
-      "language": "en",
-      "size": "2.71 KB",
-      "type": "minecraft",
-      "author": "regulad@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-v-i-aaa-s.json",
-      "exported_at": "2024-06-01T19:40:09+00:00"
-    },
-    {
-      "name": "VIAaaS",
-      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
-      "language": "en",
-      "size": "2.59 KB",
-      "type": "minecraft",
-      "author": "regulad@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
-      "exported_at": "2024-06-01T19:40:09+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2841,6 +2821,26 @@
       "author": "hostmaster@waterfallgaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
       "exported_at": "2024-06-01T19:40:11+00:00"
+    },
+    {
+      "name": "VIAaaS",
+      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "language": "en",
+      "size": "2.71 KB",
+      "type": "minecraft",
+      "author": "regulad@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-v-i-aaa-s.json",
+      "exported_at": "2024-06-01T19:40:09+00:00"
+    },
+    {
+      "name": "VIAaaS",
+      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "language": "en",
+      "size": "2.59 KB",
+      "type": "minecraft",
+      "author": "regulad@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
+      "exported_at": "2024-06-01T19:40:09+00:00"
     },
     {
       "name": "Velocity",
@@ -3925,26 +3925,6 @@
       "exported_at": "2024-06-01T00:04:27+00:00"
     },
     {
-      "name": "nmrih",
-      "description": "No More Room In Hell",
-      "language": "en",
-      "size": "5.49 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-pterodactyl-nmrih.json",
-      "exported_at": "2024-06-01T00:04:26+00:00"
-    },
-    {
-      "name": "nmrih",
-      "description": "No More Room In Hell",
-      "language": "en",
-      "size": "5.69 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
-      "exported_at": "2024-06-01T00:04:26+00:00"
-    },
-    {
       "name": "Night Of The Dead",
       "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
       "language": "en",
@@ -3963,6 +3943,26 @@
       "author": "marshals@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
       "exported_at": "2024-06-15T18:59:35+02:00"
+    },
+    {
+      "name": "nmrih",
+      "description": "No More Room In Hell",
+      "language": "en",
+      "size": "5.49 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-pterodactyl-nmrih.json",
+      "exported_at": "2024-06-01T00:04:26+00:00"
+    },
+    {
+      "name": "nmrih",
+      "description": "No More Room In Hell",
+      "language": "en",
+      "size": "5.69 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
+      "exported_at": "2024-06-01T00:04:26+00:00"
     },
     {
       "name": "NeosVR",
@@ -4025,26 +4025,6 @@
       "exported_at": "2024-06-01T00:04:23+00:00"
     },
     {
-      "name": "Mount & Blade II: Bannerlord",
-      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
-      "language": "en",
-      "size": "6.46 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
-      "exported_at": "2024-06-01T00:04:24+00:00"
-    },
-    {
-      "name": "Mount & Blade II: Bannerlord",
-      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
-      "language": "en",
-      "size": "6.77 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
-      "exported_at": "2024-06-01T00:04:24+00:00"
-    },
-    {
       "name": "Mordhau",
       "description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization.",
       "language": "en",
@@ -4083,6 +4063,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mordhau/egg-mordhau-wine.json",
       "exported_at": "2024-06-01T00:04:22+00:00"
+    },
+    {
+      "name": "Mount & Blade II: Bannerlord",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "language": "en",
+      "size": "6.46 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
+      "exported_at": "2024-06-01T00:04:24+00:00"
+    },
+    {
+      "name": "Mount & Blade II: Bannerlord",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "language": "en",
+      "size": "6.77 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
+      "exported_at": "2024-06-01T00:04:24+00:00"
     },
     {
       "name": "Modiverse",
@@ -4285,26 +4285,6 @@
       "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
-      "name": "HumanitZ",
-      "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
-      "language": "en",
-      "size": "27.79 KB",
-      "type": "games-steamcmd",
-      "author": "engels74@marx.ps",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-pterodactyl-humanit-z.json",
-      "exported_at": "2024-06-01T00:04:20+00:00"
-    },
-    {
-      "name": "HumanitZ",
-      "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
-      "language": "en",
-      "size": "29.23 KB",
-      "type": "games-steamcmd",
-      "author": "engels74@marx.ps",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-humanit-z.json",
-      "exported_at": "2024-06-01T00:04:20+00:00"
-    },
-    {
       "name": "Holdfast NaW",
       "description": "Holdfast: Nations at War",
       "language": "en",
@@ -4323,6 +4303,26 @@
       "author": "ankit@bmghosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-holdfast-na-w.json",
       "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "HumanitZ",
+      "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
+      "language": "en",
+      "size": "27.79 KB",
+      "type": "games-steamcmd",
+      "author": "engels74@marx.ps",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-pterodactyl-humanit-z.json",
+      "exported_at": "2024-06-01T00:04:20+00:00"
+    },
+    {
+      "name": "HumanitZ",
+      "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
+      "language": "en",
+      "size": "29.23 KB",
+      "type": "games-steamcmd",
+      "author": "engels74@marx.ps",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-humanit-z.json",
+      "exported_at": "2024-06-01T00:04:20+00:00"
     },
     {
       "name": "Ground Branch",
