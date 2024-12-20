@@ -2493,26 +2493,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Krypton",
-      "description": "A fast, lightweight Minecraft server written in Kotlin",
-      "language": "en",
-      "size": "2.9 KB",
-      "type": "minecraft",
-      "author": "callum.seabrook@prevarinite.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/krypton/egg-pterodactyl-krypton.json",
-      "exported_at": "2024-06-01T19:39:47+00:00"
-    },
-    {
-      "name": "Krypton",
-      "description": "A fast, lightweight Minecraft server written in Kotlin",
-      "language": "en",
-      "size": "3.04 KB",
-      "type": "minecraft",
-      "author": "callum.seabrook@prevarinite.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/krypton/egg-krypton.json",
-      "exported_at": "2024-06-01T19:39:47+00:00"
-    },
-    {
       "name": "Glowstone",
       "description": "Glowstone is an open-source server implementation for Minecraft: Java Edition 1.12.2 and up.",
       "language": "en",
@@ -2531,6 +2511,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/glowstone/egg-glowstone.json",
       "exported_at": "2024-06-01T19:39:45+00:00"
+    },
+    {
+      "name": "Krypton",
+      "description": "A fast, lightweight Minecraft server written in Kotlin",
+      "language": "en",
+      "size": "2.9 KB",
+      "type": "minecraft",
+      "author": "callum.seabrook@prevarinite.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/krypton/egg-pterodactyl-krypton.json",
+      "exported_at": "2024-06-01T19:39:47+00:00"
+    },
+    {
+      "name": "Krypton",
+      "description": "A fast, lightweight Minecraft server written in Kotlin",
+      "language": "en",
+      "size": "3.04 KB",
+      "type": "minecraft",
+      "author": "callum.seabrook@prevarinite.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/krypton/egg-krypton.json",
+      "exported_at": "2024-06-01T19:39:47+00:00"
     },
     {
       "name": "FTB-modpacks.ch Server",
@@ -2603,26 +2603,6 @@
       "exported_at": "2024-08-02T12:14:52+00:00"
     },
     {
-      "name": "CurseForge Generic",
-      "description": "A generic egg for a CurseForge modpack.",
-      "language": "en",
-      "size": "20.19 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
-      "exported_at": "2024-11-02T09:40:55+01:00"
-    },
-    {
-      "name": "CurseForge Generic",
-      "description": "A generic egg for a CurseForge modpack.",
-      "language": "en",
-      "size": "20.35 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
-      "exported_at": "2024-11-02T08:41:36+00:00"
-    },
-    {
       "name": "Cuberite",
       "description": "A lightweight, fast and extensible game server for Minecraft",
       "language": "en",
@@ -2641,6 +2621,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "CurseForge Generic",
+      "description": "A generic egg for a CurseForge modpack.",
+      "language": "en",
+      "size": "20.19 KB",
+      "type": "minecraft",
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
+      "exported_at": "2024-11-02T09:40:55+01:00"
+    },
+    {
+      "name": "CurseForge Generic",
+      "description": "A generic egg for a CurseForge modpack.",
+      "language": "en",
+      "size": "20.35 KB",
+      "type": "minecraft",
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
+      "exported_at": "2024-11-02T08:41:36+00:00"
     },
     {
       "name": "Purpur-Geyser-Floodgate",
@@ -3925,26 +3925,6 @@
       "exported_at": "2024-06-01T00:04:27+00:00"
     },
     {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "9.54 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "10.06 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
       "name": "nmrih",
       "description": "No More Room In Hell",
       "language": "en",
@@ -3963,6 +3943,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
       "exported_at": "2024-06-01T00:04:26+00:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "9.54 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "10.06 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
     },
     {
       "name": "NeosVR",
@@ -4025,6 +4025,26 @@
       "exported_at": "2024-06-01T00:04:23+00:00"
     },
     {
+      "name": "Mount & Blade II: Bannerlord",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "language": "en",
+      "size": "6.46 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
+      "exported_at": "2024-06-01T00:04:24+00:00"
+    },
+    {
+      "name": "Mount & Blade II: Bannerlord",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "language": "en",
+      "size": "6.77 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
+      "exported_at": "2024-06-01T00:04:24+00:00"
+    },
+    {
       "name": "Mordhau",
       "description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization.",
       "language": "en",
@@ -4063,26 +4083,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mordhau/egg-mordhau-wine.json",
       "exported_at": "2024-06-01T00:04:22+00:00"
-    },
-    {
-      "name": "Mount & Blade II: Bannerlord",
-      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
-      "language": "en",
-      "size": "6.46 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
-      "exported_at": "2024-06-01T00:04:24+00:00"
-    },
-    {
-      "name": "Mount & Blade II: Bannerlord",
-      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
-      "language": "en",
-      "size": "6.77 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
-      "exported_at": "2024-06-01T00:04:24+00:00"
     },
     {
       "name": "Modiverse",
@@ -4285,26 +4285,6 @@
       "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
-      "name": "Holdfast NaW",
-      "description": "Holdfast: Nations at War",
-      "language": "en",
-      "size": "9.16 KB",
-      "type": "games-steamcmd",
-      "author": "ankit@bmghosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
-      "name": "Holdfast NaW",
-      "description": "Holdfast: Nations at War",
-      "language": "en",
-      "size": "9.58 KB",
-      "type": "games-steamcmd",
-      "author": "ankit@bmghosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-holdfast-na-w.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
       "name": "HumanitZ",
       "description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity.",
       "language": "en",
@@ -4323,6 +4303,26 @@
       "author": "engels74@marx.ps",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/humanitz/egg-humanit-z.json",
       "exported_at": "2024-06-01T00:04:20+00:00"
+    },
+    {
+      "name": "Holdfast NaW",
+      "description": "Holdfast: Nations at War",
+      "language": "en",
+      "size": "9.16 KB",
+      "type": "games-steamcmd",
+      "author": "ankit@bmghosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Holdfast NaW",
+      "description": "Holdfast: Nations at War",
+      "language": "en",
+      "size": "9.58 KB",
+      "type": "games-steamcmd",
+      "author": "ankit@bmghosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-holdfast-na-w.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "Ground Branch",
@@ -4545,26 +4545,6 @@
       "exported_at": "2024-06-01T00:04:08+00:00"
     },
     {
-      "name": "DayZ",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
-      "language": "en",
-      "size": "22.34 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-pterodactyl-day-z.json",
-      "exported_at": "2024-07-04T17:23:00-07:00"
-    },
-    {
-      "name": "DayZ",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
-      "language": "en",
-      "size": "23.36 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
-      "exported_at": "2024-06-13T12:52:57+07:00"
-    },
-    {
       "name": "CryoFall",
       "description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml\r\n\r\nCryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.\r\n\r\nJoin the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.\r\n\r\nCryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!\r\n\r\nBuild your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.\r\n\r\nBuild factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents",
       "language": "en",
@@ -4583,6 +4563,26 @@
       "author": "contact@zennodes.dk",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cryofall/egg-cryo-fall.json",
       "exported_at": "2024-06-01T00:04:06+00:00"
+    },
+    {
+      "name": "DayZ",
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "language": "en",
+      "size": "22.34 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-pterodactyl-day-z.json",
+      "exported_at": "2024-07-04T17:23:00-07:00"
+    },
+    {
+      "name": "DayZ",
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "language": "en",
+      "size": "23.36 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
+      "exported_at": "2024-06-13T12:52:57+07:00"
     },
     {
       "name": "Craftopia",
