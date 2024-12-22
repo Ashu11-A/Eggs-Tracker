@@ -1327,26 +1327,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1365,6 +1345,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1649,26 +1649,6 @@
   ],
   "generic": [
     {
-      "name": "rust generic",
-      "description": "Creates a container that runs rust with cargo.",
-      "language": "en",
-      "size": "4.94 KB",
-      "type": "generic",
-      "author": "ethan@ethancoward.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-rust-generic.json",
-      "exported_at": "2024-06-02T14:43:53+00:00"
-    },
-    {
-      "name": "rust generic",
-      "description": "Creates a container that runs rust with cargo.",
-      "language": "en",
-      "size": "4.73 KB",
-      "type": "generic",
-      "author": "ethan@ethancoward.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-pterodactyl-rust-generic.json",
-      "exported_at": "2024-06-02T14:43:53+00:00"
-    },
-    {
       "name": "python generic",
       "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
       "language": "en",
@@ -1687,6 +1667,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
       "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "rust generic",
+      "description": "Creates a container that runs rust with cargo.",
+      "language": "en",
+      "size": "4.94 KB",
+      "type": "generic",
+      "author": "ethan@ethancoward.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-rust-generic.json",
+      "exported_at": "2024-06-02T14:43:53+00:00"
+    },
+    {
+      "name": "rust generic",
+      "description": "Creates a container that runs rust with cargo.",
+      "language": "en",
+      "size": "4.73 KB",
+      "type": "generic",
+      "author": "ethan@ethancoward.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-pterodactyl-rust-generic.json",
+      "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
       "name": "nodemon",
@@ -4705,26 +4705,6 @@
       "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
-      "name": "Barotrauma",
-      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
-      "language": "en",
-      "size": "4.01 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-pterodactyl-barotrauma.json",
-      "exported_at": "2024-06-01T00:03:42+00:00"
-    },
-    {
-      "name": "Barotrauma",
-      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
-      "language": "en",
-      "size": "4.15 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-barotrauma.json",
-      "exported_at": "2024-06-01T00:03:42+00:00"
-    },
-    {
       "name": "BATTALION: Legacy",
       "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
       "language": "en",
@@ -4743,6 +4723,26 @@
       "author": "diedyesterdaywashere@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json",
       "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "Barotrauma",
+      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
+      "language": "en",
+      "size": "4.01 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-pterodactyl-barotrauma.json",
+      "exported_at": "2024-06-01T00:03:42+00:00"
+    },
+    {
+      "name": "Barotrauma",
+      "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
+      "language": "en",
+      "size": "4.15 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/barotrauma/egg-barotrauma.json",
+      "exported_at": "2024-06-01T00:03:42+00:00"
     },
     {
       "name": "Avorion",
