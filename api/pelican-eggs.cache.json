@@ -1829,26 +1829,6 @@
       "exported_at": "2024-06-02T14:43:54+00:00"
     },
     {
-      "name": "Generic C#",
-      "description": "A generic C# (dotnet) egg that runs your C# project.",
-      "language": "en",
-      "size": "6.14 KB",
-      "type": "generic",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-pterodactyl-generic-c.json",
-      "exported_at": "2024-06-02T14:43:56+00:00"
-    },
-    {
-      "name": "Generic C#",
-      "description": "A generic C# (dotnet) egg that runs your C# project.",
-      "language": "en",
-      "size": "6.42 KB",
-      "type": "generic",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-generic-c.json",
-      "exported_at": "2024-06-02T14:43:56+00:00"
-    },
-    {
       "name": "Bun",
       "description": "Bun is an incredibly fast JavaScript runtime, transpiler bundler, and npm package manager all-in-one.",
       "language": "en",
@@ -1867,6 +1847,26 @@
       "author": "mratox@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/bun/egg-bun.json",
       "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "Generic C#",
+      "description": "A generic C# (dotnet) egg that runs your C# project.",
+      "language": "en",
+      "size": "6.14 KB",
+      "type": "generic",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-pterodactyl-generic-c.json",
+      "exported_at": "2024-06-02T14:43:56+00:00"
+    },
+    {
+      "name": "Generic C#",
+      "description": "A generic C# (dotnet) egg that runs your C# project.",
+      "language": "en",
+      "size": "6.42 KB",
+      "type": "generic",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-generic-c.json",
+      "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
       "name": "luvit generic",
