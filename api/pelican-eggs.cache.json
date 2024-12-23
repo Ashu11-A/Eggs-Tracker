@@ -2091,26 +2091,6 @@
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "3.9 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "4.06 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
       "name": "Grafana",
       "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "language": "en",
@@ -2129,6 +2109,26 @@
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
       "exported_at": "2024-06-02T14:41:00+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "3.9 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "4.06 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
     },
     {
       "name": "Forgejo",
