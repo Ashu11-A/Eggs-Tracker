@@ -303,41 +303,21 @@
     "name": "Astro Colony",
     "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
     "language": "en",
-    "size": "11.87 KB",
+    "size": "10.96 KB",
     "type": "games-steamcmd",
     "author": "limmek@swedon.se",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony.json",
-    "exported_at": "2024-06-01T00:03:53+00:00"
+    "exported_at": "2024-12-25T11:05:05+00:00"
   },
   {
     "name": "Astro Colony",
     "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
     "language": "en",
-    "size": "12.38 KB",
+    "size": "11.69 KB",
     "type": "games-steamcmd",
     "author": "limmek@swedon.se",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
-    "exported_at": "2024-06-01T00:03:53+00:00"
-  },
-  {
-    "name": "Astro Colony [wine]",
-    "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-    "language": "en",
-    "size": "12.2 KB",
-    "type": "games-steamcmd",
-    "author": "limmek@swedon.se",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony-wine.json",
-    "exported_at": "2024-06-01T00:03:54+00:00"
-  },
-  {
-    "name": "Astro Colony [wine]",
-    "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-    "language": "en",
-    "size": "12.74 KB",
-    "type": "games-steamcmd",
-    "author": "limmek@swedon.se",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony-wine.json",
-    "exported_at": "2024-06-01T00:03:54+00:00"
+    "exported_at": "2024-12-25T11:05:05+00:00"
   },
   {
     "name": "Astroneer Dedicated Server",

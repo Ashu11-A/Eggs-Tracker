@@ -625,26 +625,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.26 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.4 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
@@ -663,6 +643,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.26 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.4 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -4405,26 +4405,6 @@
       "exported_at": "2024-08-25T09:33:05+00:00"
     },
     {
-      "name": "Fof",
-      "description": "Fistful of Frags",
-      "language": "en",
-      "size": "5.48 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-pterodactyl-fof.json",
-      "exported_at": "2024-06-01T00:04:13+00:00"
-    },
-    {
-      "name": "Fof",
-      "description": "Fistful of Frags",
-      "language": "en",
-      "size": "5.68 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
-      "exported_at": "2024-06-01T00:04:13+00:00"
-    },
-    {
       "name": "Enshrouded",
       "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
       "language": "en",
@@ -4443,6 +4423,26 @@
       "author": "vapokrocks@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
       "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Fof",
+      "description": "Fistful of Frags",
+      "language": "en",
+      "size": "5.48 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-pterodactyl-fof.json",
+      "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Fof",
+      "description": "Fistful of Frags",
+      "language": "en",
+      "size": "5.68 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
+      "exported_at": "2024-06-01T00:04:13+00:00"
     },
     {
       "name": "Empyrion: Galactic Survival",
@@ -4645,26 +4645,6 @@
       "exported_at": "2024-06-01T00:04:00+00:00"
     },
     {
-      "name": "Colony Survival",
-      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
-      "language": "en",
-      "size": "4.92 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-pterodactyl-colony-survival.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
-      "name": "Colony Survival",
-      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
-      "language": "en",
-      "size": "5.17 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-colony-survival.json",
-      "exported_at": "2024-06-01T00:03:44+00:00"
-    },
-    {
       "name": "Citadel: Forged with Fire",
       "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
       "language": "en",
@@ -4683,6 +4663,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
       "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Colony Survival",
+      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
+      "language": "en",
+      "size": "4.92 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-pterodactyl-colony-survival.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "Colony Survival",
+      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
+      "language": "en",
+      "size": "5.17 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-colony-survival.json",
+      "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
       "name": "Black Mesa",
@@ -4788,41 +4788,21 @@
       "name": "Astro Colony",
       "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
       "language": "en",
-      "size": "11.87 KB",
+      "size": "10.96 KB",
       "type": "games-steamcmd",
       "author": "limmek@swedon.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony.json",
-      "exported_at": "2024-06-01T00:03:53+00:00"
-    },
-    {
-      "name": "Astro Colony [wine]",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "12.2 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony-wine.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
+      "exported_at": "2024-12-25T11:05:05+00:00"
     },
     {
       "name": "Astro Colony",
       "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
       "language": "en",
-      "size": "12.38 KB",
+      "size": "11.69 KB",
       "type": "games-steamcmd",
       "author": "limmek@swedon.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
-      "exported_at": "2024-06-01T00:03:53+00:00"
-    },
-    {
-      "name": "Astro Colony [wine]",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "12.74 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony-wine.json",
-      "exported_at": "2024-06-01T00:03:54+00:00"
+      "exported_at": "2024-12-25T11:05:05+00:00"
     },
     {
       "name": "Assetto Corsa",
