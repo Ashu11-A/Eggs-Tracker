@@ -85,26 +85,6 @@
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
-      "name": "Urban Terror",
-      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
-      "language": "en",
-      "size": "9.22 KB",
-      "type": "games-standalone",
-      "author": "Juli199696@web.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-urban-terror.json",
-      "exported_at": "2024-06-01T00:17:16+00:00"
-    },
-    {
-      "name": "Urban Terror",
-      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
-      "language": "en",
-      "size": "8.82 KB",
-      "type": "games-standalone",
-      "author": "Juli199696@web.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
-      "exported_at": "2024-06-01T00:17:16+00:00"
-    },
-    {
       "name": "Veloren",
       "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
       "language": "en",
@@ -123,6 +103,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
       "exported_at": "2024-06-01T00:17:20+00:00"
+    },
+    {
+      "name": "Urban Terror",
+      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
+      "language": "en",
+      "size": "9.22 KB",
+      "type": "games-standalone",
+      "author": "Juli199696@web.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-urban-terror.json",
+      "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "Urban Terror",
+      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
+      "language": "en",
+      "size": "8.82 KB",
+      "type": "games-standalone",
+      "author": "Juli199696@web.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
+      "exported_at": "2024-06-01T00:17:16+00:00"
     },
     {
       "name": "The Battle for Wesnoth",
@@ -205,26 +205,6 @@
       "exported_at": "2024-09-10T18:24:40+02:00"
     },
     {
-      "name": "OpenTTD",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.36 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
-      "exported_at": "2024-10-21T21:46:13+02:00"
-    },
-    {
-      "name": "OpenTTD",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
-      "size": "4.75 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
-      "exported_at": "2024-10-21T19:12:22+00:00"
-    },
-    {
       "name": "Path Of Titans",
       "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
       "language": "en",
@@ -243,6 +223,26 @@
       "author": "danielivanvladimir.revin@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-path-of-titans.json",
       "exported_at": "2024-06-01T00:17:02+00:00"
+    },
+    {
+      "name": "OpenTTD",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.36 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
+      "exported_at": "2024-10-21T21:46:13+02:00"
+    },
+    {
+      "name": "OpenTTD",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
+      "language": "en",
+      "size": "4.75 KB",
+      "type": "games-standalone",
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-open-t-t-d-server.json",
+      "exported_at": "2024-10-21T19:12:22+00:00"
     },
     {
       "name": "OpenRCT2",
@@ -2051,26 +2051,6 @@
       "exported_at": "2024-11-20T10:10:31+00:00"
     },
     {
-      "name": "LanguageTool",
-      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
-      "language": "en",
-      "size": "3.32 KB",
-      "type": "software",
-      "author": "thomasruhl@live.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-pterodactyl-language-tool.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
-      "name": "LanguageTool",
-      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
-      "language": "en",
-      "size": "3.42 KB",
-      "type": "software",
-      "author": "thomasruhl@live.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
       "name": "haste-server",
       "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
       "language": "en",
@@ -2088,6 +2068,26 @@
       "type": "software",
       "author": "eggs@harryw.link",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "LanguageTool",
+      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
+      "language": "en",
+      "size": "3.32 KB",
+      "type": "software",
+      "author": "thomasruhl@live.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-pterodactyl-language-tool.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "LanguageTool",
+      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
+      "language": "en",
+      "size": "3.42 KB",
+      "type": "software",
+      "author": "thomasruhl@live.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
@@ -2232,6 +2232,26 @@
     }
   ],
   "minecraft": [
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2643,26 +2663,6 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2923,26 +2923,6 @@
       "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
-      "name": "The 1.12.2 Pack",
-      "description": "The 1.12.2 Pack",
-      "language": "en",
-      "size": "2.17 KB",
-      "type": "minecraft",
-      "author": "contact@irequire.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/the-1-12-2-pack/egg-the1-12-2-pack.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "The 1.12.2 Pack",
-      "description": "The 1.12.2 Pack",
-      "language": "en",
-      "size": "2.08 KB",
-      "type": "minecraft",
-      "author": "contact@irequire.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/the-1-12-2-pack/egg-pterodactyl-the1-12-2-pack.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
       "name": "The 1.7.10 Pack",
       "description": "The 1.7.10 Pack",
       "language": "en",
@@ -2961,6 +2941,26 @@
       "author": "contact@sweplox.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/the-1-7-10-pack/egg-pterodactyl-the1-7-10-pack.json",
       "exported_at": "2024-06-01T19:40:17+00:00"
+    },
+    {
+      "name": "The 1.12.2 Pack",
+      "description": "The 1.12.2 Pack",
+      "language": "en",
+      "size": "2.17 KB",
+      "type": "minecraft",
+      "author": "contact@irequire.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/the-1-12-2-pack/egg-the1-12-2-pack.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "The 1.12.2 Pack",
+      "description": "The 1.12.2 Pack",
+      "language": "en",
+      "size": "2.08 KB",
+      "type": "minecraft",
+      "author": "contact@irequire.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/the-1-12-2-pack/egg-pterodactyl-the1-12-2-pack.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
     },
     {
       "name": "Tekkit SMP",
@@ -4865,26 +4865,6 @@
       "exported_at": "2024-06-01T00:03:54+00:00"
     },
     {
-      "name": "Ark: Survival Evolved",
-      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
-      "language": "en",
-      "size": "8.68 KB",
-      "type": "games-steamcmd",
-      "author": "dev@shepper.fr",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
-    },
-    {
-      "name": "Ark: Survival Evolved",
-      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
-      "language": "en",
-      "size": "9.43 KB",
-      "type": "games-steamcmd",
-      "author": "dev@shepper.fr",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
-      "exported_at": "2024-11-30T15:45:55+00:00"
-    },
-    {
       "name": "ARK: Survival Ascended",
       "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
       "language": "en",
@@ -4923,6 +4903,26 @@
       "author": "git@robsti.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/abiotic_factor/egg-abiotic-factor.json",
       "exported_at": "2024-06-01T00:03:47+00:00"
+    },
+    {
+      "name": "Ark: Survival Evolved",
+      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
+      "language": "en",
+      "size": "8.68 KB",
+      "type": "games-steamcmd",
+      "author": "dev@shepper.fr",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
+      "exported_at": "2024-06-01T00:03:48+00:00"
+    },
+    {
+      "name": "Ark: Survival Evolved",
+      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
+      "language": "en",
+      "size": "9.43 KB",
+      "type": "games-steamcmd",
+      "author": "dev@shepper.fr",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
+      "exported_at": "2024-11-30T15:45:55+00:00"
     },
     {
       "name": "7 Days To Die",
