@@ -625,26 +625,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.64 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
       "name": "ET Legacy",
       "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
       "language": "en",
@@ -663,6 +643,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
       "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.64 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -2233,26 +2233,6 @@
   ],
   "minecraft": [
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2661,6 +2641,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -4405,26 +4405,6 @@
       "exported_at": "2024-08-25T09:33:05+00:00"
     },
     {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.36 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.55 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
       "name": "Fof",
       "description": "Fistful of Frags",
       "language": "en",
@@ -4443,6 +4423,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
       "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.36 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.55 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
       "name": "Empyrion: Galactic Survival",
@@ -4645,26 +4645,6 @@
       "exported_at": "2024-06-01T00:04:00+00:00"
     },
     {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.3 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.57 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
       "name": "Colony Survival",
       "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
       "language": "en",
@@ -4683,6 +4663,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-colony-survival.json",
       "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.3 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.57 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
       "name": "Black Mesa",
@@ -5437,36 +5437,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5505,6 +5475,36 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
