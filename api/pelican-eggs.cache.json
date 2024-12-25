@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -2051,26 +2051,6 @@
       "exported_at": "2024-11-20T10:10:31+00:00"
     },
     {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.46 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
-      "name": "haste-server",
-      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
-      "language": "en",
-      "size": "1.53 KB",
-      "type": "software",
-      "author": "eggs@harryw.link",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
       "name": "LanguageTool",
       "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
       "language": "en",
@@ -2088,6 +2068,26 @@
       "type": "software",
       "author": "thomasruhl@live.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.46 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-pterodactyl-haste-server.json",
+      "exported_at": "2024-06-02T14:41:01+00:00"
+    },
+    {
+      "name": "haste-server",
+      "description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com",
+      "language": "en",
+      "size": "1.53 KB",
+      "type": "software",
+      "author": "eggs@harryw.link",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/haste-server/egg-haste-server.json",
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
@@ -4865,6 +4865,26 @@
       "exported_at": "2024-06-01T00:03:54+00:00"
     },
     {
+      "name": "Ark: Survival Evolved",
+      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
+      "language": "en",
+      "size": "8.68 KB",
+      "type": "games-steamcmd",
+      "author": "dev@shepper.fr",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
+      "exported_at": "2024-06-01T00:03:48+00:00"
+    },
+    {
+      "name": "Ark: Survival Evolved",
+      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
+      "language": "en",
+      "size": "9.43 KB",
+      "type": "games-steamcmd",
+      "author": "dev@shepper.fr",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
+      "exported_at": "2024-11-30T15:45:55+00:00"
+    },
+    {
       "name": "ARK: Survival Ascended",
       "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
       "language": "en",
@@ -4903,26 +4923,6 @@
       "author": "git@robsti.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/abiotic_factor/egg-abiotic-factor.json",
       "exported_at": "2024-06-01T00:03:47+00:00"
-    },
-    {
-      "name": "Ark: Survival Evolved",
-      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
-      "language": "en",
-      "size": "8.68 KB",
-      "type": "games-steamcmd",
-      "author": "dev@shepper.fr",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
-      "exported_at": "2024-06-01T00:03:48+00:00"
-    },
-    {
-      "name": "Ark: Survival Evolved",
-      "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
-      "language": "en",
-      "size": "9.43 KB",
-      "type": "games-steamcmd",
-      "author": "dev@shepper.fr",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_evolved/egg-ark--survival-evolved.json",
-      "exported_at": "2024-11-30T15:45:55+00:00"
     },
     {
       "name": "7 Days To Die",
@@ -5467,16 +5467,6 @@
       "exported_at": "2022-10-02T16:30:14+01:00"
     },
     {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
       "name": "Redis-6",
       "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
       "language": "en",
@@ -5485,6 +5475,16 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
       "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
     },
     {
       "name": "rethinkdb",
