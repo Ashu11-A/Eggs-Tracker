@@ -165,26 +165,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.34 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
-      "exported_at": "2024-09-10T16:25:49+00:00"
-    },
-    {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.24 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
-      "exported_at": "2024-09-10T18:24:40+02:00"
-    },
-    {
       "name": "starmade",
       "description": "starmade",
       "language": "en",
@@ -203,6 +183,26 @@
       "author": "contact@hunters-tavern.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.34 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
+      "exported_at": "2024-09-10T16:25:49+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.24 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
+      "exported_at": "2024-09-10T18:24:40+02:00"
     },
     {
       "name": "Path Of Titans",
@@ -625,26 +625,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
-      "name": "Wine Generic",
-      "description": "a generic egg to run servers with wine",
-      "language": "en",
-      "size": "3.64 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
-      "exported_at": "2024-06-01T00:17:21+00:00"
-    },
-    {
       "name": "ET Legacy",
       "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
       "language": "en",
@@ -663,6 +643,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
       "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "Wine Generic",
+      "description": "a generic egg to run servers with wine",
+      "language": "en",
+      "size": "3.64 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
+      "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1165,6 +1165,26 @@
       "exported_at": "2024-06-01T00:17:28+00:00"
     },
     {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.04 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.19 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
       "name": "KissMP Server",
       "description": "Server for the KISS Multiplayer BeamNG.drive mod",
       "language": "en",
@@ -1203,26 +1223,6 @@
       "author": "noah@noahserver.online",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-beam-m-p-servers.json",
       "exported_at": "2024-08-03T04:06:03+00:00"
-    },
-    {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.04 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.19 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
       "name": "Among Us - Impostor Server",
@@ -5008,21 +5008,21 @@
       "name": "V Rising BepInEx",
       "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
       "language": "en",
-      "size": "20.88 KB",
+      "size": "21.71 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
+      "exported_at": "2024-12-26T09:56:26+00:00"
     },
     {
       "name": "V Rising BepInEx",
       "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
       "language": "en",
-      "size": "20.03 KB",
+      "size": "20.14 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
-      "exported_at": "2024-06-01T00:05:07+00:00"
+      "exported_at": "2024-12-26T10:54:32+01:00"
     },
     {
       "name": "Euro Truck Simulator 2 Dedicated server",
