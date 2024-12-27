@@ -2293,26 +2293,6 @@
       "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
-      "name": "SpongeForge",
-      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
-      "language": "en",
-      "size": "9.44 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-sponge-forge.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
-      "name": "SpongeForge",
-      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
-      "language": "en",
-      "size": "9.19 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
       "name": "Spigot",
       "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
       "language": "en",
@@ -2331,6 +2311,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-pterodactyl-spigot.json",
       "exported_at": "2024-06-01T19:39:58+00:00"
+    },
+    {
+      "name": "SpongeForge",
+      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+      "language": "en",
+      "size": "9.44 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-sponge-forge.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeForge",
+      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+      "language": "en",
+      "size": "9.19 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
       "name": "Quilt",
