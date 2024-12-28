@@ -3543,21 +3543,21 @@
     "name": "python generic",
     "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
     "language": "en",
-    "size": "7.38 KB",
+    "size": "7.56 KB",
     "type": "generic",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-    "exported_at": "2024-06-02T14:43:52+00:00"
+    "exported_at": "2024-12-28T09:14:31+00:00"
   },
   {
     "name": "python generic",
     "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
     "language": "en",
-    "size": "7.06 KB",
+    "size": "7.19 KB",
     "type": "generic",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-    "exported_at": "2024-06-02T14:43:52+00:00"
+    "exported_at": "2024-12-28T09:14:31+00:00"
   },
   {
     "name": "Quake Live",
