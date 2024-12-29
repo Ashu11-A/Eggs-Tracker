@@ -2923,6 +2923,16 @@
     "name": "nodemon",
     "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
     "language": "en",
+    "size": "7.81 KB",
+    "type": "generic",
+    "author": "nick@blackforthosting.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
+    "exported_at": "2024-06-02T14:43:52+00:00"
+  },
+  {
+    "name": "nodemon",
+    "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+    "language": "en",
     "size": "8.18 KB",
     "type": "generic",
     "author": "nick@blackforthosting.com",
