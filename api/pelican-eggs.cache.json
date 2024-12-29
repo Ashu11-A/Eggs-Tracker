@@ -145,26 +145,6 @@
       "exported_at": "2024-11-20T10:57:52+01:00"
     },
     {
-      "name": "Teeworlds",
-      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
-      "language": "en",
-      "size": "5.2 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-teeworlds.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
-      "name": "Teeworlds",
-      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
-      "language": "en",
-      "size": "5.07 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
       "name": "starmade",
       "description": "starmade",
       "language": "en",
@@ -183,6 +163,26 @@
       "author": "contact@hunters-tavern.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Teeworlds",
+      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
+      "language": "en",
+      "size": "5.2 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-teeworlds.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "Teeworlds",
+      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
+      "language": "en",
+      "size": "5.07 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
       "name": "Spacestation 14",
@@ -305,26 +305,6 @@
       "exported_at": "2024-06-01T00:16:56+00:00"
     },
     {
-      "name": "Nazi Zombies: Portable",
-      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
-      "language": "en",
-      "size": "4.62 KB",
-      "type": "games-standalone",
-      "author": "jordanadamsbusiness@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
-      "exported_at": "2024-11-03T13:12:47-05:00"
-    },
-    {
-      "name": "Nazi Zombies: Portable",
-      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
-      "language": "en",
-      "size": "4.87 KB",
-      "type": "games-standalone",
-      "author": "jordanadamsbusiness@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
-      "exported_at": "2024-11-03T18:19:58+00:00"
-    },
-    {
       "name": "mohaa",
       "description": "Medal of Honor: Allied Assault",
       "language": "en",
@@ -343,6 +323,26 @@
       "author": "th3dilli@gmx.at",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-mohaa.json",
       "exported_at": "2024-06-01T00:16:54+00:00"
+    },
+    {
+      "name": "Nazi Zombies: Portable",
+      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+      "language": "en",
+      "size": "4.62 KB",
+      "type": "games-standalone",
+      "author": "jordanadamsbusiness@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
+      "exported_at": "2024-11-03T13:12:47-05:00"
+    },
+    {
+      "name": "Nazi Zombies: Portable",
+      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+      "language": "en",
+      "size": "4.87 KB",
+      "type": "games-standalone",
+      "author": "jordanadamsbusiness@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
+      "exported_at": "2024-11-03T18:19:58+00:00"
     },
     {
       "name": "Minetest",
@@ -1225,26 +1225,6 @@
       "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.56 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Crewlink server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
-      "language": "en",
-      "size": "3.78 KB",
-      "type": "games-standalone",
-      "author": "panel@oxtroit.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
       "name": "Among Us - Impostor Server",
       "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
       "language": "en",
@@ -1263,6 +1243,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
       "exported_at": "2024-07-01T08:27:45+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.56 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Crewlink server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
+      "language": "en",
+      "size": "3.78 KB",
+      "type": "games-standalone",
+      "author": "panel@oxtroit.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
     },
     {
       "name": "BetterCrewlink Server",
@@ -2223,6 +2223,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2633,26 +2653,6 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -2793,26 +2793,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.57 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
-      "size": "3.4 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2891,6 +2871,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.57 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.4 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
