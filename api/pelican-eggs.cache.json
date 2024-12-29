@@ -145,26 +145,6 @@
       "exported_at": "2024-11-20T10:57:52+01:00"
     },
     {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.78 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.68 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
       "name": "Teeworlds",
       "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
       "language": "en",
@@ -183,6 +163,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
       "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.78 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.68 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
     },
     {
       "name": "Spacestation 14",
@@ -305,26 +305,6 @@
       "exported_at": "2024-06-01T00:16:56+00:00"
     },
     {
-      "name": "mohaa",
-      "description": "Medal of Honor: Allied Assault",
-      "language": "en",
-      "size": "5.45 KB",
-      "type": "games-standalone",
-      "author": "th3dilli@gmx.at",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-pterodactyl-mohaa.json",
-      "exported_at": "2024-06-01T00:16:54+00:00"
-    },
-    {
-      "name": "mohaa",
-      "description": "Medal of Honor: Allied Assault",
-      "language": "en",
-      "size": "5.75 KB",
-      "type": "games-standalone",
-      "author": "th3dilli@gmx.at",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-mohaa.json",
-      "exported_at": "2024-06-01T00:16:54+00:00"
-    },
-    {
       "name": "Nazi Zombies: Portable",
       "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
       "language": "en",
@@ -343,6 +323,26 @@
       "author": "jordanadamsbusiness@outlook.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
       "exported_at": "2024-11-03T18:19:58+00:00"
+    },
+    {
+      "name": "mohaa",
+      "description": "Medal of Honor: Allied Assault",
+      "language": "en",
+      "size": "5.45 KB",
+      "type": "games-standalone",
+      "author": "th3dilli@gmx.at",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-pterodactyl-mohaa.json",
+      "exported_at": "2024-06-01T00:16:54+00:00"
+    },
+    {
+      "name": "mohaa",
+      "description": "Medal of Honor: Allied Assault",
+      "language": "en",
+      "size": "5.75 KB",
+      "type": "games-standalone",
+      "author": "th3dilli@gmx.at",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mohaa/egg-mohaa.json",
+      "exported_at": "2024-06-01T00:16:54+00:00"
     },
     {
       "name": "Minetest",
@@ -1367,26 +1367,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
-      "language": "en",
-      "size": "3.63 KB",
-      "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
-      "language": "en",
-      "size": "3.5 KB",
-      "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
       "name": "Ree6",
       "description": "All-in-one, open source and 100% free Discord Bot!",
       "language": "en",
@@ -1405,6 +1385,26 @@
       "author": "presti@presti.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
       "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.63 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.5 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
     },
     {
       "name": "Red",
@@ -2081,26 +2081,6 @@
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.44 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.54 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
       "name": "Gitea",
       "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
       "language": "en",
@@ -2119,6 +2099,26 @@
       "author": "mario.franze@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
       "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.44 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.54 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
     },
     {
       "name": "Forgejo",
@@ -2222,26 +2222,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2651,6 +2631,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
