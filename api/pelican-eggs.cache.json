@@ -1587,26 +1587,6 @@
       "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
-      "name": "Bastion",
-      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
-      "language": "en",
-      "size": "5.93 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-pterodactyl-bastion.json",
-      "exported_at": "2024-06-01T19:44:09+00:00"
-    },
-    {
-      "name": "Bastion",
-      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
-      "language": "en",
-      "size": "6.26 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
-      "exported_at": "2024-06-01T19:44:09+00:00"
-    },
-    {
       "name": "ATLBot",
       "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
       "language": "en",
@@ -1625,6 +1605,26 @@
       "author": "jfeldt19@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
       "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "Bastion",
+      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
+      "language": "en",
+      "size": "5.93 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-pterodactyl-bastion.json",
+      "exported_at": "2024-06-01T19:44:09+00:00"
+    },
+    {
+      "name": "Bastion",
+      "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
+      "language": "en",
+      "size": "6.26 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
+      "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
       "name": "Aoede",
