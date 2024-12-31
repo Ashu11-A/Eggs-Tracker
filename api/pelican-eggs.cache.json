@@ -1729,26 +1729,6 @@
       "exported_at": "2024-06-02T14:43:51+00:00"
     },
     {
-      "name": "Generic Java",
-      "description": "Creates a container that runs java.",
-      "language": "en",
-      "size": "1.74 KB",
-      "type": "generic",
-      "author": "sneaky@sneakyhub.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-pterodactyl-generic-java.json",
-      "exported_at": "2024-06-02T14:43:51+00:00"
-    },
-    {
-      "name": "Generic Java",
-      "description": "Creates a container that runs java.",
-      "language": "en",
-      "size": "1.85 KB",
-      "type": "generic",
-      "author": "sneaky@sneakyhub.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-generic-java.json",
-      "exported_at": "2024-06-02T14:43:51+00:00"
-    },
-    {
       "name": "golang generic",
       "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
       "language": "en",
@@ -1787,6 +1767,26 @@
       "author": "mravox@proton.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "Generic Java",
+      "description": "Creates a container that runs java.",
+      "language": "en",
+      "size": "1.74 KB",
+      "type": "generic",
+      "author": "sneaky@sneakyhub.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-pterodactyl-generic-java.json",
+      "exported_at": "2024-06-02T14:43:51+00:00"
+    },
+    {
+      "name": "Generic Java",
+      "description": "Creates a container that runs java.",
+      "language": "en",
+      "size": "1.85 KB",
+      "type": "generic",
+      "author": "sneaky@sneakyhub.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-generic-java.json",
+      "exported_at": "2024-06-02T14:43:51+00:00"
     },
     {
       "name": "Deno Generic",
@@ -2233,6 +2233,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2641,26 +2661,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -4325,26 +4325,6 @@
       "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
-      "name": "Garry's Mod - Reworked",
-      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-      "language": "en",
-      "size": "4.53 KB",
-      "type": "games-steamcmd",
-      "author": "vilhelm@prytznet.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
-      "exported_at": "2024-09-12T19:18:10+02:00"
-    },
-    {
-      "name": "Garry's Mod - Reworked",
-      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-      "language": "en",
-      "size": "4.63 KB",
-      "type": "games-steamcmd",
-      "author": "vilhelm@prytznet.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
-      "exported_at": "2024-09-12T17:18:38+00:00"
-    },
-    {
       "name": "Ground Branch",
       "description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.",
       "language": "en",
@@ -4363,6 +4343,26 @@
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ground_branch/egg-ground-branch.json",
       "exported_at": "2024-06-01T00:04:18+00:00"
+    },
+    {
+      "name": "Garry's Mod - Reworked",
+      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
+      "language": "en",
+      "size": "4.53 KB",
+      "type": "games-steamcmd",
+      "author": "vilhelm@prytznet.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
+      "exported_at": "2024-09-12T19:18:10+02:00"
+    },
+    {
+      "name": "Garry's Mod - Reworked",
+      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
+      "language": "en",
+      "size": "4.63 KB",
+      "type": "games-steamcmd",
+      "author": "vilhelm@prytznet.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
+      "exported_at": "2024-09-12T17:18:38+00:00"
     },
     {
       "name": "Frozen Flame",
