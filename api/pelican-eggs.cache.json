@@ -625,26 +625,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.26 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.4 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
@@ -663,6 +643,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.26 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.4 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1587,26 +1587,6 @@
       "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.42 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Bastion",
       "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
       "language": "en",
@@ -1625,6 +1605,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
       "exported_at": "2024-06-01T19:44:09+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.42 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     },
     {
       "name": "Aoede",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -2232,26 +2232,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2661,6 +2641,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -4385,26 +4385,6 @@
       "exported_at": "2024-06-01T00:04:14+00:00"
     },
     {
-      "name": "Foundry",
-      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
-      "language": "en",
-      "size": "11.9 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-pterodactyl-foundry.json",
-      "exported_at": "2024-08-25T11:31:45+02:00"
-    },
-    {
-      "name": "Foundry",
-      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
-      "language": "en",
-      "size": "12.35 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-foundry.json",
-      "exported_at": "2024-08-25T09:33:05+00:00"
-    },
-    {
       "name": "Fof",
       "description": "Fistful of Frags",
       "language": "en",
@@ -4423,6 +4403,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
       "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Foundry",
+      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
+      "language": "en",
+      "size": "11.9 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-pterodactyl-foundry.json",
+      "exported_at": "2024-08-25T11:31:45+02:00"
+    },
+    {
+      "name": "Foundry",
+      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
+      "language": "en",
+      "size": "12.35 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/foundry/egg-foundry.json",
+      "exported_at": "2024-08-25T09:33:05+00:00"
     },
     {
       "name": "Enshrouded",
@@ -4765,26 +4765,6 @@
       "exported_at": "2024-06-01T00:03:42+00:00"
     },
     {
-      "name": "Astroneer Dedicated Server",
-      "description": "A game of aerospace industry and interplanetary exploration.",
-      "language": "en",
-      "size": "7.55 KB",
-      "type": "games-steamcmd",
-      "author": "melethainiel.aerin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json",
-      "exported_at": "2024-06-01T00:03:55+00:00"
-    },
-    {
-      "name": "Astroneer Dedicated Server",
-      "description": "A game of aerospace industry and interplanetary exploration.",
-      "language": "en",
-      "size": "7.9 KB",
-      "type": "games-steamcmd",
-      "author": "melethainiel.aerin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-astroneer-dedicated-server.json",
-      "exported_at": "2024-06-01T00:03:55+00:00"
-    },
-    {
       "name": "Astro Colony",
       "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
       "language": "en",
@@ -4803,6 +4783,26 @@
       "author": "limmek@swedon.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
       "exported_at": "2024-12-25T11:05:05+00:00"
+    },
+    {
+      "name": "Astroneer Dedicated Server",
+      "description": "A game of aerospace industry and interplanetary exploration.",
+      "language": "en",
+      "size": "7.55 KB",
+      "type": "games-steamcmd",
+      "author": "melethainiel.aerin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json",
+      "exported_at": "2024-06-01T00:03:55+00:00"
+    },
+    {
+      "name": "Astroneer Dedicated Server",
+      "description": "A game of aerospace industry and interplanetary exploration.",
+      "language": "en",
+      "size": "7.9 KB",
+      "type": "games-steamcmd",
+      "author": "melethainiel.aerin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-astroneer-dedicated-server.json",
+      "exported_at": "2024-06-01T00:03:55+00:00"
     },
     {
       "name": "Assetto Corsa",
