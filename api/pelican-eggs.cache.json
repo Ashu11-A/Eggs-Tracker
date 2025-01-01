@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -3865,26 +3865,6 @@
       "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
-      "name": "Nova-Life: Amboise",
-      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
-      "language": "en",
-      "size": "6.74 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
-      "name": "Nova-Life: Amboise",
-      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
-      "language": "en",
-      "size": "6.97 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-nova--life--amboise.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
       "name": "No One Survived",
       "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
       "language": "en",
@@ -3903,6 +3883,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-no-one-survived.json",
       "exported_at": "2024-06-01T00:04:28+00:00"
+    },
+    {
+      "name": "Nova-Life: Amboise",
+      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
+      "language": "en",
+      "size": "6.74 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Nova-Life: Amboise",
+      "description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!",
+      "language": "en",
+      "size": "6.97 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/novalife_amboise/egg-nova--life--amboise.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
       "name": "No Love Lost",
@@ -4105,26 +4105,6 @@
       "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
-      "name": "Longvinter",
-      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
-      "language": "en",
-      "size": "10.57 KB",
-      "type": "games-steamcmd",
-      "author": "tueye@tuworld.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-pterodactyl-longvinter.json",
-      "exported_at": "2024-06-01T00:03:57+00:00"
-    },
-    {
-      "name": "Longvinter",
-      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
-      "language": "en",
-      "size": "11.04 KB",
-      "type": "games-steamcmd",
-      "author": "tueye@tuworld.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
-      "exported_at": "2024-06-01T00:03:57+00:00"
-    },
-    {
       "name": "Midnight Ghost Hunt",
       "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
       "language": "en",
@@ -4143,6 +4123,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
       "exported_at": "2024-07-28T19:43:17+02:00"
+    },
+    {
+      "name": "Longvinter",
+      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
+      "language": "en",
+      "size": "10.57 KB",
+      "type": "games-steamcmd",
+      "author": "tueye@tuworld.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-pterodactyl-longvinter.json",
+      "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Longvinter",
+      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
+      "language": "en",
+      "size": "11.04 KB",
+      "type": "games-steamcmd",
+      "author": "tueye@tuworld.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
+      "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
       "name": "Left 4 Dead 2",
@@ -4205,26 +4205,6 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Insurgency: Sandstorm",
-      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
-      "language": "en",
-      "size": "8.37 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
-      "exported_at": "2023-11-13T18:26:59+01:00"
-    },
-    {
-      "name": "Insurgency: Sandstorm",
-      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
-      "language": "en",
-      "size": "8.45 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
-      "exported_at": "2023-11-13T18:26:59+01:00"
-    },
-    {
       "name": "Iosoccer server",
       "description": "SERVER IOSOCCER",
       "language": "en",
@@ -4243,6 +4223,26 @@
       "author": "contact-hyperbeats@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
       "exported_at": "2024-06-01T00:04:46+00:00"
+    },
+    {
+      "name": "Insurgency: Sandstorm",
+      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
+      "language": "en",
+      "size": "8.37 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
+      "exported_at": "2023-11-13T18:26:59+01:00"
+    },
+    {
+      "name": "Insurgency: Sandstorm",
+      "description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight.",
+      "language": "en",
+      "size": "8.45 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency_sandstorm/egg-insurgency--sandstorm.json",
+      "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
       "name": "Icarus-Dedicated",
