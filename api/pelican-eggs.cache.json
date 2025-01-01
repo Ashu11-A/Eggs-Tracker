@@ -465,26 +465,6 @@
       "exported_at": "2024-10-20T18:23:50+00:00"
     },
     {
-      "name": "Foundry VTT",
-      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
-      "language": "en",
-      "size": "4.18 KB",
-      "type": "games-standalone",
-      "author": "pterodactyl@demi.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
-      "exported_at": "2024-06-01T00:16:48+00:00"
-    },
-    {
-      "name": "Foundry VTT",
-      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
-      "language": "en",
-      "size": "4.32 KB",
-      "type": "games-standalone",
-      "author": "pterodactyl@demi.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-foundry-v-t-t.json",
-      "exported_at": "2024-06-01T00:16:48+00:00"
-    },
-    {
       "name": "Tachyon",
       "description": "A multiplayer version of FTL.",
       "language": "en",
@@ -503,6 +483,26 @@
       "author": "alex.chang-lam@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ftl_tachyon/egg-pterodactyl-tachyon.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Foundry VTT",
+      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
+      "language": "en",
+      "size": "4.18 KB",
+      "type": "games-standalone",
+      "author": "pterodactyl@demi.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
+      "exported_at": "2024-06-01T00:16:48+00:00"
+    },
+    {
+      "name": "Foundry VTT",
+      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
+      "language": "en",
+      "size": "4.32 KB",
+      "type": "games-standalone",
+      "author": "pterodactyl@demi.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-foundry-v-t-t.json",
+      "exported_at": "2024-06-01T00:16:48+00:00"
     },
     {
       "name": "Stay In Tarkov",
@@ -4245,26 +4245,6 @@
       "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "5.92 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "6.21 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
       "name": "Icarus-Dedicated",
       "description": "Icarus is a survival game that with dedicated servers as a public beta",
       "language": "en",
@@ -4283,6 +4263,26 @@
       "author": "bolverblitz@ebg.pw",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "5.92 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "6.21 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "HumanitZ",
@@ -5437,36 +5437,6 @@
       "exported_at": "2023-12-19T09:54:17+01:00"
     },
     {
-      "name": "Redis-7",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.25 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
-      "exported_at": "2022-10-02T16:30:14+01:00"
-    },
-    {
-      "name": "Redis-6",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "2.26 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
-      "exported_at": "2022-07-11T13:18:27+02:00"
-    },
-    {
-      "name": "Redis",
-      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
-      "language": "en",
-      "size": "1.89 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
-      "exported_at": "2022-07-11T13:17:43+02:00"
-    },
-    {
       "name": "rethinkdb",
       "description": "The open-source database for the realtime web",
       "language": "en",
@@ -5505,6 +5475,36 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "Redis-7",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.25 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-7/egg-redis-7.json",
+      "exported_at": "2022-10-02T16:30:14+01:00"
+    },
+    {
+      "name": "Redis-6",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "2.26 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-6/egg-redis-6.json",
+      "exported_at": "2022-07-11T13:18:27+02:00"
+    },
+    {
+      "name": "Redis",
+      "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+      "language": "en",
+      "size": "1.89 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/redis/redis-5/egg-redis-5.json",
+      "exported_at": "2022-07-11T13:17:43+02:00"
     }
   ]
 }
