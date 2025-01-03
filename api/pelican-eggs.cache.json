@@ -1287,46 +1287,6 @@
   ],
   "chatbots": [
     {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.58 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
-      "name": "SogeBot",
-      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "chatbots",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
-      "exported_at": "2024-06-01T19:44:08+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.99 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
       "name": "JTS3ServerMod",
       "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
@@ -1365,6 +1325,46 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.58 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "SogeBot",
+      "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "chatbots",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
+      "exported_at": "2024-06-01T19:44:08+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
+    },
+    {
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
+      "language": "en",
+      "size": "6.99 KB",
+      "type": "chatbots",
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1669,26 +1669,6 @@
       "exported_at": "2024-06-02T14:43:53+00:00"
     },
     {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "7.81 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
-      "name": "nodemon",
-      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-      "language": "en",
-      "size": "8.18 KB",
-      "type": "generic",
-      "author": "nick@blackforthosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
-      "exported_at": "2024-06-02T14:43:52+00:00"
-    },
-    {
       "name": "python generic",
       "description": "A Generic Python Egg for Pterodactyl\r\n\r\nTested with: https://github.com/Ispira/pixel-bot",
       "language": "en",
@@ -1707,6 +1687,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
       "exported_at": "2024-12-28T09:14:31+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "7.81 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
+    },
+    {
+      "name": "nodemon",
+      "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
+      "language": "en",
+      "size": "8.18 KB",
+      "type": "generic",
+      "author": "nick@blackforthosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
+      "exported_at": "2024-06-02T14:43:52+00:00"
     },
     {
       "name": "node.js generic",
@@ -2233,6 +2233,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2641,26 +2661,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -4405,26 +4405,6 @@
       "exported_at": "2024-08-25T09:33:05+00:00"
     },
     {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.36 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
-      "language": "en",
-      "size": "8.55 KB",
-      "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
-      "exported_at": "2024-06-01T00:04:11+00:00"
-    },
-    {
       "name": "Fof",
       "description": "Fistful of Frags",
       "language": "en",
@@ -4443,6 +4423,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
       "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.36 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-pterodactyl-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "language": "en",
+      "size": "8.55 KB",
+      "type": "games-steamcmd",
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
+      "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
       "name": "Empyrion: Galactic Survival",
