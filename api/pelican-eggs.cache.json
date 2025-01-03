@@ -2151,26 +2151,6 @@
       "exported_at": "2024-06-02T14:40:58+00:00"
     },
     {
-      "name": "Elasticsearch",
-      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "software",
-      "author": "dominic@stilma.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-pterodactyl-elasticsearch.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
-      "name": "Elasticsearch",
-      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
-      "language": "en",
-      "size": "2.67 KB",
-      "type": "software",
-      "author": "dominic@stilma.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-elasticsearch.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
       "name": "Folding@Home",
       "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
       "language": "en",
@@ -2189,6 +2169,26 @@
       "author": "fuggschen@krk-gaming.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-folding--home.json",
       "exported_at": "2024-09-08T19:48:06+02:00"
+    },
+    {
+      "name": "Elasticsearch",
+      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "software",
+      "author": "dominic@stilma.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-pterodactyl-elasticsearch.json",
+      "exported_at": "2024-06-02T14:40:58+00:00"
+    },
+    {
+      "name": "Elasticsearch",
+      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
+      "language": "en",
+      "size": "2.67 KB",
+      "type": "software",
+      "author": "dominic@stilma.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-elasticsearch.json",
+      "exported_at": "2024-06-02T14:40:58+00:00"
     },
     {
       "name": "Code-Server",
@@ -2803,26 +2803,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "Waterfall",
-      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.81 KB",
-      "type": "minecraft",
-      "author": "hostmaster@waterfallgaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-waterfall.json",
-      "exported_at": "2024-06-01T19:40:11+00:00"
-    },
-    {
-      "name": "Waterfall",
-      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.58 KB",
-      "type": "minecraft",
-      "author": "hostmaster@waterfallgaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
-      "exported_at": "2024-06-01T19:40:11+00:00"
-    },
-    {
       "name": "VIAaaS",
       "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
       "language": "en",
@@ -2841,6 +2821,26 @@
       "author": "regulad@outlook.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
       "exported_at": "2024-06-01T19:40:09+00:00"
+    },
+    {
+      "name": "Waterfall",
+      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.81 KB",
+      "type": "minecraft",
+      "author": "hostmaster@waterfallgaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-waterfall.json",
+      "exported_at": "2024-06-01T19:40:11+00:00"
+    },
+    {
+      "name": "Waterfall",
+      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.58 KB",
+      "type": "minecraft",
+      "author": "hostmaster@waterfallgaming.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
+      "exported_at": "2024-06-01T19:40:11+00:00"
     },
     {
       "name": "Velocity",
@@ -4245,26 +4245,6 @@
       "exported_at": "2023-11-13T18:26:59+01:00"
     },
     {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "5.92 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
-      "size": "6.21 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
-    },
-    {
       "name": "Icarus-Dedicated",
       "description": "Icarus is a survival game that with dedicated servers as a public beta",
       "language": "en",
@@ -4283,6 +4263,26 @@
       "author": "bolverblitz@ebg.pw",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
       "exported_at": "2024-06-01T00:03:56+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "5.92 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "6.21 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "HumanitZ",
@@ -4765,26 +4765,6 @@
       "exported_at": "2024-06-01T00:03:42+00:00"
     },
     {
-      "name": "Astro Colony",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "10.96 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony.json",
-      "exported_at": "2024-12-25T11:05:05+00:00"
-    },
-    {
-      "name": "Astro Colony",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
-      "size": "11.69 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
-      "exported_at": "2024-12-25T11:05:05+00:00"
-    },
-    {
       "name": "Astroneer Dedicated Server",
       "description": "A game of aerospace industry and interplanetary exploration.",
       "language": "en",
@@ -4803,6 +4783,26 @@
       "author": "melethainiel.aerin@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astroneer/egg-astroneer-dedicated-server.json",
       "exported_at": "2024-06-01T00:03:55+00:00"
+    },
+    {
+      "name": "Astro Colony",
+      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+      "language": "en",
+      "size": "10.96 KB",
+      "type": "games-steamcmd",
+      "author": "limmek@swedon.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony.json",
+      "exported_at": "2024-12-25T11:05:05+00:00"
+    },
+    {
+      "name": "Astro Colony",
+      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+      "language": "en",
+      "size": "11.69 KB",
+      "type": "games-steamcmd",
+      "author": "limmek@swedon.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
+      "exported_at": "2024-12-25T11:05:05+00:00"
     },
     {
       "name": "Assetto Corsa",
