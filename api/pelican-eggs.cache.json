@@ -2803,26 +2803,6 @@
       "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
-      "name": "VIAaaS",
-      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
-      "language": "en",
-      "size": "2.71 KB",
-      "type": "minecraft",
-      "author": "regulad@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-v-i-aaa-s.json",
-      "exported_at": "2024-06-01T19:40:09+00:00"
-    },
-    {
-      "name": "VIAaaS",
-      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
-      "language": "en",
-      "size": "2.59 KB",
-      "type": "minecraft",
-      "author": "regulad@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
-      "exported_at": "2024-06-01T19:40:09+00:00"
-    },
-    {
       "name": "Waterfall",
       "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2841,6 +2821,26 @@
       "author": "hostmaster@waterfallgaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
       "exported_at": "2024-06-01T19:40:11+00:00"
+    },
+    {
+      "name": "VIAaaS",
+      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "language": "en",
+      "size": "2.71 KB",
+      "type": "minecraft",
+      "author": "regulad@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-v-i-aaa-s.json",
+      "exported_at": "2024-06-01T19:40:09+00:00"
+    },
+    {
+      "name": "VIAaaS",
+      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "language": "en",
+      "size": "2.59 KB",
+      "type": "minecraft",
+      "author": "regulad@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
+      "exported_at": "2024-06-01T19:40:09+00:00"
     },
     {
       "name": "Velocity",
