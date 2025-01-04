@@ -165,26 +165,6 @@
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.34 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
-      "exported_at": "2024-09-10T16:25:49+00:00"
-    },
-    {
-      "name": "Spacestation 14",
-      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
-      "language": "en",
-      "size": "3.24 KB",
-      "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
-      "exported_at": "2024-09-10T18:24:40+02:00"
-    },
-    {
       "name": "starmade",
       "description": "starmade",
       "language": "en",
@@ -203,6 +183,26 @@
       "author": "contact@hunters-tavern.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.34 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-spacestation14.json",
+      "exported_at": "2024-09-10T16:25:49+00:00"
+    },
+    {
+      "name": "Spacestation 14",
+      "description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game.",
+      "language": "en",
+      "size": "3.24 KB",
+      "type": "games-standalone",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/spacestation_14/egg-pterodactyl-spacestation14.json",
+      "exported_at": "2024-09-10T18:24:40+02:00"
     },
     {
       "name": "Path Of Titans",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "en",
+      "size": "3.38 KB",
+      "type": "software",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+      "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
       "name": "Rathole",
@@ -3505,26 +3505,6 @@
       "exported_at": "2024-06-01T13:27:43+02:00"
     },
     {
-      "name": "Sons Of The Forest",
-      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
-      "language": "en",
-      "size": "12.33 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-sons-of-the-forest.json",
-      "exported_at": "2024-06-01T00:04:52+00:00"
-    },
-    {
-      "name": "Sons Of The Forest",
-      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
-      "language": "en",
-      "size": "11.81 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json",
-      "exported_at": "2024-06-01T00:04:52+00:00"
-    },
-    {
       "name": "Soldat",
       "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.\r\n\r\nSteam: https://store.steampowered.com/app/638490/Soldat/",
       "language": "en",
@@ -3543,6 +3523,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/soldat/egg-pterodactyl-soldat.json",
       "exported_at": "2024-06-01T00:04:50+00:00"
+    },
+    {
+      "name": "Sons Of The Forest",
+      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
+      "language": "en",
+      "size": "12.33 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-sons-of-the-forest.json",
+      "exported_at": "2024-06-01T00:04:52+00:00"
+    },
+    {
+      "name": "Sons Of The Forest",
+      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
+      "language": "en",
+      "size": "11.81 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json",
+      "exported_at": "2024-06-01T00:04:52+00:00"
     },
     {
       "name": "Solace Crafting",
@@ -3745,26 +3745,6 @@
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.31 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
-    },
-    {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.62 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
-    },
-    {
       "name": "Palworld",
       "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
       "language": "en",
@@ -3803,6 +3783,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
+    },
+    {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.31 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.62 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
       "name": "Operation Harsh Doorstop",
