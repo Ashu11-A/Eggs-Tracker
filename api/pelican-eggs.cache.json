@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -1971,26 +1971,6 @@
       "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
-      "name": "RabbitMQ",
-      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
-      "language": "en",
-      "size": "3.03 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "RabbitMQ",
-      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
-      "language": "en",
-      "size": "2.91 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "owncast.online",
       "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
       "language": "en",
@@ -2009,6 +1989,26 @@
       "author": "psychoalex@thevcbc.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
       "exported_at": "2024-06-02T14:40:52+00:00"
+    },
+    {
+      "name": "RabbitMQ",
+      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
+      "language": "en",
+      "size": "3.03 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-rabbit-m-q.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "RabbitMQ",
+      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
+      "language": "en",
+      "size": "2.91 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Meilisearch",
@@ -2232,26 +2232,6 @@
     }
   ],
   "minecraft": [
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2661,6 +2641,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
@@ -3505,26 +3505,6 @@
       "exported_at": "2024-06-01T13:27:43+02:00"
     },
     {
-      "name": "Soldat",
-      "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.\r\n\r\nSteam: https://store.steampowered.com/app/638490/Soldat/",
-      "language": "en",
-      "size": "5.99 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/soldat/egg-soldat.json",
-      "exported_at": "2024-06-01T00:04:50+00:00"
-    },
-    {
-      "name": "Soldat",
-      "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.\r\n\r\nSteam: https://store.steampowered.com/app/638490/Soldat/",
-      "language": "en",
-      "size": "5.76 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/soldat/egg-pterodactyl-soldat.json",
-      "exported_at": "2024-06-01T00:04:50+00:00"
-    },
-    {
       "name": "Sons Of The Forest",
       "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
       "language": "en",
@@ -3543,6 +3523,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json",
       "exported_at": "2024-06-01T00:04:52+00:00"
+    },
+    {
+      "name": "Soldat",
+      "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.\r\n\r\nSteam: https://store.steampowered.com/app/638490/Soldat/",
+      "language": "en",
+      "size": "5.99 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/soldat/egg-soldat.json",
+      "exported_at": "2024-06-01T00:04:50+00:00"
+    },
+    {
+      "name": "Soldat",
+      "description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.\r\n\r\nSteam: https://store.steampowered.com/app/638490/Soldat/",
+      "language": "en",
+      "size": "5.76 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/soldat/egg-pterodactyl-soldat.json",
+      "exported_at": "2024-06-01T00:04:50+00:00"
     },
     {
       "name": "Solace Crafting",
@@ -3685,26 +3685,6 @@
       "exported_at": "2024-06-01T00:04:36+00:00"
     },
     {
-      "name": "Post Scriptum",
-      "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
-      "language": "en",
-      "size": "10.38 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/post_scriptum/egg-pterodactyl-post-scriptum.json",
-      "exported_at": "2024-06-01T00:04:36+00:00"
-    },
-    {
-      "name": "Post Scriptum",
-      "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
-      "language": "en",
-      "size": "10.84 KB",
-      "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/post_scriptum/egg-post-scriptum.json",
-      "exported_at": "2024-06-01T00:04:36+00:00"
-    },
-    {
       "name": "Portal Knights",
       "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
       "language": "en",
@@ -3725,6 +3705,26 @@
       "exported_at": "2024-06-01T00:04:35+00:00"
     },
     {
+      "name": "Post Scriptum",
+      "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
+      "language": "en",
+      "size": "10.38 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/post_scriptum/egg-pterodactyl-post-scriptum.json",
+      "exported_at": "2024-06-01T00:04:36+00:00"
+    },
+    {
+      "name": "Post Scriptum",
+      "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
+      "language": "en",
+      "size": "10.84 KB",
+      "type": "games-steamcmd",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/post_scriptum/egg-post-scriptum.json",
+      "exported_at": "2024-06-01T00:04:36+00:00"
+    },
+    {
       "name": "PixARK",
       "description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel",
       "language": "en",
@@ -3742,6 +3742,26 @@
       "type": "games-steamcmd",
       "author": "hello@venatus.digital",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pixark/egg-pix-a-r-k.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.31 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
+    },
+    {
+      "name": "Pavlov VR",
+      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
+      "language": "en",
+      "size": "6.62 KB",
+      "type": "games-steamcmd",
+      "author": "admin@devil.wtf",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
@@ -3783,26 +3803,6 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
-    },
-    {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.31 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
-    },
-    {
-      "name": "Pavlov VR",
-      "description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today.",
-      "language": "en",
-      "size": "6.62 KB",
-      "type": "games-steamcmd",
-      "author": "admin@devil.wtf",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pavlov_vr/egg-pavlov-v-r.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
       "name": "Operation Harsh Doorstop",
