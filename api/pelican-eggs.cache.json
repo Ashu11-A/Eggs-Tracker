@@ -345,26 +345,6 @@
       "exported_at": "2024-06-01T00:16:54+00:00"
     },
     {
-      "name": "Mindustry",
-      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
-      "language": "en",
-      "size": "4.38 KB",
-      "type": "games-standalone",
-      "author": "sir3lit@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-pterodactyl-mindustry.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
-      "name": "Mindustry",
-      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
-      "language": "en",
-      "size": "4.52 KB",
-      "type": "games-standalone",
-      "author": "sir3lit@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
       "name": "Minetest",
       "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
       "language": "en",
@@ -382,6 +362,26 @@
       "type": "games-standalone",
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-minetest.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "Mindustry",
+      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
+      "language": "en",
+      "size": "4.38 KB",
+      "type": "games-standalone",
+      "author": "sir3lit@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-pterodactyl-mindustry.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "Mindustry",
+      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
+      "language": "en",
+      "size": "4.52 KB",
+      "type": "games-standalone",
+      "author": "sir3lit@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
@@ -1287,26 +1287,6 @@
   ],
   "chatbots": [
     {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
-      "name": "PhantomBot",
-      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-      "language": "en",
-      "size": "6.99 KB",
-      "type": "chatbots",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-      "exported_at": "2024-06-01T19:44:04+00:00"
-    },
-    {
       "name": "SogeBot",
       "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
       "language": "en",
@@ -1327,24 +1307,24 @@
       "exported_at": "2024-06-01T19:44:08+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
-      "size": "1.64 KB",
+      "size": "6.68 KB",
       "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "name": "PhantomBot",
+      "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
       "language": "en",
-      "size": "1.71 KB",
+      "size": "6.99 KB",
       "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
+      "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
       "name": "JTS3ServerMod",
@@ -1367,24 +1347,24 @@
       "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
-      "size": "3.63 KB",
+      "size": "1.64 KB",
       "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
-      "size": "3.5 KB",
+      "size": "1.71 KB",
       "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Ree6",
@@ -1405,6 +1385,26 @@
       "author": "presti@presti.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
       "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.63 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.5 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
     },
     {
       "name": "Red",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
