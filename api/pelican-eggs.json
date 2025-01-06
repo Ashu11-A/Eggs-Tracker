@@ -933,11 +933,11 @@
     "name": "CurseForge Generic",
     "description": "A generic egg for a CurseForge modpack.",
     "language": "en",
-    "size": "20.35 KB",
+    "size": "21.87 KB",
     "type": "minecraft",
     "author": "contact@chromozone.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
-    "exported_at": "2024-11-02T08:41:36+00:00"
+    "exported_at": "2024-12-27T10:13:29+00:00"
   },
   {
     "name": "Custom HLDS Engine Game",
