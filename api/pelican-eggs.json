@@ -3803,21 +3803,21 @@
     "name": "Resonite",
     "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
     "language": "en",
-    "size": "7.71 KB",
+    "size": "7.94 KB",
     "type": "games-steamcmd",
     "author": "espeon@espeon.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-resonite.json",
-    "exported_at": "2024-06-01T00:04:38+00:00"
+    "exported_at": "2025-01-07T09:19:17+00:00"
   },
   {
     "name": "Resonite",
     "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
     "language": "en",
-    "size": "7.35 KB",
+    "size": "7.49 KB",
     "type": "games-steamcmd",
     "author": "espeon@espeon.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-pterodactyl-resonite.json",
-    "exported_at": "2024-06-01T00:04:38+00:00"
+    "exported_at": "2025-01-07T20:18:20+11:00"
   },
   {
     "name": "rethinkdb",

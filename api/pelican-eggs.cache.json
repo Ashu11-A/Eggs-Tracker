@@ -145,26 +145,6 @@
       "exported_at": "2024-11-20T10:57:52+01:00"
     },
     {
-      "name": "Teeworlds",
-      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
-      "language": "en",
-      "size": "5.2 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-teeworlds.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
-      "name": "Teeworlds",
-      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
-      "language": "en",
-      "size": "5.07 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
-      "exported_at": "2024-06-01T00:17:13+00:00"
-    },
-    {
       "name": "starmade",
       "description": "starmade",
       "language": "en",
@@ -183,6 +163,26 @@
       "author": "contact@hunters-tavern.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
       "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "Teeworlds",
+      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
+      "language": "en",
+      "size": "5.2 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-teeworlds.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "Teeworlds",
+      "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
+      "language": "en",
+      "size": "5.07 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
+      "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
       "name": "Spacestation 14",
@@ -1045,6 +1045,26 @@
       "exported_at": "2024-06-01T00:17:38+00:00"
     },
     {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.08 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.37 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
       "name": "Factorio",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
@@ -1083,26 +1103,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio-a-r-m64.json",
       "exported_at": "2024-09-08T19:58:10+02:00"
-    },
-    {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.08 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.37 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
     },
     {
       "name": "Zandronum",
@@ -1327,26 +1327,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1367,24 +1347,24 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
-      "size": "22.59 KB",
+      "size": "2.7 KB",
       "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
-      "name": "Ree6",
-      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
-      "size": "21.49 KB",
+      "size": "2.8 KB",
       "type": "chatbots",
-      "author": "presti@presti.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
-      "exported_at": "2024-06-01T19:44:06+00:00"
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1405,6 +1385,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "22.59 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Ree6",
+      "description": "All-in-one, open source and 100% free Discord Bot!",
+      "language": "en",
+      "size": "21.49 KB",
+      "type": "chatbots",
+      "author": "presti@presti.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
+      "exported_at": "2024-06-01T19:44:06+00:00"
     },
     {
       "name": "Red",
@@ -2233,6 +2233,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2553,6 +2573,16 @@
       "exported_at": "2024-06-01T19:39:44+00:00"
     },
     {
+      "name": "Feather",
+      "description": "An experimental Minecraft server implementation written in Rust.",
+      "language": "en",
+      "size": "4.25 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/feather/egg-feather.json",
+      "exported_at": "2024-06-01T19:40:20+00:00"
+    },
+    {
       "name": "Folia",
       "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
       "language": "en",
@@ -2571,16 +2601,6 @@
       "author": "Hosting@NeverStopGaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-folia.json",
       "exported_at": "2024-06-01T19:39:42+00:00"
-    },
-    {
-      "name": "Feather",
-      "description": "An experimental Minecraft server implementation written in Rust.",
-      "language": "en",
-      "size": "4.25 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/feather/egg-feather.json",
-      "exported_at": "2024-06-01T19:40:20+00:00"
     },
     {
       "name": "Fabric",
@@ -2603,26 +2623,6 @@
       "exported_at": "2024-08-02T12:14:52+00:00"
     },
     {
-      "name": "CurseForge Generic",
-      "description": "A generic egg for a CurseForge modpack.",
-      "language": "en",
-      "size": "20.19 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
-      "exported_at": "2024-11-02T09:40:55+01:00"
-    },
-    {
-      "name": "CurseForge Generic",
-      "description": "A generic egg for a CurseForge modpack.",
-      "language": "en",
-      "size": "21.87 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
-      "exported_at": "2024-12-27T10:13:29+00:00"
-    },
-    {
       "name": "Cuberite",
       "description": "A lightweight, fast and extensible game server for Minecraft",
       "language": "en",
@@ -2643,24 +2643,24 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "name": "CurseForge Generic",
+      "description": "A generic egg for a CurseForge modpack.",
       "language": "en",
-      "size": "6.08 KB",
+      "size": "20.19 KB",
       "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
+      "exported_at": "2024-11-02T09:40:55+01:00"
     },
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "name": "CurseForge Generic",
+      "description": "A generic egg for a CurseForge modpack.",
       "language": "en",
-      "size": "5.98 KB",
+      "size": "21.87 KB",
       "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
+      "author": "contact@chromozone.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
+      "exported_at": "2024-12-27T10:13:29+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -3628,21 +3628,21 @@
       "name": "Resonite",
       "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
       "language": "en",
-      "size": "7.71 KB",
+      "size": "7.94 KB",
       "type": "games-steamcmd",
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-resonite.json",
-      "exported_at": "2024-06-01T00:04:38+00:00"
+      "exported_at": "2025-01-07T09:19:17+00:00"
     },
     {
       "name": "Resonite",
       "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
       "language": "en",
-      "size": "7.35 KB",
+      "size": "7.49 KB",
       "type": "games-steamcmd",
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-pterodactyl-resonite.json",
-      "exported_at": "2024-06-01T00:04:38+00:00"
+      "exported_at": "2025-01-07T20:18:20+11:00"
     },
     {
       "name": "Quake Live",
@@ -4665,26 +4665,6 @@
       "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.96 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
       "name": "Citadel: Forged with Fire",
       "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
       "language": "en",
@@ -4703,6 +4683,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
       "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.96 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
       "name": "BATTALION: Legacy",
