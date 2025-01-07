@@ -145,26 +145,6 @@
       "exported_at": "2024-11-20T10:57:52+01:00"
     },
     {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.78 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
-      "name": "starmade",
-      "description": "starmade",
-      "language": "en",
-      "size": "1.68 KB",
-      "type": "games-standalone",
-      "author": "contact@hunters-tavern.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
-      "exported_at": "2024-06-01T00:17:11+00:00"
-    },
-    {
       "name": "Teeworlds",
       "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
       "language": "en",
@@ -183,6 +163,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
       "exported_at": "2024-06-01T00:17:13+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.78 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
+    },
+    {
+      "name": "starmade",
+      "description": "starmade",
+      "language": "en",
+      "size": "1.68 KB",
+      "type": "games-standalone",
+      "author": "contact@hunters-tavern.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/starmade/egg-pterodactyl-starmade.json",
+      "exported_at": "2024-06-01T00:17:11+00:00"
     },
     {
       "name": "Spacestation 14",
@@ -1045,26 +1045,6 @@
       "exported_at": "2024-06-01T00:17:38+00:00"
     },
     {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.08 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
-      "language": "en",
-      "size": "7.37 KB",
-      "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
-    },
-    {
       "name": "Factorio",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
@@ -1105,6 +1085,26 @@
       "exported_at": "2024-09-08T19:58:10+02:00"
     },
     {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.08 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.37 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
       "name": "Zandronum",
       "description": "Zandronum is a multiplayer oriented port, based off Skulltag, for Doom and Doom II by id Software.\r\n\r\nThis egg uses the Freedoom WAD by default.",
       "language": "en",
@@ -1123,6 +1123,26 @@
       "author": "sup@libtar.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/doom/zandronum/egg-pterodactyl-zandronum.json",
       "exported_at": "2024-06-01T00:17:22+00:00"
+    },
+    {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.04 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.19 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
       "name": "Cube 2: Sauerbraten",
@@ -1163,26 +1183,6 @@
       "author": "holeintheseat@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-assault-cube.json",
       "exported_at": "2024-06-01T00:17:28+00:00"
-    },
-    {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.04 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.19 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
       "name": "KissMP Server",
@@ -1327,26 +1327,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.64 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
-      "name": "Big Brother Bot",
-      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-      "language": "en",
-      "size": "1.71 KB",
-      "type": "chatbots",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
-      "exported_at": "2024-06-01T19:44:11+00:00"
-    },
-    {
       "name": "JTS3ServerMod",
       "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
       "language": "en",
@@ -1365,6 +1345,26 @@
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
       "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.64 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "Big Brother Bot",
+      "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
+      "language": "en",
+      "size": "1.71 KB",
+      "type": "chatbots",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
+      "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1607,26 +1607,6 @@
       "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.42 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
-      "name": "ATLBot",
-      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-      "language": "en",
-      "size": "2.54 KB",
-      "type": "chatbots",
-      "author": "jfeldt19@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
-      "exported_at": "2024-06-01T19:44:10+00:00"
-    },
-    {
       "name": "Aoede",
       "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
       "language": "en",
@@ -1645,6 +1625,26 @@
       "author": "contact@bldy.ovh",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
       "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.42 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "ATLBot",
+      "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
+      "language": "en",
+      "size": "2.54 KB",
+      "type": "chatbots",
+      "author": "jfeldt19@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
+      "exported_at": "2024-06-01T19:44:10+00:00"
     }
   ],
   "generic": [
@@ -2573,16 +2573,6 @@
       "exported_at": "2024-06-01T19:39:44+00:00"
     },
     {
-      "name": "Feather",
-      "description": "An experimental Minecraft server implementation written in Rust.",
-      "language": "en",
-      "size": "4.25 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/feather/egg-feather.json",
-      "exported_at": "2024-06-01T19:40:20+00:00"
-    },
-    {
       "name": "Folia",
       "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
       "language": "en",
@@ -2601,6 +2591,16 @@
       "author": "Hosting@NeverStopGaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-folia.json",
       "exported_at": "2024-06-01T19:39:42+00:00"
+    },
+    {
+      "name": "Feather",
+      "description": "An experimental Minecraft server implementation written in Rust.",
+      "language": "en",
+      "size": "4.25 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/feather/egg-feather.json",
+      "exported_at": "2024-06-01T19:40:20+00:00"
     },
     {
       "name": "Fabric",
@@ -2623,26 +2623,6 @@
       "exported_at": "2024-08-02T12:14:52+00:00"
     },
     {
-      "name": "Cuberite",
-      "description": "A lightweight, fast and extensible game server for Minecraft",
-      "language": "en",
-      "size": "2.92 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-pterodactyl-cuberite.json",
-      "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Cuberite",
-      "description": "A lightweight, fast and extensible game server for Minecraft",
-      "language": "en",
-      "size": "3.05 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
-      "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
       "name": "CurseForge Generic",
       "description": "A generic egg for a CurseForge modpack.",
       "language": "en",
@@ -2661,6 +2641,26 @@
       "author": "contact@chromozone.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
       "exported_at": "2024-12-27T10:13:29+00:00"
+    },
+    {
+      "name": "Cuberite",
+      "description": "A lightweight, fast and extensible game server for Minecraft",
+      "language": "en",
+      "size": "2.92 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-pterodactyl-cuberite.json",
+      "exported_at": "2024-06-01T19:39:48+00:00"
+    },
+    {
+      "name": "Cuberite",
+      "description": "A lightweight, fast and extensible game server for Minecraft",
+      "language": "en",
+      "size": "3.05 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
+      "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
       "name": "PocketmineMP",
@@ -2843,26 +2843,6 @@
       "exported_at": "2024-06-01T19:40:09+00:00"
     },
     {
-      "name": "Velocity",
-      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
-      "language": "en",
-      "size": "6.23 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-velocity.json",
-      "exported_at": "2024-06-01T19:40:07+00:00"
-    },
-    {
-      "name": "Velocity",
-      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
-      "language": "en",
-      "size": "6.01 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-pterodactyl-velocity.json",
-      "exported_at": "2024-06-01T19:40:07+00:00"
-    },
-    {
       "name": "Travertine",
       "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
       "language": "en",
@@ -2881,6 +2861,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
       "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Velocity",
+      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
+      "language": "en",
+      "size": "6.23 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-velocity.json",
+      "exported_at": "2024-06-01T19:40:07+00:00"
+    },
+    {
+      "name": "Velocity",
+      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
+      "language": "en",
+      "size": "6.01 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-pterodactyl-velocity.json",
+      "exported_at": "2024-06-01T19:40:07+00:00"
     },
     {
       "name": "Waterdog",
@@ -3765,6 +3765,26 @@
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.05 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.39 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
       "name": "Palworld",
       "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
       "language": "en",
@@ -3803,26 +3823,6 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
-    },
-    {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.05 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.39 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
       "name": "Open Fortress",
@@ -4665,26 +4665,6 @@
       "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.3 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.57 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
       "name": "Black Mesa",
       "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
       "language": "en",
@@ -4703,6 +4683,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
       "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.3 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.57 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
       "name": "BATTALION: Legacy",
@@ -5407,6 +5407,36 @@
   ],
   "database": [
     {
+      "name": "Postgres 16",
+      "description": "A default Postgres install that is not really editable.",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres16.json",
+      "exported_at": "2023-12-12T15:33:25+01:00"
+    },
+    {
+      "name": "Postgres 14",
+      "description": "A default Postgres install that is not really editable.",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres14.json",
+      "exported_at": "2023-12-12T15:32:12+01:00"
+    },
+    {
+      "name": "MariaDB 10.3",
+      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
+      "language": "en",
+      "size": "2.82 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
+      "exported_at": "2023-12-19T09:54:17+01:00"
+    },
+    {
       "name": "Redis-7",
       "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
       "language": "en",
@@ -5475,36 +5505,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
-    },
-    {
-      "name": "Postgres 16",
-      "description": "A default Postgres install that is not really editable.",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres16.json",
-      "exported_at": "2023-12-12T15:33:25+01:00"
-    },
-    {
-      "name": "Postgres 14",
-      "description": "A default Postgres install that is not really editable.",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres14.json",
-      "exported_at": "2023-12-12T15:32:12+01:00"
-    },
-    {
-      "name": "MariaDB 10.3",
-      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
-      "language": "en",
-      "size": "2.82 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
-      "exported_at": "2023-12-19T09:54:17+01:00"
     }
   ]
 }
