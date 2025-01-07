@@ -1367,26 +1367,6 @@
       "exported_at": "2024-06-01T19:44:11+00:00"
     },
     {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
-      "language": "en",
-      "size": "3.63 KB",
-      "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
-      "name": "Sinusbot",
-      "description": "Musicbot for Discord and Teamspeak.",
-      "language": "en",
-      "size": "3.5 KB",
-      "type": "chatbots",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
       "name": "Ree6",
       "description": "All-in-one, open source and 100% free Discord Bot!",
       "language": "en",
@@ -1405,6 +1385,26 @@
       "author": "presti@presti.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-pterodactyl-ree6.json",
       "exported_at": "2024-06-01T19:44:06+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.63 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Sinusbot",
+      "description": "Musicbot for Discord and Teamspeak.",
+      "language": "en",
+      "size": "3.5 KB",
+      "type": "chatbots",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
     },
     {
       "name": "Red",
@@ -3965,26 +3965,6 @@
       "exported_at": "2024-06-15T18:59:35+02:00"
     },
     {
-      "name": "Necesse",
-      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
-      "language": "en",
-      "size": "7.19 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-pterodactyl-necesse.json",
-      "exported_at": "2024-06-01T00:04:25+00:00"
-    },
-    {
-      "name": "Necesse",
-      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
-      "language": "en",
-      "size": "7.46 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-necesse.json",
-      "exported_at": "2024-06-01T00:04:25+00:00"
-    },
-    {
       "name": "NeosVR",
       "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
       "language": "en",
@@ -4002,6 +3982,26 @@
       "type": "games-steamcmd",
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/neosvr/egg-neos-v-r.json",
+      "exported_at": "2024-06-01T00:04:25+00:00"
+    },
+    {
+      "name": "Necesse",
+      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+      "language": "en",
+      "size": "7.19 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-pterodactyl-necesse.json",
+      "exported_at": "2024-06-01T00:04:25+00:00"
+    },
+    {
+      "name": "Necesse",
+      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+      "language": "en",
+      "size": "7.46 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-necesse.json",
       "exported_at": "2024-06-01T00:04:25+00:00"
     },
     {
@@ -4665,26 +4665,6 @@
       "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.3 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
-      "name": "Citadel: Forged with Fire",
-      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
-      "language": "en",
-      "size": "6.57 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
-      "exported_at": "2024-06-01T00:03:45+00:00"
-    },
-    {
       "name": "Black Mesa",
       "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
       "language": "en",
@@ -4703,6 +4683,26 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
       "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.3 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Citadel: Forged with Fire",
+      "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
+      "language": "en",
+      "size": "6.57 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
+      "exported_at": "2024-06-01T00:03:45+00:00"
     },
     {
       "name": "BATTALION: Legacy",
@@ -5407,36 +5407,6 @@
   ],
   "database": [
     {
-      "name": "Postgres 16",
-      "description": "A default Postgres install that is not really editable.",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres16.json",
-      "exported_at": "2023-12-12T15:33:25+01:00"
-    },
-    {
-      "name": "Postgres 14",
-      "description": "A default Postgres install that is not really editable.",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres14.json",
-      "exported_at": "2023-12-12T15:32:12+01:00"
-    },
-    {
-      "name": "MariaDB 10.3",
-      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
-      "language": "en",
-      "size": "2.82 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
-      "exported_at": "2023-12-19T09:54:17+01:00"
-    },
-    {
       "name": "Redis-7",
       "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
       "language": "en",
@@ -5505,6 +5475,36 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "Postgres 16",
+      "description": "A default Postgres install that is not really editable.",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres16.json",
+      "exported_at": "2023-12-12T15:33:25+01:00"
+    },
+    {
+      "name": "Postgres 14",
+      "description": "A default Postgres install that is not really editable.",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/postgres/egg-postgres14.json",
+      "exported_at": "2023-12-12T15:32:12+01:00"
+    },
+    {
+      "name": "MariaDB 10.3",
+      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
+      "language": "en",
+      "size": "2.82 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
+      "exported_at": "2023-12-19T09:54:17+01:00"
     }
   ]
 }
