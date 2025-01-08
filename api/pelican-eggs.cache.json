@@ -1125,26 +1125,6 @@
       "exported_at": "2024-06-01T00:17:22+00:00"
     },
     {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.04 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
-      "language": "en",
-      "size": "4.19 KB",
-      "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
-    },
-    {
       "name": "Cube 2: Sauerbraten",
       "description": "Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.\r\nMuch like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game.",
       "language": "en",
@@ -1183,6 +1163,26 @@
       "author": "holeintheseat@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-assault-cube.json",
       "exported_at": "2024-06-01T00:17:28+00:00"
+    },
+    {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.04 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
+    },
+    {
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
+      "language": "en",
+      "size": "4.19 KB",
+      "type": "games-standalone",
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
       "name": "KissMP Server",
@@ -1607,26 +1607,6 @@
       "exported_at": "2024-06-01T19:44:09+00:00"
     },
     {
-      "name": "Aoede",
-      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
-      "language": "en",
-      "size": "4.76 KB",
-      "type": "chatbots",
-      "author": "contact@bldy.ovh",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-pterodactyl-aoede.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
-      "name": "Aoede",
-      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
-      "language": "en",
-      "size": "4.98 KB",
-      "type": "chatbots",
-      "author": "contact@bldy.ovh",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
-      "exported_at": "2024-06-01T19:44:07+00:00"
-    },
-    {
       "name": "ATLBot",
       "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
       "language": "en",
@@ -1645,6 +1625,26 @@
       "author": "jfeldt19@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
       "exported_at": "2024-06-01T19:44:10+00:00"
+    },
+    {
+      "name": "Aoede",
+      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
+      "language": "en",
+      "size": "4.76 KB",
+      "type": "chatbots",
+      "author": "contact@bldy.ovh",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-pterodactyl-aoede.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
+    },
+    {
+      "name": "Aoede",
+      "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
+      "language": "en",
+      "size": "4.98 KB",
+      "type": "chatbots",
+      "author": "contact@bldy.ovh",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
+      "exported_at": "2024-06-01T19:44:07+00:00"
     }
   ],
   "generic": [
@@ -2843,26 +2843,6 @@
       "exported_at": "2024-06-01T19:40:09+00:00"
     },
     {
-      "name": "Travertine",
-      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.67 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-travertine.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
-      "name": "Travertine",
-      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.44 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
-      "exported_at": "2024-06-01T19:40:19+00:00"
-    },
-    {
       "name": "Velocity",
       "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
       "language": "en",
@@ -2881,6 +2861,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-pterodactyl-velocity.json",
       "exported_at": "2024-06-01T19:40:07+00:00"
+    },
+    {
+      "name": "Travertine",
+      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.67 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-travertine.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
+    },
+    {
+      "name": "Travertine",
+      "description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+      "language": "en",
+      "size": "5.44 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
+      "exported_at": "2024-06-01T19:40:19+00:00"
     },
     {
       "name": "Waterdog",
@@ -3665,26 +3665,6 @@
       "exported_at": "2024-06-01T00:04:37+00:00"
     },
     {
-      "name": "Project Zomboid",
-      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
-      "language": "en",
-      "size": "7.32 KB",
-      "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
-      "exported_at": "2024-06-01T00:04:36+00:00"
-    },
-    {
-      "name": "Project Zomboid",
-      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
-      "language": "en",
-      "size": "7.63 KB",
-      "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-project-zomboid.json",
-      "exported_at": "2024-06-01T00:04:36+00:00"
-    },
-    {
       "name": "Post Scriptum",
       "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
       "language": "en",
@@ -3702,6 +3682,26 @@
       "type": "games-steamcmd",
       "author": "admin@softwarenoob.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/post_scriptum/egg-post-scriptum.json",
+      "exported_at": "2024-06-01T00:04:36+00:00"
+    },
+    {
+      "name": "Project Zomboid",
+      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
+      "language": "en",
+      "size": "7.32 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
+      "exported_at": "2024-06-01T00:04:36+00:00"
+    },
+    {
+      "name": "Project Zomboid",
+      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
+      "language": "en",
+      "size": "7.63 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-project-zomboid.json",
       "exported_at": "2024-06-01T00:04:36+00:00"
     },
     {
@@ -3765,26 +3765,6 @@
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.05 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.39 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
       "name": "Palworld",
       "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
       "language": "en",
@@ -3823,6 +3803,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.05 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.39 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
       "name": "Open Fortress",
@@ -4665,26 +4665,6 @@
       "exported_at": "2024-06-01T00:03:44+00:00"
     },
     {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.68 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
-      "size": "6.96 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
       "name": "Citadel: Forged with Fire",
       "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
       "language": "en",
@@ -4703,6 +4683,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/citadel/egg-citadel--forged-with-fire.json",
       "exported_at": "2024-06-01T00:03:45+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.68 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.96 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
       "name": "BATTALION: Legacy",
