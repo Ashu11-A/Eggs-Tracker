@@ -1225,26 +1225,6 @@
       "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
-      "name": "Among Us - Impostor Server",
-      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
-      "language": "en",
-      "size": "3.42 KB",
-      "type": "games-standalone",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
-      "exported_at": "2024-07-01T10:26:38+02:00"
-    },
-    {
-      "name": "Among Us - Impostor Server",
-      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
-      "language": "en",
-      "size": "3.48 KB",
-      "type": "games-standalone",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
-      "exported_at": "2024-07-01T08:27:45+00:00"
-    },
-    {
       "name": "Crewlink server",
       "description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server",
       "language": "en",
@@ -1263,6 +1243,26 @@
       "author": "panel@oxtroit.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/crewlink_server/egg-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Among Us - Impostor Server",
+      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
+      "language": "en",
+      "size": "3.42 KB",
+      "type": "games-standalone",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
+      "exported_at": "2024-07-01T10:26:38+02:00"
+    },
+    {
+      "name": "Among Us - Impostor Server",
+      "description": "Impostor is one of the first Among Us private servers, written in C#.\r\n\r\nThere are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at.",
+      "language": "en",
+      "size": "3.48 KB",
+      "type": "games-standalone",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/impostor_server/egg-among-us--impostor-server.json",
+      "exported_at": "2024-07-01T08:27:45+00:00"
     },
     {
       "name": "BetterCrewlink Server",
@@ -1507,26 +1507,6 @@
       "exported_at": "2024-06-01T19:44:14+00:00"
     },
     {
-      "name": "Game Server Watcher",
-      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
-      "language": "en",
-      "size": "4.59 KB",
-      "type": "chatbots",
-      "author": "a-sync@devs.space",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-pterodactyl-game-server-watcher.json",
-      "exported_at": "2024-06-01T19:44:15+00:00"
-    },
-    {
-      "name": "Game Server Watcher",
-      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
-      "language": "en",
-      "size": "4.87 KB",
-      "type": "chatbots",
-      "author": "a-sync@devs.space",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-game-server-watcher.json",
-      "exported_at": "2024-06-01T19:44:15+00:00"
-    },
-    {
       "name": "fragbot",
       "description": "The fragforce discord bot.\r\n\r\nlocated at https://github.com/fragforce/fragbot",
       "language": "en",
@@ -1545,6 +1525,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/fragbot/egg-fragbot.json",
       "exported_at": "2024-06-01T19:44:14+00:00"
+    },
+    {
+      "name": "Game Server Watcher",
+      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
+      "language": "en",
+      "size": "4.59 KB",
+      "type": "chatbots",
+      "author": "a-sync@devs.space",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-pterodactyl-game-server-watcher.json",
+      "exported_at": "2024-06-01T19:44:15+00:00"
+    },
+    {
+      "name": "Game Server Watcher",
+      "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
+      "language": "en",
+      "size": "4.87 KB",
+      "type": "chatbots",
+      "author": "a-sync@devs.space",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-game-server-watcher.json",
+      "exported_at": "2024-06-01T19:44:15+00:00"
     },
     {
       "name": "Dynamica",
@@ -1729,26 +1729,6 @@
       "exported_at": "2024-06-02T14:43:51+00:00"
     },
     {
-      "name": "Generic Java",
-      "description": "Creates a container that runs java.",
-      "language": "en",
-      "size": "1.74 KB",
-      "type": "generic",
-      "author": "sneaky@sneakyhub.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-pterodactyl-generic-java.json",
-      "exported_at": "2024-06-02T14:43:51+00:00"
-    },
-    {
-      "name": "Generic Java",
-      "description": "Creates a container that runs java.",
-      "language": "en",
-      "size": "1.85 KB",
-      "type": "generic",
-      "author": "sneaky@sneakyhub.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-generic-java.json",
-      "exported_at": "2024-06-02T14:43:51+00:00"
-    },
-    {
       "name": "golang generic",
       "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
       "language": "en",
@@ -1767,6 +1747,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-golang-generic.json",
       "exported_at": "2024-06-02T14:43:56+00:00"
+    },
+    {
+      "name": "Generic Java",
+      "description": "Creates a container that runs java.",
+      "language": "en",
+      "size": "1.74 KB",
+      "type": "generic",
+      "author": "sneaky@sneakyhub.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-pterodactyl-generic-java.json",
+      "exported_at": "2024-06-02T14:43:51+00:00"
+    },
+    {
+      "name": "Generic Java",
+      "description": "Creates a container that runs java.",
+      "language": "en",
+      "size": "1.85 KB",
+      "type": "generic",
+      "author": "sneaky@sneakyhub.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-generic-java.json",
+      "exported_at": "2024-06-02T14:43:51+00:00"
     },
     {
       "name": "Elixir",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
@@ -4105,26 +4105,6 @@
       "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
-      "name": "Longvinter",
-      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
-      "language": "en",
-      "size": "10.57 KB",
-      "type": "games-steamcmd",
-      "author": "tueye@tuworld.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-pterodactyl-longvinter.json",
-      "exported_at": "2024-06-01T00:03:57+00:00"
-    },
-    {
-      "name": "Longvinter",
-      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
-      "language": "en",
-      "size": "11.04 KB",
-      "type": "games-steamcmd",
-      "author": "tueye@tuworld.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
-      "exported_at": "2024-06-01T00:03:57+00:00"
-    },
-    {
       "name": "Midnight Ghost Hunt",
       "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
       "language": "en",
@@ -4143,6 +4123,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
       "exported_at": "2024-07-28T19:43:17+02:00"
+    },
+    {
+      "name": "Longvinter",
+      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
+      "language": "en",
+      "size": "10.57 KB",
+      "type": "games-steamcmd",
+      "author": "tueye@tuworld.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-pterodactyl-longvinter.json",
+      "exported_at": "2024-06-01T00:03:57+00:00"
+    },
+    {
+      "name": "Longvinter",
+      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
+      "language": "en",
+      "size": "11.04 KB",
+      "type": "games-steamcmd",
+      "author": "tueye@tuworld.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
+      "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
       "name": "Left 4 Dead 2",
