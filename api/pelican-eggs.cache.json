@@ -105,26 +105,6 @@
       "exported_at": "2024-06-01T00:17:20+00:00"
     },
     {
-      "name": "Urban Terror",
-      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
-      "language": "en",
-      "size": "9.22 KB",
-      "type": "games-standalone",
-      "author": "Juli199696@web.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-urban-terror.json",
-      "exported_at": "2024-06-01T00:17:16+00:00"
-    },
-    {
-      "name": "Urban Terror",
-      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
-      "language": "en",
-      "size": "8.82 KB",
-      "type": "games-standalone",
-      "author": "Juli199696@web.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
-      "exported_at": "2024-06-01T00:17:16+00:00"
-    },
-    {
       "name": "The Battle for Wesnoth",
       "description": "Egg for hosting a Battle for Wesnoth Server.",
       "language": "en",
@@ -143,6 +123,26 @@
       "author": "mattman107@github.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
       "exported_at": "2024-11-20T10:57:52+01:00"
+    },
+    {
+      "name": "Urban Terror",
+      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
+      "language": "en",
+      "size": "9.22 KB",
+      "type": "games-standalone",
+      "author": "Juli199696@web.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-urban-terror.json",
+      "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "Urban Terror",
+      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
+      "language": "en",
+      "size": "8.82 KB",
+      "type": "games-standalone",
+      "author": "Juli199696@web.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
+      "exported_at": "2024-06-01T00:17:16+00:00"
     },
     {
       "name": "Teeworlds",
@@ -1911,26 +1911,6 @@
       "exported_at": "2024-06-02T14:40:56+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
@@ -1949,6 +1929,26 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
       "exported_at": "2024-06-02T14:40:55+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "Rathole",
