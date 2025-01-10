@@ -1931,26 +1931,6 @@
       "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Rathole",
       "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
       "language": "en",
@@ -1969,6 +1949,26 @@
       "author": "tunayada@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
       "exported_at": "2024-06-02T14:40:53+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "RabbitMQ",
@@ -2091,26 +2091,6 @@
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.44 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.54 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
       "name": "Gitea",
       "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
       "language": "en",
@@ -2129,6 +2109,26 @@
       "author": "mario.franze@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
       "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.44 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.54 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
     },
     {
       "name": "Forgejo",
@@ -3825,26 +3825,6 @@
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
-      "name": "Onset",
-      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-pterodactyl-onset.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
-      "name": "Onset",
-      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
-      "language": "en",
-      "size": "6 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
       "name": "Open Fortress",
       "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
       "language": "en",
@@ -3863,6 +3843,26 @@
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
       "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Onset",
+      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-pterodactyl-onset.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Onset",
+      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
+      "language": "en",
+      "size": "6 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
       "name": "Nova-Life: Amboise",
