@@ -1931,26 +1931,6 @@
       "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
-      "name": "Rathole",
-      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "software",
-      "author": "tunayada@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-rathole.json",
-      "exported_at": "2024-06-02T14:40:53+00:00"
-    },
-    {
-      "name": "Rathole",
-      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
-      "language": "en",
-      "size": "3.69 KB",
-      "type": "software",
-      "author": "tunayada@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
-      "exported_at": "2024-06-02T14:40:53+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1969,6 +1949,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "software",
+      "author": "tunayada@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-rathole.json",
+      "exported_at": "2024-06-02T14:40:53+00:00"
+    },
+    {
+      "name": "Rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "en",
+      "size": "3.69 KB",
+      "type": "software",
+      "author": "tunayada@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
+      "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
       "name": "RabbitMQ",
@@ -2091,26 +2091,6 @@
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "3.9 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "4.06 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
       "name": "Grafana",
       "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "language": "en",
@@ -2129,6 +2109,26 @@
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
       "exported_at": "2024-06-02T14:41:00+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "3.9 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "4.06 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
     },
     {
       "name": "Forgejo",
@@ -2232,6 +2232,26 @@
     }
   ],
   "minecraft": [
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
     {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
@@ -2641,26 +2661,6 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
     },
     {
       "name": "PocketmineMP",
