@@ -85,26 +85,6 @@
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.99 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
-      "name": "Veloren",
-      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
-      "language": "en",
-      "size": "3.82 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
-      "exported_at": "2024-06-01T00:17:20+00:00"
-    },
-    {
       "name": "Urban Terror",
       "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
       "language": "en",
@@ -123,6 +103,26 @@
       "author": "Juli199696@web.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
       "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.99 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
+    },
+    {
+      "name": "Veloren",
+      "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
+      "language": "en",
+      "size": "3.82 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
+      "exported_at": "2024-06-01T00:17:20+00:00"
     },
     {
       "name": "The Battle for Wesnoth",
@@ -625,26 +625,6 @@
       "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.26 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
-      "language": "en",
-      "size": "4.4 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
@@ -663,6 +643,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.26 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.4 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
       "name": "Terraria Vanilla",
@@ -1931,26 +1931,6 @@
       "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
       "name": "Rathole",
       "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
       "language": "en",
@@ -1969,6 +1949,26 @@
       "author": "tunayada@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
       "exported_at": "2024-06-02T14:40:53+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.75 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Reposilite",
+      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
+      "language": "en",
+      "size": "2.65 KB",
+      "type": "software",
+      "author": "mk@kcra.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
+      "exported_at": "2024-06-02T14:40:54+00:00"
     },
     {
       "name": "RabbitMQ",
@@ -2273,26 +2273,6 @@
       "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
-      "name": "SpongeForge",
-      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
-      "language": "en",
-      "size": "9.44 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-sponge-forge.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
-      "name": "SpongeForge",
-      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
-      "language": "en",
-      "size": "9.19 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
-      "exported_at": "2024-06-01T19:40:12+00:00"
-    },
-    {
       "name": "Spigot",
       "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
       "language": "en",
@@ -2311,6 +2291,26 @@
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-pterodactyl-spigot.json",
       "exported_at": "2024-06-01T19:39:58+00:00"
+    },
+    {
+      "name": "SpongeForge",
+      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+      "language": "en",
+      "size": "9.44 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-sponge-forge.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "SpongeForge",
+      "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+      "language": "en",
+      "size": "9.19 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
+      "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
       "name": "Quilt",
@@ -3845,26 +3845,6 @@
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
-      "name": "Open Fortress",
-      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
-      "language": "en",
-      "size": "9.86 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Open Fortress",
-      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
-      "language": "en",
-      "size": "10.19 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
       "name": "Onset",
       "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
       "language": "en",
@@ -3883,6 +3863,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
       "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Open Fortress",
+      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+      "language": "en",
+      "size": "9.86 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Open Fortress",
+      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+      "language": "en",
+      "size": "10.19 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
       "name": "Nova-Life: Amboise",
