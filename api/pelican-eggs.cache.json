@@ -385,26 +385,6 @@
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.51 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
-    },
-    {
       "name": "LeagueSandbox",
       "description": "A simple egg to run LeagueSandbox server in pterodactyl",
       "language": "en",
@@ -423,6 +403,26 @@
       "author": "domi@imagine.team",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/leaguesandbox/egg-league-sandbox.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.51 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
       "name": "KSP DMP",
