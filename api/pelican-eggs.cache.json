@@ -85,26 +85,6 @@
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
-      "name": "Urban Terror",
-      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
-      "language": "en",
-      "size": "9.22 KB",
-      "type": "games-standalone",
-      "author": "Juli199696@web.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-urban-terror.json",
-      "exported_at": "2024-06-01T00:17:16+00:00"
-    },
-    {
-      "name": "Urban Terror",
-      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
-      "language": "en",
-      "size": "8.82 KB",
-      "type": "games-standalone",
-      "author": "Juli199696@web.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
-      "exported_at": "2024-06-01T00:17:16+00:00"
-    },
-    {
       "name": "Veloren",
       "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
       "language": "en",
@@ -123,6 +103,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
       "exported_at": "2024-06-01T00:17:20+00:00"
+    },
+    {
+      "name": "Urban Terror",
+      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
+      "language": "en",
+      "size": "9.22 KB",
+      "type": "games-standalone",
+      "author": "Juli199696@web.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-urban-terror.json",
+      "exported_at": "2024-06-01T00:17:16+00:00"
+    },
+    {
+      "name": "Urban Terror",
+      "description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena.",
+      "language": "en",
+      "size": "8.82 KB",
+      "type": "games-standalone",
+      "author": "Juli199696@web.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/urbanterror/egg-pterodactyl-urban-terror.json",
+      "exported_at": "2024-06-01T00:17:16+00:00"
     },
     {
       "name": "The Battle for Wesnoth",
@@ -1931,26 +1931,6 @@
       "exported_at": "2024-06-02T14:40:55+00:00"
     },
     {
-      "name": "Rathole",
-      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
-      "language": "en",
-      "size": "3.81 KB",
-      "type": "software",
-      "author": "tunayada@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-rathole.json",
-      "exported_at": "2024-06-02T14:40:53+00:00"
-    },
-    {
-      "name": "Rathole",
-      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
-      "language": "en",
-      "size": "3.69 KB",
-      "type": "software",
-      "author": "tunayada@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
-      "exported_at": "2024-06-02T14:40:53+00:00"
-    },
-    {
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
@@ -1969,6 +1949,26 @@
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
       "exported_at": "2024-06-02T14:40:54+00:00"
+    },
+    {
+      "name": "Rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "en",
+      "size": "3.81 KB",
+      "type": "software",
+      "author": "tunayada@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-rathole.json",
+      "exported_at": "2024-06-02T14:40:53+00:00"
+    },
+    {
+      "name": "Rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "en",
+      "size": "3.69 KB",
+      "type": "software",
+      "author": "tunayada@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
+      "exported_at": "2024-06-02T14:40:53+00:00"
     },
     {
       "name": "RabbitMQ",
@@ -2233,6 +2233,26 @@
   ],
   "minecraft": [
     {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "6.08 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
+      "exported_at": "2024-08-02T12:03:34+00:00"
+    },
+    {
+      "name": "Purpur-Geyser-Floodgate",
+      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
+      "language": "en",
+      "size": "5.98 KB",
+      "type": "minecraft",
+      "author": "purpur@birdflop.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+      "exported_at": "2024-09-17T22:59:20+02:00"
+    },
+    {
       "name": "VanillaCord",
       "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.\r\n\r\nVanillaCord adds support for BungeeCord's ip_forward setting.",
       "language": "en",
@@ -2273,26 +2293,6 @@
       "exported_at": "2024-06-01T19:40:12+00:00"
     },
     {
-      "name": "Spigot",
-      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
-      "language": "en",
-      "size": "6.32 KB",
-      "type": "minecraft",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-spigot.json",
-      "exported_at": "2024-06-01T19:39:58+00:00"
-    },
-    {
-      "name": "Spigot",
-      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
-      "language": "en",
-      "size": "6.14 KB",
-      "type": "minecraft",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-pterodactyl-spigot.json",
-      "exported_at": "2024-06-01T19:39:58+00:00"
-    },
-    {
       "name": "SpongeForge",
       "description": "A community-driven open source Minecraft: Java Edition modding platform.",
       "language": "en",
@@ -2311,6 +2311,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
       "exported_at": "2024-06-01T19:40:12+00:00"
+    },
+    {
+      "name": "Spigot",
+      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
+      "language": "en",
+      "size": "6.32 KB",
+      "type": "minecraft",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-spigot.json",
+      "exported_at": "2024-06-01T19:39:58+00:00"
+    },
+    {
+      "name": "Spigot",
+      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
+      "language": "en",
+      "size": "6.14 KB",
+      "type": "minecraft",
+      "author": "support@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-pterodactyl-spigot.json",
+      "exported_at": "2024-06-01T19:39:58+00:00"
     },
     {
       "name": "Quilt",
@@ -2663,26 +2683,6 @@
       "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "6.08 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json",
-      "exported_at": "2024-08-02T12:03:34+00:00"
-    },
-    {
-      "name": "Purpur-Geyser-Floodgate",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate",
-      "language": "en",
-      "size": "5.98 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
-      "exported_at": "2024-09-17T22:59:20+02:00"
-    },
-    {
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pterodactyl-Discord :)",
       "language": "en",
@@ -3003,26 +3003,6 @@
       "exported_at": "2024-09-12T21:48:20+02:00"
     },
     {
-      "name": "Tekkit Legends",
-      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
-      "language": "en",
-      "size": "2.5 KB",
-      "type": "minecraft",
-      "author": "aevum@decess.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-tekkit-legends.json",
-      "exported_at": "2024-06-01T19:40:18+00:00"
-    },
-    {
-      "name": "Tekkit Legends",
-      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
-      "language": "en",
-      "size": "2.4 KB",
-      "type": "minecraft",
-      "author": "aevum@decess.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json",
-      "exported_at": "2024-06-01T19:40:18+00:00"
-    },
-    {
       "name": "Tekkit Classic",
       "description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft. \r\nIt brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!",
       "language": "en",
@@ -3041,6 +3021,26 @@
       "author": "geoffrey@remedygaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-classic/egg-pterodactyl-tekkit-classic.json",
       "exported_at": "2024-06-01T19:40:16+00:00"
+    },
+    {
+      "name": "Tekkit Legends",
+      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
+      "language": "en",
+      "size": "2.5 KB",
+      "type": "minecraft",
+      "author": "aevum@decess.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-tekkit-legends.json",
+      "exported_at": "2024-06-01T19:40:18+00:00"
+    },
+    {
+      "name": "Tekkit Legends",
+      "description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!\r\n\r\nhttps://www.technicpack.net/modpack/tekkit-legends.735902",
+      "language": "en",
+      "size": "2.4 KB",
+      "type": "minecraft",
+      "author": "aevum@decess.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json",
+      "exported_at": "2024-06-01T19:40:18+00:00"
     },
     {
       "name": "Hexxit",
@@ -3845,26 +3845,6 @@
       "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
-      "name": "Onset",
-      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-pterodactyl-onset.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
-      "name": "Onset",
-      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
-      "language": "en",
-      "size": "6 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
-      "exported_at": "2024-06-01T00:04:31+00:00"
-    },
-    {
       "name": "Open Fortress",
       "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
       "language": "en",
@@ -3883,6 +3863,26 @@
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
       "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Onset",
+      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-pterodactyl-onset.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
+    },
+    {
+      "name": "Onset",
+      "description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players.",
+      "language": "en",
+      "size": "6 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/onset/egg-onset.json",
+      "exported_at": "2024-06-01T00:04:31+00:00"
     },
     {
       "name": "Nova-Life: Amboise",
@@ -3965,26 +3965,6 @@
       "exported_at": "2024-06-01T00:04:26+00:00"
     },
     {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "9.54 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
-      "language": "en",
-      "size": "10.06 KB",
-      "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
-      "exported_at": "2024-06-15T18:59:35+02:00"
-    },
-    {
       "name": "NeosVR",
       "description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting.",
       "language": "en",
@@ -4023,6 +4003,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-necesse.json",
       "exported_at": "2024-06-01T00:04:25+00:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "9.54 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
+      "size": "10.06 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-night-of-the-dead.json",
+      "exported_at": "2024-06-15T18:59:35+02:00"
     },
     {
       "name": "Myth of Empires",
