@@ -1749,26 +1749,6 @@
       "exported_at": "2024-06-02T14:43:51+00:00"
     },
     {
-      "name": "golang generic",
-      "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
-      "language": "en",
-      "size": "1.82 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-pterodactyl-golang-generic.json",
-      "exported_at": "2024-06-02T14:43:56+00:00"
-    },
-    {
-      "name": "golang generic",
-      "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
-      "language": "en",
-      "size": "1.94 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-golang-generic.json",
-      "exported_at": "2024-06-02T14:43:56+00:00"
-    },
-    {
       "name": "Elixir",
       "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
       "language": "en",
@@ -1787,6 +1767,26 @@
       "author": "mravox@proton.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "golang generic",
+      "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
+      "language": "en",
+      "size": "1.82 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-pterodactyl-golang-generic.json",
+      "exported_at": "2024-06-02T14:43:56+00:00"
+    },
+    {
+      "name": "golang generic",
+      "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
+      "language": "en",
+      "size": "1.94 KB",
+      "type": "generic",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-golang-generic.json",
+      "exported_at": "2024-06-02T14:43:56+00:00"
     },
     {
       "name": "Deno Generic",
@@ -3785,26 +3785,6 @@
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.05 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.39 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
       "name": "Palworld",
       "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
       "language": "en",
@@ -3843,6 +3823,26 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.05 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.39 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
       "name": "Open Fortress",
