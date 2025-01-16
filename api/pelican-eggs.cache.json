@@ -3785,6 +3785,26 @@
       "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.05 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
+      "name": "Operation Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
+      "language": "en",
+      "size": "7.39 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
+    },
+    {
       "name": "Palworld",
       "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
       "language": "en",
@@ -3823,26 +3843,6 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
       "exported_at": "2024-07-15T19:02:11+02:00"
-    },
-    {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.05 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Operation Harsh Doorstop",
-      "description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!",
-      "language": "en",
-      "size": "7.39 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
       "name": "Open Fortress",
@@ -5487,16 +5487,6 @@
       "exported_at": "2022-07-11T13:17:43+02:00"
     },
     {
-      "name": "rethinkdb",
-      "description": "The open-source database for the realtime web",
-      "language": "en",
-      "size": "2.58 KB",
-      "type": "database",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/rethinkdb/egg-rethinkdb.json",
-      "exported_at": "2024-04-02T14:35:12+02:00"
-    },
-    {
       "name": "MongoDB 7",
       "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for my butt era.",
       "language": "en",
@@ -5525,6 +5515,16 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/mongodb/egg-mongo-d-b.json",
       "exported_at": "2022-08-28T13:33:51+02:00"
+    },
+    {
+      "name": "rethinkdb",
+      "description": "The open-source database for the realtime web",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "database",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/nosql/rethinkdb/egg-rethinkdb.json",
+      "exported_at": "2024-04-02T14:35:12+02:00"
     }
   ]
 }
