@@ -2091,26 +2091,6 @@
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.44 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.54 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
       "name": "Gitea",
       "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
       "language": "en",
@@ -2129,6 +2109,26 @@
       "author": "mario.franze@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
       "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.44 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
+    },
+    {
+      "name": "Grafana",
+      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "en",
+      "size": "3.54 KB",
+      "type": "software",
+      "author": "p.zarrad@outlook.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
+      "exported_at": "2024-06-02T14:41:00+00:00"
     },
     {
       "name": "Forgejo",
@@ -2903,26 +2903,6 @@
       "exported_at": "2024-06-01T19:40:19+00:00"
     },
     {
-      "name": "Waterdog PE",
-      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
-      "language": "en",
-      "size": "3.49 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog PE",
-      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
-      "language": "en",
-      "size": "3.33 KB",
-      "type": "minecraft",
-      "author": "parker@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-pterodactyl-waterdog-p-e.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
       "name": "Waterdog",
       "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
       "language": "en",
@@ -2940,6 +2920,26 @@
       "type": "minecraft",
       "author": "parker@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog PE",
+      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
+      "language": "en",
+      "size": "3.49 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
+    },
+    {
+      "name": "Waterdog PE",
+      "description": "Brand new proxy server for Minecraft: Bedrock Edition",
+      "language": "en",
+      "size": "3.33 KB",
+      "type": "minecraft",
+      "author": "parker@pterodactyl.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/bedrock/waterdog_pe/egg-pterodactyl-waterdog-p-e.json",
       "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
