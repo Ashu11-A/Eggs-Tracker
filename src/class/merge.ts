@@ -1,11 +1,11 @@
-import { Egg } from "@/functions/getEggs"
-import { exists } from "fs-extra"
-import { mkdir, readFile, writeFile } from "fs/promises"
+import { Egg } from '@/functions/getEggs'
+import { exists } from 'fs-extra'
+import { mkdir, readFile, writeFile } from 'fs/promises'
 
 interface MergeOptions {
-    data: Egg[]
-    author: string
-    repoName: string
+  data: Egg[]
+  author: string
+  repoName: string
 }
 
 export class Merge {
@@ -14,13 +14,13 @@ export class Merge {
   public repoName: string
   public data: Egg[]
 
-  constructor ({ author, data, repoName }: MergeOptions) {
+  constructor({ author, data, repoName }: MergeOptions) {
     this.author = author
     this.repoName = repoName
     this.data = data
   }
 
-  async read () {
+  async read() {
     const cache = await exists(`api/${this.author}.cache.json`)
       ? JSON.parse(await readFile(`api/${this.author}.cache.json`, { encoding: 'utf-8' })) as { [repoName: string]: Egg[] }[]
       : {}
@@ -36,13 +36,13 @@ export class Merge {
     return this
   }
 
-  async write () {
+  async write() {
     const data = Merge.metadata.get(this.author)
     if (data === undefined) return
 
     const merged: Egg[] = []
 
-    
+
     for (const key of Object.keys(data)) {
       console.log(key)
       merged.push(...data[key])

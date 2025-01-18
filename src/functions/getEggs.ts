@@ -1,8 +1,8 @@
-import { EggConfig } from "@/types/EggType";
-import { readFile, stat } from "fs-extra";
-import { glob } from "glob";
-import { formatBytes } from "./format";
-import { basename, join } from "path";
+import { EggConfig } from '@/types/EggType'
+import { readFile, stat } from 'fs-extra'
+import { glob } from 'glob'
+import { formatBytes } from './format'
+import { basename, join } from 'path'
 import cld from 'cld'
 
 
@@ -35,7 +35,7 @@ export async function getEggs(path: string, { branch, repository }: { repository
       const pathEgg = path.replace(`${path.split('/')[0]}/`, '')
       const link = `https://raw.githubusercontent.com/${repository}/${branch}/${pathEgg}`
 
-      function getType (path: string): string {
+      const getType = (path: string): string => {
         if (authorRepo === 'pelican-eggs') return repoName
 
         if (

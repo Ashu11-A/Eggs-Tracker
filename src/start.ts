@@ -55,11 +55,11 @@ void (async () => {
     const repoData = (await axios.get(`https://api.github.com/repos/${repository}`)).data as { pushed_at: string }
 
     if (repoData.pushed_at === linkCache.find((element) => element.author === author)?.pushed_at) {
-      console.log('Repositorio sem alterações');
+      console.log('Repositorio sem alterações')
       continue
     }
 
-    async function processRepo () {
+    const processRepo = async () => {
       const eggs = await getEggs(repoName, { branch, repository })
       await (await (new Merge({ author, data: eggs, repoName })).read()).write()
 
@@ -83,7 +83,6 @@ void (async () => {
   }
 
 })().then(async () => {
-  // Sistema de mesclagem
   for (const link of links) {
     const index = linkCache.findIndex((element) => element.author === link.author)
     if (index !== -1) {
