@@ -1327,26 +1327,6 @@
       "exported_at": "2024-06-01T19:44:04+00:00"
     },
     {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.7 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
-      "name": "JTS3ServerMod",
-      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-      "language": "en",
-      "size": "2.8 KB",
-      "type": "chatbots",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-      "exported_at": "2024-06-01T19:44:16+00:00"
-    },
-    {
       "name": "Big Brother Bot",
       "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
       "language": "en",
@@ -1365,6 +1345,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
       "exported_at": "2024-06-01T19:44:11+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.7 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
+    },
+    {
+      "name": "JTS3ServerMod",
+      "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
+      "language": "en",
+      "size": "2.8 KB",
+      "type": "chatbots",
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+      "exported_at": "2024-06-01T19:44:16+00:00"
     },
     {
       "name": "Sinusbot",
@@ -1789,26 +1789,6 @@
       "exported_at": "2024-06-02T14:43:55+00:00"
     },
     {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
-      "name": "dart generic",
-      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "6.07 KB",
-      "type": "generic",
-      "author": "alden@knoban.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
-      "exported_at": "2024-06-02T14:43:54+00:00"
-    },
-    {
       "name": "Deno Generic",
       "description": "A generic egg to run deno code.",
       "language": "en",
@@ -1827,6 +1807,26 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
       "exported_at": "2024-06-02T14:43:55+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "5.83 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
+    },
+    {
+      "name": "dart generic",
+      "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+      "language": "en",
+      "size": "6.07 KB",
+      "type": "generic",
+      "author": "alden@knoban.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
+      "exported_at": "2024-06-02T14:43:54+00:00"
     },
     {
       "name": "Generic C#",
@@ -2091,26 +2091,6 @@
       "exported_at": "2024-06-02T14:41:01+00:00"
     },
     {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "3.9 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "4.06 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
       "name": "Grafana",
       "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "language": "en",
@@ -2129,6 +2109,26 @@
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
       "exported_at": "2024-06-02T14:41:00+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "3.9 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
+    },
+    {
+      "name": "Gitea",
+      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+      "language": "en",
+      "size": "4.06 KB",
+      "type": "software",
+      "author": "mario.franze@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
+      "exported_at": "2024-06-02T14:40:59+00:00"
     },
     {
       "name": "Forgejo",
