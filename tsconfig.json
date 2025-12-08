@@ -16,7 +16,7 @@
     "sourceMap": false,
     "outDir": "./dist",
     "rootDir": "src",
-    "importHelpers": true,
+    "importHelpers": false,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,

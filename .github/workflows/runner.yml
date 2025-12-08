@@ -1,0 +1,31 @@
+# This workflow will do a clean installation of dependencies using Bun and build the source code
+# For more information see: https://bun.sh/docs/cli/install
+
+name: Bun CI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1-23/7 * * *'
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: oven-sh/setup-bun@v2
+    - run: git lfs install --skip-smudge
+    - name: Install deps
+      run: bun i
+    - name: Run javascript code
+      run: bun run dev
+    - name: Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.16.0
+      with:
+         commit_author: Author <41898282+github-actions[bot]@users.noreply.github.com>

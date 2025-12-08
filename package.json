@@ -4,9 +4,8 @@
   "description": "API para o addon de pterodactly",
   "main": "dist/start.js",
   "scripts": {
-    "build": "tsc",
-    "dev": "git lfs install --skip-smudge && ts-node -r tsconfig-paths/register --transpiler sucrase/ts-node-plugin src/start.ts",
-    "lint": "eslint -c eslint.config.mjs --fix"
+    "dev": "bun run src/start.ts",
+    "lint": "eslint -c eslint.config.mts --fix"
   },
   "repository": {
     "type": "git",
@@ -19,22 +18,19 @@
   },
   "homepage": "https://github.com/Ashu11-A/Eggs-Tracker#readme",
   "devDependencies": {
-    "@eslint/js": "^9.18.0",
+    "@eslint/js": "^9.39.1",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.10.7",
-    "eslint": "^9.18.0",
-    "globals": "^15.14.0",
-    "typescript": "^5.7.3",
-    "typescript-eslint": "^8.20.0"
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0",
+    "jiti": "^2.6.1",
+    "typescript-eslint": "^8.49.0"
   },
   "dependencies": {
     "axios": "^1.7.9",
     "cld": "^2.10.0",
     "fs-extra": "^11.3.0",
     "glob": "^10.4.5",
-    "simple-git": "^3.27.0",
-    "sucrase": "^3.35.0",
-    "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0"
+    "simple-git": "^3.27.0"
   }
 }

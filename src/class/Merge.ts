@@ -1,8 +1,8 @@
-import { Egg } from '@/functions/getEggs'
+import { Egg } from '@/types'
 import { exists } from 'fs-extra'
 import { mkdir, readFile, writeFile } from 'fs/promises'
 
-interface MergeOptions {
+export interface MergeOptions {
   data: Egg[]
   author: string
   repoName: string
@@ -58,3 +58,4 @@ export class Merge {
     return this
   }
 }
+
