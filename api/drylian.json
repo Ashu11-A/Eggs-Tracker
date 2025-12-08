@@ -40,6 +40,16 @@
     "exported_at": "2024-07-10T13:51:21-03:00"
   },
   {
+    "name": "Node JS - Chromium",
+    "description": "Node JS, egg para sources de bots e sites que tem dependencias de navegador exemplo puppeteer",
+    "language": "en",
+    "size": "5.05 KB",
+    "type": "Eggs",
+    "author": "danielolxlol@gmail.com",
+    "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-node-j-s--chromium.json",
+    "exported_at": "2025-09-16T16:44:41-03:00"
+  },
+  {
     "name": "Open-MP",
     "description": "O objetivo do Open-MP é criar um sistema de servidor multiplayer mais atualizado, seguro e escalável para o GTA: San Andreas. O projeto é de código aberto, o que significa que qualquer pessoa pode contribuir para seu desenvolvimento ou usar o código em seus próprios projetos.\r\n\r\nCriado por Drylian.\r\nVersão: 1.0 (Sample)\r\nLingua:Portugues Brasileiro.\r\nGithub: https://github.com/drylian/\r\n\r\nDocker ARM64 por Ashu \r\nGithub: https://github.com/Ashu11-A/",
     "language": "pt",

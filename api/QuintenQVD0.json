@@ -3,11 +3,21 @@
     "name": "7 Days To Die ARM64",
     "description": "7 days to die server",
     "language": "en",
-    "size": "6.27 KB",
+    "size": "6.26 KB",
     "type": "steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-7-days-to-die-a-r-m64.json",
     "exported_at": "2023-01-26T19:01:12+01:00"
+  },
+  {
+    "name": "Abiotic Factor ARM64",
+    "description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats.",
+    "language": "en",
+    "size": "6.77 KB",
+    "type": "steamcmd",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-abiotic-factor-a-r-m64.json",
+    "exported_at": "2025-10-19T18:19:12+02:00"
   },
   {
     "name": "Among Us - Impostor Server",
@@ -23,7 +33,7 @@
     "name": "Ark: Survival Evolved ARM64",
     "description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK",
     "language": "en",
-    "size": "7.78 KB",
+    "size": "7.76 KB",
     "type": "steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-ark--survival-evolved.json",
@@ -73,11 +83,11 @@
     "name": "Enshrouded ARM64",
     "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the original amd64 egg",
     "language": "en",
-    "size": "7.54 KB",
+    "size": "7.48 KB",
     "type": "steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-enshrouded-a-r-m64.json",
-    "exported_at": "2024-02-25T18:11:41+01:00"
+    "exported_at": "2025-11-16T10:44:38+00:00"
   },
   {
     "name": "Factorio ARM64",
@@ -93,7 +103,7 @@
     "name": "FiveM ARM64",
     "description": "A FiveM egg for the latest builds due to recent changes in FiveM",
     "language": "en",
-    "size": "8.75 KB",
+    "size": "8.74 KB",
     "type": "gta",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-five-m-a-r-m64.json",
@@ -103,7 +113,7 @@
     "name": "Garrys Mod ARM64",
     "description": "Garrys Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
     "language": "en",
-    "size": "7.37 KB",
+    "size": "7.36 KB",
     "type": "steamcmd",
     "author": "support@pterodactyl.io",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-garrys-mod-a-r-m64.json",
@@ -133,7 +143,7 @@
     "name": "HLDS Engine Game ARM64",
     "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel.",
     "language": "en",
-    "size": "6.51 KB",
+    "size": "6.5 KB",
     "type": "steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-h-l-d-s-engine-game-a-r-m64.json",
@@ -150,6 +160,16 @@
     "exported_at": "2023-10-08T16:35:16+02:00"
   },
   {
+    "name": "Necesse",
+    "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+    "language": "en",
+    "size": "7.8 KB",
+    "type": "steamcmd",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-necesse.json",
+    "exported_at": "2025-11-16T10:31:04+00:00"
+  },
+  {
     "name": "Open World",
     "description": "A Free Multiplayer Mod For Rimworld",
     "language": "en",
@@ -163,7 +183,7 @@
     "name": "Palworld ARM64",
     "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
     "language": "en",
-    "size": "9.74 KB",
+    "size": "9.72 KB",
     "type": "steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-palworld-a-r-m64.json",
@@ -233,21 +253,31 @@
     "name": "Satisfactory ARM64",
     "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
     "language": "en",
-    "size": "8.23 KB",
+    "size": "8.24 KB",
     "type": "steamcmd",
     "author": "red_thirten@yahoo.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-satisfactory-a-r-m64.json",
-    "exported_at": "2024-09-20T08:52:20+02:00"
+    "exported_at": "2025-01-26T14:31:58+01:00"
   },
   {
     "name": "SCP:SL - Exiled - ARM64",
     "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
     "language": "en",
-    "size": "5.99 KB",
+    "size": "6.32 KB",
     "type": "steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-s-c-p--s-l--exiled--a-r-m64.json",
-    "exported_at": "2024-02-13T14:10:41+01:00"
+    "exported_at": "2025-01-26T14:59:40+01:00"
+  },
+  {
+    "name": "Smalland: Survive the Wilds ARM64",
+    "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
+    "language": "en",
+    "size": "11.29 KB",
+    "type": "steamcmd",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-smalland--survive-the-wilds-a-r-m64.json",
+    "exported_at": "2025-02-06T15:38:18+01:00"
   },
   {
     "name": "Teamspeak3 Server ARM64",
@@ -273,7 +303,7 @@
     "name": "The Front ARM64",
     "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
     "language": "en",
-    "size": "12.3 KB",
+    "size": "12.26 KB",
     "type": "steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-the-front-a-r-m64.json",
@@ -303,20 +333,30 @@
     "name": "Valheim ARM64",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
     "language": "en",
-    "size": "6.04 KB",
+    "size": "9.86 KB",
     "type": "steamcmd",
-    "author": "josdekurk@gmail.com",
+    "author": "quinten@pelican.dev",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-valheim.json",
-    "exported_at": "2022-11-20T14:52:18+01:00"
+    "exported_at": "2025-11-16T13:20:42+00:00"
   },
   {
-    "name": "Vanilla Bedrock ARM64",
+    "name": "Vanilla Bedrock ARM64 [BOX64]",
     "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
     "language": "en",
-    "size": "6.07 KB",
+    "size": "6.08 KB",
     "type": "minecraft",
     "author": "josdekurk@gmail.com",
-    "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-vanilla-bedrock.json",
-    "exported_at": "2022-07-06T09:38:01+02:00"
+    "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-vanilla-bedrock-a-r-m64--b-o-x64.json",
+    "exported_at": "2025-02-06T09:06:07+01:00"
+  },
+  {
+    "name": "Vanilla Bedrock ARM64 [FEX]",
+    "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+    "language": "en",
+    "size": "6.46 KB",
+    "type": "minecraft",
+    "author": "josdekurk@gmail.com",
+    "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-vanilla-bedrock-a-r-m64--f-e-x.json",
+    "exported_at": "2025-02-06T09:10:09+01:00"
   }
 ]

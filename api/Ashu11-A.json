@@ -11,13 +11,13 @@
   },
   {
     "name": "Bot4All",
-    "description": "💎 Egg: Bot4All (BotForAll)\r\n⚙️ Version: 1.0\r\n❓ What it is: \r\n🐛 Bugfixes/changelogs:\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Bot4All (BotForAll)\r\n⚙️ Version: 1.0\r\n❓ What is it: \r\n🐞 Bugs fixed/changelogs:\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "5.56 KB",
+    "size": "5.44 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-bot4-all.json",
-    "exported_at": "2024-03-24T21:36:44-03:00"
+    "exported_at": "2024-03-24T21:26:57-03:00"
   },
   {
     "name": "Emby",
@@ -31,13 +31,13 @@
   },
   {
     "name": "Emby",
-    "description": "💎 Egg: Emby\r\n⚙️ Version: 2.1\r\n❓ What is it: In short, you can have your own Netflix. Emby is a media server designed to organize, play, and stream audio and video to a variety of devices.\r\n🐛 Fixed bugs/changelogs: \r\n      • The way downloads are done has changed, it will now always install the latest version \r\n      • Now the Egg is not dependent on updates, everything is done by scripts, which results in better maintenance.\r\n      • Code is now cleaner.\r\n    📦Docker:\r\n         • Docker Updated (Dotnet Version: 6.0.13) \r\n         • ARM compatibility added\r\n         • Now there is no need to switch between 64x and ARM64 Use the image: ashu11a/emby:latest\r\n     • (2.1) Dotnet 8 image added.\r\n👑 Author: Ashu 👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Emby\r\n⚙️ Version: 2.1\r\n❓ What is it: In short, you can have your own Netflix. Emby is a media server designed to organize, play, and stream audio and video to a variety of devices.\r\n🐞 Bugs fixed/changelogs: \r\n   • The way the download is done has changed, it will now always install the latest version\r\n   • Now the Egg is not dependent on updates, everything is done by scripts, which results in better maintenance.\r\n   • The code is now cleaner.\r\n  📦Docker:\r\n     • Docker Updated (Dotnet Version: 6.0.13)\r\n     • ARM compatibility added\r\n     • Now there is no need to switch between 64x and ARM64. Use the image: ashu11a/emby:latest\r\n     • (2.1) Dotnet 8 image added.\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "2.7 KB",
+    "size": "2.58 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-emby.json",
-    "exported_at": "2024-03-23T23:15:22-03:00"
+    "exported_at": "2024-03-23T23:15:09-03:00"
   },
   {
     "name": "FFmpeg Commander",
@@ -51,9 +51,9 @@
   },
   {
     "name": "FFmpeg Commander",
-    "description": "💎 Egg: FFmpeg Commander\r\n⚙️ Version: 1.0\r\n❓ What: A simple web UI for generating operation õcommon FFmpeg encodings.\r\n🐛 Bugs fixed/changelogs:\r\n • (1.0) Release.\r\n 📝 Variables: \r\n • (1.0) Enable FFmpegd.\r\n • (1.0) FFmpegd Port.\r\n 📦 Docker: \r\n • Compatibility with ARM64, 64x\r\n ud83d\udc51 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: FFmpeg Commander\r\n⚙️ Version: 1.0\r\n❓ What is it: A simple web user interface to generate common FFmpeg encoding operations.\r\n🐞 Bugs fixed/changelogs:\r\n • (1.0) Release.\r\n    📝 Variables: \r\n        • (1.0) Enable FFmpegd.\r\n        • (1.0) FFmpegd Port.\r\n    📦 Docker: \r\n         • ARM64, 64x compatibility\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "2.47 KB",
+    "size": "2.39 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-ffmpeg-commander.json",
@@ -61,43 +61,43 @@
   },
   {
     "name": "Frp",
-    "description": "💎 Egg: Frp\r\n⚙️ Versão: 2.1\r\n❓ Oque é: Um proxy reverso rápido para ajudá-lo a expor um servidor local atrás de um NAT ou firewall à Internet.\r\n🐛 Bugs corrigidos/changelogs:\r\n• Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o que ocasiona na sua melhor manutenção.\r\n• Código agora está mais limpo.\r\n• Novas Variáveis: \r\n   • Frps ou Frpc?\r\n   • Instalar Exemplo?\r\n•  2.1: Atualização para o novo sistema do FRP (.toml)\r\n⚠️ Atenção:\r\n❗️Esse Egg necessita de no mínimo 4 portas(vá para startup no painel, e especifique as portas, é complicado de se mexer, qualquer coisa me marca.)\r\n📛O Windows irá detectar o Frp como vírus, por causa do Tunelamento de Portas.\r\n🚫Se você já houver esse Egg instado em algum servidor, será necessário fazer uma reinstalação (Faça um backup das suas coisas antes.)\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Frp\r\n⚙️ Versão: 2.2\r\n❓ Oque é: Um proxy reverso rápido para ajudá-lo a expor um servidor local atrás de um NAT ou firewall à Internet.\r\n🐛 Bugs corrigidos/changelogs:\r\n• Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o que ocasiona na sua melhor manutenção.\r\n• Código agora está mais limpo.\r\n• Novas Variáveis: \r\n   • Frps ou Frpc?\r\n   • Instalar Exemplo?\r\n•  2.1: Atualização para o novo sistema do FRP (.toml)\r\n•  2.2: Mudança do docker de ubuntu/debian para alpine (mais leve)\r\n⚠️ Atenção:\r\n❗️Esse Egg necessita de no mínimo 4 portas(vá para startup no painel, e especifique as portas, é complicado de se mexer, qualquer coisa me marca.)\r\n📛O Windows irá detectar o Frp como vírus, por causa do Tunelamento de Portas.\r\n🚫Se você já houver esse Egg instado em algum servidor, será necessário fazer uma reinstalação (Faça um backup das suas coisas antes.)\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "pt",
-    "size": "7.89 KB",
+    "size": "5.59 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-frp.json",
-    "exported_at": "2023-10-11T20:31:49-03:00"
+    "exported_at": "2025-10-13T00:14:29-03:00"
   },
   {
     "name": "Frp",
-    "description": "💎 Egg: Frp\r\n⚙️ Version: 2.1\r\n❓ What is: A fast reverse proxy to help you expose a local server behind a NAT or firewall ​​the Internet.\r\n🐛 Bugs fixed/changelogs:\r\n• Egg is now not dependent on updates, everything is done by scripts, which leads to better maintenance.\r\n• Code is now cleaner.\r\n• New Variables: \r\n • Frps or Frpc?\r\n • Install Example?\r\n• 2.1: Update to the new FRP system (.toml)\r\n⚠️ Attention:\r\n❗’This Egg needs at least 4 ports(see 1 to startup in the panel, and specify the ports, it's hard to move, anything marks me.)\r\n📛Windows will detect Frp as a virus, because of Port Tunneling. \r\n🚫 If you already have this Egg installed on some server, you will need to do a reinstallation (Make a backup of your stuff first.)\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Frp\r\n⚙️ Version: 2.2\r\n❓ What is it: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet.\r\n🐞 Bugs fixed/changelogs:\r\n• Now the Egg is not dependent on updates, everything is done by scripts, which results in better maintenance.\r\n• The code is now cleaner.\r\n• New Variables: \r\n   • Frps or Frpc?\r\n   • Install Example?\r\n•  2.1: Update to the new FRP system (.toml)\r\n•  2.2: Docker changed from ubuntu/debian to alpine (lighter)\r\n⚠️ Attention:\r\n❗️This Egg requires at least 4 ports (go to startup in the panel, and specify the ports, it's complicated to handle, just tag me if you need help.)\r\n📖 Windows will detect Frp as a virus due to Port Tunneling.\r\n🚫If you already have this Egg installed on a server, a reinstallation will be necessary (Make a backup of your files first.)\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "7.5 KB",
+    "size": "5.14 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-frp.json",
-    "exported_at": "2023-10-11T20:32:07-03:00"
+    "exported_at": "2025-10-13T00:14:29-03:00"
   },
   {
     "name": "Jellyfin",
-    "description": "💎 Egg: Jellyfin\r\n⚙️ Versão: 2.2\r\n❓ Oque é: resumindo, você pode ter sua própria Netflix. Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre.\r\n🐛 Bugs corrigidos/changelogs:\r\n• Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o ocasiona na sua melhor manutenção.\r\n• Essa é possivelmente sua última versão.\r\n• Código agora está mais limpo.\r\n• Docker atualizado.\r\n⚠️ Atenção: Na primeira inicialização haverá uma tela de Selecionar Servidor, apague o servidor existente lá, e reinicia a página.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Jellyfin\r\n⚙️ Versão: 2.3\r\n❓ Oque é: resumindo, você pode ter sua própria Netflix. Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre.\r\n🐛 Bugs corrigidos/changelogs:\r\n• 2.2: Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o ocasiona na sua melhor manutenção.\r\n• 2.3: Adicionando novas versões Docker\r\n⚠️ Atenção: Se na primeira inicialização haver uma tela de Selecionar Servidor, apague o servidor existente lá, e recarregue a página.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "pt",
-    "size": "3.23 KB",
+    "size": "3.05 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-jellyfin.json",
-    "exported_at": "2024-06-21T03:05:34-03:00"
+    "exported_at": "2025-11-29T15:16:43-03:00"
   },
   {
     "name": "Jellyfin",
-    "description": "💎 Egg: Jellyfin\r\n⚙️ Version: 2.2\r\n❓ What is it: In short, you can have your own Netflix. Jellyfin allows you to collect, manage, and stream your media. Run the Jellyfin server on your system and enjoy access to the leading open-source entertainment software system.\r\n🐛 Fixed Bugs/Changelogs:\r\n• Now Egg is no longer dependent on updates; everything is handled by scripts, resulting in better maintenance.\r\n• This is possibly its final version.\r\n• Code is now cleaner.\r\n• Docker updated.\r\n⚠️ Attention: Upon first startup, you will see a \"Select Server\" screen; delete the existing server there and refresh the page.\r\n👑 Author: Ashu\r\n👀 Check for updates at: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Jellyfin\r\n⚙️ Version: 2.3\r\n❓ What it is: in short, you can have your own Netflix. Jellyfin allows you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free software entertainment system.\r\n🐛 Bug fixes/changelogs:\r\n• 2.2: Now the Egg is not dependent on updates, everything is done via scripts, resulting in better maintenance.\r\n• 2.3: Added new Docker versions\r\n⚠️ Attention: If a Select Server screen appears on the first startup, delete the existing server there, and reload the page.\r\n👑 Author: Ashu\r\n👀 Check for updates: [https://github.com/Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)",
     "language": "en",
-    "size": "3.06 KB",
+    "size": "2.92 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-jellyfin.json",
-    "exported_at": "2024-06-21T03:05:34-03:00"
+    "exported_at": "2025-11-29T15:16:43-03:00"
   },
   {
     "name": "Nextcloud",
@@ -111,9 +111,9 @@
   },
   {
     "name": "Nextcloud",
-    "description": "💎 Egg: Nextcloud\r\n⚙⚙️ Version: 2.1\r\n❓ What is it: Nextcloud is an enterprise cloud collaboration platform óopen code that makes it possible to create private or corporate file hosting servers.\r\n⚠️ Attention: This Egg needs a database(Create one, in advance own dashboard).\r\n🐛 Bugs fixed/changelogs:\r\n• Egg self-updates, maybe this is its “last release\r\n• Code is now cleaner\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Nextcloud\r\n⚙️ Version: 2.1\r\n❓ What it is: Nextcloud is an open-source cloud collaboration platform that allows the creation of private or corporate file hosting servers.\r\n⚠️ Attention: This Egg requires a database (Create one in the panel itself).\r\n🐛 Bugs fixed/changelogs:\r\n• The Egg auto-updates, perhaps this will be its last release\r\n• Code is now cleaner\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "3.31 KB",
+    "size": "3.22 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-nextcloud.json",
@@ -131,13 +131,13 @@
   },
   {
     "name": "Paneldactyl",
-    "description": "💎 Egg: Paneldacty\r\n⚙️ Version: 1.3\r\n❓ What it is: An easy and practical way to test other panels. With this Egg you can install a Pterodactyl/Jexactyl panel in your own panel, literally a Panel inside another Panel (Panel only, Wings is for another Egg if I get it).\r\n🐛 Bugfixes/changelogs:\r\n - (1.0) Release.\r\n - (1.0) Ability to execute subcommands in the terminal (composer, setup, database, migrate, user, build, reinstall).\r\n - (1.0) System that checks \"file integrity\" (reinstalls if something is not installed).\r\n - (1.0) Possibility of being able to build the panel (best for those who want to create their own themes/customizations).\r\n - (1.0) System that checks if Egg is up to date.\r\n - (1.0) Everything is done by scripts, better maintenance and updating.\r\n - (1.1) Developer mode added.\r\n - (1.1) Possibility of cloning Dashboards directly from GitHub (Public/Private).\r\n    📝 Variables: \r\n        - (1.0) Version.\r\n        - (1.0) Panel `(Pterodactyl, Jexactyl, Jexactyl Brasil)`.\r\n        - (1.0) Update Notices.\r\n        - (1.1) Developer Mode\r\n        - (1.1) GIT Repository URL\r\n        - (1.1) Choose Branch\r\n        - (1.1) Git username\r\n        - (1.1) Git Access Token\r\n        - (1.1) Change in the Installation script.\r\n        - (1,3) Changing nodejs version management to NVM\r\n    📦 Docker: \r\n         - ARM64, ARM, 64x compatibility\r\n⚠️ Attention:\r\n   ❗️É database required\r\n   ❕This Egg is very lightweight, the only peaks are",
+    "description": "💎 Egg: Paneldactyl\r\n⚙️ Version: 1.3\r\nWhat is it: An easy and practical way to test other panels. With this Egg, you can install a Pterodactyl/Jexactyl panel on your own panel, literally a Panel inside another Panel (Panel only, Wings is for another Egg, if I can manage).\r\nBug fixes/changelogs:\r\n - (1.0) Release.\r\n - (1.0) Ability to run subcommands in the terminal (composer, setup, database, migrate, user, build, reinstall).\r\n - (1.0) System that checks \"file integrity\" (reinstalls if something is not installed).\r\n - (1.0) Possibility to build the panel (better for those who want to create their own themes/customizations).\r\n - (1.0) System that checks if the Egg is up to date.\r\n - (1.0) Everything is done via scripts, for better maintenance and updating.\r\n - (1.1) Added developer mode.\r\n - (1.1) Possibility to clone Dashboards directly from GitHub (Public/Private).\r\n    📝 Variables: \r\n        - (1.0) Version.\r\n        - (1.0) Panel `(Pterodactyl, Jexactyl, Jexactyl Brasil)`.\r\n        - (1.0) Update warnings.\r\n        - (1.1) Developer Mode\r\n        - (1.1) GIT repository URL\r\n        - (1.1) Choose the branch\r\n        - (1.1) Git Username\r\n        - (1.1) Git Access Token\r\n        - (1.1) Change in the installation script.\r\n        - (1.3) Change nodejs version management to NVM\r\n    Docker: \r\n         - ARM64, ARM, 64x compatibility\r\n⚠️ Attention:\r\n   ❗️ A database is required.",
     "language": "en",
-    "size": "6.74 KB",
+    "size": "6.56 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-paneldactyl.json",
-    "exported_at": "2024-10-08T15:52:16-03:00"
+    "exported_at": "2024-10-08T15:57:16-03:00"
   },
   {
     "name": "Paper (Super-Optimized)",
@@ -221,9 +221,9 @@
   },
   {
     "name": "Stress",
-    "description": "💎 Egg: Stress\r\n⚙️ Version: 1.6\r\n What: This Egg will stress your machine (I recommend using it if you have any Oracle VM, if your VM stays unused for a long time, your account will be suspended)\r\n🐛 Fixed bugs/changelogs: \r\n • (1.2) Initialization fixed.\r\n • (1.3) Docker Changed.\r\n • (1.4) Install Script fixed\r\n • (1.5) Stop command fixed\r\n•       • (1.6) Update Script Start\r\n️ Warning: Use with care!\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/ Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Stress\r\n⚙️ Version: 1.6\r\n❓ What is it: This Egg will stress your machine (I recommend using it if you have an Oracle VM, as your account will be suspended if your VM remains unused for a long time)\r\n🐞 Bugs fixed/changelogs: \r\n      • (1.2) Fixed startup.\r\n      • (1.3) Docker Changed.\r\n      • (1.4) Script installation fixed\r\n      • (1.5) Stop command fixed\r\n      • (1.6) Update Start Script\r\n⚠️ Attention: Use with care!\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "4.6 KB",
+    "size": "4.57 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-stress.json",
@@ -281,9 +281,9 @@
   },
   {
     "name": "VPS",
-    "description": "💎 Egg: VPS\r\n⚙️ Version: 2.1\r\n❓ What is it: A VPS, this egg uses Proot (FakeRoot) which tricks the system saying that you are a superuser, installing a Pterodactyl inside another Pterodactyl has never felt so real!\r\n\r\n• It is in no way recommended to use Root in Docker. I am not responsible for any damage/action that you will do with it.\r\n • • At least 1GB of space is required\r\n • Debian/Ubuntu distributions may take more than 15min to finish installation\r\n • Ubuntu distributions are currently not working\r\n\r\n🐛 Bugs fixed/changelogs:\r\n • (1.0) Release.\r \n • (2.0) Detects whether the Egg is up to date or not.\r\n • (2.0) Possibility to change Linux Distribution: (Debian, Ubuntu, Alpine).\r \n • (2.0) Updated arguments, now the system is not so restricted.\r\n • (2.0) Possibility to change arguments.\r\n • (2.0) Run Shutdown command, now it is not necessary to kill the server anymore.\r\n • (2.0) Startup fix is needed, now the Panel knows that the Server is on.\r\n • (2.0) Installation Script has been rebuilt\r\n • (2.1) Serious Script bugs fixed\r\n • (2.1) Possibility of switch root between: PRoot(Default), PRoot-rs, FakechRoot + FakeRoot.\r\n • (2.1) Clean Install Added\r\n\r\n📝 New Variables • (2.0) Your Arguments\r\n • (2.0) Linux Distribution\r\n • (2.1) • (2.0) ) Change Root\r\n • (2.1) Clean Install?\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: VPS\r\n⚙️ Version: 2.1\r\n❓ What is it: A VPS. This egg uses Proot (FakeRoot) which tricks the system into thinking you are a superuser. Installing a Pterodactyl inside another Pterodactyl has never been so real!\r\n\r\n⚠️ Attention: \r\n     • Using Root in Docker is not recommended in any way. I am not responsible for any damage/action you may cause with this.\r\n     • A minimum of 1GB of space is required.\r\n     • Debian/Ubuntu distributions may take more than 15 minutes to complete the installation.\r\n     • Ubuntu distributions are not working at the moment.\r\n\r\n🐞 Bugs fixed/changelogs:\r\n     • (1.0) Release.\r\n     • (2.0) Detects if the Egg is updated or not.\r\n     • (2.0) Ability to change Linux Distribution: (Debian, Ubuntu, Alpine).\r\n     • (2.0) Updated arguments, the system is now less restricted.\r\n     • (2.0) Ability to change arguments.\r\n     • (2.0) Fixed the Shutdown command, it is no longer necessary to kill the server.\r\n     • (2.0) Fixed Initialization, now the Panel knows the Server is on.\r\n     • (2.0) Installation script was rebuilt.\r\n     • (2.1) Serious script bugs fixed.\r\n     • (2.1) Ability to switch root between: PRoot(Default), PRoot-rs, FakechRoot + FakeRoot.\r\n     • (2.1) Clean Installation Added.\r\n\r\n📝 New Variables: \r\n     • (2.0) Use your own arguments?\r\n     • (2.0) Your Arguments\r\n     • (2.0) Linux Distribution\r\n     • (2.1) Change Root\r\n     • (2.1) Clean Installation?\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "5.04 KB",
+    "size": "5.05 KB",
     "type": "software",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-vps.json",
