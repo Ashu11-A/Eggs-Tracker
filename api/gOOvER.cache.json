@@ -1,0 +1,344 @@
+{
+  "own-pterodactyl-eggs": [
+    {
+      "name": "Assetto Corsa - AssettoServer Version",
+      "description": "AssettoServer is a custom game server for Assetto Corsa developed with freeroam in mind. It greatly improves upon the default game server by fixing various security issues and providing new features like AI traffic and dynamic weather.\r\n\r\nRace/Quali sessions and lap times are not supported yet. Only use this if you want to run a practice-only freeroam server.",
+      "language": "eng_Latn",
+      "size": "11.42 KB",
+      "type": "assetto-corsa-assettoserver",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/assetto-corsa-assettoserver/egg-assetto-corsa--assetto-server-version.json",
+      "exported_at": "2023-09-12T10:38:09+02:00"
+    },
+    {
+      "name": "Assetto Corsa Competizione",
+      "description": "Assetto Corsa Competizione, the official GT World Challenge videogame. Thanks to the extraordinary quality of simulation, you will experience the atmosphere of the GT3 championship. Compete against official drivers, teams, cars and official circuits reproduced to the highest quality ever seen.",
+      "language": "eng_Latn",
+      "size": "12.45 KB",
+      "type": "assetto-corsa-competizione",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/assetto-corsa-competizione/egg-assetto-corsa-competizione.json",
+      "exported_at": "2024-01-18T19:31:40+01:00"
+    },
+    {
+      "name": "Astro Colony Linux",
+      "description": "Astro Colony is a first-person open-world sci-fi game focused on the construction, automation, and management of your space stations.",
+      "language": "eng_Latn",
+      "size": "11.91 KB",
+      "type": "astro-colony",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/astro-colony/egg-astro-colony-linux.json",
+      "exported_at": "2024-04-06T07:57:08+02:00"
+    },
+    {
+      "name": "Astro Colony Wine",
+      "description": "Astro Colony is a first-person open-world sci-fi game focused on the construction, automation, and management of your space stations.",
+      "language": "eng_Latn",
+      "size": "11.56 KB",
+      "type": "astro-colony",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/astro-colony/egg-astro-colony-wine.json",
+      "exported_at": "2023-11-06T17:03:31+01:00"
+    },
+    {
+      "name": "Beasts of Bermuda",
+      "description": "Beasts of Bermuda is a multiplayer game with large servers where you grow up as a dinosaur or other prehistoric creature. You become part of a living, player-created ecosystem. The ultimate goal is to survive on one of the islands within the world of Bermuda.",
+      "language": "eng_Latn",
+      "size": "7.92 KB",
+      "type": "beast-of-bermuda",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/beast-of-bermuda/egg-beasts-of-bermuda.json",
+      "exported_at": "2024-08-31T09:02:42+02:00"
+    },
+    {
+      "name": "BIN",
+      "description": "A minimal pastebin which also accepts binary files like Images, PDFs and ships multiple clients.",
+      "language": "eng_Latn",
+      "size": "1.72 KB",
+      "type": "Bin",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/apps/Bin/egg-b-i-n.json",
+      "exported_at": "2024-02-24T12:57:53+01:00"
+    },
+    {
+      "name": "Craftopia",
+      "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
+      "language": "eng_Latn",
+      "size": "5.36 KB",
+      "type": "craftopia",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/craftopia/egg-craftopia.json",
+      "exported_at": "2022-10-01T20:56:47+02:00"
+    },
+    {
+      "name": "Drako Bot",
+      "description": "Egg for Drako Discord Bot",
+      "language": "eng_Latn",
+      "size": "4.82 KB",
+      "type": "drako-bot",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/bots/drako-bot/egg-drako-bot.json",
+      "exported_at": "2024-03-08T15:13:46+01:00"
+    },
+    {
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.",
+      "language": "eng_Latn",
+      "size": "8.39 KB",
+      "type": "enshrouded",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/enshrouded/egg-enshrouded-wine.json",
+      "exported_at": "2024-01-24T15:29:13+01:00"
+    },
+    {
+      "name": "Enshrouded Proton",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.",
+      "language": "eng_Latn",
+      "size": "7.91 KB",
+      "type": "enshrouded",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/enshrouded/egg-enshrouded-proton.json",
+      "exported_at": "2024-03-25T18:00:33+01:00"
+    },
+    {
+      "name": "Forgejo",
+      "description": "Forgejo is a self-hosted lightweight software forge.\r\nEasy to install and low maintenance, it just does the job.\r\n\r\nBrought to you by an inclusive community under the umbrella of Codeberg e.V., a democratic non-profit organization, Forgejo can be trusted to be exclusively Free Software. It includes and cooperates with hundreds of projects (Gitea, Git, ...) and is focused on scaling, federation and privacy.",
+      "language": "eng_Latn",
+      "size": "5.71 KB",
+      "type": "forgejo",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/apps/forgejo/egg-forgejo.json",
+      "exported_at": "2024-02-24T12:52:40+01:00"
+    },
+    {
+      "name": "Foundry",
+      "description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY.",
+      "language": "eng_Latn",
+      "size": "11.51 KB",
+      "type": "foundry",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/foundry/egg-foundry.json",
+      "exported_at": "2024-05-05T15:53:01+02:00"
+    },
+    {
+      "name": "Hanashi.dev - discord-push-board-listener",
+      "description": "https://github.com/HanashiDev/discord-push-board-listener",
+      "language": "nob_Latn",
+      "size": "3.55 KB",
+      "type": "hanashi-discord-push-board-listener",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/apps/hanashi-discord-push-board-listener/egg-hanashi-dev--discord-push-board-listener.json",
+      "exported_at": "2022-10-26T17:26:37+02:00"
+    },
+    {
+      "name": "HumanitZ",
+      "description": "As one of the few human survivors, try to last as long as “humanly” possible. The past can't be changed, but you can make a difference today for the future of humanity",
+      "language": "eng_Latn",
+      "size": "23.9 KB",
+      "type": "humanitz",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/humanitz/egg-humanit-z.json",
+      "exported_at": "2023-12-25T13:37:58+01:00"
+    },
+    {
+      "name": "Last Oasis",
+      "description": "Last Oasis is a Nomadic Survival MMO. Earth has stopped rotating, and the last human survivors need to outrun the scorching Sun in a massive Open World. Traverse the world on wooden wind-powered, walking machines. Walkers can be adapted for travel, transportation, harvesting, combat, or used as mobile bases.",
+      "language": "eng_Latn",
+      "size": "7.22 KB",
+      "type": "lastoasis",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/lastoasis/egg-last-oasis.json",
+      "exported_at": "2022-12-05T16:49:56+01:00"
+    },
+    {
+      "name": "Lynx Multi-Bot",
+      "description": "Egg for Lynx Multi-Bot",
+      "language": "eng_Latn",
+      "size": "4.35 KB",
+      "type": "lynx-multi-bot",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/bots/lynx-multi-bot/egg-lynx-multi--bot.json",
+      "exported_at": "2024-03-03T10:38:50+01:00"
+    },
+    {
+      "name": "Memories of Mars",
+      "description": "Survive the extreme conditions on Mars. Compete or cooperate with others to gather resources, 3D print your equipment and build your base, unveil the story behind the abandoned mining operations and, ultimately, escape the Red Planet.",
+      "language": "eng_Latn",
+      "size": "8.56 KB",
+      "type": "memories-of-mars",
+      "author": "info@goover.de",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/memories-of-mars/egg-memories-of-mars.json",
+      "exported_at": "2024-04-28T12:11:46+02:00"
+    },
+    {
+      "name": "Miscreated",
+      "description": "Miscreated is a multiplayer online hardcore survival game set in a post-apocalyptic future. You will need to survive against mutants, players, and even mother nature herself.",
+      "language": "eng_Latn",
+      "size": "17.66 KB",
+      "type": "miscreated",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/miscreated/egg-miscreated.json",
+      "exported_at": "2023-12-25T14:20:04+01:00"
+    },
+    {
+      "name": "Natural Selection 2",
+      "description": "Natural Selection 2 is a First Person Shooter and Real Time Stategy game rolled into one! Each team, alien and human, has a Commander.",
+      "language": "eng_Latn",
+      "size": "6.94 KB",
+      "type": "natural-selection2",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/natural-selection2/egg-natural-selection2.json",
+      "exported_at": "2024-01-25T14:28:42+01:00"
+    },
+    {
+      "name": "Night of the Dead",
+      "description": null,
+      "language": "nld_Latn",
+      "size": "9.58 KB",
+      "type": "night-of-the-dead",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/night-of-the-dead/egg-night-of-the-dead.json",
+      "exported_at": "2024-04-28T08:50:51+02:00"
+    },
+    {
+      "name": "Operation: Harsh Doorstop",
+      "description": "Operation: Harsh Doorstop is a shooter sandbox with all the features a game should have.",
+      "language": "eng_Latn",
+      "size": "6.06 KB",
+      "type": "operation-harsh-doorstop",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/operation-harsh-doorstop/egg-operation--harsh-doorstop.json",
+      "exported_at": "2024-01-25T14:27:27+01:00"
+    },
+    {
+      "name": "Outpost Zero",
+      "description": "Outpost Zero blends the genres of Multiplayer Base Building Survival and Simulation games in a Sci-Fi universe. On a lawless alien world, robotic scouts are tasked with building an Outpost for human colonists. Command AI minions, colonize the planet, and survive the perils of Gaiya.",
+      "language": "eng_Latn",
+      "size": "8.19 KB",
+      "type": "outpost-zero",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/outpost-zero/egg-outpost-zero.json",
+      "exported_at": "2024-01-25T14:47:17+01:00"
+    },
+    {
+      "name": "Portal Knights",
+      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+      "language": "eng_Latn",
+      "size": "10.47 KB",
+      "type": "portal-knights",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/portal-knights/egg-portal-knights.json",
+      "exported_at": "2024-01-25T14:44:02+01:00"
+    },
+    {
+      "name": "Quake Live with minqlx",
+      "description": "Quake Live with minqlx support",
+      "language": "eng_Latn",
+      "size": "12.58 KB",
+      "type": "quake-live-minqlx",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/games/quake-live-minqlx/egg-quake-live-with-minqlx.json",
+      "exported_at": "2023-12-30T12:41:39+01:00"
+    },
+    {
+      "name": "Reign of Kings",
+      "description": "Struggle to survive in a harsh medieval world. Hunt wildlife, mine resources, build structures, and craft weapons and armor in order to protect yourself. You may form a guild, bring war to all opposition, and try to seize the throne and become king!",
+      "language": "eng_Latn",
+      "size": "6.51 KB",
+      "type": "reign-of-kings",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/reign-of-kings/egg-reign-of-kings.json",
+      "exported_at": "2024-01-25T14:48:23+01:00"
+    },
+    {
+      "name": "Sons Of The Forest",
+      "description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends.",
+      "language": "eng_Latn",
+      "size": "11.56 KB",
+      "type": "sons-of-the-forrest",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/sons-of-the-forrest/egg-sons-of-the-forest.json",
+      "exported_at": "2023-10-07T17:23:32+02:00"
+    },
+    {
+      "name": "Space Engineers - Torch Server",
+      "description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.\r\n\r\n!!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!",
+      "language": "eng_Latn",
+      "size": "12.39 KB",
+      "type": "space-engineers-torch",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/space-engineers-torch/egg-space-engineers--torch-server.json",
+      "exported_at": "2024-03-09T08:33:05+01:00"
+    },
+    {
+      "name": "Terra Tech Worlds",
+      "description": "TerraTech Worlds is an open-world, PvE survival game set on an uncharted alien planet. Explore, mine, build, craft and battle your way through natural hazards and dangerous enemies, to harness the power of your environment. Play solo or up to 6 friends via online co-op, and get ready for adventure!",
+      "language": "eng_Latn",
+      "size": "6.72 KB",
+      "type": "terratech-world",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/terratech-world/egg-terra-tech-worlds.json",
+      "exported_at": "2024-03-23T08:19:45+01:00"
+    },
+    {
+      "name": "The Front",
+      "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
+      "language": "eng_Latn",
+      "size": "13.63 KB",
+      "type": "the-front",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/the-front/egg-the-front.json",
+      "exported_at": "2023-11-02T07:35:25+01:00"
+    },
+    {
+      "name": "The Warhorn",
+      "description": "The Warhorn is a medieval RPG mixed with city-building and management elements. Play as an adventurer who decided to leave his dull life as a lumberjack ...",
+      "language": "eng_Latn",
+      "size": "9.05 KB",
+      "type": "the-warhorn",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/the-warhorn/egg-the-warhorn.json",
+      "exported_at": "2024-01-25T14:26:41+01:00"
+    },
+    {
+      "name": "Uptime Kuma",
+      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
+      "language": "eng_Latn",
+      "size": "5.1 KB",
+      "type": "uptime-kuma",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/apps/uptime-kuma/egg-uptime-kuma.json",
+      "exported_at": "2023-11-20T15:51:24+01:00"
+    },
+    {
+      "name": "Valheim  BepINex",
+      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture incl the Plugin Framework BepInEx",
+      "language": "eng_Latn",
+      "size": "13.35 KB",
+      "type": "valheim-bepinex",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/valheim-bepinex/egg-valheim-bep-i-nex.json",
+      "exported_at": "2023-11-18T12:49:13+01:00"
+    },
+    {
+      "name": "Valheim Plus Mod",
+      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
+      "language": "eng_Latn",
+      "size": "13.68 KB",
+      "type": "valheim-plus",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/valheim-plus/egg-valheim-plus-mod.json",
+      "exported_at": "2023-11-18T12:48:46+01:00"
+    },
+    {
+      "name": "Wurm Unlimited",
+      "description": "Wurm Unlimited is the second game to be released by Code Club AB and features much of the same content as Wurm Online but is not linked to the official servers. Instead players are able to host their own servers, either locally or on a dedicated machine, so that they may have their own private world with their friends or even open the world publicly for everyone to enjoy.",
+      "language": "eng_Latn",
+      "size": "12.59 KB",
+      "type": "wurm-unlimited",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/gOOvER/own-pterodactyl-eggs/main/steamcmd/wurm-unlimited/egg-wurm-unlimited.json",
+      "exported_at": "2023-12-16T07:32:26+01:00"
+    }
+  ]
+}
