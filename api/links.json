@@ -1,0 +1,120 @@
+[
+  {
+    "author": "pelican-eggs",
+    "authorUrl": "https://github.com/pelican-eggs",
+    "repositories": [
+      "pelican-eggs/chatbots",
+      "pelican-eggs/database",
+      "pelican-eggs/games-standalone",
+      "pelican-eggs/games-steamcmd",
+      "pelican-eggs/generic",
+      "pelican-eggs/minecraft",
+      "pelican-eggs/monitoring",
+      "pelican-eggs/software",
+      "pelican-eggs/voice"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/pelican-eggs.min.json",
+    "eggs": 579,
+    "pushed_at": "2025-12-11T14:30:36Z"
+  },
+  {
+    "author": "Ashu11-A",
+    "authorUrl": "https://github.com/Ashu11-A",
+    "repositories": [
+      "Ashu11-A/Ashu_eggs"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Ashu11-A.min.json",
+    "eggs": 29,
+    "pushed_at": "2025-11-29T19:08:29Z"
+  },
+  {
+    "author": "DanBot-Hosting",
+    "authorUrl": "https://github.com/DanBot-Hosting",
+    "repositories": [
+      "DanBot-Hosting/pterodactyl-eggs"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/DanBot-Hosting.min.json",
+    "eggs": 4,
+    "pushed_at": "2024-10-07T01:06:01Z"
+  },
+  {
+    "author": "Draakoor",
+    "authorUrl": "https://github.com/Draakoor",
+    "repositories": [
+      "Draakoor/codptero"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Draakoor.min.json",
+    "eggs": 34,
+    "pushed_at": "2025-11-18T22:54:27Z"
+  },
+  {
+    "author": "drylian",
+    "authorUrl": "https://github.com/drylian",
+    "repositories": [
+      "drylian/Eggs"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/drylian.min.json",
+    "eggs": 9,
+    "pushed_at": "2025-09-20T19:14:21Z"
+  },
+  {
+    "author": "GeyserMC",
+    "authorUrl": "https://github.com/GeyserMC",
+    "repositories": [
+      "GeyserMC/pterodactyl-stuff"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/GeyserMC.min.json",
+    "eggs": 5,
+    "pushed_at": "2025-11-23T20:16:18Z"
+  },
+  {
+    "author": "gOOvER",
+    "authorUrl": "https://github.com/gOOvER",
+    "repositories": [
+      "gOOvER/own-pterodactyl-eggs"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/gOOvER.min.json",
+    "eggs": 34,
+    "pushed_at": "2024-09-14T05:55:58Z"
+  },
+  {
+    "author": "kry008",
+    "authorUrl": "https://github.com/kry008",
+    "repositories": [
+      "kry008/pterodactyl-io-ARM-eggs"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/kry008.min.json",
+    "eggs": 8,
+    "pushed_at": "2022-12-30T13:32:27Z"
+  },
+  {
+    "author": "QuintenQVD0",
+    "authorUrl": "https://github.com/QuintenQVD0",
+    "repositories": [
+      "QuintenQVD0/Q_eggs"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/QuintenQVD0.min.json",
+    "eggs": 36,
+    "pushed_at": "2025-11-27T08:53:35Z"
+  },
+  {
+    "author": "Sigma-Production",
+    "authorUrl": "https://github.com/Sigma-Production",
+    "repositories": [
+      "Sigma-Production/ptero-eggs"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/Sigma-Production.min.json",
+    "eggs": 2,
+    "pushed_at": "2025-10-07T11:18:29Z"
+  },
+  {
+    "author": "ysdragon",
+    "authorUrl": "https://github.com/ysdragon",
+    "repositories": [
+      "ysdragon/Pterodactyl-VPS-Egg"
+    ],
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/ysdragon.min.json",
+    "eggs": 1,
+    "pushed_at": "2025-10-07T17:15:43Z"
+  }
+]
