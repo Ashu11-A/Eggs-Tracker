@@ -1,0 +1,294 @@
+{
+  "Ashu_eggs": [
+    {
+      "name": "Bot4All",
+      "description": "💎 Egg: Bot4All (BotForAll)\r\n⚙️ Versão: 1.0\r\n❓ Oque é: \r\n🐛 Bugs corrigidos/changelogs:\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "5.79 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-bot4-all.json",
+      "exported_at": "2024-03-24T21:26:57-03:00"
+    },
+    {
+      "name": "Bot4All",
+      "description": "💎 Egg: Bot4All (BotForAll)\r\n⚙️ Version: 1.0\r\n❓ What is it: \r\n🐞 Bugs fixed/changelogs:\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "5.44 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-bot4-all.json",
+      "exported_at": "2024-03-24T21:26:57-03:00"
+    },
+    {
+      "name": "Emby",
+      "description": "💎 Egg: Emby\r\n⚙️ Versão: 2.1\r\n❓ Oque é: Resumindo, você pode ter sua própria Netflix. Emby é um servidor de mídia projetado para organizar, reproduzir e transmitir áudio e vídeo para uma variedade de dispositivos.\r\n🐛 Bugs corrigidos/changelogs: \r\n   • Forma como é feito o Download mudou, agora sempre instalará a versão mais recente\r\n   • Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o que ocasiona na sua melhor manutenção.\r\n   • Código agora está mais limpo.\r\n  📦Docker:\r\n     • Docker Atualizado (Versão do Dotnet: 6.0.13)\r\n     • Compatibilidade com ARM adicionada\r\n     • Agora não há necessidade de alterar entre 64x e ARM64 Use a imagem: ashu11a/emby:latest\r\n     • (2.1) Imagem Dotnet 8 adicionada.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "2.88 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-emby.json",
+      "exported_at": "2024-03-23T23:15:09-03:00"
+    },
+    {
+      "name": "Emby",
+      "description": "💎 Egg: Emby\r\n⚙️ Version: 2.1\r\n❓ What is it: In short, you can have your own Netflix. Emby is a media server designed to organize, play, and stream audio and video to a variety of devices.\r\n🐞 Bugs fixed/changelogs: \r\n   • The way the download is done has changed, it will now always install the latest version\r\n   • Now the Egg is not dependent on updates, everything is done by scripts, which results in better maintenance.\r\n   • The code is now cleaner.\r\n  📦Docker:\r\n     • Docker Updated (Dotnet Version: 6.0.13)\r\n     • ARM compatibility added\r\n     • Now there is no need to switch between 64x and ARM64. Use the image: ashu11a/emby:latest\r\n     • (2.1) Dotnet 8 image added.\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "2.58 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-emby.json",
+      "exported_at": "2024-03-23T23:15:09-03:00"
+    },
+    {
+      "name": "FFmpeg Commander",
+      "description": "💎 Egg: FFmpeg Commander\r\n⚙️ Versão: 1.0\r\n❓ Oque é: Uma interface de usuário da Web simples para gerar operações de codificação FFmpeg comuns.\r\n🐛 Bugs corrigidos/changelogs:\r\n • (1.0) Lançamento.\r\n    📝 Variáveis: \r\n        • (1.0) Habilitar FFmpegd.\r\n        • (1.0) FFmpegd Port.\r\n    📦 Docker: \r\n         • Compatibilidade com ARM64, 64x\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "2.6 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-ffmpeg-commander.json",
+      "exported_at": "2023-04-08T21:38:40-03:00"
+    },
+    {
+      "name": "FFmpeg Commander",
+      "description": "💎 Egg: FFmpeg Commander\r\n⚙️ Version: 1.0\r\n❓ What is it: A simple web user interface to generate common FFmpeg encoding operations.\r\n🐞 Bugs fixed/changelogs:\r\n • (1.0) Release.\r\n    📝 Variables: \r\n        • (1.0) Enable FFmpegd.\r\n        • (1.0) FFmpegd Port.\r\n    📦 Docker: \r\n         • ARM64, 64x compatibility\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "2.39 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-ffmpeg-commander.json",
+      "exported_at": "2023-04-08T21:38:40-03:00"
+    },
+    {
+      "name": "Frp",
+      "description": "💎 Egg: Frp\r\n⚙️ Versão: 2.2\r\n❓ Oque é: Um proxy reverso rápido para ajudá-lo a expor um servidor local atrás de um NAT ou firewall à Internet.\r\n🐛 Bugs corrigidos/changelogs:\r\n• Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o que ocasiona na sua melhor manutenção.\r\n• Código agora está mais limpo.\r\n• Novas Variáveis: \r\n   • Frps ou Frpc?\r\n   • Instalar Exemplo?\r\n•  2.1: Atualização para o novo sistema do FRP (.toml)\r\n•  2.2: Mudança do docker de ubuntu/debian para alpine (mais leve)\r\n⚠️ Atenção:\r\n❗️Esse Egg necessita de no mínimo 4 portas(vá para startup no painel, e especifique as portas, é complicado de se mexer, qualquer coisa me marca.)\r\n📛O Windows irá detectar o Frp como vírus, por causa do Tunelamento de Portas.\r\n🚫Se você já houver esse Egg instado em algum servidor, será necessário fazer uma reinstalação (Faça um backup das suas coisas antes.)\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "5.59 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-frp.json",
+      "exported_at": "2025-10-13T00:14:29-03:00"
+    },
+    {
+      "name": "Frp",
+      "description": "💎 Egg: Frp\r\n⚙️ Version: 2.2\r\n❓ What is it: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the Internet.\r\n🐞 Bugs fixed/changelogs:\r\n• Now the Egg is not dependent on updates, everything is done by scripts, which results in better maintenance.\r\n• The code is now cleaner.\r\n• New Variables: \r\n   • Frps or Frpc?\r\n   • Install Example?\r\n•  2.1: Update to the new FRP system (.toml)\r\n•  2.2: Docker changed from ubuntu/debian to alpine (lighter)\r\n⚠️ Attention:\r\n❗️This Egg requires at least 4 ports (go to startup in the panel, and specify the ports, it's complicated to handle, just tag me if you need help.)\r\n📖 Windows will detect Frp as a virus due to Port Tunneling.\r\n🚫If you already have this Egg installed on a server, a reinstallation will be necessary (Make a backup of your files first.)\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "5.14 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-frp.json",
+      "exported_at": "2025-10-13T00:14:29-03:00"
+    },
+    {
+      "name": "Jellyfin",
+      "description": "💎 Egg: Jellyfin\r\n⚙️ Versão: 2.3\r\n❓ Oque é: resumindo, você pode ter sua própria Netflix. Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre.\r\n🐛 Bugs corrigidos/changelogs:\r\n• 2.2: Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o ocasiona na sua melhor manutenção.\r\n• 2.3: Adicionando novas versões Docker\r\n⚠️ Atenção: Se na primeira inicialização haver uma tela de Selecionar Servidor, apague o servidor existente lá, e recarregue a página.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "3.05 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-jellyfin.json",
+      "exported_at": "2025-11-29T15:16:43-03:00"
+    },
+    {
+      "name": "Jellyfin",
+      "description": "💎 Egg: Jellyfin\r\n⚙️ Version: 2.3\r\n❓ What it is: in short, you can have your own Netflix. Jellyfin allows you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free software entertainment system.\r\n🐛 Bug fixes/changelogs:\r\n• 2.2: Now the Egg is not dependent on updates, everything is done via scripts, resulting in better maintenance.\r\n• 2.3: Added new Docker versions\r\n⚠️ Attention: If a Select Server screen appears on the first startup, delete the existing server there, and reload the page.\r\n👑 Author: Ashu\r\n👀 Check for updates: [https://github.com/Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)",
+      "language": "en",
+      "size": "2.92 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-jellyfin.json",
+      "exported_at": "2025-11-29T15:16:43-03:00"
+    },
+    {
+      "name": "Nextcloud",
+      "description": "💎 Egg: Nextcloud\r\n⚙️ Versão: 2.1\r\n❓ Oque é: Nextcloud é uma plataforma de colaboração em nuvem de código aberto que possibilita a criação de servidores de hospedagem de arquivos privados ou empresariais.\r\n⚠️ Atenção: Esse Egg necessita de um banco de dados(Crie um, no próprio painel).\r\n🐛 Bugs corrigidos/changelogs:\r\n• O Egg se autoatualiza, talvez esse seja seu último lançamento\r\n• Código agora está mais limpo\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "3.56 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-nextcloud.json",
+      "exported_at": "2024-07-25T22:08:23-03:00"
+    },
+    {
+      "name": "Nextcloud",
+      "description": "💎 Egg: Nextcloud\r\n⚙️ Version: 2.1\r\n❓ What it is: Nextcloud is an open-source cloud collaboration platform that allows the creation of private or corporate file hosting servers.\r\n⚠️ Attention: This Egg requires a database (Create one in the panel itself).\r\n🐛 Bugs fixed/changelogs:\r\n• The Egg auto-updates, perhaps this will be its last release\r\n• Code is now cleaner\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "3.22 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-nextcloud.json",
+      "exported_at": "2024-07-25T22:08:23-03:00"
+    },
+    {
+      "name": "Paneldactyl",
+      "description": "💎 Egg: Paneldacty\r\n⚙️ Versão: 1.3\r\nO que é: Uma maneira fácil e prática de testar outros painéis. Com esse Egg, você pode instalar um painel Pterodactyl/Jexactyl em seu próprio painel, literalmente um Painel dentro de outro Painel (somente Painel, Wings é para outro Egg, se eu conseguir).\r\nCorreções de bugs/changelogs:\r\n - (1.0) Lançamento.\r\n - (1.0) Capacidade de executar subcomandos no terminal (composer, setup, banco de dados, migrate, user, build, reinstall).\r\n - (1.0) Sistema que verifica a “integridade do arquivo” (reinstala se algo não estiver instalado).\r\n - (1,0) Possibilidade de construir o painel (melhor para aqueles que querem criar seus próprios temas/personalizações).\r\n - (1,0) Sistema que verifica se o Egg está atualizado.\r\n - (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n - (1.1) Adicionado o modo de desenvolvedor.\r\n - (1.1) Possibilidade de clonar Dashboards diretamente do GitHub (Público/Privado).\r\n    📝 Variáveis: \r\n        - (1.0) Versão.\r\n        - (1.0) Painel `(Pterodactyl, Jexactyl, Jexactyl Brasil)`.\r\n        - (1.0) Avisos de atualização.\r\n        - (1.1) Modo Desenvolvedor\r\n        - (1.1) URL do repositório GIT\r\n        - (1.1) Escolha a ramificação\r\n        - (1.1) Nome de usuário do Git\r\n        - (1.1) Token de acesso ao Git\r\n        - (1.1) Alteração no script de instalação.\r\n        - (1,3) Alterar o gerenciamento de versão do nodejs para NVM\r\n    Docker: \r\n         - Compatibilidade com ARM64, ARM, 64x\r\n⚠️ Atenção:\r\n   ❗️ Banco de dados é necessário",
+      "language": "pt",
+      "size": "7.19 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-paneldactyl.json",
+      "exported_at": "2024-10-08T15:57:16-03:00"
+    },
+    {
+      "name": "Paneldactyl",
+      "description": "💎 Egg: Paneldactyl\r\n⚙️ Version: 1.3\r\nWhat is it: An easy and practical way to test other panels. With this Egg, you can install a Pterodactyl/Jexactyl panel on your own panel, literally a Panel inside another Panel (Panel only, Wings is for another Egg, if I can manage).\r\nBug fixes/changelogs:\r\n - (1.0) Release.\r\n - (1.0) Ability to run subcommands in the terminal (composer, setup, database, migrate, user, build, reinstall).\r\n - (1.0) System that checks \"file integrity\" (reinstalls if something is not installed).\r\n - (1.0) Possibility to build the panel (better for those who want to create their own themes/customizations).\r\n - (1.0) System that checks if the Egg is up to date.\r\n - (1.0) Everything is done via scripts, for better maintenance and updating.\r\n - (1.1) Added developer mode.\r\n - (1.1) Possibility to clone Dashboards directly from GitHub (Public/Private).\r\n    📝 Variables: \r\n        - (1.0) Version.\r\n        - (1.0) Panel `(Pterodactyl, Jexactyl, Jexactyl Brasil)`.\r\n        - (1.0) Update warnings.\r\n        - (1.1) Developer Mode\r\n        - (1.1) GIT repository URL\r\n        - (1.1) Choose the branch\r\n        - (1.1) Git Username\r\n        - (1.1) Git Access Token\r\n        - (1.1) Change in the installation script.\r\n        - (1.3) Change nodejs version management to NVM\r\n    Docker: \r\n         - ARM64, ARM, 64x compatibility\r\n⚠️ Attention:\r\n   ❗️ A database is required.",
+      "language": "en",
+      "size": "6.56 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-paneldactyl.json",
+      "exported_at": "2024-10-08T15:57:16-03:00"
+    },
+    {
+      "name": "Paper (Super-Optimized)",
+      "description": "💎 Egg: Paper (Super-Optimized)\r\n⚙️ Versão: 1.3\r\n❓ Oque é: Uma ramificação do Spigot de alto desempenho que visa consertar a jogabilidade e as inconsistências mecânicas, mas agora com um super path de otimização por Ashu.\r\n🐛 Bugs corrigidos/changelogs:\r\n   • (1.0) Lançamento.\r\n   • (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n   • (1.2) Possibilidade de negar a instalação de Plugins.\r\n   • (1.3) Atualizando imagens\r\n🪄 Oque há de diferente?\r\n   • Lista de optimizações: https://github.com/Ashu11-A/Ashu_eggs/blob/main/Paper%20Optimized\r\n   • Este Egg tem várias Otimizações nos arquivos padrões.\r\n   • Há uma variável chamada Otimização que muda o argumento de inicialização que melhorar significativamente o desempenho.\r\n    📦 Docker: \r\n         • Compatibilidade com ARM64, 64x\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "6.29 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-paper-super-optimized.json",
+      "exported_at": "2024-04-08T16:39:34-03:00"
+    },
+    {
+      "name": "Paper (Super-Optimized)",
+      "description": "💎 Egg: Paper (Super-Optimized)\r\n⚙️ Version: 1.3\r\n❓ What it is: An offshoot of the high-performance Spigot that aims to fix gameplay and mechanical inconsistencies, but now with a super optimization path by Ashu.\r\n🐛 Bug fixes/changelogs:\r\n- (1.0) Release.\r\n- (1.0) Everything is scripted, better maintenance and updating.\r\n- (1.2) Possibility of denying the installation of Plugins.\r\n- (1.3) Updating images\r\nWhat's different?\r\n- List of optimizations: https://github.com/Ashu11-A/Ashu_eggs/blob/main/Paper%20Optimized\r\n- This Egg has several Optimizations in the default files.\r\n- There is a variable called Optimization that changes the initialization argument which significantly improves performance.\r\n📦 Docker: \r\n- ARM64, 64x compatibility\r\nAuthor: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "5.79 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-paper-super-optimized.json",
+      "exported_at": "2024-04-08T16:55:09-03:00"
+    },
+    {
+      "name": "phpMyAdmin",
+      "description": "💎 Egg: phpMyAdmin\r\n⚙️ Versão: 1.0\r\n❓ Oque é: phpMyAdmin é uma ferramenta de administração de banco de dados.\r\n🐛 Bugs corrigidos/changelogs:\r\n • (1.0) Lançamento.\r\n    📝 Variáveis: \r\n        • (1.0)  Avisos de Atualização\r\n    📦 Docker: \r\n         • Compatibilidade com ARM64, ARM, 64x\r\n⚠️ Atenção:\r\n   ❗️É necessário configurar o arquivo phpMyAdmin/config.inc.php\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "2.41 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-php-my-admin.json",
+      "exported_at": "2023-07-26T21:40:34-03:00"
+    },
+    {
+      "name": "Pocketmine-MP (0.15.10)",
+      "description": "💎 Egg: Pocketmine-MP (0.15.10)\r\n⚙️ Versão: 1.0\r\n❓ Oque é: Um software de servidor de código aberto altamente personalizável para Minecraft: Bedrock Edition escrito em PHP\r\n🐛 Bugs corrigidos/changelogs:\r\n      • (1.0) Lançamento\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "2.04 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-pocketmine-(0.15.10).json",
+      "exported_at": "2023-07-09T17:27:45-03:00"
+    },
+    {
+      "name": "Pocketmine-MP (0.15.10)",
+      "description": "💎 Egg: Pocketmine-MP (0.15.10)\r\n⚙️ Version: 1.0\r\n❓ What is it: A highly customizable open-source server software for Minecraft: Bedrock Edition written in PHP\r\n🐛 Fixed Bugs/Changelogs:\r\n • (1.0) Release\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "1.97 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-pocketmine-(0.15.10).json",
+      "exported_at": "2023-07-09T17:27:45-03:00"
+    },
+    {
+      "name": "ServerJars",
+      "description": "💎 ServerJars\r\n⚙️ Versão: 1.0\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs\r\n❓ ServerJars é a maneira mais fácil e eficiente de obter os jars do Minecraft mais atualizados. Usando nosso sistema de última geração, buscamos atualizações a cada 5 minutos e fornecemos instantaneamente essas atualizações para você baixar diretamente de nosso site. Usando nosso Atualizador Automático, você pode receber automaticamente as atualizações mais recentes para o seu servidor sem esforço em segundos após cada reinicialização do servidor.",
+      "language": "pt",
+      "size": "4.77 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-ServerJars.json",
+      "exported_at": "2023-01-19T13:47:52-03:00"
+    },
+    {
+      "name": "ServerJars",
+      "description": "💎 ServerJars\r\n⚙️ Version: 1.0\r\n👀 Check for updates: https://github.com/ Ashu11-A/Ashu_eggs\r\n❓ ServerJars is the easiest and most efficient way to get the most up-to-date Minecraft jars. Using our state-of-the-art system, we check for updates every 5 minutes and we instantly provide these updates for you to download directly from our website.Using our Automatic Updater, you can automatically receive the latest updates for your server effortlessly = in seconds after each server restart.",
+      "language": "en",
+      "size": "4.55 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-ServerJars.json",
+      "exported_at": "2023-01-19T13:47:52-03:00"
+    },
+    {
+      "name": "Stress",
+      "description": "💎 Egg: Stress\r\n⚙️ Versão: 1.6\r\n❓ Oque é: Este Egg ira estressar sua máquina (recomendo usar se você tem alguma VM da Oracle, se sua VM ficar muito tempo sem uso, sua conta será suspensa)\r\n🐛 Bugs corrigidos/changelogs: \r\n      • (1.2) Inicialização arrumada.\r\n      • (1.3) Docker Trocado.\r\n      • (1.4) Instalação do Script corrigido\r\n      • (1.5) Comando de Parar corrigido\r\n      • (1.6) Update Script Start\r\n⚠️ Atenção: Use com cuidado!\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "4.91 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-stress.json",
+      "exported_at": "2024-08-04T12:38:31-03:00"
+    },
+    {
+      "name": "Stress",
+      "description": "💎 Egg: Stress\r\n⚙️ Version: 1.6\r\n❓ What is it: This Egg will stress your machine (I recommend using it if you have an Oracle VM, as your account will be suspended if your VM remains unused for a long time)\r\n🐞 Bugs fixed/changelogs: \r\n      • (1.2) Fixed startup.\r\n      • (1.3) Docker Changed.\r\n      • (1.4) Script installation fixed\r\n      • (1.5) Stop command fixed\r\n      • (1.6) Update Start Script\r\n⚠️ Attention: Use with care!\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "4.57 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-stress.json",
+      "exported_at": "2024-08-04T12:38:31-03:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Versão: 1.0\r\n❓ Oque é: Terraria é um jogo de aventura e sobrevivência em 2D, lançado em 2011. O jogo permite que o jogador explore um mundo gerado aleatoriamente, colete recursos e materiais, crie itens e construa estruturas para sobreviver e progredir.\r\n🐛 Bugs corrigidos/changelogs:\r\n• (1.0) Lançamento\r\n• (1.0) Sistema que faz a verificação se o Egg esta atualizado.\r\n• (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n🪄 Oque há de diferente?\r\n   • Docker unido (mesma imagem, múltiplas arquiteturas).\r\n   • Docker alpine (mais leve que nunca).\r\n   • Funciona tanto no ARM64 quanto no 64x com o mesmo desemprenho.\r\n   • Traduzido.\r\n   • Roda por Scripts (melhor manutenção).\r\n       📝 Variáveis que os outros Eggs não contem: \r\n             • Idioma.\r\n             • Otimização.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "8.52 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-terraria-vanilla.json",
+      "exported_at": "2023-04-10T17:21:00-03:00"
+    },
+    {
+      "name": "Terraria Vanilla",
+      "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Version: 1.0\r\n❓ What is it: Terraria is a 2D survival adventure game, released in 2011. The game allows the player to explore a randomly generated world, gather resources and materials, craft items and build structures to survive and progress.\r\n🐛 Bugs fixed/changelogs:\r\n• (1.0) Launch\r\n• (1.0) System that checks if the Egg is up to date.\r\n• (1.0) Everything is done by scripts, better maintenance and updating.\r\n🪄 What's different?\r\n • United Docker (same image, multiple architectures).\r\n• Docker alpine (lighter than ever).\r\n • Works on both ARM64 and 64x with the same performance.\r\n • Translated.\r\n • Runs by Scripts (better maintenance) ão).\r\n 📝 Variables that other Eggs do not contain: \r\n • Language.\r\n • Optimization.\r\n\ud83d \udc51 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "8.08 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-terraria-vanilla.json",
+      "exported_at": "2023-04-10T17:21:00-03:00"
+    },
+    {
+      "name": "tModLoader",
+      "description": "💎 Egg: tModLoader\r\n⚙️ Versão: 4.1\r\n❓ Oque é: tModLoader é uma modificação do Terraria, que possibilitando jogar com mods. Escolha jogar como quiser!\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n• (3.0) [ARM64] Compatibilidade com o repositório original, roda o mesmo servidor que o 64x(sem arquivos de terceiros desatualizados, sem emulação).\r\n• (3.1) Erros graves corrigidos.\r\n• (4.0) Otimização do Egg.\r\n• (4.0) Docker atualizado.\r\n• (4.0) Agora o Egg não é dependente de atualizações, tudo é feito por scripts, ocasionando na sua melhor manutenção.\r\n• (4.0) Configurações inúteis removidas.\r\n• (4.0) Tradução das variáveis.\r\n• (4.1) Add docket Dotnet 8\r\n\r\n🪄 Oque há de diferente?\r\n   • Docker unido (mesma imagem, múltiplas arquiteturas).\r\n   • Steamworks.NET.dll Modificado, mais otimizado e multiplataforma.\r\n   • Funciona tanto no ARM64 quanto no 64x com o mesmo desemprenho.\r\n   • Sem Emulação.\r\n       📝 Variáveis que os outros Eggs não contem: \r\n             • Seed.\r\n             • Otimização.\r\n             • Segurança.\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "8.36 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-tModloader.json",
+      "exported_at": "2024-06-20T21:05:40-03:00"
+    },
+    {
+      "name": "tModLoader",
+      "description": "💎 Egg: tModLoader\r\n⚙️ Version: 4.1\r\n❓ What it is: tModLoader is a modification of Terraria, enabling you to play with mods. Choose to play as you like!\r\n\r\n🐛 Bugs fixed/changelogs:\r\n• (3.0) [ARM64] Compatibility with the original repository, runs the same server as the 64x (no outdated third-party files, no emulation).\r\n• (3.1) Critical errors fixed.\r\n• (4.0) Egg optimization.\r\n• (4.0) Docker updated.\r\n• (4.0) Egg is no longer dependent on updates, everything is done by scripts, resulting in better maintenance.\r\n• (4.0) Removed unnecessary settings.\r\n• (4.0) Translation of variables.\r\n• (4.1) Added Docker Dotnet 8\r\n\r\n🪄 What's different?\r\n   • Unified Docker (same image, multiple architectures).\r\n   • Modified Steamworks.NET.dll, more optimized and cross-platform.\r\n   • Works on both ARM64 and 64x with the same performance.\r\n   • No Emulation.\r\n       📝 Variables that other Eggs do not contain: \r\n             • Seed.\r\n             • Optimization.\r\n             • Security.\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "7.97 KB",
+      "type": "games",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-tModloader.json",
+      "exported_at": "2024-06-20T21:05:40-03:00"
+    },
+    {
+      "name": "VPS",
+      "description": "💎 Egg: VPS\r\n⚙️ Versão: 2.1\r\n❓ Oque é:  Uma VPS, este egg utiliza Proot (FakeRoot) que engana o sistema dizendo que você é um superusuário, instalar um Pterodactyl dentro de outro Pterodactyl nunca foi tão real!\r\n\r\n⚠️ Atenção: \r\n     • Não é recomendável de forma alguma, a utilização de Root no Docker. Eu não me responsabilizo por qualquer dano/ação que você ira fazer com isso.\r\n     • É necessário de no mínimo 1GB de espaço\r\n     • Distribuições Debian/Ubuntu podem levar mais de 15min para terminar a instalação\r\n     • Distribuições Ubuntu não está funcionando no momento\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n     • (1.0) Lançamento.\r\n     • (2.0) Detecta se o Egg está atualizado ou não.\r\n     • (2.0) Possibilidade de trocar de Distribuição Linux: (Debian, Ubuntu, Alpine).\r\n     • (2.0) Argumentos atualizados, agora o sistema não está tão restrito.\r\n     • (2.0) Possibilidade de trocar os argumentos.\r\n     • (2.0) Correção do comando de Desligamento, agora não é mais necessário matar o servidor.\r\n     • (2.0) Correção da Inicialização, agora o Painel sabe que o Servidor está ligado.\r\n     • (2.0) Script de Instalação foi reconstruído\r\n     • (2.1) Bugs graves do Script arrumados\r\n     • (2.1) Possibilidade de trocar de root entre: PRoot(Padrão), PRoot-rs, FakechRoot + FakeRoot.\r\n     • (2.1) Instalação Limpa Adicionada\r\n\r\n📝 Novas Variáveis: \r\n     • (2.0) Usar seus argumentos?\r\n     • (2.0) Seus Argumentos\r\n     • (2.0) Distribuição Linux\r\n     • (2.1) Mudar Root\r\n     • (2.1) Instalação Limpa?\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "pt",
+      "size": "5.71 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-vps.json",
+      "exported_at": "2023-01-30T19:05:30-04:00"
+    },
+    {
+      "name": "VPS",
+      "description": "💎 Egg: VPS\r\n⚙️ Version: 2.1\r\n❓ What is it: A VPS. This egg uses Proot (FakeRoot) which tricks the system into thinking you are a superuser. Installing a Pterodactyl inside another Pterodactyl has never been so real!\r\n\r\n⚠️ Attention: \r\n     • Using Root in Docker is not recommended in any way. I am not responsible for any damage/action you may cause with this.\r\n     • A minimum of 1GB of space is required.\r\n     • Debian/Ubuntu distributions may take more than 15 minutes to complete the installation.\r\n     • Ubuntu distributions are not working at the moment.\r\n\r\n🐞 Bugs fixed/changelogs:\r\n     • (1.0) Release.\r\n     • (2.0) Detects if the Egg is updated or not.\r\n     • (2.0) Ability to change Linux Distribution: (Debian, Ubuntu, Alpine).\r\n     • (2.0) Updated arguments, the system is now less restricted.\r\n     • (2.0) Ability to change arguments.\r\n     • (2.0) Fixed the Shutdown command, it is no longer necessary to kill the server.\r\n     • (2.0) Fixed Initialization, now the Panel knows the Server is on.\r\n     • (2.0) Installation script was rebuilt.\r\n     • (2.1) Serious script bugs fixed.\r\n     • (2.1) Ability to switch root between: PRoot(Default), PRoot-rs, FakechRoot + FakeRoot.\r\n     • (2.1) Clean Installation Added.\r\n\r\n📝 New Variables: \r\n     • (2.0) Use your own arguments?\r\n     • (2.0) Your Arguments\r\n     • (2.0) Linux Distribution\r\n     • (2.1) Change Root\r\n     • (2.1) Clean Installation?\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "language": "en",
+      "size": "5.05 KB",
+      "type": "software",
+      "author": "Matheusn.biolowons@gmail.com",
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-vps.json",
+      "exported_at": "2023-01-30T19:05:30-04:00"
+    }
+  ]
+}
