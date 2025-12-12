@@ -17,27 +17,44 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    services:
-      glotlid:
-        image: ghcr.io/${{ github.repository_owner }}/eggs-tracker-glotlid:latest
-        ports:
-          - 8000:8000
-        options: >-
-          --health-cmd "curl -f http://localhost:8000/docs || exit 1"
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
-
     steps:
     - uses: actions/checkout@v4
       with:
         submodules: false
         lfs: false
+
+    - name: Convert repository owner to lowercase
+      id: repo_owner
+      run: echo "owner_lc=$(echo '${{ github.repository_owner }}' | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
         
     - uses: oven-sh/setup-bun@v2
     
     - name: Configure Git LFS
       run: git lfs install --skip-smudge
+
+    - name: Pull and start GlotLID Docker container
+      run: |
+        docker login ghcr.io -u ${{ github.actor }} -p ${{ secrets.GITHUB_TOKEN }}
+        docker pull ghcr.io/${{ steps.repo_owner.outputs.owner_lc }}/eggs-tracker-glotlid:latest
+        docker run -d \
+          --name glotlid \
+          -p 8000:8000 \
+          --health-cmd "curl -f http://localhost:8000/docs || exit 1" \
+          --health-interval 10s \
+          --health-timeout 5s \
+          --health-retries 5 \
+          ghcr.io/${{ steps.repo_owner.outputs.owner_lc }}/eggs-tracker-glotlid:latest
+        
+        # Aguarda container ficar healthy
+        echo "⏳ Aguardando GlotLID inicializar..."
+        for i in {1..30}; do
+          if docker inspect --format='{{.State.Health.Status}}' glotlid 2>/dev/null | grep -q "healthy"; then
+            echo "✓ GlotLID está pronto!"
+            break
+          fi
+          echo "Tentativa $i/30..."
+          sleep 2
+        done
       
     - name: Install dependencies
       run: bun i
@@ -47,6 +64,10 @@ jobs:
       
     - name: Run egg tracker
       run: bun run dev
+
+    - name: Stop GlotLID container
+      if: always()
+      run: docker stop glotlid && docker rm glotlid
       
     - name: Cleanup cloned repositories
       run: |
