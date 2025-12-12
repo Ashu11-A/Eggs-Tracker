@@ -1,0 +1,14 @@
+[project]
+name = "eggs-tracker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.124.0",
+    "fasttext-wheel>=0.9.2",
+    "huggingface-hub>=1.2.1",
+    "numpy<2.0.0",
+    "pydantic>=2.12.5",
+    "uvicorn>=0.38.0",
+]

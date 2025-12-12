@@ -1,1 +1,42 @@
+# Dependências
 node_modules
+.bun
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+.cache/
+
+# Repositórios clonados - NÃO COMMITAR
+# Qualquer diretório na raiz que não seja uma pasta do projeto
+chatbots/
+database/
+games-standalone/
+games-steamcmd/
+generic/
+minecraft/
+monitoring/
+software/
+voice/
+Ashu_eggs/
+pterodactyl-eggs/
+codptero/
+Eggs/
+pterodactyl-stuff/
+own-pterodactyl-eggs/
+pterodactyl-io-ARM-eggs/
+Q_eggs/
+ptero-eggs/
+Pterodactyl-VPS-Egg/
+
+# Mantém apenas estas pastas
+!.github/
+!api/
+!src/
+!model/

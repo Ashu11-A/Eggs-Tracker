@@ -2,16 +2,16 @@ import axios from 'axios'
 import { exists, readFile, writeFile } from 'fs-extra'
 import { simpleGit } from 'simple-git'
 import { rm } from 'fs/promises'
-import { Merge } from './class/Merge'
-import { EggProcessor } from './functions/EggProcessor'
-import { repositories } from './config/Repositories'
+import { Merge } from './core/Merge'
+import { EggProcessor } from './processors/EggProcessor'
+import { providerRegistry, BaseProvider } from './core'
 import { Egg, LinkData } from './types'
 
 /**
  * Gerenciador principal da aplicação
  */
 export class EggTrackerApp {
-  private links: LinkData[] = []
+  private authorLinksMap = new Map<string, { repositories: string[], pushedDates: string[] }>()
   private linkCache: LinkData[] = []
 
   /**
@@ -19,8 +19,9 @@ export class EggTrackerApp {
    */
   public async run(): Promise<void> {
     await this.loadCache()
-    await this.processRepositories()
+    await this.processAllAuthors()
     await this.saveLinks()
+    await this.cleanupAllRepositories()
   }
 
   /**
@@ -34,64 +35,104 @@ export class EggTrackerApp {
   }
 
   /**
-   * Processa todos os repositórios
+   * Processa todos os autores e seus repositórios
    */
-  private async processRepositories(): Promise<void> {
-    for (const repo of repositories) {
-      const repository = repo.repository
-      const branch = repo?.branch ?? 'main'
+  private async processAllAuthors(): Promise<void> {
+    const authors = providerRegistry.getUniqueAuthors()
 
-      const author = repository.split('/')[0]
-      const repoName = repository.split('/')[1]
+    for (const author of authors) {
+      console.log(`\n📦 Processando autor: ${author}`)
+      const providers = providerRegistry.getProvidersByAuthor(author)
 
-      if (await this.shouldSkipRepository(repository, author)) {
-        console.log(`Repositório ${repository} sem alterações`)
+      if (await this.shouldSkipAuthor(author, providers)) {
+        console.log(`✓ Autor ${author} sem alterações`)
         continue
       }
 
-      await this.processRepository(repository, branch, author, repoName)
+      await this.processAuthor(author, providers)
     }
   }
 
   /**
-   * Verifica se o repositório deve ser ignorado (sem alterações)
+   * Verifica se o autor deve ser ignorado (sem alterações em nenhum repositório)
    */
-  private async shouldSkipRepository(repository: string, author: string): Promise<boolean> {
+  private async shouldSkipAuthor(
+    author: string,
+    providers: BaseProvider[]
+  ): Promise<boolean> {
     try {
-      const repoData = (await axios.get(`https://api.github.com/repos/${repository}`)).data as { pushed_at: string }
       const cachedLink = this.linkCache.find((element) => element.author === author)
-      return repoData.pushed_at === cachedLink?.pushed_at
+      if (!cachedLink) return false
+
+      // Verifica se algum repositório do autor foi atualizado
+      for (const provider of providers) {
+        const repository = provider.getRepository()
+        const repoData = await this.getRepoData(repository)
+        
+        if (repoData && repoData.pushed_at !== cachedLink.pushed_at) {
+          return false // Tem alteração
+        }
+      }
+
+      return true // Nenhum repositório mudou
     } catch (error) {
-      console.error(`Erro ao verificar repositório ${repository}:`, error)
+      console.error(`Erro ao verificar autor ${author}:`, error)
       return false
     }
   }
 
   /**
-   * Processa um repositório individual
+   * Processa todos os repositórios de um autor
    */
-  private async processRepository(
-    repository: string,
-    branch: string,
-    author: string,
-    repoName: string
-  ): Promise<void> {
-    try {
-      await this.cloneRepositoryIfNeeded(repository, branch, repoName)
-      
-      const processor = new EggProcessor({
-        repository,
-        branch,
-        path: repoName
-      })
+  private async processAuthor(author: string, providers: BaseProvider[]): Promise<void> {
+    const repositories: string[] = []
+    const pushedDates: string[] = []
 
-      const eggs = await processor.process()
-      await this.mergeAndSaveEggs(author, repoName, eggs)
-      await this.updateLinkData(repository, author)
-      
-      await this.cleanupRepository(repoName)
+    for (const provider of providers) {
+      const repository = provider.getRepository()
+      const branch = provider.getBranch()
+      const repoName = provider.getRepoName()
+
+      console.log(`  → Processando ${repository}`)
+
+      try {
+        await this.cloneRepositoryIfNeeded(repository, branch, repoName)
+        
+        const processor = new EggProcessor({
+          repository,
+          branch,
+          path: repoName
+        })
+
+        const eggs = await processor.process()
+        await this.mergeAndSaveEggs(author, repoName, eggs)
+        
+        const repoData = await this.getRepoData(repository)
+        if (repoData) {
+          repositories.push(repository)
+          pushedDates.push(repoData.pushed_at)
+        }
+
+        await this.cleanupRepository(repoName)
+      } catch (error) {
+        console.error(`  ✗ Erro ao processar ${repository}:`, error)
+      }
+    }
+
+    // Salva informações consolidadas do autor
+    this.authorLinksMap.set(author, { repositories, pushedDates })
+  }
+
+  /**
+   * Obtém dados do repositório do GitHub
+   */
+  private async getRepoData(repository: string): Promise<{ pushed_at: string } | null> {
+    try {
+      const response = await axios.get(`https://api.github.com/repos/${repository}`)
+      return response.data
     } catch (error) {
-      console.error(`Erro ao processar repositório ${repository}:`, error)
+      console.error(`Erro ao buscar dados de ${repository}:`, error)
+      return null
     }
   }
 
@@ -105,7 +146,7 @@ export class EggTrackerApp {
   ): Promise<void> {
     if (!(await exists(repoName))) {
       await simpleGit()
-        .clone(`https://github.com/${repository}`, { '--branch': branch })
+        .clone(`https://github.com/${repository}`, repoName, { '--branch': branch })
         .catch((err) => {
           throw new Error(`Erro ao clonar repositório: ${err}`)
         })
@@ -122,41 +163,66 @@ export class EggTrackerApp {
   }
 
   /**
-   * Atualiza os dados de link para o autor
-   */
-  private async updateLinkData(repository: string, author: string): Promise<void> {
-    const eggsMapped = JSON.parse(await readFile(`api/${author}.json`, 'utf-8')) as Egg[]
-    const repoData = (await axios.get(`https://api.github.com/repos/${repository}`)).data as { pushed_at: string }
-
-    this.links.push({
-      author,
-      link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${author}.min.json`,
-      eggs: eggsMapped.length,
-      pushed_at: repoData.pushed_at
-    })
-  }
-
-  /**
    * Remove o diretório do repositório clonado
    */
   private async cleanupRepository(repoName: string): Promise<void> {
-    await rm(repoName, { recursive: true })
+    try {
+      if (await exists(repoName)) {
+        await rm(repoName, { recursive: true, force: true })
+        console.log(`  ✓ Limpeza: ${repoName}`)
+      }
+    } catch (error) {
+      console.error(`  ✗ Erro ao limpar ${repoName}:`, error)
+    }
+  }
+
+  /**
+   * Limpa todos os diretórios de repositórios que possam ter ficado
+   */
+  private async cleanupAllRepositories(): Promise<void> {
+    console.log('\n🧹 Limpeza final de repositórios...')
+    const allProviders = providerRegistry.getAllProviders()
+    
+    for (const provider of allProviders) {
+      const repoName = provider.getRepoName()
+      await this.cleanupRepository(repoName)
+    }
   }
 
   /**
    * Salva os links atualizados
    */
   private async saveLinks(): Promise<void> {
-    for (const link of this.links) {
-      const index = this.linkCache.findIndex((element) => element.author === link.author)
+    console.log('\n💾 Salvando links...')
+    
+    for (const [author, data] of this.authorLinksMap.entries()) {
+      const eggsMapped = JSON.parse(await readFile(`api/${author}.json`, 'utf-8')) as Egg[]
+      
+      // Pega o pushed_at mais recente entre todos os repositórios do autor
+      const mostRecentPush = data.pushedDates.sort((a, b) => 
+        new Date(b).getTime() - new Date(a).getTime()
+      )[0]
+
+      const linkData: LinkData = {
+        author,
+        authorUrl: `https://github.com/${author}`,
+        repositories: data.repositories,
+        link: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/${author}.min.json`,
+        eggs: eggsMapped.length,
+        pushed_at: mostRecentPush
+      }
+
+      const index = this.linkCache.findIndex((element) => element.author === author)
       if (index !== -1) {
-        this.linkCache[index] = link
+        this.linkCache[index] = linkData
       } else {
-        this.linkCache.push(link)
+        this.linkCache.push(linkData)
       }
     }
 
     await writeFile('api/links.json', JSON.stringify(this.linkCache, null, 2))
+    console.log('✓ Links salvos com sucesso!')
   }
 }
+
 

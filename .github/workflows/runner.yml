@@ -17,15 +17,57 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    services:
+      glotlid:
+        image: ghcr.io/${{ github.repository_owner }}/eggs-tracker-glotlid:latest
+        ports:
+          - 8000:8000
+        options: >-
+          --health-cmd "curl -f http://localhost:8000/docs || exit 1"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
     steps:
     - uses: actions/checkout@v4
+      with:
+        submodules: false
+        lfs: false
+        
     - uses: oven-sh/setup-bun@v2
-    - run: git lfs install --skip-smudge
-    - name: Install deps
+    
+    - name: Configure Git LFS
+      run: git lfs install --skip-smudge
+      
+    - name: Install dependencies
       run: bun i
-    - name: Run javascript code
+      
+    - name: Set GlotLID API URL
+      run: echo "GLOTLID_API_URL=http://localhost:8000" >> $GITHUB_ENV
+      
+    - name: Run egg tracker
       run: bun run dev
+      
+    - name: Cleanup cloned repositories
+      run: |
+        echo "🧹 Limpando repositórios clonados..."
+        # Remove todos os diretórios que possam ter sido clonados
+        find . -maxdepth 1 -type d ! -name '.' ! -name '..' ! -name '.git' ! -name 'node_modules' ! -name 'api' ! -name 'src' ! -name 'model' ! -name '.github' -exec rm -rf {} + 2>/dev/null || true
+        # Lista diretórios restantes para debug
+        ls -la
+        
+    - name: Check for submodule issues
+      run: |
+        echo "🔍 Verificando .gitmodules..."
+        if [ -f .gitmodules ]; then
+          echo "⚠️  Arquivo .gitmodules encontrado, removendo..."
+          rm .gitmodules
+        fi
+        echo "✓ Sem problemas de submodule"
+        
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.16.0
       with:
-         commit_author: Author <41898282+github-actions[bot]@users.noreply.github.com>
+        commit_author: Author <41898282+github-actions[bot]@users.noreply.github.com>
+        commit_message: "chore: atualização automática de eggs"
+        file_pattern: "api/*.json"

@@ -1,49 +1,36 @@
-import { RepositoryRule } from './RepositoryRule'
-import { PelicanEggsRule } from './PelicanEggsRule'
-import { DefaultRule } from './DefaultRule'
+import { providerRegistry, BaseProvider, DefaultProvider } from '@/core'
 
 /**
- * Gerenciador de regras de repositório
+ * Gerenciador de regras de repositório (agora usando providers)
+ * @deprecated Use providerRegistry diretamente
  */
 export class RuleManager {
-  private rules: RepositoryRule[]
-
-  constructor(rules?: RepositoryRule[]) {
-    this.rules = rules || [
-      new PelicanEggsRule(),
-      new DefaultRule()
-    ]
-  }
-
   /**
-   * Adiciona uma nova regra
+   * Obtém o provider apropriado para um repositório
    */
-  public addRule(rule: RepositoryRule): void {
-    this.rules.unshift(rule)
-  }
+  public getProvider(authorRepo: string, repoName: string): BaseProvider {
+    // Tenta encontrar um provider específico
+    const provider = providerRegistry.getProviderForRepo(authorRepo)
+    if (provider) return provider
 
-  /**
-   * Obtém a regra apropriada para um repositório
-   */
-  public getRule(authorRepo: string): RepositoryRule {
-    const rule = this.rules.find(r => r.matches(authorRepo))
-    return rule || this.rules[this.rules.length - 1]
+    // Fallback para DefaultProvider
+    return new DefaultProvider(`${authorRepo}/${repoName}`)
   }
 
   /**
    * Obtém o tipo de egg baseado no path e nas regras do repositório
    */
   public getEggType(path: string, authorRepo: string, repoName: string): string {
-    const rule = this.getRule(authorRepo)
-    return rule.getType(path, repoName)
+    const provider = this.getProvider(authorRepo, repoName)
+    return provider.getType(path, repoName)
   }
 
   /**
    * Obtém os padrões de arquivos a serem ignorados para um repositório
    */
-  public getIgnorePatterns(authorRepo: string): string[] {
-    const rule = this.getRule(authorRepo)
-    return rule.getIgnorePatterns()
+  public getIgnorePatterns(authorRepo: string, repoName: string = ''): string[] {
+    const provider = this.getProvider(authorRepo, repoName)
+    return provider.getIgnorePatterns()
   }
 }
 
@@ -51,4 +38,5 @@ export class RuleManager {
  * Instância singleton do gerenciador de regras
  */
 export const ruleManager = new RuleManager()
+
 

@@ -71,7 +71,7 @@ export class EggProcessor {
       }
 
       return await this.createEgg(config, filePath, size)
-    } catch (error) {
+    } catch {
       console.log(`Ocorreu um erro ao processar o arquivo: ${filePath}`)
       return null
     }
@@ -100,7 +100,7 @@ export class EggProcessor {
   private async createEgg(config: EggConfig, filePath: string, size: number): Promise<Egg> {
     const pathEgg = filePath.replace(`${filePath.split('/')[0]}/`, '')
     const link = this.buildRawGithubUrl(pathEgg)
-    const language = await this.detectLanguage(config.description)
+    const language = await this.detectLanguageFromEgg(config)
     const type = ruleManager.getEggType(pathEgg, this.authorRepo, this.repoName)
 
     return {
@@ -116,6 +116,25 @@ export class EggProcessor {
   }
 
   /**
+   * Detecta idioma considerando múltiplos campos do egg
+   */
+  private async detectLanguageFromEgg(config: EggConfig): Promise<string> {
+    try {
+      const { languageDetector } = await import('@/services/LanguageDetector')
+      const isAvailable = await languageDetector.isAvailable()
+      
+      if (isAvailable) {
+        return await languageDetector.detectFromEgg(config)
+      }
+      
+      // Fallback para método antigo se API não disponível
+      return await this.detectLanguage(config.description)
+    } catch {
+      return await this.detectLanguage(config.description)
+    }
+  }
+
+  /**
    * Constrói a URL do GitHub Raw
    */
   private buildRawGithubUrl(pathEgg: string): string {
@@ -123,10 +142,19 @@ export class EggProcessor {
   }
 
   /**
-   * Detecta o idioma da descrição
+   * Detecta o idioma da descrição usando a API GlotLID
    */
   private async detectLanguage(description: string): Promise<string> {
     try {
+      // Tenta usar a nova API GlotLID primeiro
+      const { languageDetector } = await import('@/services/LanguageDetector')
+      const isAvailable = await languageDetector.isAvailable()
+      
+      if (isAvailable) {
+        return await languageDetector.detect(description)
+      }
+      
+      // Fallback para CLD se a API não estiver disponível
       const result = await cld.detect(description)
       return result.languages.reduce((max, language) => 
         language.percent > max.percent ? language : max
@@ -154,4 +182,5 @@ export class EggProcessor {
     }
   }
 }
+
 
