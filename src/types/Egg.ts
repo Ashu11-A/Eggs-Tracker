@@ -3,7 +3,7 @@ export interface Egg {
   description: string
   author: string
   type: string
-  language: string
+  language: string | null
   exported_at: string
   link: string
   size: string

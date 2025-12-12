@@ -23,18 +23,21 @@ export class LanguageDetector {
   /**
    * Detecta o idioma de um texto usando fila de processamento
    */
-  async detect(text: string): Promise<string> {
-    // Se o texto estiver vazio ou muito curto, retorna idioma padrão
+  async detect(text: string): Promise<string | null> {
+    // Se o texto estiver vazio ou muito curto, retorna null
     if (!text || text.trim().length < 10) {
-      return this.fallbackLanguage
+      return null
     }
+
+    // Limita o texto para 1024 caracteres (limite da API)
+    const truncatedText = text.trim().slice(0, 1024)
 
     // Adiciona à fila de processamento (máximo 5 requisições simultâneas)
     return this.queue.add(async () => {
       try {
         const response = await axios.post<LanguageDetectionResult>(
           `${this.apiUrl}/identify`,
-          { text_content: text },
+          { text_content: truncatedText },
           { timeout: 10000 } // Aumentado para 10s devido à fila
         )
 
@@ -49,45 +52,49 @@ export class LanguageDetector {
   /**
    * Detecta o idioma combinando múltiplos textos
    */
-  async detectFromMultiple(texts: string[]): Promise<string> {
+  async detectFromMultiple(texts: string[]): Promise<string | null> {
     const combinedText = texts
       .filter(text => text && text.trim().length > 0)
       .join(' ')
+    
+    // Se não há texto suficiente, retorna null
+    if (!combinedText || combinedText.trim().length < 10) {
+      return null
+    }
     
     return this.detect(combinedText)
   }
 
   /**
    * Detecta idioma de um egg baseado em seus campos
+   * Retorna null se não houver conteúdo suficiente para análise
    */
   async detectFromEgg(eggConfig: {
     name?: string
     description?: string
     variables?: Array<{ name?: string; description?: string }>
-  }): Promise<string> {
+  }): Promise<string | null> {
     const texts: string[] = []
 
-    // Adiciona descrição (peso maior)
-    if (eggConfig.description) {
+    // Adiciona descrição (peso maior) - apenas se não for null
+    if (eggConfig.description && eggConfig.description.trim().length > 0) {
       texts.push(eggConfig.description)
       texts.push(eggConfig.description) // Adiciona duas vezes para dar mais peso
     }
 
     // Adiciona descrições das variáveis
-    if (eggConfig.variables && Array.isArray(eggConfig.variables)) {
+    if (eggConfig.variables && Array.isArray(eggConfig.variables) && eggConfig.variables.length > 0) {
       for (const variable of eggConfig.variables) {
-        if (variable.description) {
+        if (variable.description && variable.description.trim().length > 0) {
           texts.push(variable.description)
         }
-        if (variable.name) {
-          texts.push(variable.name)
-        }
+        // Não usa nome de variável se não tiver descrição suficiente
       }
     }
 
-    // Se não há textos para analisar, usa o nome
-    if (texts.length === 0 && eggConfig.name) {
-      texts.push(eggConfig.name)
+    // Se não há textos para analisar, retorna null (não usa nome do egg)
+    if (texts.length === 0) {
+      return null
     }
 
     return this.detectFromMultiple(texts)

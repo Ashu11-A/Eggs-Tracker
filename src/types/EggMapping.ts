@@ -5,6 +5,6 @@ export interface EggMap {
   exported_at: Date | string
   link: string,
   size: string,
-  language: string,
+  language: string | null,
   type: string | null
 }

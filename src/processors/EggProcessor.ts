@@ -132,14 +132,17 @@ export class EggProcessor {
 
   /**
    * Detecta idioma considerando múltiplos campos do egg
+   * Retorna null se não houver conteúdo suficiente
    */
-  private async detectLanguageFromEgg(config: EggConfig): Promise<string> {
+  private async detectLanguageFromEgg(config: EggConfig): Promise<string | null> {
     try {
       const { languageDetector } = await import('@/services/LanguageDetector')
       const isAvailable = await languageDetector.isAvailable()
       
       if (isAvailable) {
-        return await languageDetector.detectFromEgg(config)
+        const result = await languageDetector.detectFromEgg(config)
+        // Se retornou null, significa que não há conteúdo suficiente
+        return result
       }
       
       // Fallback para método antigo se API não disponível
@@ -158,8 +161,14 @@ export class EggProcessor {
 
   /**
    * Detecta o idioma da descrição usando a API GlotLID
+   * Retorna null se não houver descrição válida
    */
-  private async detectLanguage(description: string): Promise<string> {
+  private async detectLanguage(description: string | null | undefined): Promise<string | null> {
+    // Se não há descrição, retorna null
+    if (!description || description.trim().length < 10) {
+      return null
+    }
+
     try {
       // Tenta usar a nova API GlotLID primeiro
       const { languageDetector } = await import('@/services/LanguageDetector')
@@ -175,7 +184,7 @@ export class EggProcessor {
         language.percent > max.percent ? language : max
       ).code
     } catch {
-      return 'en'
+      return null // Retorna null em vez de 'en' quando não consegue detectar
     }
   }
 
