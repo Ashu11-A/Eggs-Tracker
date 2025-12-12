@@ -1,5 +1,6 @@
 import axios from 'axios'
 import { AsyncQueue } from '@/utils/AsyncQueue'
+import { normalizeLanguageCode } from '@/utils/LanguageCodeNormalizer'
 
 export interface LanguageDetectionResult {
   language: string
@@ -41,7 +42,9 @@ export class LanguageDetector {
           { timeout: 10000 } // Aumentado para 10s devido à fila
         )
 
-        return response.data.language
+        // Normaliza o código de idioma para ISO 639-1 (eng_Latn -> en, por_Latn -> pt)
+        const normalizedLanguage = normalizeLanguageCode(response.data.language)
+        return normalizedLanguage
       } catch (error) {
         console.warn('Erro ao detectar idioma via API, usando fallback:', error instanceof Error ? error.message : error)
         return this.fallbackLanguage
