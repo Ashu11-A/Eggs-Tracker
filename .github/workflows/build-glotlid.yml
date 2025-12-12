@@ -7,11 +7,13 @@ on:
     branches: [ "master" ]
     paths:
       - 'model/**'
+      - 'Dockerfile'
+      - 'pyproject.toml'
       - '.github/workflows/build-glotlid.yml'
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository_owner }}/eggs-tracker-glotlid
+  IMAGE_NAME: eggs-tracker-glotlid
 
 jobs:
   build-and-push:
@@ -35,7 +37,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          images: ${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}
           tags: |
             type=raw,value=latest
             type=sha,prefix={{branch}}-
@@ -43,7 +45,8 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./model
+          context: .
+          file: ./Dockerfile
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
