@@ -1,4 +1,5 @@
 import axios from 'axios'
+import { AsyncQueue } from '@/utils/AsyncQueue'
 
 export interface LanguageDetectionResult {
   language: string
@@ -11,14 +12,16 @@ export interface LanguageDetectionResult {
 export class LanguageDetector {
   private apiUrl: string
   private fallbackLanguage: string
+  private queue: AsyncQueue
 
-  constructor(apiUrl: string = process.env.GLOTLID_API_URL || 'http://localhost:8000', fallbackLanguage: string = 'en') {
+  constructor(apiUrl: string = process.env.GLOTLID_API_URL || 'http://localhost:8000', fallbackLanguage: string = 'en', concurrency: number = 5) {
     this.apiUrl = apiUrl
     this.fallbackLanguage = fallbackLanguage
+    this.queue = new AsyncQueue(concurrency)
   }
 
   /**
-   * Detecta o idioma de um texto
+   * Detecta o idioma de um texto usando fila de processamento
    */
   async detect(text: string): Promise<string> {
     // Se o texto estiver vazio ou muito curto, retorna idioma padrão
@@ -26,18 +29,21 @@ export class LanguageDetector {
       return this.fallbackLanguage
     }
 
-    try {
-      const response = await axios.post<LanguageDetectionResult>(
-        `${this.apiUrl}/identify`,
-        { text_content: text },
-        { timeout: 5000 }
-      )
+    // Adiciona à fila de processamento (máximo 5 requisições simultâneas)
+    return this.queue.add(async () => {
+      try {
+        const response = await axios.post<LanguageDetectionResult>(
+          `${this.apiUrl}/identify`,
+          { text_content: text },
+          { timeout: 10000 } // Aumentado para 10s devido à fila
+        )
 
-      return response.data.language
-    } catch (error) {
-      console.warn('Erro ao detectar idioma via API, usando fallback:', error instanceof Error ? error.message : error)
-      return this.fallbackLanguage
-    }
+        return response.data.language
+      } catch (error) {
+        console.warn('Erro ao detectar idioma via API, usando fallback:', error instanceof Error ? error.message : error)
+        return this.fallbackLanguage
+      }
+    })
   }
 
   /**
@@ -97,6 +103,23 @@ export class LanguageDetector {
     } catch {
       return false
     }
+  }
+
+  /**
+   * Retorna informações sobre o estado da fila
+   */
+  getQueueInfo(): { running: number; queued: number } {
+    return {
+      running: this.queue.getRunningCount(),
+      queued: this.queue.getQueuedCount()
+    }
+  }
+
+  /**
+   * Aguarda todas as requisições pendentes serem concluídas
+   */
+  async waitAll(): Promise<void> {
+    return this.queue.waitAll()
   }
 }
 

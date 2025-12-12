@@ -39,12 +39,19 @@ export class EggProcessor {
     const files = await this.findEggFiles()
     const eggs: Egg[] = []
 
-    for (const filePath of files) {
-      const egg = await this.processFile(filePath)
+    console.log(`  📊 Total de arquivos encontrados: ${files.length}`)
+    
+    for (let i = 0; i < files.length; i++) {
+      const filePath = files[i]
+      const egg = await this.processFile(filePath, i + 1, files.length)
       if (egg) {
         eggs.push(egg)
       }
     }
+
+    // Aguarda todas as detecções de idioma pendentes
+    const { languageDetector } = await import('@/services/LanguageDetector')
+    await languageDetector.waitAll()
 
     return this.sortEggs(eggs)
   }
@@ -60,7 +67,7 @@ export class EggProcessor {
   /**
    * Processa um arquivo individual
    */
-  private async processFile(filePath: string): Promise<Egg | null> {
+  private async processFile(filePath: string, current: number, total: number): Promise<Egg | null> {
     try {
       const content = await readFile(filePath, 'utf8')
       const { size } = await stat(filePath)
@@ -70,7 +77,9 @@ export class EggProcessor {
         return null
       }
 
-      return await this.createEgg(config, filePath, size)
+      const egg = await this.createEgg(config, filePath, size, current, total)
+      
+      return egg
     } catch {
       console.log(`Ocorreu um erro ao processar o arquivo: ${filePath}`)
       return null
@@ -97,9 +106,15 @@ export class EggProcessor {
   /**
    * Cria um objeto Egg a partir da configuração
    */
-  private async createEgg(config: EggConfig, filePath: string, size: number): Promise<Egg> {
+  private async createEgg(config: EggConfig, filePath: string, size: number, current: number, total: number): Promise<Egg> {
     const pathEgg = filePath.replace(`${filePath.split('/')[0]}/`, '')
     const link = this.buildRawGithubUrl(pathEgg)
+    
+    // Mostra progresso da fila
+    const { languageDetector } = await import('@/services/LanguageDetector')
+    const queueInfo = languageDetector.getQueueInfo()
+    console.log(`  🔄 [${current}/${total}] ${config.name} | Fila: ${queueInfo.running} processando, ${queueInfo.queued} aguardando`)
+    
     const language = await this.detectLanguageFromEgg(config)
     const type = ruleManager.getEggType(pathEgg, this.authorRepo, this.repoName)
 
