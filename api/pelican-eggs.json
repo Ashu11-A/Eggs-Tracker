@@ -3213,21 +3213,21 @@
     "name": "OpenRCT2",
     "description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits.",
     "language": "en",
-    "size": "15.91 KB",
+    "size": "17.07 KB",
     "type": "games-standalone",
     "author": "red_thirten@yahoo.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openrct2/egg-open-r-c-t2.json",
-    "exported_at": "2024-10-16T18:29:26-07:00"
+    "exported_at": "2025-12-13T17:10:38-08:00"
   },
   {
     "name": "OpenRCT2",
     "description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits.",
     "language": "en",
-    "size": "15.43 KB",
+    "size": "15.95 KB",
     "type": "games-standalone",
     "author": "red_thirten@yahoo.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openrct2/egg-pterodactyl-open-r-c-t2.json",
-    "exported_at": "2024-10-16T18:29:26-07:00"
+    "exported_at": "2025-12-13T17:10:38-08:00"
   },
   {
     "name": "OpenTTD",
