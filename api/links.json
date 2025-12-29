@@ -4,6 +4,7 @@
     "authorUrl": "https://github.com/pelican-eggs",
     "repositories": [
       "pelican-eggs/chatbots",
+      "pelican-eggs/database",
       "pelican-eggs/games-standalone",
       "pelican-eggs/games-steamcmd",
       "pelican-eggs/generic",
