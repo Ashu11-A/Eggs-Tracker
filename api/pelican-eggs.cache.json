@@ -3988,23 +3988,23 @@
     },
     {
       "name": "Tower Unite",
-      "description": "Tower Unite\r\n\r\nDefault Port: 7778\r\nDefault Query Port: 27016\r\n\r\nConfig Path: Tower/Saved/Config/TowerServer.ini",
+      "description": "PLAY, CREATE, PARTY! Tower Unite is a community-based virtual world party game with online games, entertainment, activities, and absolutely NO microtransactions.",
       "language": "en",
-      "size": "7.29 KB",
+      "size": "7.74 KB",
       "type": "games-steamcmd",
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/tower_unite/egg-pterodactyl-tower-unite.json",
-      "exported_at": "2024-06-01T00:04:59+00:00"
+      "exported_at": "2025-12-28T10:55:54+00:00"
     },
     {
       "name": "Tower Unite",
-      "description": "Tower Unite\r\n\r\nDefault Port: 7778\r\nDefault Query Port: 27016\r\n\r\nConfig Path: Tower/Saved/Config/TowerServer.ini",
+      "description": "PLAY, CREATE, PARTY! Tower Unite is a community-based virtual world party game with online games, entertainment, activities, and absolutely NO microtransactions.",
       "language": "en",
-      "size": "7.55 KB",
+      "size": "26.33 KB",
       "type": "games-steamcmd",
       "author": "teamwuffy@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/tower_unite/egg-tower-unite.json",
-      "exported_at": "2024-06-01T00:04:59+00:00"
+      "exported_at": "2025-12-28T10:55:54+00:00"
     },
     {
       "name": "Unturned",
