@@ -71,6 +71,16 @@
       "exported_at": "2024-06-18T12:49:11-03:00"
     },
     {
+      "name": "Proxy 3 Egg",
+      "description": "3Proxy server with SOCKS5 and HTTP support, featuring bandwidth and connection limiting.",
+      "language": "en",
+      "size": "4.21 KB",
+      "type": "Eggs",
+      "author": "drysiustm@gmail.com",
+      "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/socks5-3proxy.json",
+      "exported_at": "2026-01-03T21:52:14+00:00"
+    },
+    {
       "name": "SA-MP (ARM/AMD)",
       "description": "SA-MP é um mod de jogo multiplayer online massivamente gratuito para a versão para PC e Mobile da Rockstar Games Grand Theft Auto: San Andreas (tm).\r\nCriado por Ashu e drysius.\r\nVersão: 1.6\r\nLingua:Português Brasileiro.\r\nNecessidade: Precisa de internet para funcionar.\r\nGithub: https://github.com/drysius/\r\nGithub: https://github.com/Ashu11-A/",
       "language": "pt",

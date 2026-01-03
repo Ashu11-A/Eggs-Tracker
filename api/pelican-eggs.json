@@ -3873,21 +3873,11 @@
     "name": "Rathole",
     "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
     "language": "en",
-    "size": "3.81 KB",
-    "type": "software",
-    "author": "tunayada@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-rathole.json",
-    "exported_at": "2024-06-02T14:40:53+00:00"
-  },
-  {
-    "name": "Rathole",
-    "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
-    "language": "en",
-    "size": "3.69 KB",
+    "size": "3.63 KB",
     "type": "software",
     "author": "tunayada@gmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rathole/egg-pterodactyl-rathole.json",
-    "exported_at": "2024-06-02T14:40:53+00:00"
+    "exported_at": "2026-01-03T15:04:48+00:00"
   },
   {
     "name": "Red",
@@ -5423,61 +5413,61 @@
     "name": "Valheim",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
     "language": "en",
-    "size": "10.46 KB",
+    "size": "10.13 KB",
     "type": "games-steamcmd",
     "author": "magi1053@outlook.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_vanilla/egg-pterodactyl-valheim.json",
-    "exported_at": "2024-06-01T00:05:03+00:00"
+    "exported_at": "2026-01-03T15:23:29+00:00"
   },
   {
     "name": "Valheim",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
     "language": "en",
-    "size": "10.95 KB",
+    "size": "10.9 KB",
     "type": "games-steamcmd",
     "author": "magi1053@outlook.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_vanilla/egg-valheim.json",
-    "exported_at": "2024-06-01T00:05:03+00:00"
+    "exported_at": "2026-01-03T15:30:59+00:00"
   },
   {
-    "name": "Valheim  BepINex",
+    "name": "Valheim BepINex",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture incl the Plugin Framework BepInEx",
     "language": "en",
-    "size": "13.55 KB",
+    "size": "13.18 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_bepinex/egg-valheim-bep-i-nex.json",
-    "exported_at": "2025-09-22T17:29:55+00:00"
+    "exported_at": "2026-01-03T15:22:52+00:00"
   },
   {
-    "name": "Valheim  BepINex",
+    "name": "Valheim BepINex",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture incl the Plugin Framework BepInEx",
     "language": "en",
-    "size": "12.74 KB",
+    "size": "12.36 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_bepinex/egg-pterodactyl-valheim-bep-i-nex.json",
-    "exported_at": "2025-09-22T17:29:55+00:00"
+    "exported_at": "2026-01-03T15:22:52+00:00"
   },
   {
     "name": "Valheim Plus Mod",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
     "language": "en",
-    "size": "13.83 KB",
+    "size": "13.9 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_plus/egg-valheim-plus-mod.json",
-    "exported_at": "2024-06-01T00:05:05+00:00"
+    "exported_at": "2026-01-03T15:31:07+00:00"
   },
   {
     "name": "Valheim Plus Mod",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
     "language": "en",
-    "size": "13.23 KB",
+    "size": "12.94 KB",
     "type": "games-steamcmd",
     "author": "eggs@goover.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_plus/egg-pterodactyl-valheim-plus-mod.json",
-    "exported_at": "2024-06-01T00:05:05+00:00"
+    "exported_at": "2026-01-03T15:23:08+00:00"
   },
   {
     "name": "Vanilla Bedrock",
@@ -5823,21 +5813,11 @@
     "name": "Yarr",
     "description": "Yarr is a selfhosted feed aggregator",
     "language": "en",
-    "size": "1.89 KB",
+    "size": "2.31 KB",
     "type": "software",
     "author": "sotoluis90@gmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/yarr/egg-pterodactyl-yarr.json",
-    "exported_at": "2024-06-02T14:40:56+00:00"
-  },
-  {
-    "name": "Yarr",
-    "description": "Yarr is a selfhosted feed aggregator",
-    "language": "en",
-    "size": "2 KB",
-    "type": "software",
-    "author": "sotoluis90@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/yarr/egg-yarr.json",
-    "exported_at": "2024-06-02T14:40:56+00:00"
+    "exported_at": "2026-01-03T18:05:15+00:00"
   },
   {
     "name": "Zandronum",
