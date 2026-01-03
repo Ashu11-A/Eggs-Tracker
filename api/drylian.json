@@ -1,6 +1,6 @@
 [
   {
-    "name": "Base | Drylian",
+    "name": "Base | drysius",
     "description": "Arquivo Base para meus eggs",
     "language": "pt",
     "size": "1.46 KB",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Nginx file Explorer",
-    "description": "Egg: Nginx Explorador de Arquivos\r\nDescrição: O Nginx Explorador de Arquivos é Baseado no Nginx Webfile, que resumidamente é uma conexão de armazenamento usando o nginx, permite você colocar desde arquivos como jogos, imagens, fotos , tudo pela linkado a internet, pode ser usado para upar imagens para por em sites ou usar como local de download.Caso use isto como local de armazenamento de arquivos, procure deixar o script rodando localmente.\r\nVersão do egg:1.5\r\nCriado por Drylian",
+    "description": "Egg: Nginx Explorador de Arquivos\r\nDescrição: O Nginx Explorador de Arquivos é Baseado no Nginx Webfile, que resumidamente é uma conexão de armazenamento usando o nginx, permite você colocar desde arquivos como jogos, imagens, fotos , tudo pela linkado a internet, pode ser usado para upar imagens para por em sites ou usar como local de download.Caso use isto como local de armazenamento de arquivos, procure deixar o script rodando localmente.\r\nVersão do egg:1.5\r\nCriado por drysius",
     "language": "pt",
     "size": "4.94 KB",
     "type": "Eggs",
@@ -51,9 +51,9 @@
   },
   {
     "name": "Open-MP",
-    "description": "O objetivo do Open-MP é criar um sistema de servidor multiplayer mais atualizado, seguro e escalável para o GTA: San Andreas. O projeto é de código aberto, o que significa que qualquer pessoa pode contribuir para seu desenvolvimento ou usar o código em seus próprios projetos.\r\n\r\nCriado por Drylian.\r\nVersão: 1.0 (Sample)\r\nLingua:Portugues Brasileiro.\r\nGithub: https://github.com/drylian/\r\n\r\nDocker ARM64 por Ashu \r\nGithub: https://github.com/Ashu11-A/",
+    "description": "O objetivo do Open-MP é criar um sistema de servidor multiplayer mais atualizado, seguro e escalável para o GTA: San Andreas. O projeto é de código aberto, o que significa que qualquer pessoa pode contribuir para seu desenvolvimento ou usar o código em seus próprios projetos.\r\n\r\nCriado por drysius.\r\nVersão: 1.0 (Sample)\r\nLingua:Portugues Brasileiro.\r\nGithub: https://github.com/drysius/\r\n\r\nDocker ARM64 por Ashu \r\nGithub: https://github.com/Ashu11-A/",
     "language": "pt",
-    "size": "8.39 KB",
+    "size": "8.33 KB",
     "type": "Eggs",
     "author": "danielolxlol@gmail.com",
     "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-open--m-p.json",
@@ -63,7 +63,7 @@
     "name": "PHP",
     "description": "Egg para Hospedagens de Websites usando PHP",
     "language": "pt",
-    "size": "1.85 KB",
+    "size": "1.84 KB",
     "type": "Eggs",
     "author": "danielolxlol@gmail.com",
     "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-php.json",
@@ -71,9 +71,9 @@
   },
   {
     "name": "SA-MP (ARM/AMD)",
-    "description": "SA-MP é um mod de jogo multiplayer online massivamente gratuito para a versão para PC e Mobile da Rockstar Games Grand Theft Auto: San Andreas (tm).\r\nCriado por Ashu e Drylian.\r\nVersão: 1.6\r\nLingua:Português Brasileiro.\r\nNecessidade: Precisa de internet para funcionar.\r\nGithub: https://github.com/drylian/\r\nGithub: https://github.com/Ashu11-A/",
+    "description": "SA-MP é um mod de jogo multiplayer online massivamente gratuito para a versão para PC e Mobile da Rockstar Games Grand Theft Auto: San Andreas (tm).\r\nCriado por Ashu e drysius.\r\nVersão: 1.6\r\nLingua:Português Brasileiro.\r\nNecessidade: Precisa de internet para funcionar.\r\nGithub: https://github.com/drysius/\r\nGithub: https://github.com/Ashu11-A/",
     "language": "pt",
-    "size": "6.45 KB",
+    "size": "6.44 KB",
     "type": "Eggs",
     "author": "danielolxlol@gmail.com",
     "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-s-a--m-p--a-r-m--a-m-d.json",
@@ -81,9 +81,9 @@
   },
   {
     "name": "SA-MP Connect",
-    "description": "SA-MP é um mod de jogo multiplayer online massivamente gratuito para a versão para PC e Mobile da Rockstar Games Grand Theft Auto: San Andreas (tm).\r\nCriado por Drylian.\r\nBase de Ashu\r\nVersão: 2.0\r\nLingua:Portugues Brasileiro.\r\nNecessidade: Precisa de internet para funcionar.\r\nGithub: https://github.com/drylian/\r\n\r\nDocker ARM64 por Ashu \r\nGithub: https://github.com/Ashu11-A/",
+    "description": "SA-MP é um mod de jogo multiplayer online massivamente gratuito para a versão para PC e Mobile da Rockstar Games Grand Theft Auto: San Andreas (tm).\r\nCriado por drysius.\r\nBase de Ashu\r\nVersão: 2.0\r\nLingua:Portugues Brasileiro.\r\nNecessidade: Precisa de internet para funcionar.\r\nGithub: https://github.com/drysius/\r\n\r\nDocker ARM64 por Ashu \r\nGithub: https://github.com/Ashu11-A/",
     "language": "pt",
-    "size": "8.93 KB",
+    "size": "8.92 KB",
     "type": "Eggs",
     "author": "danielolxlol@gmail.com",
     "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-s-a--m-p-connect.json",
