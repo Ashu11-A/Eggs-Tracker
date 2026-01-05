@@ -288,5 +288,25 @@
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-vps.json",
     "exported_at": "2023-01-30T19:05:30-04:00"
+  },
+  {
+    "name": "Xray-core",
+    "description": "💎 Egg: Xray-core\r\n⚙️ Versão: 1.0\r\n❓ Oque é: O Xray é um avançado sistema de proxy que cria túneis criptografados disfarçados de tráfego web comum, permitindo contornar bloqueios e censura com alta discrição. Ele conecta seu dispositivo a um servidor seguro de forma flexível.\r\n🐛 Bugs corrigidos/changelogs: \r\n      • (1.0) Lançamento (Suporte a VMess + Stream TCP).\r\n\r\nLiberdade é um direito, não um privilégio.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+    "language": "pt",
+    "size": "2.17 KB",
+    "type": "proxies",
+    "author": "Matheusn.biolowons@gmail.com",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/proxies/egg-xray-core.json",
+    "exported_at": "2026-01-04T23:24:01-03:00"
+  },
+  {
+    "name": "Xray-core",
+    "description": "💎 Egg: Xray-core\r\n⚙️ Version: 1.0\r\n❓ What is it: Xray is an advanced proxy system that creates encrypted tunnels disguised as common web traffic, allowing you to bypass blocks and censorship with high discretion. It connects your device to a secure server flexibly.\r\n🐛 Bug fixes/changelogs: \r\n      • (1.0) Release (VMess + TCP Stream Support).\r\n\r\nFreedom is a right, not a privilege.\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "language": "en",
+    "size": "1.82 KB",
+    "type": "proxies",
+    "author": "Matheusn.biolowons@gmail.com",
+    "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/proxies/egg-xray-core.json",
+    "exported_at": "2026-01-04T23:24:01-03:00"
   }
 ]
