@@ -13,7 +13,7 @@
     "name": "WebHost Egg",
     "description": "Introducing a versatile hosting solution for any website!\r\n\r\nWith built-in Composer support, simply specify the packages you need in the “Packages” box, and they’ll be installed automatically when the server starts. Want to set up WordPress? Just toggle the WordPress slider during server setup, and WordPress will be ready to go in moments.\r\n\r\nSupport for Pelican panel & Pterodactyl!\r\n\r\n© Sigma Productions 2025",
     "language": "en",
-    "size": "9.73 KB",
+    "size": "9.92 KB",
     "type": "egg-web-host-egg.json",
     "author": "info@djfinn.nl",
     "link": "https://raw.githubusercontent.com/Sigma-Production/ptero-eggs/main/egg-web-host-egg.json",
