@@ -5770,6 +5770,16 @@
     "exported_at": "2024-06-01T00:17:21+00:00"
   },
   {
+    "name": "Wreckfest",
+    "description": "Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticated driving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It’s all about fun, breakneck racing and over-the-top crashes.",
+    "language": "en",
+    "size": "7.86 KB",
+    "type": "games-steamcmd",
+    "author": "djjoker13@gmail.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/wreckfest/pterodactyl-egg-wreckfest.json",
+    "exported_at": "2026-01-10T08:54:47+00:00"
+  },
+  {
     "name": "Wurm Unlimited",
     "description": "Wurm Unlimited is the standalone version of the fantasy sandbox world Wurm Online, the MMORPG where the players are in charge! A pioneer in the ideas of player influence, crafting and adventure, it is now one of the most deep and feature packed true sandbox experiences available.",
     "language": "en",
