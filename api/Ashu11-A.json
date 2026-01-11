@@ -251,23 +251,23 @@
   },
   {
     "name": "tModLoader",
-    "description": "💎 Egg: tModLoader\r\n⚙️ Versão: 4.1\r\n❓ Oque é: tModLoader é uma modificação do Terraria, que possibilitando jogar com mods. Escolha jogar como quiser!\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n• (3.0) [ARM64] Compatibilidade com o repositório original, roda o mesmo servidor que o 64x(sem arquivos de terceiros desatualizados, sem emulação).\r\n• (3.1) Erros graves corrigidos.\r\n• (4.0) Otimização do Egg.\r\n• (4.0) Docker atualizado.\r\n• (4.0) Agora o Egg não é dependente de atualizações, tudo é feito por scripts, ocasionando na sua melhor manutenção.\r\n• (4.0) Configurações inúteis removidas.\r\n• (4.0) Tradução das variáveis.\r\n• (4.1) Add docket Dotnet 8\r\n\r\n🪄 Oque há de diferente?\r\n   • Docker unido (mesma imagem, múltiplas arquiteturas).\r\n   • Steamworks.NET.dll Modificado, mais otimizado e multiplataforma.\r\n   • Funciona tanto no ARM64 quanto no 64x com o mesmo desemprenho.\r\n   • Sem Emulação.\r\n       📝 Variáveis que os outros Eggs não contem: \r\n             • Seed.\r\n             • Otimização.\r\n             • Segurança.\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: tModLoader\r\n⚙️ Versão: 5.0\r\n❓ O que é: tModLoader é uma modificação do Terraria, que possibilita jogar com mods. Escolha jogar como quiser!\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n• (3.0) [ARM64] Compatibilidade com o repositório original, roda o mesmo servidor que o 64x (sem arquivos de terceiros desatualizados, sem emulação).\r\n• (3.1) Erros críticos corrigidos.\r\n• (4.0) Otimização do Egg.\r\n• (4.0) Docker atualizado.\r\n• (4.0) O Egg não é mais dependente de atualizações, tudo é feito por scripts, resultando em melhor manutenção.\r\n• (4.0) Configurações desnecessárias removidas.\r\n• (4.0) Tradução das variáveis.\r\n• (4.1) Adicionado Docker Dotnet 8\r\n• (5.0) Imagens alteradas para Alpine\r\n\r\n🪄 O que há de diferente?\r\n   • Docker unificado (mesma imagem, múltiplas arquiteturas).\r\n   • Steamworks.NET.dll modificado, mais otimizado e multiplataforma.\r\n   • Funciona tanto em ARM64 quanto em 64x com o mesmo desempenho.\r\n   • Sem Emulação.\r\n       📝 Variáveis que outros Eggs não contêm: \r\n             • Seed.\r\n             • Otimização.\r\n             • Segurança.\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "pt",
-    "size": "8.36 KB",
+    "size": "8.14 KB",
     "type": "games",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-tModloader.json",
-    "exported_at": "2024-06-20T21:05:40-03:00"
+    "exported_at": "2026-01-11T00:30:55-03:00"
   },
   {
     "name": "tModLoader",
-    "description": "💎 Egg: tModLoader\r\n⚙️ Version: 4.1\r\n❓ What it is: tModLoader is a modification of Terraria, enabling you to play with mods. Choose to play as you like!\r\n\r\n🐛 Bugs fixed/changelogs:\r\n• (3.0) [ARM64] Compatibility with the original repository, runs the same server as the 64x (no outdated third-party files, no emulation).\r\n• (3.1) Critical errors fixed.\r\n• (4.0) Egg optimization.\r\n• (4.0) Docker updated.\r\n• (4.0) Egg is no longer dependent on updates, everything is done by scripts, resulting in better maintenance.\r\n• (4.0) Removed unnecessary settings.\r\n• (4.0) Translation of variables.\r\n• (4.1) Added Docker Dotnet 8\r\n\r\n🪄 What's different?\r\n   • Unified Docker (same image, multiple architectures).\r\n   • Modified Steamworks.NET.dll, more optimized and cross-platform.\r\n   • Works on both ARM64 and 64x with the same performance.\r\n   • No Emulation.\r\n       📝 Variables that other Eggs do not contain: \r\n             • Seed.\r\n             • Optimization.\r\n             • Security.\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: tModLoader\r\n⚙️ Version: 5.0\r\n❓ What it is: tModLoader is a modification of Terraria, enabling you to play with mods. Choose to play as you like!\r\n\r\n🐛 Bugs fixed/changelogs:\r\n• (3.0) [ARM64] Compatibility with the original repository, runs the same server as the 64x (no outdated third-party files, no emulation).\r\n• (3.1) Critical errors fixed.\r\n• (4.0) Egg optimization.\r\n• (4.0) Docker updated.\r\n• (4.0) Egg is no longer dependent on updates, everything is done by scripts, resulting in better maintenance.\r\n• (4.0) Removed unnecessary settings.\r\n• (4.0) Translation of variables.\r\n• (4.1) Added Docker Dotnet 8\r\n• (5.0) Change images to Alpine\r\n\r\n🪄 What's different?\r\n   • Unified Docker (same image, multiple architectures).\r\n   • Modified Steamworks.NET.dll, more optimized and cross-platform.\r\n   • Works on both ARM64 and 64x with the same performance.\r\n   • No Emulation.\r\n       📝 Variables that other Eggs do not contain: \r\n             • Seed.\r\n             • Optimization.\r\n             • Security.\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "7.97 KB",
+    "size": "8.03 KB",
     "type": "games",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-tModloader.json",
-    "exported_at": "2024-06-20T21:05:40-03:00"
+    "exported_at": "2026-01-11T00:39:52-03:00"
   },
   {
     "name": "VPS",
