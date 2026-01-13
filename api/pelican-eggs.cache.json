@@ -778,21 +778,21 @@
       "name": "Factorio",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
-      "size": "8.34 KB",
+      "size": "302.64 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio.json",
-      "exported_at": "2024-09-08T19:58:10+02:00"
+      "exported_at": "2026-01-11T12:43:05+00:00"
     },
     {
       "name": "Factorio",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
-      "size": "8.08 KB",
+      "size": "9.04 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-pterodactyl-factorio.json",
-      "exported_at": "2024-09-08T19:55:12+02:00"
+      "exported_at": "2026-01-11T12:43:05+00:00"
     },
     {
       "name": "Factorio ARM64",
