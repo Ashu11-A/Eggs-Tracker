@@ -83,11 +83,11 @@
     "name": "HMW Mod",
     "description": "H2M Dedicated Server for Windows using Proton-GE\r\nIf you want to use a mount the target should be: /home/container/H2M",
     "language": "en",
-    "size": "6.77 KB",
+    "size": "6.49 KB",
     "type": "eggs",
     "author": "dominique@wellisch-itservice.de",
     "link": "https://raw.githubusercontent.com/Draakoor/codptero/main/eggs/egg-h-m-w-mod.json",
-    "exported_at": "2025-06-20T02:39:44+02:00"
+    "exported_at": "2026-01-15T22:31:30+01:00"
   },
   {
     "name": "HMW Mod",
