@@ -620,6 +620,16 @@
     "exported_at": "2024-06-02T14:43:54+00:00"
   },
   {
+    "name": "Bungeecord",
+    "description": "For a long time, Minecraft server owners have had a dream that encompasses a free, easy, and\nreliable way to connect multiple Minecraft servers together. BungeeCord is the answer to said dream.\nWhether you are a small server wishing to string multiple game-modes together, or the owner of the\nShotBow Network, BungeeCord is the ideal solution for you. With the help of BungeeCord, you will be\nable to unlock your community's full potential.",
+    "language": "en",
+    "size": "3.13 KB",
+    "type": "minecraft",
+    "author": "panel@example.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/bungeecord/pterodactyl-egg-bungeecord.json",
+    "exported_at": "2025-12-31T12:56:47+00:00"
+  },
+  {
     "name": "Citadel: Forged with Fire",
     "description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land.",
     "language": "en",
@@ -1530,24 +1540,14 @@
     "exported_at": "2024-06-01T19:39:42+00:00"
   },
   {
-    "name": "Forge Enhanced",
-    "description": "Minecraft Forge Server. Minecraft Forge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other.",
+    "name": "Forge Minecraft",
+    "description": "Minecraft Forge Server. Minecraft Forge is a modding API (Application Programming Interface), which\nmakes it easier to create mods, and also make sure mods are compatible with each other.",
     "language": "en",
-    "size": "8.98 KB",
+    "size": "8.83 KB",
     "type": "minecraft",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/forge/forge/egg-pterodactyl-forge-enhanced.json",
-    "exported_at": "2024-06-01T19:39:43+00:00"
-  },
-  {
-    "name": "Forge Enhanced",
-    "description": "Minecraft Forge Server. Minecraft Forge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other.",
-    "language": "en",
-    "size": "9.09 KB",
-    "type": "minecraft",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/forge/forge/egg-forge-enhanced.json",
-    "exported_at": "2025-12-19T20:55:21+00:00"
+    "author": "panel@example.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/forge/pterodactyl-egg-forge-minecraft.json",
+    "exported_at": "2025-12-31T13:05:02+00:00"
   },
   {
     "name": "Forgejo",
@@ -3413,21 +3413,11 @@
     "name": "Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
     "language": "en",
-    "size": "5.39 KB",
+    "size": "5.45 KB",
     "type": "minecraft",
-    "author": "parker@pterodactyl.io",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/egg-pterodactyl-paper.json",
-    "exported_at": "2025-12-11T14:26:49+00:00"
-  },
-  {
-    "name": "Paper",
-    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
-    "language": "en",
-    "size": "10.96 KB",
-    "type": "minecraft",
-    "author": "parker@pterodactyl.io",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/egg-paper.json",
-    "exported_at": "2025-12-11T14:26:49+00:00"
+    "author": "parker@example.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/paper/pterodactyl-egg-paper.json",
+    "exported_at": "2025-12-31T13:01:49+00:00"
   },
   {
     "name": "parkertron",
@@ -4500,6 +4490,16 @@
     "exported_at": "2024-06-01T19:39:58+00:00"
   },
   {
+    "name": "Sponge",
+    "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+    "language": "en",
+    "size": "5.73 KB",
+    "type": "minecraft",
+    "author": "panel@example.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
+    "exported_at": "2025-12-31T12:59:35+00:00"
+  },
+  {
     "name": "SpongeForge",
     "description": "A community-driven open source Minecraft: Java Edition modding platform.",
     "language": "en",
@@ -4517,26 +4517,6 @@
     "type": "minecraft",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongeforge/egg-sponge-forge.json",
-    "exported_at": "2024-06-01T19:40:12+00:00"
-  },
-  {
-    "name": "SpongeVanilla",
-    "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
-    "language": "en",
-    "size": "4.95 KB",
-    "type": "minecraft",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-sponge-vanilla.json",
-    "exported_at": "2024-06-01T19:40:12+00:00"
-  },
-  {
-    "name": "SpongeVanilla",
-    "description": "SpongeVanilla is the implementation of the Sponge API on top of Vanilla Minecraft.",
-    "language": "en",
-    "size": "4.79 KB",
-    "type": "minecraft",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
     "exported_at": "2024-06-01T19:40:12+00:00"
   },
   {
@@ -5508,6 +5488,16 @@
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock-a-r-m64.json",
     "exported_at": "2025-06-18T12:40:19+02:00"
+  },
+  {
+    "name": "Vanilla Minecraft",
+    "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds\nand build amazing things from the simplest of homes to the grandest of castles. Play in Creative\nMode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off\ndangerous mobs. Do all this alone or with friends.",
+    "language": "en",
+    "size": "4.04 KB",
+    "type": "minecraft",
+    "author": "panel@example.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/vanilla/pterodactyl-egg-vanilla-minecraft.json",
+    "exported_at": "2025-12-31T13:06:44+00:00"
   },
   {
     "name": "VanillaCord",
