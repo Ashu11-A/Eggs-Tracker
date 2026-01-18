@@ -2053,21 +2053,21 @@
     "name": "Hytale",
     "description": "Set out on an adventure built for both creation and play. Hytale blends the freedom of a sandbox\nwith the momentum of an RPG: explore a procedurally generated world full of dungeons, secrets, and a\nvariety of creatures, then shape it block by block.",
     "language": "en",
-    "size": "50.48 KB",
+    "size": "50.95 KB",
     "type": "games-standalone",
     "author": "161775222+JoanFo1456@users.noreply.github.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/hytale/egg-hytale.json",
-    "exported_at": "2026-01-15T15:18:51+00:00"
+    "exported_at": "2026-01-18T15:37:16+00:00"
   },
   {
     "name": "Hytale",
     "description": "Set out on an adventure built for both creation and play. Hytale blends the freedom of a sandbox\nwith the momentum of an RPG: explore a procedurally generated world full of dungeons, secrets, and a\nvariety of creatures, then shape it block by block.",
     "language": "en",
-    "size": "3.33 KB",
+    "size": "3.78 KB",
     "type": "games-standalone",
     "author": "161775222+JoanFo1456@users.noreply.github.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/hytale/pterodactyl-egg-hytale.json",
-    "exported_at": "2026-01-15T15:18:51+00:00"
+    "exported_at": "2026-01-18T15:37:16+00:00"
   },
   {
     "name": "Icarus-Dedicated",
