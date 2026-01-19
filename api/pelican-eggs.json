@@ -2810,6 +2810,16 @@
     "exported_at": "2025-05-10T14:02:07-04:00"
   },
   {
+    "name": "Mumble Server",
+    "description": "Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.",
+    "language": "en",
+    "size": "2.16 KB",
+    "type": "voice",
+    "author": "support@pterodactyl.io",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/mumble/egg-pterodactyl-mumble-server.json",
+    "exported_at": "2025-05-08T23:15:50-04:00"
+  },
+  {
     "name": "Muse",
     "description": "Muse is a self-hosted Discord music bot that is made for small to medium-sized Discord servers/guilds.",
     "language": "en",
@@ -4816,7 +4826,7 @@
     "size": "3.33 KB",
     "type": "voice",
     "author": "josdekurk@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak/egg-teamspeak3-arm64-server.json",
     "exported_at": "2022-07-06T17:10:16+02:00"
   },
   {
