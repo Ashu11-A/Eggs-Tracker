@@ -1373,16 +1373,6 @@
     "name": "Factorio",
     "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
     "language": "en",
-    "size": "302.64 KB",
-    "type": "games-standalone",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio.json",
-    "exported_at": "2026-01-11T12:43:05+00:00"
-  },
-  {
-    "name": "Factorio",
-    "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
-    "language": "en",
     "size": "9.04 KB",
     "type": "games-standalone",
     "author": "parker@parkervcp.com",
@@ -2038,16 +2028,6 @@
     "author": "brycea@terrahost.cloud",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
     "exported_at": "2024-06-01T00:04:19+00:00"
-  },
-  {
-    "name": "Hytale",
-    "description": "Set out on an adventure built for both creation and play. Hytale blends the freedom of a sandbox\nwith the momentum of an RPG: explore a procedurally generated world full of dungeons, secrets, and a\nvariety of creatures, then shape it block by block.",
-    "language": "en",
-    "size": "50.95 KB",
-    "type": "games-standalone",
-    "author": "161775222+JoanFo1456@users.noreply.github.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/hytale/egg-hytale.json",
-    "exported_at": "2026-01-18T15:37:16+00:00"
   },
   {
     "name": "Hytale",
@@ -5428,16 +5408,6 @@
     "author": "magi1053@outlook.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_vanilla/egg-valheim.json",
     "exported_at": "2026-01-03T15:30:59+00:00"
-  },
-  {
-    "name": "Valheim BepINex",
-    "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture incl the Plugin Framework BepInEx",
-    "language": "en",
-    "size": "13.18 KB",
-    "type": "games-steamcmd",
-    "author": "eggs@goover.dev",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_bepinex/egg-valheim-bep-i-nex.json",
-    "exported_at": "2026-01-03T15:22:52+00:00"
   },
   {
     "name": "Valheim BepINex",
