@@ -2587,16 +2587,6 @@
       "exported_at": "2024-09-12T19:18:10+02:00"
     },
     {
-      "name": "Garry's Mod - Reworked",
-      "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-      "language": "en",
-      "size": "4.63 KB",
-      "type": "games-steamcmd",
-      "author": "vilhelm@prytznet.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/gmod/egg-garry-s-mod--reworked.json",
-      "exported_at": "2024-09-12T17:18:38+00:00"
-    },
-    {
       "name": "Ground Branch",
       "description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.",
       "language": "en",
