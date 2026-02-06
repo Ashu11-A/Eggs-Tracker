@@ -231,23 +231,23 @@
   },
   {
     "name": "Terraria Vanilla",
-    "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Versão: 1.0\r\n❓ Oque é: Terraria é um jogo de aventura e sobrevivência em 2D, lançado em 2011. O jogo permite que o jogador explore um mundo gerado aleatoriamente, colete recursos e materiais, crie itens e construa estruturas para sobreviver e progredir.\r\n🐛 Bugs corrigidos/changelogs:\r\n• (1.0) Lançamento\r\n• (1.0) Sistema que faz a verificação se o Egg esta atualizado.\r\n• (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n🪄 Oque há de diferente?\r\n   • Docker unido (mesma imagem, múltiplas arquiteturas).\r\n   • Docker alpine (mais leve que nunca).\r\n   • Funciona tanto no ARM64 quanto no 64x com o mesmo desemprenho.\r\n   • Traduzido.\r\n   • Roda por Scripts (melhor manutenção).\r\n       📝 Variáveis que os outros Eggs não contem: \r\n             • Idioma.\r\n             • Otimização.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Versão: 1.1\r\n❓ Oque é: Terraria é um jogo de aventura e sobrevivência em 2D, lançado em 2011. O jogo permite que o jogador explore um mundo gerado aleatoriamente, colete recursos e materiais, crie itens e construa estruturas para sobreviver e progredir.\r\n🐛 Bugs corrigidos/changelogs:\r\n• (1.0) Lançamento\r\n• (1.0) Sistema que faz a verificação se o Egg esta atualizado.\r\n• (1.0) Tudo é feito por scripts, melhor manutenção e atualização.\r\n🪄 Oque há de diferente?\r\n   • Docker unido (mesma imagem, múltiplas arquiteturas).\r\n   • Docker alpine (mais leve que nunca).\r\n   • Funciona tanto no ARM64 quanto no 64x com o mesmo desemprenho.\r\n   • Traduzido.\r\n   • Roda por Scripts (melhor manutenção).\r\n       📝 Variáveis que os outros Eggs não contem: \r\n             • Idioma.\r\n             • Otimização.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "pt",
-    "size": "8.52 KB",
+    "size": "9.33 KB",
     "type": "games",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-terraria-vanilla.json",
-    "exported_at": "2023-04-10T17:21:00-03:00"
+    "exported_at": "2026-02-05T22:24:24-03:00"
   },
   {
     "name": "Terraria Vanilla",
-    "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Version: 1.0\r\n❓ What is it: Terraria is a 2D survival adventure game, released in 2011. The game allows the player to explore a randomly generated world, gather resources and materials, craft items and build structures to survive and progress.\r\n🐛 Bugs fixed/changelogs:\r\n• (1.0) Launch\r\n• (1.0) System that checks if the Egg is up to date.\r\n• (1.0) Everything is done by scripts, better maintenance and updating.\r\n🪄 What's different?\r\n • United Docker (same image, multiple architectures).\r\n• Docker alpine (lighter than ever).\r\n • Works on both ARM64 and 64x with the same performance.\r\n • Translated.\r\n • Runs by Scripts (better maintenance) ão).\r\n 📝 Variables that other Eggs do not contain: \r\n • Language.\r\n • Optimization.\r\n\ud83d \udc51 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+    "description": "💎 Egg: Terraria Vanilla\r\n⚙️ Version: 1.1\r\n❓ What is it: Terraria is a 2D adventure and survival game, released in 2011. The game allows the player to explore a randomly generated world, collect resources and materials, craft items and build structures to survive and progress.\r\n🐛 Bugs fixed/changelogs:\r\n• (1.0) Launch\r\n• (1.0) System that checks if the Egg is updated.\r\n• (1.0) Everything is done by scripts, better maintenance and updating.\r\n🪄 What's different?\r\n   • United Docker (same image, multiple architectures).\r\n   • Docker alpine (lighter than ever).\r\n   • Works on both ARM64 and 64x with the same performance.\r\n   • Translated.\r\n   • Runs by Scripts (better maintenance).\r\n       📝 Variables that other Eggs do not contain:\r\n             • Language.\r\n             • Optimization.\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
     "language": "en",
-    "size": "8.08 KB",
+    "size": "8.84 KB",
     "type": "games",
     "author": "Matheusn.biolowons@gmail.com",
     "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-terraria-vanilla.json",
-    "exported_at": "2023-04-10T17:21:00-03:00"
+    "exported_at": "2026-02-05T22:24:24-03:00"
   },
   {
     "name": "tModLoader",
