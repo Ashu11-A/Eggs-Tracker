@@ -91,6 +91,16 @@
       "exported_at": "2025-11-16T10:44:38+00:00"
     },
     {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.54 KB",
+      "type": "et_legacy",
+      "author": "quinten@pelican.dev",
+      "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/et_legacy/egg-e-t-legacy.json",
+      "exported_at": "2026-02-08T09:00:44+00:00"
+    },
+    {
       "name": "Factorio ARM64",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
@@ -264,11 +274,11 @@
       "name": "SCP:SL - Exiled - ARM64",
       "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
       "language": "en",
-      "size": "6.32 KB",
+      "size": "6.14 KB",
       "type": "steamcmd",
-      "author": "josdekurk@gmail.com",
+      "author": "quinten@pelican.dev",
       "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-s-c-p--s-l--exiled--a-r-m64.json",
-      "exported_at": "2025-01-26T14:59:40+01:00"
+      "exported_at": "2026-02-08T09:46:25+00:00"
     },
     {
       "name": "Smalland: Survive the Wilds ARM64",
@@ -359,6 +369,16 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-vanilla-bedrock-a-r-m64--f-e-x.json",
       "exported_at": "2025-02-06T09:10:09+01:00"
+    },
+    {
+      "name": "VEIN ARM64",
+      "description": "VEIN is a post-apocalyptic survival multiplayer sandbox game. Gather supplies to survive, explore abandoned buildings, combat bandits, defend your home, assist friendly NPCs, and rebuild society with friends.",
+      "language": "en",
+      "size": "7.75 KB",
+      "type": "steamcmd",
+      "author": "quinten@pelican.dev",
+      "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-v-e-i-n-arm64.json",
+      "exported_at": "2026-01-11T12:00:12+00:00"
     }
   ]
 }
