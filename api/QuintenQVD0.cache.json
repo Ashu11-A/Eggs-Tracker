@@ -61,6 +61,16 @@
       "exported_at": "2022-11-22T07:07:21+01:00"
     },
     {
+      "name": "Core Keeper",
+      "description": "Core Keeper is a survival sandbox game for single or multiplayers.\r\n\r\n--- Drawn towards a mysterious relic, you are an explorer who awakens in an ancient cavern of creatures, resources and trinkets. Trapped deep underground will your survival skills be up to the task? Mine relics and resources to build your base, craft new equipment, survive, and power up the Core. ---",
+      "language": "en",
+      "size": "9.05 KB",
+      "type": "steamcmd",
+      "author": "quinten@pelican.dev",
+      "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-core-keeper.json",
+      "exported_at": "2026-02-08T18:07:23+00:00"
+    },
+    {
       "name": "Counter-Strike: Global Offensive ARM64",
       "description": "Counter-Strike: Global Offensive is a multiplayer first-person shooter video game developed by Hidden Path Entertainment and Valve Corporation.",
       "language": "en",
