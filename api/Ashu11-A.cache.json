@@ -171,26 +171,6 @@
       "exported_at": "2023-07-26T21:40:34-03:00"
     },
     {
-      "name": "Pocketmine-MP (0.15.10)",
-      "description": "💎 Egg: Pocketmine-MP (0.15.10)\r\n⚙️ Versão: 1.0\r\n❓ Oque é: Um software de servidor de código aberto altamente personalizável para Minecraft: Bedrock Edition escrito em PHP\r\n🐛 Bugs corrigidos/changelogs:\r\n      • (1.0) Lançamento\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
-      "language": "pt",
-      "size": "2.04 KB",
-      "type": "games",
-      "author": "Matheusn.biolowons@gmail.com",
-      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-pocketmine-(0.15.10).json",
-      "exported_at": "2023-07-09T17:27:45-03:00"
-    },
-    {
-      "name": "Pocketmine-MP (0.15.10)",
-      "description": "💎 Egg: Pocketmine-MP (0.15.10)\r\n⚙️ Version: 1.0\r\n❓ What is it: A highly customizable open-source server software for Minecraft: Bedrock Edition written in PHP\r\n🐛 Fixed Bugs/Changelogs:\r\n • (1.0) Release\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
-      "language": "en",
-      "size": "1.97 KB",
-      "type": "games",
-      "author": "Matheusn.biolowons@gmail.com",
-      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-pocketmine-(0.15.10).json",
-      "exported_at": "2023-07-09T17:27:45-03:00"
-    },
-    {
       "name": "ServerJars",
       "description": "💎 ServerJars\r\n⚙️ Versão: 1.0\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs\r\n❓ ServerJars é a maneira mais fácil e eficiente de obter os jars do Minecraft mais atualizados. Usando nosso sistema de última geração, buscamos atualizações a cada 5 minutos e fornecemos instantaneamente essas atualizações para você baixar diretamente de nosso site. Usando nosso Atualizador Automático, você pode receber automaticamente as atualizações mais recentes para o seu servidor sem esforço em segundos após cada reinicialização do servidor.",
       "language": "pt",
@@ -252,43 +232,43 @@
     },
     {
       "name": "tModLoader",
-      "description": "💎 Egg: tModLoader\r\n⚙️ Versão: 5.0\r\n❓ O que é: tModLoader é uma modificação do Terraria, que possibilita jogar com mods. Escolha jogar como quiser!\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n• (3.0) [ARM64] Compatibilidade com o repositório original, roda o mesmo servidor que o 64x (sem arquivos de terceiros desatualizados, sem emulação).\r\n• (3.1) Erros críticos corrigidos.\r\n• (4.0) Otimização do Egg.\r\n• (4.0) Docker atualizado.\r\n• (4.0) O Egg não é mais dependente de atualizações, tudo é feito por scripts, resultando em melhor manutenção.\r\n• (4.0) Configurações desnecessárias removidas.\r\n• (4.0) Tradução das variáveis.\r\n• (4.1) Adicionado Docker Dotnet 8\r\n• (5.0) Imagens alteradas para Alpine\r\n\r\n🪄 O que há de diferente?\r\n   • Docker unificado (mesma imagem, múltiplas arquiteturas).\r\n   • Steamworks.NET.dll modificado, mais otimizado e multiplataforma.\r\n   • Funciona tanto em ARM64 quanto em 64x com o mesmo desempenho.\r\n   • Sem Emulação.\r\n       📝 Variáveis que outros Eggs não contêm: \r\n             • Seed.\r\n             • Otimização.\r\n             • Segurança.\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "description": "💎 Egg: tModLoader\r\n⚙️ Versão: 5.1\r\n❓ O que é: tModLoader é uma modificação do Terraria, que possibilita jogar com mods. Escolha jogar como quiser!\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n• (3.0) [ARM64] Compatibilidade com o repositório original, roda o mesmo servidor que o 64x (sem arquivos de terceiros desatualizados, sem emulação).\r\n• (3.1) Erros críticos corrigidos.\r\n• (4.0) Otimização do Egg.\r\n• (4.0) Docker atualizado.\r\n• (4.0) O Egg não é mais dependente de atualizações, tudo é feito por scripts, resultando em melhor manutenção.\r\n• (4.0) Configurações desnecessárias removidas.\r\n• (4.0) Tradução das variáveis.\r\n• (4.1) Adicionado Docker Dotnet 8\r\n• (5.0) Imagens alteradas para Alpine\r\n• (5.1) Novo sistema de sincronia de mods\r\n• (5.1) Mudança do comando de inicialização de ./install.sh para ./start.sh\r\n\r\n🪄 O que há de diferente?\r\n   • Docker unificado (mesma imagem, múltiplas arquiteturas).\r\n   • Funciona tanto em ARM64 quanto em 64x com o mesmo desempenho.\r\n   • Sem Emulação.\r\n       📝 Variáveis que outros Eggs não contêm: \r\n             • Seed.\r\n             • Otimização.\r\n             • Segurança.\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique atualizações: https://github.com/Ashu11-A/Ashu_eggs",
       "language": "pt",
-      "size": "8.14 KB",
+      "size": "8.06 KB",
       "type": "games",
       "author": "Matheusn.biolowons@gmail.com",
-      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-tModloader.json",
-      "exported_at": "2026-01-11T00:30:55-03:00"
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/games/egg-t-mod-loader.json",
+      "exported_at": "2026-02-24T04:31:16-03:00"
     },
     {
       "name": "tModLoader",
-      "description": "💎 Egg: tModLoader\r\n⚙️ Version: 5.0\r\n❓ What it is: tModLoader is a modification of Terraria, enabling you to play with mods. Choose to play as you like!\r\n\r\n🐛 Bugs fixed/changelogs:\r\n• (3.0) [ARM64] Compatibility with the original repository, runs the same server as the 64x (no outdated third-party files, no emulation).\r\n• (3.1) Critical errors fixed.\r\n• (4.0) Egg optimization.\r\n• (4.0) Docker updated.\r\n• (4.0) Egg is no longer dependent on updates, everything is done by scripts, resulting in better maintenance.\r\n• (4.0) Removed unnecessary settings.\r\n• (4.0) Translation of variables.\r\n• (4.1) Added Docker Dotnet 8\r\n• (5.0) Change images to Alpine\r\n\r\n🪄 What's different?\r\n   • Unified Docker (same image, multiple architectures).\r\n   • Modified Steamworks.NET.dll, more optimized and cross-platform.\r\n   • Works on both ARM64 and 64x with the same performance.\r\n   • No Emulation.\r\n       📝 Variables that other Eggs do not contain: \r\n             • Seed.\r\n             • Optimization.\r\n             • Security.\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "description": "💎 Egg: tModLoader\r\n⚙️ Version: 5.1\r\n❓ What is it: tModLoader is a Terraria modification that allows you to play with mods. Choose to play however you want!\r\n\r\n🐛 Fixed bugs/changelogs:\r\n• (3.0) [ARM64] Compatibility with the original repository, runs the same server as 64x (no outdated third-party files, no emulation).\r\n• (3.1) Critical errors fixed.\r\n• (4.0) Egg optimization.\r\n• (4.0) Docker updated.\r\n• (4.0) The Egg is no longer dependent on updates, everything is done by scripts, resulting in better maintenance.\r\n• (4.0) Unnecessary configurations removed.\r\n• (4.0) Variables translated.\r\n• (4.1) Added Docker Dotnet 8\r\n• (5.0) Images changed to Alpine\r\n• (5.1) New mod sync system\r\n• (5.1) Startup command changed from ./install.sh to ./start.sh\r\n\r\n🪄 What's different?\r\n   • Unified Docker (same image, multiple architectures).\r\n   • Works on both ARM64 and 64x with the same performance.\r\n   • No Emulation.\r\n       📝 Variables that other Eggs don't contain: \r\n             • Seed.\r\n             • Optimization.\r\n             • Security.\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
       "language": "en",
-      "size": "8.03 KB",
+      "size": "7.85 KB",
       "type": "games",
       "author": "Matheusn.biolowons@gmail.com",
-      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-tModloader.json",
-      "exported_at": "2026-01-11T00:39:52-03:00"
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/games/egg-t-mod-loader.json",
+      "exported_at": "2026-02-24T04:31:16-03:00"
     },
     {
-      "name": "VPS",
-      "description": "💎 Egg: VPS\r\n⚙️ Versão: 2.1\r\n❓ Oque é:  Uma VPS, este egg utiliza Proot (FakeRoot) que engana o sistema dizendo que você é um superusuário, instalar um Pterodactyl dentro de outro Pterodactyl nunca foi tão real!\r\n\r\n⚠️ Atenção: \r\n     • Não é recomendável de forma alguma, a utilização de Root no Docker. Eu não me responsabilizo por qualquer dano/ação que você ira fazer com isso.\r\n     • É necessário de no mínimo 1GB de espaço\r\n     • Distribuições Debian/Ubuntu podem levar mais de 15min para terminar a instalação\r\n     • Distribuições Ubuntu não está funcionando no momento\r\n\r\n🐛 Bugs corrigidos/changelogs:\r\n     • (1.0) Lançamento.\r\n     • (2.0) Detecta se o Egg está atualizado ou não.\r\n     • (2.0) Possibilidade de trocar de Distribuição Linux: (Debian, Ubuntu, Alpine).\r\n     • (2.0) Argumentos atualizados, agora o sistema não está tão restrito.\r\n     • (2.0) Possibilidade de trocar os argumentos.\r\n     • (2.0) Correção do comando de Desligamento, agora não é mais necessário matar o servidor.\r\n     • (2.0) Correção da Inicialização, agora o Painel sabe que o Servidor está ligado.\r\n     • (2.0) Script de Instalação foi reconstruído\r\n     • (2.1) Bugs graves do Script arrumados\r\n     • (2.1) Possibilidade de trocar de root entre: PRoot(Padrão), PRoot-rs, FakechRoot + FakeRoot.\r\n     • (2.1) Instalação Limpa Adicionada\r\n\r\n📝 Novas Variáveis: \r\n     • (2.0) Usar seus argumentos?\r\n     • (2.0) Seus Argumentos\r\n     • (2.0) Distribuição Linux\r\n     • (2.1) Mudar Root\r\n     • (2.1) Instalação Limpa?\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "name": "Valkey",
+      "description": "💎 Egg: Valkey\r\n⚙️ Versão: 1.0\r\n❓ Oque é: O Valkey é um armazenamento de estrutura de dados em memória de código aberto (licença BSD de 3 cláusulas), utilizado como banco de dados, cache e message broker (intermediário de mensagens). Trata-se de um fork do Redis impulsionado pela comunidade, criado para manter uma base de código totalmente aberta após a transição do Redis para um licenciamento mais restritivo. Ele oferece suporte a estruturas de dados como strings, hashes, listas, conjuntos (sets), conjuntos ordenados (sorted sets) com consultas de intervalo, bitmaps, hyperloglogs, índices geoespaciais com consultas de raio e fluxos (streams).\r\n\r\n🐛 Bugs corrigidos/changelogs: \r\n      • (1.0) Lançamento\r\n\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
       "language": "pt",
-      "size": "5.71 KB",
+      "size": "2.28 KB",
       "type": "software",
       "author": "Matheusn.biolowons@gmail.com",
-      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-vps.json",
-      "exported_at": "2023-01-30T19:05:30-04:00"
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-valkey.json",
+      "exported_at": "2026-02-24T05:09:05-03:00"
     },
     {
-      "name": "VPS",
-      "description": "💎 Egg: VPS\r\n⚙️ Version: 2.1\r\n❓ What is it: A VPS. This egg uses Proot (FakeRoot) which tricks the system into thinking you are a superuser. Installing a Pterodactyl inside another Pterodactyl has never been so real!\r\n\r\n⚠️ Attention: \r\n     • Using Root in Docker is not recommended in any way. I am not responsible for any damage/action you may cause with this.\r\n     • A minimum of 1GB of space is required.\r\n     • Debian/Ubuntu distributions may take more than 15 minutes to complete the installation.\r\n     • Ubuntu distributions are not working at the moment.\r\n\r\n🐞 Bugs fixed/changelogs:\r\n     • (1.0) Release.\r\n     • (2.0) Detects if the Egg is updated or not.\r\n     • (2.0) Ability to change Linux Distribution: (Debian, Ubuntu, Alpine).\r\n     • (2.0) Updated arguments, the system is now less restricted.\r\n     • (2.0) Ability to change arguments.\r\n     • (2.0) Fixed the Shutdown command, it is no longer necessary to kill the server.\r\n     • (2.0) Fixed Initialization, now the Panel knows the Server is on.\r\n     • (2.0) Installation script was rebuilt.\r\n     • (2.1) Serious script bugs fixed.\r\n     • (2.1) Ability to switch root between: PRoot(Default), PRoot-rs, FakechRoot + FakeRoot.\r\n     • (2.1) Clean Installation Added.\r\n\r\n📝 New Variables: \r\n     • (2.0) Use your own arguments?\r\n     • (2.0) Your Arguments\r\n     • (2.0) Linux Distribution\r\n     • (2.1) Change Root\r\n     • (2.1) Clean Installation?\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
+      "name": "Valkey",
+      "description": "💎 Egg: Valkey\r\n⚙️ Version: 1.0\r\n❓ What it is: Valkey is an open-source (3-clause BSD license) in-memory data structure store, used as a database, cache, and message broker. It is a community-driven fork of Redis, created to maintain a fully open codebase after Redis transitioned to more restrictive licensing. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries, and streams.\r\n\r\n🐛 Fixed bugs/changelogs: \r\n      • (1.0) Release\r\n\r\n👑 Author: Ashu\r\n👀 Check for updates: https://github.com/Ashu11-A/Ashu_eggs",
       "language": "en",
-      "size": "5.05 KB",
+      "size": "2.09 KB",
       "type": "software",
       "author": "Matheusn.biolowons@gmail.com",
-      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-vps.json",
-      "exported_at": "2023-01-30T19:05:30-04:00"
+      "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-valkey.json",
+      "exported_at": "2026-02-24T05:09:05-03:00"
     },
     {
       "name": "Xray-core",
