@@ -5364,11 +5364,11 @@
       "name": "Velocity",
       "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
       "language": "en",
-      "size": "6.37 KB",
+      "size": "13.61 KB",
       "type": "minecraft",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-velocity.json",
-      "exported_at": "2025-02-12T03:43:07+00:00"
+      "exported_at": "2026-03-01T22:52:40+00:00"
     },
     {
       "name": "Velocity",
