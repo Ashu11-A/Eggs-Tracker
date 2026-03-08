@@ -5801,23 +5801,23 @@
   },
   {
     "name": "Xonotic",
-    "description": "This is for the default xonotic setup.",
+    "description": "Xonotic: The Free and Fast Arena Shooter",
     "language": "en",
-    "size": "2.51 KB",
+    "size": "2.59 KB",
     "type": "games-standalone",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/xonotic/egg-pterodactyl-xonotic.json",
-    "exported_at": "2024-06-01T00:17:20+00:00"
+    "exported_at": "2026-03-08T08:48:47+00:00"
   },
   {
     "name": "Xonotic",
-    "description": "This is for the default xonotic setup.",
+    "description": "Xonotic: The Free and Fast Arena Shooter",
     "language": "en",
-    "size": "2.65 KB",
+    "size": "8.12 KB",
     "type": "games-standalone",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/xonotic/egg-xonotic.json",
-    "exported_at": "2024-06-01T00:17:20+00:00"
+    "exported_at": "2026-03-08T08:48:47+00:00"
   },
   {
     "name": "Yarr",
