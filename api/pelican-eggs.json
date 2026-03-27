@@ -5503,11 +5503,11 @@
     "name": "Vanilla Minecraft",
     "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds\nand build amazing things from the simplest of homes to the grandest of castles. Play in Creative\nMode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off\ndangerous mobs. Do all this alone or with friends.",
     "language": "en",
-    "size": "4.04 KB",
+    "size": "4.1 KB",
     "type": "minecraft",
     "author": "panel@example.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/vanilla/pterodactyl-egg-vanilla-minecraft.json",
-    "exported_at": "2025-12-31T13:06:44+00:00"
+    "exported_at": "2026-03-27T18:15:55+00:00"
   },
   {
     "name": "VanillaCord",
