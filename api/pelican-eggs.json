@@ -5593,21 +5593,21 @@
     "name": "Venice Unleashed",
     "description": "Venice Unleashed (VU) is a community-oriented Battlefield 3 custom server & modding platform that gives you back control of your gaming experience. This Egg requires a valid VU `server.key` file, and requires Battlefield 3 client files (from a legal copy of the game) to be internally mounted to `/bf3`.",
     "language": "en",
-    "size": "14.6 KB",
+    "size": "15.17 KB",
     "type": "games-standalone",
     "author": "red_thirten@yahoo.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/venice_unleashed/egg-pterodactyl-venice-unleashed.json",
-    "exported_at": "2025-08-07T00:32:10-07:00"
+    "exported_at": "2026-01-28T11:39:20-08:00"
   },
   {
     "name": "Venice Unleashed",
     "description": "Venice Unleashed (VU) is a community-oriented Battlefield 3 custom server & modding platform that gives you back control of your gaming experience. This Egg requires a valid VU `server.key` file, and requires Battlefield 3 client files (from a legal copy of the game) to be internally mounted to `/bf3`.",
     "language": "en",
-    "size": "15.54 KB",
+    "size": "28.86 KB",
     "type": "games-standalone",
     "author": "red_thirten@yahoo.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/venice_unleashed/egg-venice-unleashed.json",
-    "exported_at": "2025-08-07T00:32:10-07:00"
+    "exported_at": "2026-01-28T11:39:20-08:00"
   },
   {
     "name": "VIAaaS",
