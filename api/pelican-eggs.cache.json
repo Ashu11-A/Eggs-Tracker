@@ -4634,11 +4634,11 @@
       "name": "Folia",
       "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
       "language": "en",
-      "size": "5.76 KB",
+      "size": "7.11 KB",
       "type": "minecraft",
       "author": "Hosting@NeverStopGaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-folia.json",
-      "exported_at": "2024-06-01T19:39:42+00:00"
+      "exported_at": "2026-04-07T15:39:30+00:00"
     },
     {
       "name": "Forge Minecraft",
