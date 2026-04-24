@@ -3397,6 +3397,16 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
+      "name": "RuneScape: Dragonwilds",
+      "description": "RuneScape: Dragonwilds is a co-op survival RPG set in the world of RuneScape. Up to 6 players can\nexplore, craft, build, and battle together on a dedicated server. RAM recommendation is 2 GB base +\n1 GB per player (8 GB for a full 6-player server).",
+      "language": "en",
+      "size": "7.41 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/runescape_dragonwilds/egg-pterodactyl-runescape-dragonwilds.json",
+      "exported_at": "2026-04-23T23:56:48+00:00"
+    },
+    {
       "name": "Rust Autowipe",
       "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
       "language": "en",
