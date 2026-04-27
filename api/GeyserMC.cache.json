@@ -14,11 +14,11 @@
       "name": "GeyserMC",
       "description": "Geyser is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap from those wanting to play true cross-platform.",
       "language": "en",
-      "size": "2.88 KB",
+      "size": "49.05 KB",
       "type": "egg-geyser-m-c.json",
       "author": "support@geysermc.org",
       "link": "https://raw.githubusercontent.com/GeyserMC/pterodactyl-stuff/master/egg-geyser-m-c.json",
-      "exported_at": "2023-07-20T12:38:14-07:00"
+      "exported_at": "2026-04-27T09:51:22+00:00"
     },
     {
       "name": "Paper + Floodgate",
