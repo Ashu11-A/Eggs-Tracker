@@ -4111,9 +4111,9 @@
   },
   {
     "name": "RuneScape: Dragonwilds",
-    "description": "RuneScape: Dragonwilds is a co-op survival RPG set in the world of RuneScape. Up to 6 players can\nexplore, craft, build, and battle together on a dedicated server. RAM recommendation is 2 GB base +\n1 GB per player (8 GB for a full 6-player server).",
+    "description": "RuneScape: Dragonwilds is a co-op survival RPG set in the world of RuneScape. Up to 6 players can explore, craft, build, and battle together on a dedicated server. RAM recommendation is 2 GB base + 1 GB per player (8 GB for a full 6-player server).",
     "language": "en",
-    "size": "7.41 KB",
+    "size": "7.38 KB",
     "type": "games-steamcmd",
     "author": "red_thirten@yahoo.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/runescape_dragonwilds/egg-pterodactyl-runescape-dragonwilds.json",
