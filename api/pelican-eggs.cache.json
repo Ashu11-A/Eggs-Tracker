@@ -4571,16 +4571,6 @@
       "exported_at": "2024-11-13T15:26:34+00:00"
     },
     {
-      "name": "Fabric",
-      "description": "Fabric is a modular modding toolchain targeting Minecraft 1.14 and above, including snapshots.",
-      "language": "en",
-      "size": "5.26 KB",
-      "type": "minecraft",
-      "author": "accounts@bofanodes.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/fabric/egg-fabric.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
       "name": "Feather",
       "description": "An experimental Minecraft server implementation written in Rust.",
       "language": "en",
@@ -4619,16 +4609,6 @@
       "author": "Hosting@NeverStopGaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-pterodactyl-folia.json",
       "exported_at": "2024-06-01T19:39:42+00:00"
-    },
-    {
-      "name": "Folia",
-      "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
-      "language": "en",
-      "size": "7.13 KB",
-      "type": "minecraft",
-      "author": "Hosting@NeverStopGaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/folia/egg-folia.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Forge Minecraft",
@@ -4891,16 +4871,6 @@
       "exported_at": "2024-11-02T09:48:29+01:00"
     },
     {
-      "name": "MohistMC",
-      "description": "Spigot fork with performance optimizations.",
-      "language": "en",
-      "size": "5.84 KB",
-      "type": "minecraft",
-      "author": "alex.chang-lam@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/mohist/egg-mohist.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
       "name": "NanoLimbo",
       "description": "This is lightweight minecraft limbo server, written on Java with Netty. The main goal of the project is maximum simplicity with a minimum number of sent and processed packets. This limbo is empty, there are no ability to set schematic building since this is not necessary. You can send useful information in chat or BossBar.\r\n\r\nNo plugins, no logs. The server is fully clear. It only able keep a lot of players while the main server is down.",
       "language": "en",
@@ -5014,16 +4984,6 @@
       "name": "Purpur",
       "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",
       "language": "en",
-      "size": "5.46 KB",
-      "type": "minecraft",
-      "author": "purpur@birdflop.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/purpur/egg-purpur.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Purpur",
-      "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",
-      "language": "en",
       "size": "5.23 KB",
       "type": "minecraft",
       "author": "purpur@birdflop.com",
@@ -5059,26 +5019,6 @@
       "author": "diedyesterdaywashere@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/quilt/egg-pterodactyl-quilt.json",
       "exported_at": "2024-06-01T19:39:59+00:00"
-    },
-    {
-      "name": "Quilt",
-      "description": "The Quilt project is an open-source, community-driven modding toolchain designed primarily for Minecraft. By focusing on speed, ease of use and modularity, Quilt aims to provide a sleek and modern modding toolchain with an open ecosystem.",
-      "language": "en",
-      "size": "3.55 KB",
-      "type": "minecraft",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/quilt/egg-quilt.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Spigot",
-      "description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier.",
-      "language": "en",
-      "size": "6.53 KB",
-      "type": "minecraft",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/spigot/egg-spigot.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Spigot",
@@ -5459,16 +5399,6 @@
       "author": "hostmaster@waterfallgaming.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
       "exported_at": "2024-06-01T19:40:11+00:00"
-    },
-    {
-      "name": "Waterfall",
-      "description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
-      "language": "en",
-      "size": "5.99 KB",
-      "type": "minecraft",
-      "author": "hostmaster@waterfallgaming.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/waterfall/egg-waterfall.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
     }
   ],
   "monitoring": [
