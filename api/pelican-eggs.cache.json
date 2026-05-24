@@ -1616,23 +1616,23 @@
     },
     {
       "name": "tshock",
-      "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
+      "description": "The t-shock modded terraria server. https://tshock.co/",
       "language": "en",
-      "size": "4.19 KB",
+      "size": "4.08 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock.json",
-      "exported_at": "2025-09-16T16:52:54+00:00"
+      "exported_at": "2026-05-22T10:36:06+00:00"
     },
     {
       "name": "tshock",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
-      "size": "4.54 KB",
+      "size": "4.48 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-tshock.json",
-      "exported_at": "2025-09-16T16:52:54+00:00"
+      "exported_at": "2026-05-22T10:35:26+00:00"
     },
     {
       "name": "tshock legacy",
