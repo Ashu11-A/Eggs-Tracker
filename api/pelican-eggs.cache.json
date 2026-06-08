@@ -2027,6 +2027,16 @@
       "exported_at": "2024-06-01T00:03:42+00:00"
     },
     {
+      "name": "Banana Shooter",
+      "description": "Dave is the banana man who is keep shooting enemies and get their banana, and use some cool mechanic such as dash, double jump, grapple hook and rocket jump. If you are finding fast paced shooter game, this is what you need",
+      "language": "en",
+      "size": "6.88 KB",
+      "type": "games-steamcmd",
+      "author": "sem@osesem.xyz",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/banana_shooter/pterodactyl-egg-banana-shooter.json",
+      "exported_at": "2026-06-08T08:04:58+00:00"
+    },
+    {
       "name": "Barotrauma",
       "description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.",
       "language": "en",
