@@ -1745,6 +1745,16 @@
       "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
+      "name": "World of PADMAN",
+      "description": "World of PADMAN (WoP) standalone server. with automatic configuration generation.",
+      "language": "en",
+      "size": "6.09 KB",
+      "type": "games-standalone",
+      "author": "bas1874@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/world_of_padman/pterodactyl-egg-world-of-p-a-d-m-a-n.json",
+      "exported_at": "2026-06-09T09:27:59+00:00"
+    },
+    {
       "name": "Xonotic",
       "description": "Xonotic: The Free and Fast Arena Shooter",
       "language": "en",
@@ -3470,21 +3480,11 @@
       "name": "SCP:SL - Exiled",
       "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
       "language": "en",
-      "size": "5.76 KB",
+      "size": "5.56 KB",
       "type": "games-steamcmd",
       "author": "info@goover.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/exiled/egg-pterodactyl-s-c-p--s-l--exiled.json",
-      "exported_at": "2025-05-22T15:49:38+02:00"
-    },
-    {
-      "name": "SCP:SL - Exiled",
-      "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework",
-      "language": "en",
-      "size": "6.04 KB",
-      "type": "games-steamcmd",
-      "author": "info@goover.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/exiled/egg-s-c-p--s-l--exiled.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/scpsl/exiled/pterodactyl-egg-s-c-p-s-l-exiled.json",
+      "exported_at": "2026-06-08T07:39:34+00:00"
     },
     {
       "name": "Smalland: Survive the Wilds",
