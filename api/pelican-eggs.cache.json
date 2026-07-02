@@ -3977,6 +3977,16 @@
       "exported_at": "2025-02-18T13:43:53+00:00"
     },
     {
+      "name": "The Ship: Murder Party",
+      "description": "The Ship: Murder Party dedicated server. The native Linux server is broken on modern systems, so this runs the Windows dedicated server under Wine. Requires a licensed Steam account (anonymous is refused).",
+      "language": "en",
+      "size": "5.82 KB",
+      "type": "games-steamcmd",
+      "author": "noreply@zyiks.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/the_ship/egg-pterodactyl-the-ship.json",
+      "exported_at": "2026-07-02T22:01:05+02:00"
+    },
+    {
       "name": "Tower Unite",
       "description": "PLAY, CREATE, PARTY! Tower Unite is a community-based virtual world party game with online games, entertainment, activities, and absolutely NO microtransactions.",
       "language": "en",
