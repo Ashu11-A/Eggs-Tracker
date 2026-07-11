@@ -3323,41 +3323,21 @@
     "name": "Palworld",
     "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
     "language": "en",
-    "size": "9.23 KB",
-    "type": "games-steamcmd",
-    "author": "admin@ballaual.de",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld.json",
-    "exported_at": "2026-04-06T02:01:23+00:00"
-  },
-  {
-    "name": "Palworld",
-    "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
-    "language": "en",
-    "size": "8.92 KB",
+    "size": "8.99 KB",
     "type": "games-steamcmd",
     "author": "admin@ballaual.de",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-pterodactyl-palworld.json",
-    "exported_at": "2024-07-15T18:52:08+02:00"
+    "exported_at": "2026-07-10T11:58:12+00:00"
   },
   {
     "name": "Palworld Proton",
     "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
     "language": "en",
-    "size": "10.06 KB",
-    "type": "games-steamcmd",
-    "author": "josdekurk@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-palworld-proton.json",
-    "exported_at": "2026-04-06T02:01:23+00:00"
-  },
-  {
-    "name": "Palworld Proton",
-    "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
-    "language": "en",
-    "size": "9.72 KB",
+    "size": "9.79 KB",
     "type": "games-steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/palworld/egg-pterodactyl-palworld-proton.json",
-    "exported_at": "2024-07-15T19:00:34+02:00"
+    "exported_at": "2026-07-10T11:58:12+00:00"
   },
   {
     "name": "Paper",
