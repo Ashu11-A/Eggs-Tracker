@@ -4350,23 +4350,13 @@
     },
     {
       "name": "node.js generic",
-      "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
+      "description": "a generic node.js egg This will clone a git repo. it defaults to master if no branch is specified. Installs the node_modules on install. If you set user_upload then I assume you know what you are doing.",
       "language": "en",
-      "size": "8.25 KB",
+      "size": "7.54 KB",
       "type": "generic",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/egg-node-js-generic.json",
-      "exported_at": "2025-10-20T09:57:28+08:00"
-    },
-    {
-      "name": "node.js generic",
-      "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
-      "language": "en",
-      "size": "7.75 KB",
-      "type": "generic",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/egg-pterodactyl-node-js-generic.json",
-      "exported_at": "2025-10-20T09:57:28+08:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/pterodactyl-egg-nodejs-generic.json",
+      "exported_at": "2026-07-18T19:41:09+00:00"
     },
     {
       "name": "nodemon",
