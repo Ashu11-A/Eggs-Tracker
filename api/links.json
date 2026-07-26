@@ -14,8 +14,8 @@
       "pelican-eggs/voice"
     ],
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/pelican-eggs.min.json",
-    "eggs": 576,
-    "pushed_at": "2026-07-18T19:43:26Z"
+    "eggs": 575,
+    "pushed_at": "2026-07-25T23:10:58Z"
   },
   {
     "author": "Ashu11-A",
@@ -115,6 +115,6 @@
     ],
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/ysdragon.min.json",
     "eggs": 1,
-    "pushed_at": "2026-02-27T06:46:59Z"
+    "pushed_at": "2026-07-26T03:47:23Z"
   }
 ]

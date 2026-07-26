@@ -2637,24 +2637,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "Icarus-Dedicated",
+      "name": "Icarus",
       "description": "Icarus is a survival game that with dedicated servers as a public beta",
       "language": "en",
-      "size": "5.1 KB",
+      "size": "5.05 KB",
       "type": "games-steamcmd",
       "author": "bolverblitz@ebg.pw",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-pterodactyl-icarus--dedicated.json",
-      "exported_at": "2025-02-16T18:12:25+00:00"
-    },
-    {
-      "name": "Icarus-Dedicated",
-      "description": "Icarus is a survival game that with dedicated servers as a public beta",
-      "language": "en",
-      "size": "5.35 KB",
-      "type": "games-steamcmd",
-      "author": "bolverblitz@ebg.pw",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/egg-icarus--dedicated.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/pterodactyl-egg-icarus.json",
+      "exported_at": "2026-06-14T08:23:40+00:00"
     },
     {
       "name": "Insurgency: Sandstorm",
