@@ -3,21 +3,11 @@
     "name": "5e Tools",
     "description": "A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters.",
     "language": "en",
-    "size": "4.5 KB",
+    "size": "5.02 KB",
     "type": "software",
     "author": "pterodactyl@demi.cloud",
     "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/5e-tools/egg-pterodactyl-5e-tools.json",
-    "exported_at": "2024-06-02T14:40:56+00:00"
-  },
-  {
-    "name": "5e Tools",
-    "description": "A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters.",
-    "language": "en",
-    "size": "4.55 KB",
-    "type": "software",
-    "author": "pterodactyl@demi.cloud",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/5e-tools/egg-5e-tools.json",
-    "exported_at": "2024-06-02T14:40:56+00:00"
+    "exported_at": "2026-08-03T07:52:07+00:00"
   },
   {
     "name": "7 Days To Die",
@@ -43,21 +33,11 @@
     "name": "Abiotic Factor",
     "description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats.",
     "language": "en",
-    "size": "6.93 KB",
+    "size": "6.84 KB",
     "type": "games-steamcmd",
     "author": "git@robsti.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/abiotic_factor/egg-pterodactyl-abiotic-factor.json",
-    "exported_at": "2025-12-25T10:06:37+00:00"
-  },
-  {
-    "name": "Abiotic Factor",
-    "description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats.",
-    "language": "en",
-    "size": "12.48 KB",
-    "type": "games-steamcmd",
-    "author": "git@robsti.dev",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/abiotic_factor/egg-abiotic-factor.json",
-    "exported_at": "2026-04-06T02:01:23+00:00"
+    "exported_at": "2026-08-03T07:48:24+00:00"
   },
   {
     "name": "alt:V",
