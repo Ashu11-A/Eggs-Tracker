@@ -20,16 +20,6 @@
     "exported_at": "2024-04-21T03:14:54-04:00"
   },
   {
-    "name": "OpenX",
-    "description": "OpenX upload server, Made by DanBotHosting LTD.",
-    "language": "en",
-    "size": "2.83 KB",
-    "type": "eggs",
-    "author": "dan@danbot.host",
-    "link": "https://raw.githubusercontent.com/DanBot-Hosting/pterodactyl-eggs/main/eggs/egg-open-x.json",
-    "exported_at": "2023-11-19T15:21:51+00:00"
-  },
-  {
     "name": "ShareX Upload Server",
     "description": "Tanner ShareX Egg, Made by DanBotHosting LTD.",
     "language": "en",
