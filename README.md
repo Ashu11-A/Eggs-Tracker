@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # Eggs-Tracker
@@ -28,3 +30,11 @@
 </p>
 
 </div>
+
+## API Usage
+
+Access the aggregated Pterodactyl Eggs data directly via raw GitHub URLs:
+
+- **Full Index**: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/links.json`
+- **Specific Author**: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/{author}.json`
+- **Minified Data**: `https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/{author}.min.json`
