@@ -1820,7 +1820,7 @@
       "name": "Abiotic Factor",
       "description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats.",
       "language": "en",
-      "size": "6.84 KB",
+      "size": "6.97 KB",
       "type": "games-steamcmd",
       "author": "git@robsti.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/abiotic_factor/egg-pterodactyl-abiotic-factor.json",
@@ -2220,21 +2220,11 @@
       "name": "Craftopia",
       "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
       "language": "en",
-      "size": "5.61 KB",
+      "size": "4.37 KB",
       "type": "games-steamcmd",
       "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/egg-pterodactyl-craftopia.json",
-      "exported_at": "2024-06-01T00:04:05+00:00"
-    },
-    {
-      "name": "Craftopia",
-      "description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.",
-      "language": "en",
-      "size": "5.83 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/egg-craftopia.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/craftopia/pterodactyl-egg-craftopia.json",
+      "exported_at": "2026-06-08T08:13:53+00:00"
     },
     {
       "name": "CryoFall",
@@ -2635,6 +2625,16 @@
       "author": "bolverblitz@ebg.pw",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/icarus/pterodactyl-egg-icarus.json",
       "exported_at": "2026-06-14T08:23:40+00:00"
+    },
+    {
+      "name": "Insurgency",
+      "description": "Take to the streets for intense close quarters combat, where a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer and cooperative Source Engine based experience.",
+      "language": "en",
+      "size": "4.27 KB",
+      "type": "games-steamcmd",
+      "author": "panel@example.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/insurgency/pterodactyl-egg-insurgency.json",
+      "exported_at": "2026-06-14T12:16:44+00:00"
     },
     {
       "name": "Insurgency: Sandstorm",
@@ -3357,44 +3357,34 @@
       "exported_at": "2026-04-23T23:56:48+00:00"
     },
     {
+      "name": "Rust",
+      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
+      "language": "en",
+      "size": "11.8 KB",
+      "type": "games-steamcmd",
+      "author": "panel@example.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/vanilla/egg-pterodactyl-rust.json",
+      "exported_at": "2026-05-10T02:18:05+00:00"
+    },
+    {
       "name": "Rust Autowipe",
       "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
       "language": "en",
-      "size": "12.68 KB",
+      "size": "14.62 KB",
       "type": "games-steamcmd",
       "author": "support@pterodactyl.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_autowipe/egg-pterodactyl-rust-autowipe.json",
-      "exported_at": "2024-06-01T00:04:43+00:00"
-    },
-    {
-      "name": "Rust Autowipe",
-      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
-      "language": "en",
-      "size": "13.31 KB",
-      "type": "games-steamcmd",
-      "author": "support@pterodactyl.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_autowipe/egg-rust-autowipe.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "exported_at": "2026-05-10T02:18:05+00:00"
     },
     {
       "name": "Rust Staging",
       "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
       "language": "en",
-      "size": "10.64 KB",
-      "type": "games-steamcmd",
-      "author": "root@smc.li",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_staging/egg-rust-staging.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Rust Staging",
-      "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.",
-      "language": "en",
-      "size": "10.12 KB",
+      "size": "12.34 KB",
       "type": "games-steamcmd",
       "author": "root@smc.li",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rust/rust_staging/egg-pterodactyl-rust-staging.json",
-      "exported_at": "2024-06-01T00:04:43+00:00"
+      "exported_at": "2026-05-10T02:18:05+00:00"
     },
     {
       "name": "Satisfactory",
