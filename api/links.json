@@ -8,10 +8,7 @@
       "pelican-eggs/games-standalone",
       "pelican-eggs/games-steamcmd",
       "pelican-eggs/generic",
-      "pelican-eggs/minecraft",
-      "pelican-eggs/monitoring",
-      "pelican-eggs/software",
-      "pelican-eggs/voice"
+      "pelican-eggs/minecraft"
     ],
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/pelican-eggs.min.json",
     "eggs": 572,
