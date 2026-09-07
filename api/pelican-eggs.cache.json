@@ -5687,6 +5687,16 @@
   ],
   "voice": [
     {
+      "name": "Gryt Server",
+      "description": "Gryt is an open source voice, video and text chat platform. Connect with the Gryt desktop app or the hosted web client at https://app.gryt.chat. The first user to join becomes the owner; afterwards the server is invite-only. Requirements: - amd64 only (the Gryt Linux bundle is x64 only) - needs two extra allocations: one for the SFU websocket (set SFU_PORT to its port), one for voice media (set ICE_UDP_MUX_PORT to its port) - set SFU_PUBLIC_HOST to <public-ip>:<SFU_PORT> so voice works over the internet",
+      "language": "en",
+      "size": "11.3 KB",
+      "type": "voice",
+      "author": "138704619+wan0v@users.noreply.github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/gryt/pterodactyl-egg-gryt-server.json",
+      "exported_at": "2026-09-06T16:00:35+00:00"
+    },
+    {
       "name": "Mumble Server",
       "description": "Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.",
       "language": "en",
