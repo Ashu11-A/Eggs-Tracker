@@ -82,9 +82,9 @@
     },
     {
       "name": "Jellyfin",
-      "description": "💎 Egg: Jellyfin\r\n⚙️ Versão: 2.3\r\n❓ Oque é: resumindo, você pode ter sua própria Netflix. Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre.\r\n🐛 Bugs corrigidos/changelogs:\r\n• 2.2: Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o ocasiona na sua melhor manutenção.\r\n• 2.3: Adicionando novas versões Docker\r\n⚠️ Atenção: Se na primeira inicialização haver uma tela de Selecionar Servidor, apague o servidor existente lá, e recarregue a página.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
+      "description": "💎 Egg: Jellyfin\r\n⚙️ Versão: 2.4\r\n❓ Oque é: resumindo, você pode ter sua própria Netflix. Jellyfin permite que você colete, gerencie e transmita sua mídia. Execute o servidor Jellyfin em seu sistema e tenha acesso ao principal sistema de entretenimento de software livre.\r\n🐛 Bugs corrigidos/changelogs:\r\n• 2.2: Agora o Egg não é dependente de atualizações, tudo é feito por scripts, o ocasiona na sua melhor manutenção.\r\n• 2.3: Adicionando novas versões Docker\r\n• 2.4: Script unificado em Connect/all, imagem standalone (binário nativo, sem .NET) e imagem .NET 10\r\n⚠️ Atenção: Se na primeira inicialização haver uma tela de Selecionar Servidor, apague o servidor existente lá, e recarregue a página.\r\n👑 Autor: Ashu\r\n👀 Verifique por atualizações: https://github.com/Ashu11-A/Ashu_eggs",
       "language": "pt",
-      "size": "3.05 KB",
+      "size": "3.23 KB",
       "type": "software",
       "author": "Matheusn.biolowons@gmail.com",
       "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/pt-BR/software/egg-jellyfin.json",
@@ -92,9 +92,9 @@
     },
     {
       "name": "Jellyfin",
-      "description": "💎 Egg: Jellyfin\r\n⚙️ Version: 2.3\r\n❓ What it is: in short, you can have your own Netflix. Jellyfin allows you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free software entertainment system.\r\n🐛 Bug fixes/changelogs:\r\n• 2.2: Now the Egg is not dependent on updates, everything is done via scripts, resulting in better maintenance.\r\n• 2.3: Added new Docker versions\r\n⚠️ Attention: If a Select Server screen appears on the first startup, delete the existing server there, and reload the page.\r\n👑 Author: Ashu\r\n👀 Check for updates: [https://github.com/Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)",
+      "description": "💎 Egg: Jellyfin\r\n⚙️ Version: 2.4\r\n❓ What it is: in short, you can have your own Netflix. Jellyfin allows you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free software entertainment system.\r\n🐛 Bug fixes/changelogs:\r\n• 2.2: Now the Egg is not dependent on updates, everything is done via scripts, resulting in better maintenance.\r\n• 2.3: Added new Docker versions\r\n• 2.4: Unified Connect/all script, standalone image (native binary, no .NET) and .NET 10 image\r\n⚠️ Attention: If a Select Server screen appears on the first startup, delete the existing server there, and reload the page.\r\n👑 Author: Ashu\r\n👀 Check for updates: [https://github.com/Ashu11-A/Ashu_eggs](https://github.com/Ashu11-A/Ashu_eggs)",
       "language": "en",
-      "size": "2.92 KB",
+      "size": "3.17 KB",
       "type": "software",
       "author": "Matheusn.biolowons@gmail.com",
       "link": "https://raw.githubusercontent.com/Ashu11-A/Ashu_eggs/main/Eggs/en/software/egg-jellyfin.json",
