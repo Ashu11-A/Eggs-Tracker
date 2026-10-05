@@ -123,16 +123,6 @@
     "name": "Aoede",
     "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
     "language": "en",
-    "size": "4.98 KB",
-    "type": "chatbots",
-    "author": "contact@bldy.ovh",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/aoede/egg-aoede.json",
-    "exported_at": "2025-07-03T09:54:26-07:00"
-  },
-  {
-    "name": "Aoede",
-    "description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself.",
-    "language": "en",
     "size": "4.76 KB",
     "type": "chatbots",
     "author": "contact@bldy.ovh",
@@ -143,21 +133,21 @@
     "name": "Archean",
     "description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build.",
     "language": "en",
-    "size": "9.24 KB",
+    "size": "10.94 KB",
     "type": "games-standalone",
     "author": "tueem@tomatentum.net",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/archean/egg-archean.json",
-    "exported_at": "2024-11-02T08:25:16+00:00"
+    "exported_at": "2025-01-21T08:10:46+00:00"
   },
   {
     "name": "Archean",
     "description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build.",
     "language": "en",
-    "size": "8.47 KB",
+    "size": "9.79 KB",
     "type": "games-standalone",
     "author": "tueem@tomatentum.net",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/archean/egg-pterodactyl-archean.json",
-    "exported_at": "2025-02-19T20:25:53+00:00"
+    "exported_at": "2025-01-21T08:10:46+00:00"
   },
   {
     "name": "ARK: Survival Ascended",
@@ -350,16 +340,6 @@
     "exported_at": "2024-06-01T19:44:10+00:00"
   },
   {
-    "name": "ATLBot",
-    "description": "ATLbot in ptero\r\n\r\nhttps://github.com/ATLauncher/discord-bot/",
-    "language": "en",
-    "size": "2.54 KB",
-    "type": "chatbots",
-    "author": "jfeldt19@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/atlbot/egg-a-t-l-bot.json",
-    "exported_at": "2024-06-01T19:44:10+00:00"
-  },
-  {
     "name": "Attack of the B-Team",
     "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
     "language": "en",
@@ -440,16 +420,6 @@
     "exported_at": "2024-06-01T19:44:09+00:00"
   },
   {
-    "name": "Bastion",
-    "description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities",
-    "language": "en",
-    "size": "6.26 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/bastion/egg-bastion.json",
-    "exported_at": "2024-06-01T19:44:09+00:00"
-  },
-  {
     "name": "BATTALION: Legacy",
     "description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy.",
     "language": "en",
@@ -517,16 +487,6 @@
     "type": "chatbots",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
-    "exported_at": "2024-06-01T19:44:11+00:00"
-  },
-  {
-    "name": "Big Brother Bot",
-    "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.\r\n\r\nhttps://github.com/BigBrotherBot/big-brother-bot",
-    "language": "en",
-    "size": "1.71 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/other/bigbrotherbot/egg-big-brother-bot.json",
     "exported_at": "2024-06-01T19:44:11+00:00"
   },
   {
@@ -790,16 +750,6 @@
     "exported_at": "2024-06-01T19:44:10+00:00"
   },
   {
-    "name": "CorpBot",
-    "description": "A very clumsy python bot for discord \r\n\r\nhttps://github.com/corpnewt/CorpBot.py",
-    "language": "en",
-    "size": "3 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/corpbot/egg-corp-bot.json",
-    "exported_at": "2024-06-01T19:44:10+00:00"
-  },
-  {
     "name": "Counter-Strike 2",
     "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
     "language": "en",
@@ -1010,6 +960,16 @@
     "exported_at": "2026-04-06T02:01:23+00:00"
   },
   {
+    "name": "Daggerfall Online",
+    "description": "Daggerfall Online server created from the default generic Node.js egg.\nSSL is required for this egg to run properly.",
+    "language": "en",
+    "size": "7.94 KB",
+    "type": "games-standalone",
+    "author": "dartkittenz@gmail.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/daggerfall_online/egg-daggerfall-online.json",
+    "exported_at": "2026-09-24T04:06:04+00:00"
+  },
+  {
     "name": "dart generic",
     "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
     "language": "en",
@@ -1157,16 +1117,6 @@
     "type": "chatbots",
     "author": "sebastian.pietschner@gmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/dynamica/egg-pterodactyl-dynamica.json",
-    "exported_at": "2024-06-01T19:44:12+00:00"
-  },
-  {
-    "name": "Dynamica",
-    "description": "An easy-to-use dynamic voice channel bot.",
-    "language": "en",
-    "size": "5.05 KB",
-    "type": "chatbots",
-    "author": "sebastian.pietschner@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/dynamica/egg-dynamica.json",
     "exported_at": "2024-06-01T19:44:12+00:00"
   },
   {
@@ -1560,16 +1510,6 @@
     "exported_at": "2024-06-01T19:44:14+00:00"
   },
   {
-    "name": "fragbot",
-    "description": "The fragforce discord bot.\r\n\r\nlocated at https://github.com/fragforce/fragbot",
-    "language": "en",
-    "size": "2.25 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/fragbot/egg-fragbot.json",
-    "exported_at": "2024-06-01T19:44:14+00:00"
-  },
-  {
     "name": "Frozen Flame",
     "description": "Frozen Flame Dedicated Server",
     "language": "en",
@@ -1648,16 +1588,6 @@
     "author": "runemaster580@gmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ftb/outdated/egg-f-t-b-modpacks-ch-server.json",
     "exported_at": "2026-04-21T19:02:00+00:00"
-  },
-  {
-    "name": "Game Server Watcher",
-    "description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎",
-    "language": "en",
-    "size": "4.87 KB",
-    "type": "chatbots",
-    "author": "a-sync@devs.space",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/game-server-watcher/egg-game-server-watcher.json",
-    "exported_at": "2024-06-01T19:44:15+00:00"
   },
   {
     "name": "Game Server Watcher",
@@ -2058,26 +1988,6 @@
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json",
     "exported_at": "2024-06-01T19:44:14+00:00"
-  },
-  {
-    "name": "JMusicBot",
-    "description": "A Discord music bot that's easy to set up and run yourself!",
-    "language": "en",
-    "size": "10.72 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/jmusicbot/egg-j-music-bot.json",
-    "exported_at": "2024-06-01T19:44:14+00:00"
-  },
-  {
-    "name": "JTS3ServerMod",
-    "description": "Setup:\r\n- Install the latest version\r\n- Go into config/server1 and edit JTS3ServerMod_server.cfg\r\n- Save and start the server\r\n\r\nAuthor: https://www.stefan1200.de/forum/index.php?topic=2.0",
-    "language": "en",
-    "size": "2.8 KB",
-    "type": "chatbots",
-    "author": "teamwuffy@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
-    "exported_at": "2024-06-01T19:44:16+00:00"
   },
   {
     "name": "JTS3ServerMod",
@@ -2733,16 +2643,6 @@
     "name": "Muse",
     "description": "Muse is a self-hosted Discord music bot that is made for small to medium-sized Discord servers/guilds.",
     "language": "en",
-    "size": "6.69 KB",
-    "type": "chatbots",
-    "author": "red_thirten@yahoo.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/muse/egg-muse.json",
-    "exported_at": "2025-06-25T15:25:55-07:00"
-  },
-  {
-    "name": "Muse",
-    "description": "Muse is a self-hosted Discord music bot that is made for small to medium-sized Discord servers/guilds.",
-    "language": "en",
     "size": "6.42 KB",
     "type": "chatbots",
     "author": "red_thirten@yahoo.com",
@@ -3333,16 +3233,6 @@
     "name": "parkertron",
     "description": "The stupid chatbot parkertron by Parkervcp.\r\n\r\nhttps://github.com/parkervcp/parkertron",
     "language": "en",
-    "size": "1.73 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/parkertron/egg-parkertron.json",
-    "exported_at": "2024-06-01T19:44:04+00:00"
-  },
-  {
-    "name": "parkertron",
-    "description": "The stupid chatbot parkertron by Parkervcp.\r\n\r\nhttps://github.com/parkervcp/parkertron",
-    "language": "en",
     "size": "1.64 KB",
     "type": "chatbots",
     "author": "parker@parkervcp.com",
@@ -3400,16 +3290,6 @@
     "exported_at": "2024-06-01T19:44:04+00:00"
   },
   {
-    "name": "PhantomBot",
-    "description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.",
-    "language": "en",
-    "size": "6.99 KB",
-    "type": "chatbots",
-    "author": "mail@wuffy.eu",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/phantombot/egg-phantom-bot.json",
-    "exported_at": "2024-06-01T19:44:04+00:00"
-  },
-  {
     "name": "PixARK",
     "description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel",
     "language": "en",
@@ -3433,21 +3313,31 @@
     "name": "pixel-bot",
     "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps://github.com/Ispira/pixel-bot",
     "language": "en",
-    "size": "4.14 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/pixelbot/egg-pixel-bot.json",
-    "exported_at": "2024-06-01T19:44:06+00:00"
-  },
-  {
-    "name": "pixel-bot",
-    "description": "A Discord bot written in Python using discord.py\r\n\r\nhttps://github.com/Ispira/pixel-bot",
-    "language": "en",
     "size": "3.92 KB",
     "type": "chatbots",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/pixelbot/egg-pterodactyl-pixel-bot.json",
     "exported_at": "2024-06-01T19:44:06+00:00"
+  },
+  {
+    "name": "Plains of Pain",
+    "description": "Survive a brutal open world alone or with friends. Explore a procedural wasteland scorched by chaos. Build and defend your base, trade for what you need, complete deadly quests, and fight to claim faction outposts before someone else does. ",
+    "language": "en",
+    "size": "7.96 KB",
+    "type": "games-steamcmd",
+    "author": "quinten@pelican.dev",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/plains_of_pain/egg-plains-of-pain.json",
+    "exported_at": "2025-11-15T12:26:36+00:00"
+  },
+  {
+    "name": "Plains of Pain",
+    "description": "Survive a brutal open world alone or with friends. Explore a procedural wasteland scorched by chaos. Build and defend your base, trade for what you need, complete deadly quests, and fight to claim faction outposts before someone else does. ",
+    "language": "en",
+    "size": "6.67 KB",
+    "type": "games-steamcmd",
+    "author": "quinten@pelican.dev",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/plains_of_pain/pterodactyl-egg-plains-of-pain.json",
+    "exported_at": "2025-11-15T12:26:36+00:00"
   },
   {
     "name": "PocketmineMP",
@@ -3770,16 +3660,6 @@
     "exported_at": "2024-06-01T19:44:05+00:00"
   },
   {
-    "name": "Red",
-    "description": "A multifunction Discord bot \r\n\r\nhttps://github.com/Cog-Creators/Red-DiscordBot",
-    "language": "en",
-    "size": "3.65 KB",
-    "type": "chatbots",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/redbot/egg-red.json",
-    "exported_at": "2024-06-01T19:44:05+00:00"
-  },
-  {
     "name": "Redis-5",
     "description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
     "language": "en",
@@ -3828,16 +3708,6 @@
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rdr/redm/egg-red-m.json",
     "exported_at": "2024-06-01T00:17:04+00:00"
-  },
-  {
-    "name": "Ree6",
-    "description": "All-in-one, open source and 100% free Discord Bot!",
-    "language": "en",
-    "size": "22.59 KB",
-    "type": "chatbots",
-    "author": "presti@presti.me",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/ree6/egg-ree6.json",
-    "exported_at": "2024-06-01T19:44:06+00:00"
   },
   {
     "name": "Ree6",
@@ -4130,6 +4000,16 @@
     "exported_at": "2026-06-08T07:39:34+00:00"
   },
   {
+    "name": "Single Player Tarkov",
+    "description": "Single Player Tarkov (SPT) transforms your Escape From Tarkov (EFT) client into a fully offline experience.\nNo more server downtime, cheaters, or forced PvP. Enjoy realistic raids, quest progression, and steady character development on your own terms.",
+    "language": "en",
+    "size": "7.22 KB",
+    "type": "games-standalone",
+    "author": "cocomarti0208@gmail.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/eft/spt/egg-single-player-tarkov.json",
+    "exported_at": "2025-04-04T03:09:27+00:00"
+  },
+  {
     "name": "Sinusbot",
     "description": "Musicbot for Discord and Teamspeak.",
     "language": "en",
@@ -4137,16 +4017,6 @@
     "type": "chatbots",
     "author": "support@pterodactyl.io",
     "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
-    "exported_at": "2024-06-01T19:44:07+00:00"
-  },
-  {
-    "name": "Sinusbot",
-    "description": "Musicbot for Discord and Teamspeak.",
-    "language": "en",
-    "size": "3.63 KB",
-    "type": "chatbots",
-    "author": "support@pterodactyl.io",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/sinusbot/egg-sinusbot.json",
     "exported_at": "2024-06-01T19:44:07+00:00"
   },
   {
@@ -4168,16 +4038,6 @@
     "author": "git@robsti.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
     "exported_at": "2026-04-06T02:01:23+00:00"
-  },
-  {
-    "name": "SogeBot",
-    "description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/",
-    "language": "en",
-    "size": "3.58 KB",
-    "type": "chatbots",
-    "author": "eggs@goover.dev",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/twitch/sogebot/egg-soge-bot.json",
-    "exported_at": "2024-06-01T19:44:08+00:00"
   },
   {
     "name": "SogeBot",
@@ -4516,7 +4376,7 @@
     "size": "4.99 KB",
     "type": "games-standalone",
     "author": "dino@papertots.page",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/eft/egg-stay-in-tarkov.json",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/eft/sit/egg-stay-in-tarkov.json",
     "exported_at": "2024-06-01T00:17:10+00:00"
   },
   {
@@ -4526,7 +4386,7 @@
     "size": "4.79 KB",
     "type": "games-standalone",
     "author": "dino@papertots.page",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/eft/egg-pterodactyl-stay-in-tarkov.json",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/eft/sit/egg-pterodactyl-stay-in-tarkov.json",
     "exported_at": "2024-06-01T00:17:10+00:00"
   },
   {
@@ -4573,11 +4433,11 @@
     "name": "SuperTuxKart",
     "description": "Egg for hosting a SuperTuxKart Server.",
     "language": "en",
-    "size": "5.28 KB",
+    "size": "5.44 KB",
     "type": "games-standalone",
     "author": "mattamn107@github.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/SuperTuxKart/egg-super-tux-kart.json",
-    "exported_at": "2024-06-01T00:17:12+00:00"
+    "exported_at": "2026-01-25T15:15:37+00:00"
   },
   {
     "name": "SuperTuxKart",
