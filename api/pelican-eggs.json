@@ -551,23 +551,13 @@
   },
   {
     "name": "Bun",
-    "description": "Bun is an incredibly fast JavaScript runtime, transpiler bundler, and npm package manager all-in-one.",
+    "description": "Bun is an incredibly fast JavaScript runtime, transpiler bundler, and npm package manager\nall-in-one.",
     "language": "en",
-    "size": "6.97 KB",
-    "type": "generic",
-    "author": "mratox@protonmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/bun/egg-bun.json",
-    "exported_at": "2024-06-02T14:43:54+00:00"
-  },
-  {
-    "name": "Bun",
-    "description": "Bun is an incredibly fast JavaScript runtime, transpiler bundler, and npm package manager all-in-one.",
-    "language": "en",
-    "size": "6.68 KB",
+    "size": "6.56 KB",
     "type": "generic",
     "author": "mratox@protonmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/bun/egg-pterodactyl-bun.json",
-    "exported_at": "2024-06-02T14:43:54+00:00"
+    "exported_at": "2026-01-01T21:41:51+00:00"
   },
   {
     "name": "Bungeecord",
@@ -950,24 +940,14 @@
     "exported_at": "2026-09-24T04:06:04+00:00"
   },
   {
-    "name": "dart generic",
-    "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
+    "name": "Dart generic",
+    "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you\nare doing.",
     "language": "en",
-    "size": "5.83 KB",
+    "size": "5.75 KB",
     "type": "generic",
     "author": "alden@knoban.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-pterodactyl-dart-generic.json",
-    "exported_at": "2024-06-02T14:43:54+00:00"
-  },
-  {
-    "name": "dart generic",
-    "description": "A generic dart CLI egg.\r\n\r\nThis will clone a dart CLI application. it defaults to master if no branch is specified.\r\n\r\nInstalls the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing.",
-    "language": "en",
-    "size": "6.07 KB",
-    "type": "generic",
-    "author": "alden@knoban.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/dart/egg-dart-generic.json",
-    "exported_at": "2024-06-02T14:43:54+00:00"
+    "exported_at": "2026-01-01T21:42:08+00:00"
   },
   {
     "name": "DayZ",
@@ -1053,21 +1033,11 @@
     "name": "Deno Generic",
     "description": "A generic egg to run deno code.",
     "language": "en",
-    "size": "7.65 KB",
+    "size": "7.39 KB",
     "type": "generic",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-pterodactyl-deno-generic.json",
-    "exported_at": "2025-04-19T16:22:05+00:00"
-  },
-  {
-    "name": "Deno Generic",
-    "description": "A generic egg to run deno code.",
-    "language": "en",
-    "size": "7.94 KB",
-    "type": "generic",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/deno/egg-deno-generic.json",
-    "exported_at": "2025-04-19T16:19:28+00:00"
+    "exported_at": "2026-01-01T21:42:13+00:00"
   },
   {
     "name": "Don't Starve Together",
@@ -1131,23 +1101,13 @@
   },
   {
     "name": "Elixir",
-    "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+    "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the\nBEAM virtual machine, which is also used to implement the Erlang programming language.",
     "language": "en",
-    "size": "5.6 KB",
-    "type": "generic",
-    "author": "mravox@proton.me",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-elixir.json",
-    "exported_at": "2024-06-02T14:43:55+00:00"
-  },
-  {
-    "name": "Elixir",
-    "description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
-    "language": "en",
-    "size": "5.39 KB",
+    "size": "5.33 KB",
     "type": "generic",
     "author": "mravox@proton.me",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/elixir/egg-pterodactyl-elixir.json",
-    "exported_at": "2024-06-02T14:43:55+00:00"
+    "exported_at": "2026-01-01T21:42:23+00:00"
   },
   {
     "name": "Empyrion: Galactic Survival",
@@ -1566,28 +1526,8 @@
     "size": "6.18 KB",
     "type": "generic",
     "author": "josdekurk@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/pterodactyl-egg-generic-c.json",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/c#/egg-pterodactyl-generic-c.json",
     "exported_at": "2026-06-14T08:33:15+00:00"
-  },
-  {
-    "name": "Generic Java",
-    "description": "Creates a container that runs java.",
-    "language": "en",
-    "size": "1.74 KB",
-    "type": "generic",
-    "author": "sneaky@sneakyhub.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-pterodactyl-generic-java.json",
-    "exported_at": "2024-06-02T14:43:51+00:00"
-  },
-  {
-    "name": "Generic Java",
-    "description": "Creates a container that runs java.",
-    "language": "en",
-    "size": "1.85 KB",
-    "type": "generic",
-    "author": "sneaky@sneakyhub.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-generic-java.json",
-    "exported_at": "2024-06-02T14:43:51+00:00"
   },
   {
     "name": "Gitea",
@@ -1623,21 +1563,11 @@
     "name": "golang generic",
     "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
     "language": "en",
-    "size": "1.82 KB",
+    "size": "1.8 KB",
     "type": "generic",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-pterodactyl-golang-generic.json",
-    "exported_at": "2024-06-02T14:43:56+00:00"
-  },
-  {
-    "name": "golang generic",
-    "description": "A generic golang egg that compiles the application and saves an executable\r\n\r\nMeant to be customized before it is used.",
-    "language": "en",
-    "size": "1.94 KB",
-    "type": "generic",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/golang/egg-golang-generic.json",
-    "exported_at": "2024-06-02T14:43:56+00:00"
+    "exported_at": "2026-01-01T21:42:31+00:00"
   },
   {
     "name": "GoMint",
@@ -1908,6 +1838,16 @@
     "author": "contact-hyperbeats@protonmail.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/iosoccer/egg-iosoccer-server.json",
     "exported_at": "2026-04-06T02:01:23+00:00"
+  },
+  {
+    "name": "Java generic",
+    "description": "Creates a container that runs java.",
+    "language": "en",
+    "size": "1.61 KB",
+    "type": "generic",
+    "author": "sneaky@sneakyhub.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/java/egg-pterodactyl-java-generic.json",
+    "exported_at": "2026-01-01T21:42:37+00:00"
   },
   {
     "name": "JMusicBot",
@@ -2200,24 +2140,14 @@
     "exported_at": "2024-06-01T00:03:57+00:00"
   },
   {
-    "name": "luvit generic",
+    "name": "Luvit generic",
     "description": "A generic luvit egg This will clone a git repo. It defaults to master if no branch is specified.\r\n\r\nSupports the discordia lua framework.",
     "language": "en",
-    "size": "5.66 KB",
+    "size": "5.55 KB",
     "type": "generic",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/lua/luvit/egg-pterodactyl-luvit-generic.json",
-    "exported_at": "2024-06-02T14:43:50+00:00"
-  },
-  {
-    "name": "luvit generic",
-    "description": "A generic luvit egg This will clone a git repo. It defaults to master if no branch is specified.\r\n\r\nSupports the discordia lua framework.",
-    "language": "en",
-    "size": "5.92 KB",
-    "type": "generic",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/lua/luvit/egg-luvit-generic.json",
-    "exported_at": "2024-06-02T14:43:50+00:00"
+    "exported_at": "2026-01-01T21:42:43+00:00"
   },
   {
     "name": "Magma",
@@ -2790,34 +2720,24 @@
     "exported_at": "2026-04-06T02:01:23+00:00"
   },
   {
-    "name": "node.js generic",
+    "name": "Node.js generic",
     "description": "a generic node.js egg This will clone a git repo. it defaults to master if no branch is specified. Installs the node_modules on install. If you set user_upload then I assume you know what you are doing.",
+    "language": "en",
+    "size": "7.53 KB",
+    "type": "generic",
+    "author": "parker@parkervcp.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/egg-pterodactyl-nodejs-generic.json",
+    "exported_at": "2026-10-05T10:10:23+00:00"
+  },
+  {
+    "name": "Nodemon",
+    "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the\ndirectory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are\ndoing.",
     "language": "en",
     "size": "7.54 KB",
     "type": "generic",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodejs/pterodactyl-egg-nodejs-generic.json",
-    "exported_at": "2026-07-18T19:41:09+00:00"
-  },
-  {
-    "name": "nodemon",
-    "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-    "language": "en",
-    "size": "7.68 KB",
-    "type": "generic",
     "author": "nick@blackforthosting.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-pterodactyl-nodemon.json",
-    "exported_at": "2025-06-09T14:03:05+02:00"
-  },
-  {
-    "name": "nodemon",
-    "description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected\r\n\r\nThis will clone a git repo for a bot. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload, then I assume you know what you are doing.",
-    "language": "en",
-    "size": "8.09 KB",
-    "type": "generic",
-    "author": "nick@blackforthosting.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/nodemon/egg-nodemon.json",
-    "exported_at": "2025-05-24T14:28:23+00:00"
+    "exported_at": "2026-01-01T21:42:53+00:00"
   },
   {
     "name": "Nova-Life: Amboise",
@@ -3400,24 +3320,14 @@
     "exported_at": "2024-09-17T22:59:20+02:00"
   },
   {
-    "name": "python generic",
+    "name": "Python generic",
     "description": "A Generic Python Egg for Pelican & Pterodactyl\n\nTested with: https://github.com/Ispira/pixel-bot",
     "language": "en",
-    "size": "7.31 KB",
+    "size": "7.13 KB",
     "type": "generic",
     "author": "parker@parkervcp.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-pterodactyl-python-generic.json",
-    "exported_at": "2025-11-11T09:56:17+00:00"
-  },
-  {
-    "name": "python generic",
-    "description": "A Generic Python Egg for Pelican & Pterodactyl\n\nTested with: https://github.com/Ispira/pixel-bot",
-    "language": "en",
-    "size": "9.22 KB",
-    "type": "generic",
-    "author": "parker@parkervcp.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/python/egg-python-generic.json",
-    "exported_at": "2025-11-11T09:56:17+00:00"
+    "exported_at": "2026-01-01T21:42:57+00:00"
   },
   {
     "name": "QANGA",
@@ -3770,24 +3680,14 @@
     "exported_at": "2026-05-10T02:18:05+00:00"
   },
   {
-    "name": "rust generic",
+    "name": "Rust generic",
     "description": "Creates a container that runs rust with cargo.",
     "language": "en",
-    "size": "4.73 KB",
+    "size": "4.49 KB",
     "type": "generic",
     "author": "ethan@ethancoward.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-pterodactyl-rust-generic.json",
-    "exported_at": "2024-06-02T14:43:53+00:00"
-  },
-  {
-    "name": "rust generic",
-    "description": "Creates a container that runs rust with cargo.",
-    "language": "en",
-    "size": "4.94 KB",
-    "type": "generic",
-    "author": "ethan@ethancoward.dev",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/generic/main/rust/egg-rust-generic.json",
-    "exported_at": "2024-06-02T14:43:53+00:00"
+    "exported_at": "2026-01-01T21:43:07+00:00"
   },
   {
     "name": "Rust Staging",
