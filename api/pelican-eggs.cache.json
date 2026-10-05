@@ -4354,17 +4354,7 @@
       "name": "CurseForge Generic",
       "description": "A generic egg for a CurseForge modpack.",
       "language": "en",
-      "size": "23.46 KB",
-      "type": "minecraft",
-      "author": "contact@chromozone.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-curse-forge-generic.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "CurseForge Generic",
-      "description": "A generic egg for a CurseForge modpack.",
-      "language": "en",
-      "size": "23.29 KB",
+      "size": "27.38 KB",
       "type": "minecraft",
       "author": "contact@chromozone.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
@@ -5258,121 +5248,61 @@
       "name": "Code-Server",
       "description": "Run VS Code on any machine anywhere and access it in the browser.",
       "language": "en",
-      "size": "5.2 KB",
+      "size": "5.01 KB",
       "type": "software",
       "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-code--server.json",
-      "exported_at": "2025-02-16T10:37:18+00:00"
-    },
-    {
-      "name": "Code-Server",
-      "description": "Run VS Code on any machine anywhere and access it in the browser.",
-      "language": "en",
-      "size": "4.97 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-pterodactyl-code--server.json",
-      "exported_at": "2025-02-16T10:37:18+00:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/code-server/egg-pterodactyl-code-server.json",
+      "exported_at": "2026-01-03T18:56:30+00:00"
     },
     {
       "name": "Elasticsearch",
       "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
       "language": "en",
-      "size": "2.54 KB",
+      "size": "2.57 KB",
       "type": "software",
       "author": "dominic@stilma.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-pterodactyl-elasticsearch.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
-      "name": "Elasticsearch",
-      "description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.",
-      "language": "en",
-      "size": "2.67 KB",
-      "type": "software",
-      "author": "dominic@stilma.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/elasticsearch/egg-elasticsearch.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
+      "exported_at": "2026-01-03T18:56:22+00:00"
     },
     {
       "name": "Folding@Home",
       "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
       "language": "en",
-      "size": "5.37 KB",
+      "size": "5.38 KB",
       "type": "software",
       "author": "fuggschen@krk-gaming.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-pterodactyl-folding--home.json",
-      "exported_at": "2024-09-08T19:48:06+02:00"
-    },
-    {
-      "name": "Folding@Home",
-      "description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers",
-      "language": "en",
-      "size": "5.55 KB",
-      "type": "software",
-      "author": "fuggschen@krk-gaming.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-folding--home.json",
-      "exported_at": "2024-09-08T19:48:06+02:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/foldingathome/egg-pterodactyl-folding-home.json",
+      "exported_at": "2026-01-03T18:56:52+00:00"
     },
     {
       "name": "Forgejo",
       "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
       "language": "en",
-      "size": "3.95 KB",
+      "size": "3.98 KB",
       "type": "software",
       "author": "seaswimmerthefsh@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-pterodactyl-forgejo.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
-    },
-    {
-      "name": "Forgejo",
-      "description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea.",
-      "language": "en",
-      "size": "4.11 KB",
-      "type": "software",
-      "author": "seaswimmerthefsh@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/forgejo/egg-forgejo.json",
-      "exported_at": "2024-06-02T14:40:58+00:00"
+      "exported_at": "2026-01-03T10:30:25+00:00"
     },
     {
       "name": "Gitea",
       "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
       "language": "en",
-      "size": "3.9 KB",
+      "size": "3.82 KB",
       "type": "software",
       "author": "mario.franze@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-pterodactyl-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
-    },
-    {
-      "name": "Gitea",
-      "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
-      "language": "en",
-      "size": "4.06 KB",
-      "type": "software",
-      "author": "mario.franze@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/gitea/egg-gitea.json",
-      "exported_at": "2024-06-02T14:40:59+00:00"
+      "exported_at": "2026-01-03T18:57:01+00:00"
     },
     {
       "name": "Grafana",
       "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "language": "en",
-      "size": "3.54 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
-    },
-    {
-      "name": "Grafana",
-      "description": "The open and composable observability and data visualization platform.\r\nVisualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "en",
-      "size": "3.44 KB",
+      "size": "3.34 KB",
       "type": "software",
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/grafana/egg-pterodactyl-grafana.json",
-      "exported_at": "2024-06-02T14:41:00+00:00"
+      "exported_at": "2026-01-03T18:57:06+00:00"
     },
     {
       "name": "haste-server",
@@ -5398,101 +5328,51 @@
       "name": "LanguageTool",
       "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
       "language": "en",
-      "size": "3.42 KB",
-      "type": "software",
-      "author": "thomasruhl@live.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-language-tool.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
-    },
-    {
-      "name": "LanguageTool",
-      "description": "This egg installs a LanguageTool server\r\n\r\nLanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.\r\n\r\nView https://languagetool.org for more information.",
-      "language": "en",
-      "size": "3.32 KB",
+      "size": "3.33 KB",
       "type": "software",
       "author": "thomasruhl@live.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/languagetool/egg-pterodactyl-language-tool.json",
-      "exported_at": "2024-06-02T14:41:01+00:00"
+      "exported_at": "2026-01-03T18:57:13+00:00"
     },
     {
       "name": "Lavalink",
       "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\nDescription taken from https://github.com/lavalink-devs/Lavalink",
       "language": "en",
-      "size": "4.77 KB",
-      "type": "software",
-      "author": "damuffin36@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-lavalink.json",
-      "exported_at": "2024-11-20T10:10:31+00:00"
-    },
-    {
-      "name": "Lavalink",
-      "description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.\r\nDescription taken from https://github.com/lavalink-devs/Lavalink",
-      "language": "en",
-      "size": "4.53 KB",
+      "size": "4.46 KB",
       "type": "software",
       "author": "damuffin36@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/lavalink/egg-pterodactyl-lavalink.json",
-      "exported_at": "2024-10-26T08:33:32+02:00"
+      "exported_at": "2026-01-03T18:57:28+00:00"
     },
     {
       "name": "Meilisearch",
       "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
       "language": "en",
-      "size": "6.37 KB",
-      "type": "software",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/meilisearch/egg-meilisearch.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
-      "name": "Meilisearch",
-      "description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",
-      "language": "en",
-      "size": "6.08 KB",
+      "size": "6.12 KB",
       "type": "software",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/meilisearch/egg-pterodactyl-meilisearch.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
+      "exported_at": "2026-01-03T18:57:32+00:00"
     },
     {
-      "name": "owncast.online",
+      "name": "Owncast.online",
       "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
       "language": "en",
-      "size": "6.07 KB",
+      "size": "5.75 KB",
       "type": "software",
       "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
-    },
-    {
-      "name": "owncast.online",
-      "description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.",
-      "language": "en",
-      "size": "5.8 KB",
-      "type": "software",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncast-online.json",
-      "exported_at": "2024-06-02T14:40:52+00:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/owncast/egg-pterodactyl-owncastonline.json",
+      "exported_at": "2026-01-03T18:57:38+00:00"
     },
     {
       "name": "RabbitMQ",
       "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
       "language": "en",
-      "size": "3.03 KB",
-      "type": "software",
-      "author": "p.zarrad@outlook.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "RabbitMQ",
-      "description": "RabbitMQ is a feature rich, multi-protocol messaging broker.",
-      "language": "en",
-      "size": "2.91 KB",
+      "size": "2.86 KB",
       "type": "software",
       "author": "p.zarrad@outlook.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
+      "exported_at": "2026-01-03T18:57:47+00:00"
     },
     {
       "name": "Rathole",
@@ -5508,41 +5388,21 @@
       "name": "Reposilite",
       "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
       "language": "en",
-      "size": "2.75 KB",
-      "type": "software",
-      "author": "mk@kcra.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
-    },
-    {
-      "name": "Reposilite",
-      "description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem.",
-      "language": "en",
-      "size": "2.65 KB",
+      "size": "2.58 KB",
       "type": "software",
       "author": "mk@kcra.me",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/reposilite/egg-pterodactyl-reposilite.json",
-      "exported_at": "2024-06-02T14:40:54+00:00"
+      "exported_at": "2026-01-03T18:57:56+00:00"
     },
     {
       "name": "Uptime Kuma",
       "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
       "language": "en",
-      "size": "3.55 KB",
-      "type": "software",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
-    },
-    {
-      "name": "Uptime Kuma",
-      "description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool.",
-      "language": "en",
-      "size": "3.38 KB",
+      "size": "3.41 KB",
       "type": "software",
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
-      "exported_at": "2024-06-02T14:40:55+00:00"
+      "exported_at": "2026-01-03T18:58:04+00:00"
     },
     {
       "name": "Yarr",
