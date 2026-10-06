@@ -1643,11 +1643,11 @@
     "name": "Gryt Server",
     "description": "Gryt is an open source voice, video and text chat platform. Connect with the Gryt desktop app or the hosted web client at https://app.gryt.chat. The first user to join becomes the owner; afterwards the server is invite-only. Requirements: - amd64 only (the Gryt Linux bundle is x64 only) - needs two extra allocations: one for the SFU websocket (set SFU_PORT to its port), one for voice media (set ICE_UDP_MUX_PORT to its port) - set SFU_PUBLIC_HOST to <public-ip>:<SFU_PORT> so voice works over the internet",
     "language": "en",
-    "size": "11.3 KB",
+    "size": "11.4 KB",
     "type": "voice",
     "author": "138704619+wan0v@users.noreply.github.com",
     "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/gryt/pterodactyl-egg-gryt-server.json",
-    "exported_at": "2026-09-06T16:00:35+00:00"
+    "exported_at": "2026-10-05T18:39:22+00:00"
   },
   {
     "name": "haste-server",
@@ -2463,9 +2463,9 @@
     "name": "Mumble Server",
     "description": "Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.",
     "language": "en",
-    "size": "2.16 KB",
+    "size": "2.15 KB",
     "type": "voice",
-    "author": "support@pterodactyl.io",
+    "author": "team@pelican.dev",
     "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/mumble/egg-pterodactyl-mumble-server.json",
     "exported_at": "2025-05-08T23:15:50-04:00"
   },
@@ -4300,34 +4300,34 @@
     "exported_at": "2024-06-01T00:04:56+00:00"
   },
   {
-    "name": "Teamspeak3 Server ARM64",
-    "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+    "name": "TeamSpeak 3",
+    "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless\ncustomization options, and scalability up to thousands of simultaneous users.",
     "language": "en",
-    "size": "3.33 KB",
+    "size": "4.15 KB",
+    "type": "voice",
+    "author": "panel@example.com",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak/ts3/egg-pterodactyl-teamspeak3.json",
+    "exported_at": "2026-10-05T20:10:44+00:00"
+  },
+  {
+    "name": "TeamSpeak 3 (ARM64)",
+    "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users.",
+    "language": "en",
+    "size": "3.3 KB",
     "type": "voice",
     "author": "josdekurk@gmail.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak/egg-teamspeak3-arm64-server.json",
-    "exported_at": "2022-07-06T17:10:16+02:00"
+    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak/ts3/arm64/egg-pterodactyl-teamspeak3-arm64.json",
+    "exported_at": "2026-10-05T20:10:44+00:00"
   },
   {
-    "name": "Teamspeak6 Server",
-    "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
+    "name": "TeamSpeak 6",
+    "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users.",
     "language": "en",
-    "size": "5.46 KB",
+    "size": "4.3 KB",
     "type": "voice",
     "author": "161775222+JoanFo1456@users.noreply.github.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/ts6/egg-teamspeak6-server.json",
-    "exported_at": "2025-07-05T17:46:50+00:00"
-  },
-  {
-    "name": "Teamspeak6 Server",
-    "description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users.",
-    "language": "en",
-    "size": "5.09 KB",
-    "type": "voice",
-    "author": "161775222+JoanFo1456@users.noreply.github.com",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/ts6/pterodactyl-egg-teamspeak6-server.json",
-    "exported_at": "2026-02-13T21:03:28+01:00"
+    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak/ts6/egg-pterodactyl-teamspeak6.json",
+    "exported_at": "2026-10-05T20:37:01+00:00"
   },
   {
     "name": "Teeworlds",
@@ -4761,23 +4761,13 @@
   },
   {
     "name": "TS3 Manager",
-    "description": "The Open Source Webinterface For TeamSpeak Servers",
+    "description": "The Open Source web interface For TeamSpeak Servers",
     "language": "en",
-    "size": "3.1 KB",
+    "size": "2.98 KB",
     "type": "voice",
     "author": "eggs@goover.dev",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/ts3_manager/egg-pterodactyl-t-s3-manager.json",
-    "exported_at": "2024-10-26T08:17:30+02:00"
-  },
-  {
-    "name": "TS3 Manager",
-    "description": "The Open Source Webinterface For TeamSpeak Servers",
-    "language": "en",
-    "size": "3.5 KB",
-    "type": "voice",
-    "author": "eggs@goover.dev",
-    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/ts3_manager/egg-t-s3-manager.json",
-    "exported_at": "2024-10-26T06:20:58+00:00"
+    "link": "https://raw.githubusercontent.com/pelican-eggs/voice/main/teamspeak/ts3_manager/egg-pterodactyl-ts3-manager.json",
+    "exported_at": "2026-10-05T20:10:44+00:00"
   },
   {
     "name": "tshock",
