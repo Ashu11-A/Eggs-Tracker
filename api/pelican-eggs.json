@@ -150,6 +150,16 @@
     "exported_at": "2025-01-21T08:10:46+00:00"
   },
   {
+    "name": "ArchiSteamFarm",
+    "description": "ArchiSteamFarm (ASF) is a C# application that allows you to farm Steam cards using multiple Steam accounts simultaneously. It features a web-based IPC interface for remote management. https://github.com/JustArchiNET/ArchiSteamFarm",
+    "language": "en",
+    "size": "4.03 KB",
+    "type": "software",
+    "author": "contact@piotrunius.dev",
+    "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/archsteamfarm/pterodactyl-egg-archi-steam-farm.json",
+    "exported_at": "2026-10-05T07:43:27+00:00"
+  },
+  {
     "name": "ARK: Survival Ascended",
     "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
     "language": "en",

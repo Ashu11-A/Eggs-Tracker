@@ -5155,6 +5155,16 @@
       "exported_at": "2026-08-03T07:52:07+00:00"
     },
     {
+      "name": "ArchiSteamFarm",
+      "description": "ArchiSteamFarm (ASF) is a C# application that allows you to farm Steam cards using multiple Steam accounts simultaneously. It features a web-based IPC interface for remote management. https://github.com/JustArchiNET/ArchiSteamFarm",
+      "language": "en",
+      "size": "4.03 KB",
+      "type": "software",
+      "author": "contact@piotrunius.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/software/main/archsteamfarm/pterodactyl-egg-archi-steam-farm.json",
+      "exported_at": "2026-10-05T07:43:27+00:00"
+    },
+    {
       "name": "Code-Server",
       "description": "Run VS Code on any machine anywhere and access it in the browser.",
       "language": "en",

@@ -5,11 +5,17 @@
     "repositories": [
       "pelican-eggs/chatbots",
       "pelican-eggs/database",
-      "pelican-eggs/games-standalone"
+      "pelican-eggs/games-standalone",
+      "pelican-eggs/games-steamcmd",
+      "pelican-eggs/generic",
+      "pelican-eggs/minecraft",
+      "pelican-eggs/monitoring",
+      "pelican-eggs/software",
+      "pelican-eggs/voice"
     ],
     "link": "https://raw.githubusercontent.com/Ashu11-A/Eggs-Tracker/main/api/pelican-eggs.min.json",
-    "eggs": 537,
-    "pushed_at": "2026-10-06T18:24:17Z"
+    "eggs": 538,
+    "pushed_at": "2026-10-09T20:17:12Z"
   },
   {
     "author": "Ashu11-A",
