@@ -98,5 +98,15 @@
     "author": "danielolxlol@gmail.com",
     "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-s-a--m-p-connect.json",
     "exported_at": "2023-02-24T00:32:27-04:00"
+  },
+  {
+    "name": "Stardew Valley Dedicated Server",
+    "description": "Servidor dedicado de Stardew Valley (Junimo Server) adaptado para rodar em um unico container no Pterodactyl.\r\n\r\nUpstream: https://github.com/stardew-valley-dedicated-server/server\r\nImagem: ghcr.io/drysius/games:stardew-valley-server (construida via York)\r\n\r\nRequer uma conta Steam que possua Stardew Valley. Os arquivos do jogo sao baixados no primeiro boot. Use STEAM_REFRESH_TOKEN para evitar o Steam Guard interativo.",
+    "language": "pt",
+    "size": "11.65 KB",
+    "type": "Eggs",
+    "author": "urubucode@gmail.com",
+    "link": "https://raw.githubusercontent.com/drylian/Eggs/main/Eggs/egg-stardew-valley-dedicated-server.json",
+    "exported_at": "2026-10-11T00:00:00-03:00"
   }
 ]
