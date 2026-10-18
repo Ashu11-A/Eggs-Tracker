@@ -3997,6 +3997,26 @@
       "exported_at": "2025-11-02T10:25:41+00:00"
     },
     {
+      "name": "Windrose",
+      "description": "Windrose is a survival adventure set in an alternative Age of Piracy.\nIt features the classic \"build, craft, survive\" formula along with intense combat and engaging exploration on land and sea.",
+      "language": "en",
+      "size": "12.7 KB",
+      "type": "games-steamcmd",
+      "author": "nezorflame@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/windrose/egg-windrose.json",
+      "exported_at": "2026-10-14T15:52:38+00:00"
+    },
+    {
+      "name": "Windrose",
+      "description": "Windrose is a survival adventure set in an alternative Age of Piracy. It features the classic \"build, craft, survive\" formula along with intense combat and engaging exploration on land and sea.",
+      "language": "en",
+      "size": "11.7 KB",
+      "type": "games-steamcmd",
+      "author": "nezorflame@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/windrose/pterodactyl-egg-windrose.json",
+      "exported_at": "2026-10-14T15:52:41+00:00"
+    },
+    {
       "name": "Wreckfest",
       "description": "Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticated driving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It’s all about fun, breakneck racing and over-the-top crashes.",
       "language": "en",
