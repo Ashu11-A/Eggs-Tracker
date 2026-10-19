@@ -203,11 +203,11 @@
     "name": "Palworld ARM64",
     "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
     "language": "en",
-    "size": "9.72 KB",
+    "size": "9.45 KB",
     "type": "steamcmd",
     "author": "josdekurk@gmail.com",
     "link": "https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-palworld-a-r-m64.json",
-    "exported_at": "2024-05-08T14:54:15+02:00"
+    "exported_at": "2026-10-19T13:20:55+00:00"
   },
   {
     "name": "Paper + hibernation",
