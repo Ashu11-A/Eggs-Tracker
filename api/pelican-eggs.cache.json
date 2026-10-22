@@ -184,34 +184,24 @@
       "name": "VoiceTwine",
       "description": "Dynamic voice channel manager for Discord",
       "language": "en",
-      "size": "7.23 KB",
-      "type": "chatbots",
-      "author": "twijn@twijn.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/voicetwine/egg-pterodactyl-voicetwine.json",
-      "exported_at": "2025-05-21T10:47:46-04:00"
-    },
-    {
-      "name": "VoiceTwine",
-      "description": "Dynamic voice channel manager for Discord",
-      "language": "en",
       "size": "7.69 KB",
       "type": "chatbots",
       "author": "twijn@twijn.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/voicetwine/egg-voicetwine.json",
       "exported_at": "2025-05-21T14:50:45+00:00"
+    },
+    {
+      "name": "VoiceTwine",
+      "description": "Dynamic voice channel manager for Discord",
+      "language": "en",
+      "size": "7.23 KB",
+      "type": "chatbots",
+      "author": "twijn@twijn.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/chatbots/main/discord/voicetwine/egg-pterodactyl-voicetwine.json",
+      "exported_at": "2025-05-21T10:47:46-04:00"
     }
   ],
   "database": [
-    {
-      "name": "MariaDB 10.3",
-      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
-      "language": "en",
-      "size": "2.82 KB",
-      "type": "database",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-pterodactyl-maria-d-b10-3.json",
-      "exported_at": "2025-02-25T20:56:41+00:00"
-    },
     {
       "name": "MariaDB 10.3",
       "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
@@ -221,6 +211,16 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-maria-d-b10-3.json",
       "exported_at": "2024-06-02T14:34:29+00:00"
+    },
+    {
+      "name": "MariaDB 10.3",
+      "description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.",
+      "language": "en",
+      "size": "2.82 KB",
+      "type": "database",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/database/main/sql/mariadb/egg-pterodactyl-maria-d-b10-3.json",
+      "exported_at": "2025-02-25T20:56:41+00:00"
     },
     {
       "name": "MariaDB 11.4",
@@ -338,21 +338,21 @@
       "name": "alt:V",
       "description": "alt:V Multiplayer a third-party multiplayer modification for Grand Theft Auto: V",
       "language": "en",
-      "size": "5.11 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/altv/egg-pterodactyl-alt--v.json",
-      "exported_at": "2024-08-25T10:29:40+02:00"
-    },
-    {
-      "name": "alt:V",
-      "description": "alt:V Multiplayer a third-party multiplayer modification for Grand Theft Auto: V",
-      "language": "en",
       "size": "5.2 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/altv/egg-alt--v.json",
       "exported_at": "2024-08-25T08:48:50+00:00"
+    },
+    {
+      "name": "alt:V",
+      "description": "alt:V Multiplayer a third-party multiplayer modification for Grand Theft Auto: V",
+      "language": "en",
+      "size": "5.11 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/altv/egg-pterodactyl-alt--v.json",
+      "exported_at": "2024-08-25T10:29:40+02:00"
     },
     {
       "name": "Among Us - Impostor Server",
@@ -378,16 +378,6 @@
       "name": "Archean",
       "description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build.",
       "language": "en",
-      "size": "9.82 KB",
-      "type": "games-standalone",
-      "author": "tueem@tomatentum.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/archean/egg-pterodactyl-archean.json",
-      "exported_at": "2025-01-21T08:10:46+00:00"
-    },
-    {
-      "name": "Archean",
-      "description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build.",
-      "language": "en",
       "size": "10.94 KB",
       "type": "games-standalone",
       "author": "tueem@tomatentum.net",
@@ -395,14 +385,14 @@
       "exported_at": "2025-01-21T08:10:46+00:00"
     },
     {
-      "name": "AssaultCube",
-      "description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.\r\n\r\nTaking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!",
+      "name": "Archean",
+      "description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build.",
       "language": "en",
-      "size": "7.05 KB",
+      "size": "9.82 KB",
       "type": "games-standalone",
-      "author": "holeintheseat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-assault-cube.json",
-      "exported_at": "2025-02-19T20:55:13+00:00"
+      "author": "tueem@tomatentum.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/archean/egg-pterodactyl-archean.json",
+      "exported_at": "2025-01-21T08:10:46+00:00"
     },
     {
       "name": "AssaultCube",
@@ -415,14 +405,14 @@
       "exported_at": "2025-02-19T20:49:51+00:00"
     },
     {
-      "name": "BeamMP Servers",
-      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
+      "name": "AssaultCube",
+      "description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.\r\n\r\nTaking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!",
       "language": "en",
-      "size": "9.28 KB",
+      "size": "7.05 KB",
       "type": "games-standalone",
-      "author": "noah@noahserver.online",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
-      "exported_at": "2024-08-03T06:04:16+02:00"
+      "author": "holeintheseat@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/assaultcube/egg-assault-cube.json",
+      "exported_at": "2025-02-19T20:55:13+00:00"
     },
     {
       "name": "BeamMP Servers",
@@ -435,14 +425,14 @@
       "exported_at": "2024-08-03T04:06:03+00:00"
     },
     {
-      "name": "BetterCrewlink Server",
-      "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
+      "name": "BeamMP Servers",
+      "description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki.",
       "language": "en",
-      "size": "3.66 KB",
+      "size": "9.28 KB",
       "type": "games-standalone",
-      "author": "tobiornotto@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-pterodactyl-better-crewlink-server.json",
-      "exported_at": "2024-06-01T00:17:29+00:00"
+      "author": "noah@noahserver.online",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
+      "exported_at": "2024-08-03T06:04:16+02:00"
     },
     {
       "name": "BetterCrewlink Server",
@@ -455,13 +445,13 @@
       "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
-      "name": "ClassiCube(MGC)",
-      "description": "Debian based MCGalaxy Egg.",
+      "name": "BetterCrewlink Server",
+      "description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server",
       "language": "en",
-      "size": "4.19 KB",
+      "size": "3.66 KB",
       "type": "games-standalone",
-      "author": "panel@qoutsy.33mail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
+      "author": "tobiornotto@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/among_us/bettercrewlink_server/egg-pterodactyl-better-crewlink-server.json",
       "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
@@ -475,14 +465,14 @@
       "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
-      "name": "Clone Hero",
-      "description": "Clone Hero is a classic instrument based rhythm game for Windows, Mac, Linux, and Android. It's playable with any 5 or 6 fret guitar controller, any midi drum kit, any game controller and even your keyboard! Jam out with Drums, 5-fret Guitar, or 6-fret Guitar online or local!",
+      "name": "ClassiCube(MGC)",
+      "description": "Debian based MCGalaxy Egg.",
       "language": "en",
-      "size": "4.94 KB",
+      "size": "4.19 KB",
       "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/clone_hero/egg-clone-hero.json",
-      "exported_at": "2024-06-01T00:17:30+00:00"
+      "author": "panel@qoutsy.33mail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json",
+      "exported_at": "2024-06-01T00:17:29+00:00"
     },
     {
       "name": "Clone Hero",
@@ -495,14 +485,14 @@
       "exported_at": "2024-06-01T00:17:30+00:00"
     },
     {
-      "name": "Clusterio",
-      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "name": "Clone Hero",
+      "description": "Clone Hero is a classic instrument based rhythm game for Windows, Mac, Linux, and Android. It's playable with any 5 or 6 fret guitar controller, any midi drum kit, any game controller and even your keyboard! Jam out with Drums, 5-fret Guitar, or 6-fret Guitar online or local!",
       "language": "en",
-      "size": "7.08 KB",
+      "size": "4.94 KB",
       "type": "games-standalone",
-      "author": "psychoalex@thevcbc.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
-      "exported_at": "2024-06-01T00:17:31+00:00"
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/clone_hero/egg-clone-hero.json",
+      "exported_at": "2024-06-01T00:17:30+00:00"
     },
     {
       "name": "Clusterio",
@@ -512,6 +502,16 @@
       "type": "games-standalone",
       "author": "psychoalex@thevcbc.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-clusterio.json",
+      "exported_at": "2024-06-01T00:17:31+00:00"
+    },
+    {
+      "name": "Clusterio",
+      "description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.\r\n\r\nBy itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster.",
+      "language": "en",
+      "size": "7.08 KB",
+      "type": "games-standalone",
+      "author": "psychoalex@thevcbc.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
       "exported_at": "2024-06-01T00:17:31+00:00"
     },
     {
@@ -558,20 +558,20 @@
       "name": "Cube 2: Sauerbraten",
       "description": "Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.\r\nMuch like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game.",
       "language": "en",
-      "size": "4 KB",
+      "size": "4.17 KB",
       "type": "games-standalone",
       "author": "holeintheseat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/cube2/egg-pterodactyl-cube2--sauerbraten.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/cube2/egg-cube2--sauerbraten.json",
       "exported_at": "2024-06-01T00:17:32+00:00"
     },
     {
       "name": "Cube 2: Sauerbraten",
       "description": "Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.\r\nMuch like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game.",
       "language": "en",
-      "size": "4.17 KB",
+      "size": "4 KB",
       "type": "games-standalone",
       "author": "holeintheseat@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/cube2/egg-cube2--sauerbraten.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/cubeengine/cube2/egg-pterodactyl-cube2--sauerbraten.json",
       "exported_at": "2024-06-01T00:17:32+00:00"
     },
     {
@@ -588,16 +588,6 @@
       "name": "DDRaceNetwork",
       "description": "DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay.",
       "language": "en",
-      "size": "4.52 KB",
-      "type": "games-standalone",
-      "author": "diedyesterdaywashere@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ddracenetwork/egg-pterodactyl-d-d-race-network.json",
-      "exported_at": "2024-06-01T00:17:36+00:00"
-    },
-    {
-      "name": "DDRaceNetwork",
-      "description": "DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay.",
-      "language": "en",
       "size": "4.72 KB",
       "type": "games-standalone",
       "author": "diedyesterdaywashere@gmail.com",
@@ -605,13 +595,13 @@
       "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
-      "name": "ET Legacy",
-      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "name": "DDRaceNetwork",
+      "description": "DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay.",
       "language": "en",
-      "size": "4.4 KB",
+      "size": "4.52 KB",
       "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
+      "author": "diedyesterdaywashere@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ddracenetwork/egg-pterodactyl-d-d-race-network.json",
       "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
@@ -622,6 +612,16 @@
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+      "exported_at": "2024-06-01T00:17:36+00:00"
+    },
+    {
+      "name": "ET Legacy",
+      "description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.",
+      "language": "en",
+      "size": "4.4 KB",
+      "type": "games-standalone",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json",
       "exported_at": "2024-06-01T00:17:36+00:00"
     },
     {
@@ -638,20 +638,20 @@
       "name": "Factorio ARM64",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
-      "size": "10.67 KB",
+      "size": "9.77 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio-a-r-m64.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-pterodactyl-factorio-a-r-m64.json",
       "exported_at": "2025-09-21T19:35:14+00:00"
     },
     {
       "name": "Factorio ARM64",
       "description": "The vanilla Factorio server.\r\n\r\nhttps://www.factorio.com/",
       "language": "en",
-      "size": "9.77 KB",
+      "size": "10.67 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-pterodactyl-factorio-a-r-m64.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/factorio/factorio/egg-factorio-a-r-m64.json",
       "exported_at": "2025-09-21T19:35:14+00:00"
     },
     {
@@ -698,16 +698,6 @@
       "name": "Foundry VTT",
       "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
       "language": "en",
-      "size": "4.77 KB",
-      "type": "games-standalone",
-      "author": "pterodactyl@demi.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
-      "exported_at": "2024-06-01T00:16:48+00:00"
-    },
-    {
-      "name": "Foundry VTT",
-      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
-      "language": "en",
       "size": "4.94 KB",
       "type": "games-standalone",
       "author": "pterodactyl@demi.cloud",
@@ -715,14 +705,14 @@
       "exported_at": "2025-06-25T09:53:00+00:00"
     },
     {
-      "name": "Grand Theft Auto Connected",
-      "description": "Grand Theft Auto Connected is a custom scriptable multiplayer modification for multiple Grand Theft Auto games.",
+      "name": "Foundry VTT",
+      "description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser.",
       "language": "en",
-      "size": "3.92 KB",
+      "size": "4.77 KB",
       "type": "games-standalone",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/gtac/egg-pterodactyl-grand-theft-auto-connected.json",
-      "exported_at": "2024-06-01T00:16:47+00:00"
+      "author": "pterodactyl@demi.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
+      "exported_at": "2024-06-01T00:16:48+00:00"
     },
     {
       "name": "Grand Theft Auto Connected",
@@ -732,6 +722,16 @@
       "type": "games-standalone",
       "author": "admin@softwarenoob.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/gtac/egg-grand-theft-auto-connected.json",
+      "exported_at": "2024-06-01T00:16:47+00:00"
+    },
+    {
+      "name": "Grand Theft Auto Connected",
+      "description": "Grand Theft Auto Connected is a custom scriptable multiplayer modification for multiple Grand Theft Auto games.",
+      "language": "en",
+      "size": "3.92 KB",
+      "type": "games-standalone",
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/gtac/egg-pterodactyl-grand-theft-auto-connected.json",
       "exported_at": "2024-06-01T00:16:47+00:00"
     },
     {
@@ -768,16 +768,6 @@
       "name": "KissMP Server",
       "description": "Server for the KISS Multiplayer BeamNG.drive mod",
       "language": "da",
-      "size": "1.98 KB",
-      "type": "games-standalone",
-      "author": "me@weilbyte.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-kiss-m-p-server.json",
-      "exported_at": "2024-06-01T00:16:50+00:00"
-    },
-    {
-      "name": "KissMP Server",
-      "description": "Server for the KISS Multiplayer BeamNG.drive mod",
-      "language": "da",
       "size": "1.9 KB",
       "type": "games-standalone",
       "author": "me@weilbyte.dev",
@@ -785,14 +775,14 @@
       "exported_at": "2024-06-01T00:16:50+00:00"
     },
     {
-      "name": "KSP DMP",
-      "description": "Dark Multiplayer mod server for Kerbal Space Program",
-      "language": "en",
-      "size": "4.14 KB",
+      "name": "KissMP Server",
+      "description": "Server for the KISS Multiplayer BeamNG.drive mod",
+      "language": "da",
+      "size": "1.98 KB",
       "type": "games-standalone",
-      "author": "rufanyin29@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ksp/egg-pterodactyl-k-s-p-d-m-p.json",
-      "exported_at": "2024-06-01T00:16:51+00:00"
+      "author": "me@weilbyte.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/beamng/kissmp/egg-kiss-m-p-server.json",
+      "exported_at": "2024-06-01T00:16:50+00:00"
     },
     {
       "name": "KSP DMP",
@@ -805,13 +795,13 @@
       "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
-      "name": "LAC-Online Public Server",
-      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "name": "KSP DMP",
+      "description": "Dark Multiplayer mod server for Kerbal Space Program",
       "language": "en",
-      "size": "2.51 KB",
+      "size": "4.14 KB",
       "type": "games-standalone",
-      "author": "jastinlt16@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
+      "author": "rufanyin29@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/ksp/egg-pterodactyl-k-s-p-d-m-p.json",
       "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
@@ -822,6 +812,16 @@
       "type": "games-standalone",
       "author": "jastinlt16@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-l-a-c--online-public-server.json",
+      "exported_at": "2024-06-01T00:16:51+00:00"
+    },
+    {
+      "name": "LAC-Online Public Server",
+      "description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!",
+      "language": "en",
+      "size": "2.51 KB",
+      "type": "games-standalone",
+      "author": "jastinlt16@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
       "exported_at": "2024-06-01T00:16:51+00:00"
     },
     {
@@ -848,16 +848,6 @@
       "name": "Mindustry",
       "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
       "language": "en",
-      "size": "4.47 KB",
-      "type": "games-standalone",
-      "author": "sir3lit@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
-      "exported_at": "2024-06-01T00:16:53+00:00"
-    },
-    {
-      "name": "Mindustry",
-      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
-      "language": "en",
       "size": "4.33 KB",
       "type": "games-standalone",
       "author": "sir3lit@gmail.com",
@@ -865,13 +855,13 @@
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
-      "name": "Minetest",
-      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
+      "name": "Mindustry",
+      "description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies.",
       "language": "en",
-      "size": "11.53 KB",
+      "size": "4.47 KB",
       "type": "games-standalone",
-      "author": "team@pelican.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-minetest.json",
+      "author": "sir3lit@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/mindustry/egg-mindustry.json",
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
@@ -882,6 +872,16 @@
       "type": "games-standalone",
       "author": "team@pelican.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-pterodactyl-minetest.json",
+      "exported_at": "2024-06-01T00:16:53+00:00"
+    },
+    {
+      "name": "Minetest",
+      "description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.",
+      "language": "en",
+      "size": "11.53 KB",
+      "type": "games-standalone",
+      "author": "team@pelican.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/minetest/egg-minetest.json",
       "exported_at": "2024-06-01T00:16:53+00:00"
     },
     {
@@ -908,16 +908,6 @@
       "name": "Multi Theft Auto",
       "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
       "language": "en",
-      "size": "3.05 KB",
-      "type": "games-standalone",
-      "author": "info@six-gaming.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json",
-      "exported_at": "2025-05-10T14:02:07-04:00"
-    },
-    {
-      "name": "Multi Theft Auto",
-      "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
-      "language": "en",
       "size": "2.97 KB",
       "type": "games-standalone",
       "author": "info@six-gaming.com",
@@ -925,14 +915,14 @@
       "exported_at": "2025-05-10T18:07:42+00:00"
     },
     {
-      "name": "Nazi Zombies: Portable",
-      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
+      "name": "Multi Theft Auto",
+      "description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more.",
       "language": "en",
-      "size": "4.87 KB",
+      "size": "3.05 KB",
       "type": "games-standalone",
-      "author": "jordanadamsbusiness@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
-      "exported_at": "2024-11-03T18:19:58+00:00"
+      "author": "info@six-gaming.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json",
+      "exported_at": "2025-05-10T14:02:07-04:00"
     },
     {
       "name": "Nazi Zombies: Portable",
@@ -945,14 +935,14 @@
       "exported_at": "2024-11-03T13:12:47-05:00"
     },
     {
-      "name": "Neverwinter Nights: Enhanced Edition",
-      "description": "Return to the Forgotten Realms in this bestselling Dungeons & Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!",
+      "name": "Nazi Zombies: Portable",
+      "description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used.",
       "language": "en",
-      "size": "10.25 KB",
+      "size": "4.87 KB",
       "type": "games-standalone",
-      "author": "git@robsti.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/neverwinter_nights_ee/egg-pterodactyl-neverwinter-nights--enhanced-edition.json",
-      "exported_at": "2024-06-01T00:16:56+00:00"
+      "author": "jordanadamsbusiness@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/nazi_zombies_portable/egg-nazi-zombies-portable.json",
+      "exported_at": "2024-11-03T18:19:58+00:00"
     },
     {
       "name": "Neverwinter Nights: Enhanced Edition",
@@ -965,14 +955,14 @@
       "exported_at": "2024-06-01T00:16:56+00:00"
     },
     {
-      "name": "One Hour One Life",
-      "description": "Dedicated server for One Hour One Life\r\nhttp://onehouronelife.com/",
+      "name": "Neverwinter Nights: Enhanced Edition",
+      "description": "Return to the Forgotten Realms in this bestselling Dungeons & Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!",
       "language": "en",
-      "size": "17.98 KB",
+      "size": "10.25 KB",
       "type": "games-standalone",
-      "author": "peter.game.servers@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/OneHourOneLife/pelican-egg-one-hour-one-life.json",
-      "exported_at": "2025-12-25T10:17:06+00:00"
+      "author": "git@robsti.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/neverwinter_nights_ee/egg-pterodactyl-neverwinter-nights--enhanced-edition.json",
+      "exported_at": "2024-06-01T00:16:56+00:00"
     },
     {
       "name": "One Hour One Life",
@@ -985,14 +975,14 @@
       "exported_at": "2025-12-25T10:17:06+00:00"
     },
     {
-      "name": "OpenArena",
-      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
+      "name": "One Hour One Life",
+      "description": "Dedicated server for One Hour One Life\r\nhttp://onehouronelife.com/",
       "language": "en",
-      "size": "1.98 KB",
+      "size": "17.98 KB",
       "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-pterodactyl-open-arena.json",
-      "exported_at": "2024-06-01T00:16:55+00:00"
+      "author": "peter.game.servers@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/OneHourOneLife/pelican-egg-one-hour-one-life.json",
+      "exported_at": "2025-12-25T10:17:06+00:00"
     },
     {
       "name": "OpenArena",
@@ -1005,14 +995,14 @@
       "exported_at": "2024-06-01T00:16:55+00:00"
     },
     {
-      "name": "OpenMP",
-      "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
+      "name": "OpenArena",
+      "description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.\r\n\r\nhttp://www.openarena.ws/",
       "language": "en",
-      "size": "3.54 KB",
+      "size": "1.98 KB",
       "type": "games-standalone",
-      "author": "vedrancappone@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/openmp/egg-pterodactyl-open-m-p.json",
-      "exported_at": "2024-06-01T00:16:57+00:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openarena/egg-pterodactyl-open-arena.json",
+      "exported_at": "2024-06-01T00:16:55+00:00"
     },
     {
       "name": "OpenMP",
@@ -1025,14 +1015,14 @@
       "exported_at": "2024-06-01T00:16:57+00:00"
     },
     {
-      "name": "OpenRA",
-      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+      "name": "OpenMP",
+      "description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.",
       "language": "en",
-      "size": "6.06 KB",
+      "size": "3.54 KB",
       "type": "games-standalone",
-      "author": "patz.michael@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_red_alert/egg-open-r-a.json",
-      "exported_at": "2024-06-01T00:16:59+00:00"
+      "author": "vedrancappone@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/openmp/egg-pterodactyl-open-m-p.json",
+      "exported_at": "2024-06-01T00:16:57+00:00"
     },
     {
       "name": "OpenRA",
@@ -1045,14 +1035,14 @@
       "exported_at": "2024-06-01T00:16:59+00:00"
     },
     {
-      "name": "OpenRA - Dune2000",
+      "name": "OpenRA",
       "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
       "language": "en",
-      "size": "5.79 KB",
+      "size": "6.06 KB",
       "type": "games-standalone",
       "author": "patz.michael@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_dune2000/egg-pterodactyl-open-r-a--dune2000.json",
-      "exported_at": "2024-06-01T00:17:00+00:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_red_alert/egg-open-r-a.json",
+      "exported_at": "2024-06-01T00:16:59+00:00"
     },
     {
       "name": "OpenRA - Dune2000",
@@ -1062,6 +1052,16 @@
       "type": "games-standalone",
       "author": "patz.michael@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_dune2000/egg-open-r-a--dune2000.json",
+      "exported_at": "2024-06-01T00:17:00+00:00"
+    },
+    {
+      "name": "OpenRA - Dune2000",
+      "description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).",
+      "language": "en",
+      "size": "5.79 KB",
+      "type": "games-standalone",
+      "author": "patz.michael@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openra/openra_dune2000/egg-pterodactyl-open-r-a--dune2000.json",
       "exported_at": "2024-06-01T00:17:00+00:00"
     },
     {
@@ -1108,16 +1108,6 @@
       "name": "OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
       "language": "en",
-      "size": "4.36 KB",
-      "type": "games-standalone",
-      "author": "admin@justmyrandomstuff.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
-      "exported_at": "2024-10-21T21:46:13+02:00"
-    },
-    {
-      "name": "OpenTTD",
-      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
-      "language": "en",
       "size": "4.75 KB",
       "type": "games-standalone",
       "author": "admin@justmyrandomstuff.com",
@@ -1125,14 +1115,14 @@
       "exported_at": "2024-10-21T19:12:22+00:00"
     },
     {
-      "name": "Path Of Titans",
-      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
+      "name": "OpenTTD",
+      "description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\r\n\r\nOpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original.",
       "language": "en",
-      "size": "5.4 KB",
+      "size": "4.36 KB",
       "type": "games-standalone",
-      "author": "danielivanvladimir.revin@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
-      "exported_at": "2024-06-01T00:17:02+00:00"
+      "author": "admin@justmyrandomstuff.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
+      "exported_at": "2024-10-21T21:46:13+02:00"
     },
     {
       "name": "Path Of Titans",
@@ -1145,14 +1135,14 @@
       "exported_at": "2024-06-01T00:17:02+00:00"
     },
     {
-      "name": "Rage.MP",
-      "description": "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server.",
+      "name": "Path Of Titans",
+      "description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players.",
       "language": "en",
-      "size": "3.08 KB",
+      "size": "5.4 KB",
       "type": "games-standalone",
-      "author": "noreply.waypointhosting@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragemp/egg-rage--m-p.json",
-      "exported_at": "2024-06-01T00:17:04+00:00"
+      "author": "danielivanvladimir.revin@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
+      "exported_at": "2024-06-01T00:17:02+00:00"
     },
     {
       "name": "Rage.MP",
@@ -1162,6 +1152,16 @@
       "type": "games-standalone",
       "author": "noreply.waypointhosting@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragemp/egg-pterodactyl-rage--m-p.json",
+      "exported_at": "2024-06-01T00:17:04+00:00"
+    },
+    {
+      "name": "Rage.MP",
+      "description": "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server.",
+      "language": "en",
+      "size": "3.08 KB",
+      "type": "games-standalone",
+      "author": "noreply.waypointhosting@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/gta/ragemp/egg-rage--m-p.json",
       "exported_at": "2024-06-01T00:17:04+00:00"
     },
     {
@@ -1188,16 +1188,6 @@
       "name": "RedM",
       "description": "A new RedM egg for the latest builds due to recent changes in RedM",
       "language": "en",
-      "size": "7.19 KB",
-      "type": "games-standalone",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rdr/redm/egg-red-m.json",
-      "exported_at": "2024-06-01T00:17:04+00:00"
-    },
-    {
-      "name": "RedM",
-      "description": "A new RedM egg for the latest builds due to recent changes in RedM",
-      "language": "en",
       "size": "6.88 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
@@ -1205,14 +1195,14 @@
       "exported_at": "2024-06-01T00:17:04+00:00"
     },
     {
-      "name": "Rimworld Together",
-      "description": "A community driven multiplayer mod, for Rimworld.",
+      "name": "RedM",
+      "description": "A new RedM egg for the latest builds due to recent changes in RedM",
       "language": "en",
-      "size": "5.02 KB",
+      "size": "7.19 KB",
       "type": "games-standalone",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-rimworld-together.json",
-      "exported_at": "2025-05-03T06:57:38-04:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rdr/redm/egg-red-m.json",
+      "exported_at": "2024-06-01T00:17:04+00:00"
     },
     {
       "name": "Rimworld Together",
@@ -1225,14 +1215,14 @@
       "exported_at": "2025-05-03T06:57:38-04:00"
     },
     {
-      "name": "Rimworld: Open World",
-      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
+      "name": "Rimworld Together",
+      "description": "A community driven multiplayer mod, for Rimworld.",
       "language": "en",
-      "size": "7.75 KB",
+      "size": "5.02 KB",
       "type": "games-standalone",
-      "author": "kyle@williquette.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-rimworld--open-world.json",
-      "exported_at": "2024-06-01T00:17:08+00:00"
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/together/egg-rimworld-together.json",
+      "exported_at": "2025-05-03T06:57:38-04:00"
     },
     {
       "name": "Rimworld: Open World",
@@ -1242,6 +1232,16 @@
       "type": "games-standalone",
       "author": "kyle@williquette.us",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
+      "exported_at": "2024-06-01T00:17:08+00:00"
+    },
+    {
+      "name": "Rimworld: Open World",
+      "description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!\r\n\r\nhttps://github.com/D12-Dev/OpenWorld",
+      "language": "en",
+      "size": "7.75 KB",
+      "type": "games-standalone",
+      "author": "kyle@williquette.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/rimworld/open_world/egg-rimworld--open-world.json",
       "exported_at": "2024-06-01T00:17:08+00:00"
     },
     {
@@ -1318,16 +1318,6 @@
       "name": "Stay In Tarkov",
       "description": "The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience that retains progression.",
       "language": "en",
-      "size": "4.79 KB",
-      "type": "games-standalone",
-      "author": "dino@papertots.page",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/eft/sit/egg-pterodactyl-stay-in-tarkov.json",
-      "exported_at": "2024-06-01T00:17:10+00:00"
-    },
-    {
-      "name": "Stay In Tarkov",
-      "description": "The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience that retains progression.",
-      "language": "en",
       "size": "4.99 KB",
       "type": "games-standalone",
       "author": "dino@papertots.page",
@@ -1335,14 +1325,14 @@
       "exported_at": "2024-06-01T00:17:10+00:00"
     },
     {
-      "name": "SuperTuxKart",
-      "description": "Egg for hosting a SuperTuxKart Server.",
+      "name": "Stay In Tarkov",
+      "description": "The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience that retains progression.",
       "language": "en",
-      "size": "5.05 KB",
+      "size": "4.79 KB",
       "type": "games-standalone",
-      "author": "mattamn107@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/SuperTuxKart/egg-pterodactyl-super-tux-kart.json",
-      "exported_at": "2024-06-01T00:17:12+00:00"
+      "author": "dino@papertots.page",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/eft/sit/egg-pterodactyl-stay-in-tarkov.json",
+      "exported_at": "2024-06-01T00:17:10+00:00"
     },
     {
       "name": "SuperTuxKart",
@@ -1353,6 +1343,16 @@
       "author": "mattamn107@github.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/SuperTuxKart/egg-super-tux-kart.json",
       "exported_at": "2026-01-25T15:15:37+00:00"
+    },
+    {
+      "name": "SuperTuxKart",
+      "description": "Egg for hosting a SuperTuxKart Server.",
+      "language": "en",
+      "size": "5.05 KB",
+      "type": "games-standalone",
+      "author": "mattamn107@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/SuperTuxKart/egg-pterodactyl-super-tux-kart.json",
+      "exported_at": "2024-06-01T00:17:12+00:00"
     },
     {
       "name": "Tachyon",
@@ -1378,20 +1378,20 @@
       "name": "Teeworlds",
       "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
       "language": "en",
-      "size": "5.16 KB",
+      "size": "5.02 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-teeworlds.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
       "name": "Teeworlds",
       "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
       "language": "en",
-      "size": "5.02 KB",
+      "size": "5.16 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-pterodactyl-teeworlds.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/teeworlds/egg-teeworlds.json",
       "exported_at": "2024-06-01T00:17:13+00:00"
     },
     {
@@ -1418,21 +1418,21 @@
       "name": "The Battle for Wesnoth",
       "description": "Egg for hosting a Battle for Wesnoth Server.",
       "language": "en",
-      "size": "4.1 KB",
-      "type": "games-standalone",
-      "author": "mattman107@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
-      "exported_at": "2024-11-20T10:57:52+01:00"
-    },
-    {
-      "name": "The Battle for Wesnoth",
-      "description": "Egg for hosting a Battle for Wesnoth Server.",
-      "language": "en",
       "size": "4.25 KB",
       "type": "games-standalone",
       "author": "mattman107@github.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-the-battle-for-wesnoth.json",
       "exported_at": "2024-11-20T09:59:56+00:00"
+    },
+    {
+      "name": "The Battle for Wesnoth",
+      "description": "Egg for hosting a Battle for Wesnoth Server.",
+      "language": "en",
+      "size": "4.1 KB",
+      "type": "games-standalone",
+      "author": "mattman107@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
+      "exported_at": "2024-11-20T10:57:52+01:00"
     },
     {
       "name": "Tiny Block Server",
@@ -1448,20 +1448,20 @@
       "name": "tModloader",
       "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
       "language": "en",
-      "size": "8.88 KB",
+      "size": "9.17 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-t-modloader.json",
       "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
       "name": "tModloader",
       "description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+.",
       "language": "en",
-      "size": "9.17 KB",
+      "size": "8.88 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-t-modloader.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
       "exported_at": "2024-06-15T09:58:09+02:00"
     },
     {
@@ -1508,20 +1508,20 @@
       "name": "tshock legacy",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
-      "size": "4.12 KB",
+      "size": "4.3 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-tshock-legacy.json",
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
       "name": "tshock legacy",
       "description": "The t-shock modded terraria server.\r\n\r\nhttps://tshock.co/",
       "language": "en",
-      "size": "4.3 KB",
+      "size": "4.12 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-tshock-legacy.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
       "exported_at": "2024-06-01T00:17:19+00:00"
     },
     {
@@ -1548,20 +1548,20 @@
       "name": "Veloren",
       "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
       "language": "en",
-      "size": "3.85 KB",
+      "size": "4.14 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
       "exported_at": "2025-10-19T18:43:29+02:00"
     },
     {
       "name": "Veloren",
       "description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.",
       "language": "en",
-      "size": "4.14 KB",
+      "size": "3.85 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-veloren.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/veloren/egg-pterodactyl-veloren.json",
       "exported_at": "2025-10-19T18:43:29+02:00"
     },
     {
@@ -1598,20 +1598,20 @@
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
-      "size": "3.81 KB",
+      "size": "3.64 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
       "name": "Wine Generic",
       "description": "a generic egg to run servers with wine",
       "language": "en",
-      "size": "3.64 KB",
+      "size": "3.81 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-pterodactyl-wine-generic.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/wine/generic/egg-wine-generic.json",
       "exported_at": "2024-06-01T00:17:21+00:00"
     },
     {
@@ -1628,20 +1628,20 @@
       "name": "Xonotic",
       "description": "Xonotic: The Free and Fast Arena Shooter",
       "language": "en",
-      "size": "8.12 KB",
+      "size": "2.59 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/xonotic/egg-xonotic.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/xonotic/egg-pterodactyl-xonotic.json",
       "exported_at": "2026-03-08T08:48:47+00:00"
     },
     {
       "name": "Xonotic",
       "description": "Xonotic: The Free and Fast Arena Shooter",
       "language": "en",
-      "size": "2.59 KB",
+      "size": "8.12 KB",
       "type": "games-standalone",
       "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/xonotic/egg-pterodactyl-xonotic.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/main/xonotic/egg-xonotic.json",
       "exported_at": "2026-03-08T08:48:47+00:00"
     },
     {
@@ -1700,16 +1700,6 @@
       "name": "American Truck Simulator Dedicated Server",
       "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
       "language": "en",
-      "size": "6.99 KB",
-      "type": "games-steamcmd",
-      "author": "chase@cstmgames.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "American Truck Simulator Dedicated Server",
-      "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
-      "language": "en",
       "size": "6.67 KB",
       "type": "games-steamcmd",
       "author": "chase@cstmgames.com",
@@ -1717,14 +1707,14 @@
       "exported_at": "2024-06-01T00:03:47+00:00"
     },
     {
-      "name": "ARK: Survival Ascended",
-      "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+      "name": "American Truck Simulator Dedicated Server",
+      "description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files.",
       "language": "en",
-      "size": "11.17 KB",
+      "size": "6.99 KB",
       "type": "games-steamcmd",
-      "author": "blood@darkartsgaming.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json",
-      "exported_at": "2025-09-17T07:20:00+00:00"
+      "author": "chase@cstmgames.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "ARK: Survival Ascended",
@@ -1735,6 +1725,16 @@
       "author": "blood@darkartsgaming.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "ARK: Survival Ascended",
+      "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+      "language": "en",
+      "size": "11.17 KB",
+      "type": "games-steamcmd",
+      "author": "blood@darkartsgaming.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json",
+      "exported_at": "2025-09-17T07:20:00+00:00"
     },
     {
       "name": "Ark: Survival Evolved",
@@ -1780,21 +1780,21 @@
       "name": "Arma Reforger",
       "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
       "language": "en",
-      "size": "10.21 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma_reforger/egg-pterodactyl-arma-reforger.json",
-      "exported_at": "2025-08-22T11:47:36+00:00"
-    },
-    {
-      "name": "Arma Reforger",
-      "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
-      "language": "en",
       "size": "10.91 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma_reforger/egg-arma-reforger.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Arma Reforger",
+      "description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy.",
+      "language": "en",
+      "size": "10.21 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/arma/arma_reforger/egg-pterodactyl-arma-reforger.json",
+      "exported_at": "2025-08-22T11:47:36+00:00"
     },
     {
       "name": "Assetto Corsa",
@@ -1840,21 +1840,21 @@
       "name": "Astro Colony",
       "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
       "language": "en",
-      "size": "11.59 KB",
-      "type": "games-steamcmd",
-      "author": "limmek@swedon.se",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Astro Colony",
-      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
-      "language": "en",
       "size": "10.92 KB",
       "type": "games-steamcmd",
       "author": "limmek@swedon.se",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-pterodactyl-astro-colony.json",
       "exported_at": "2024-12-25T11:05:05+00:00"
+    },
+    {
+      "name": "Astro Colony",
+      "description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+      "language": "en",
+      "size": "11.59 KB",
+      "type": "games-steamcmd",
+      "author": "limmek@swedon.se",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/astro_colony/egg-astro-colony.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Astroneer Dedicated Server",
@@ -1880,21 +1880,21 @@
       "name": "Avorion",
       "description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.",
       "language": "en",
-      "size": "10.48 KB",
-      "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/avorion/egg-avorion.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Avorion",
-      "description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.",
-      "language": "en",
       "size": "9.92 KB",
       "type": "games-steamcmd",
       "author": "iamkubi@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/avorion/egg-pterodactyl-avorion.json",
       "exported_at": "2024-06-01T00:03:42+00:00"
+    },
+    {
+      "name": "Avorion",
+      "description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.",
+      "language": "en",
+      "size": "10.48 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/avorion/egg-avorion.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Banana Shooter",
@@ -1950,21 +1950,21 @@
       "name": "Black Mesa",
       "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
       "language": "en",
-      "size": "6.7 KB",
-      "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
-      "exported_at": "2024-06-01T00:03:43+00:00"
-    },
-    {
-      "name": "Black Mesa",
-      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
-      "language": "en",
       "size": "6.99 KB",
       "type": "games-steamcmd",
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-black-mesa.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Black Mesa",
+      "description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine.",
+      "language": "en",
+      "size": "6.7 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/black_mesa/egg-pterodactyl-black-mesa.json",
+      "exported_at": "2024-06-01T00:03:43+00:00"
     },
     {
       "name": "Brickadia",
@@ -2010,21 +2010,21 @@
       "name": "Colony Survival",
       "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
       "language": "en",
-      "size": "5.2 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-colony-survival.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Colony Survival",
-      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
-      "language": "en",
       "size": "4.94 KB",
       "type": "games-steamcmd",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-pterodactyl-colony-survival.json",
       "exported_at": "2024-06-01T00:03:44+00:00"
+    },
+    {
+      "name": "Colony Survival",
+      "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
+      "language": "en",
+      "size": "5.2 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/colony_survival/egg-colony-survival.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Conan Exiles",
@@ -2050,21 +2050,21 @@
       "name": "Core Keeper",
       "description": "Core Keeper is a survival sandbox game for single or multiplayers.\r\n\r\n--- Drawn towards a mysterious relic, you are an explorer who awakens in an ancient cavern of creatures, resources and trinkets. Trapped deep underground will your survival skills be up to the task? Mine relics and resources to build your base, craft new equipment, survive, and power up the Core. ---",
       "language": "en",
-      "size": "9.31 KB",
-      "type": "games-steamcmd",
-      "author": "karsten@fiedleronline.net",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/core_keeper/egg-core-keeper.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Core Keeper",
-      "description": "Core Keeper is a survival sandbox game for single or multiplayers.\r\n\r\n--- Drawn towards a mysterious relic, you are an explorer who awakens in an ancient cavern of creatures, resources and trinkets. Trapped deep underground will your survival skills be up to the task? Mine relics and resources to build your base, craft new equipment, survive, and power up the Core. ---",
-      "language": "en",
       "size": "8.94 KB",
       "type": "games-steamcmd",
       "author": "karsten@fiedleronline.net",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/core_keeper/egg-pterodactyl-core-keeper.json",
       "exported_at": "2024-06-01T00:03:59+00:00"
+    },
+    {
+      "name": "Core Keeper",
+      "description": "Core Keeper is a survival sandbox game for single or multiplayers.\r\n\r\n--- Drawn towards a mysterious relic, you are an explorer who awakens in an ancient cavern of creatures, resources and trinkets. Trapped deep underground will your survival skills be up to the task? Mine relics and resources to build your base, craft new equipment, survive, and power up the Core. ---",
+      "language": "en",
+      "size": "9.31 KB",
+      "type": "games-steamcmd",
+      "author": "karsten@fiedleronline.net",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/core_keeper/egg-core-keeper.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Counter-Strike 2",
@@ -2120,16 +2120,6 @@
       "name": "Cubic Odyssey",
       "description": "Adventure, creation, and survival await!\nStep into a boundless open world where every planet, every system, and every moment is yours to shape. Explore a universe rich with life, ancient mysteries, and untamed beauty. Fight back the Red Darkness menace as you mine resources, craft tools, weapons, and build vehicles that are essential for your odyssey. Collaborate with friends to battle colossal threats and bring hope to the galaxy.",
       "language": "en",
-      "size": "10.84 KB",
-      "type": "games-steamcmd",
-      "author": "mads@mrnissen.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cubic_odyssey/egg-cubic-odyssey.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Cubic Odyssey",
-      "description": "Adventure, creation, and survival await!\nStep into a boundless open world where every planet, every system, and every moment is yours to shape. Explore a universe rich with life, ancient mysteries, and untamed beauty. Fight back the Red Darkness menace as you mine resources, craft tools, weapons, and build vehicles that are essential for your odyssey. Collaborate with friends to battle colossal threats and bring hope to the galaxy.",
-      "language": "en",
       "size": "10.35 KB",
       "type": "games-steamcmd",
       "author": "mads@mrnissen.com",
@@ -2137,14 +2127,14 @@
       "exported_at": "2025-12-25T09:29:43+00:00"
     },
     {
-      "name": "Custom HLDS Engine Game",
-      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel.",
+      "name": "Cubic Odyssey",
+      "description": "Adventure, creation, and survival await!\nStep into a boundless open world where every planet, every system, and every moment is yours to shape. Explore a universe rich with life, ancient mysteries, and untamed beauty. Fight back the Red Darkness menace as you mine resources, craft tools, weapons, and build vehicles that are essential for your odyssey. Collaborate with friends to battle colossal threats and bring hope to the galaxy.",
       "language": "en",
-      "size": "6.41 KB",
+      "size": "10.84 KB",
       "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/vanilla/egg-pterodactyl-custom-h-l-d-s-engine-game.json",
-      "exported_at": "2024-06-01T00:04:07+00:00"
+      "author": "mads@mrnissen.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/cubic_odyssey/egg-cubic-odyssey.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Custom HLDS Engine Game",
@@ -2157,14 +2147,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "Custom ReHLDS Engine Game",
-      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
+      "name": "Custom HLDS Engine Game",
+      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel.",
       "language": "en",
-      "size": "8.94 KB",
+      "size": "6.41 KB",
       "type": "games-steamcmd",
-      "author": "shigbeard@ndlee.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/vanilla/egg-pterodactyl-custom-h-l-d-s-engine-game.json",
+      "exported_at": "2024-06-01T00:04:07+00:00"
     },
     {
       "name": "Custom ReHLDS Engine Game",
@@ -2177,13 +2167,13 @@
       "exported_at": "2025-04-16T18:31:43-04:00"
     },
     {
-      "name": "DayZ",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "name": "Custom ReHLDS Engine Game",
+      "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
       "language": "en",
-      "size": "23.39 KB",
+      "size": "8.94 KB",
       "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
+      "author": "shigbeard@ndlee.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -2195,6 +2185,16 @@
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-pterodactyl-day-z.json",
       "exported_at": "2024-07-04T17:23:00-07:00"
+    },
+    {
+      "name": "DayZ",
+      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+      "language": "en",
+      "size": "23.39 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/dayz/egg-day-z.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "DDNet",
@@ -2260,16 +2260,6 @@
       "name": "Eco",
       "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
       "language": "en",
-      "size": "14.8 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-eco.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Eco",
-      "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
-      "language": "en",
       "size": "13.13 KB",
       "type": "games-steamcmd",
       "author": "eggs@goover.dev",
@@ -2277,13 +2267,13 @@
       "exported_at": "2024-09-20T09:14:59+02:00"
     },
     {
-      "name": "Empyrion: Galactic Survival",
-      "description": "Empyrion: Galactic Survival dedicated server",
+      "name": "Eco",
+      "description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem.",
       "language": "en",
-      "size": "8.46 KB",
+      "size": "14.8 KB",
       "type": "games-steamcmd",
       "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/eco/egg-eco.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -2297,13 +2287,13 @@
       "exported_at": "2024-06-01T00:04:10+00:00"
     },
     {
-      "name": "Enshrouded",
-      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
+      "name": "Empyrion: Galactic Survival",
+      "description": "Empyrion: Galactic Survival dedicated server",
       "language": "en",
-      "size": "8.56 KB",
+      "size": "8.46 KB",
       "type": "games-steamcmd",
-      "author": "vapokrocks@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/empyrion/egg-empyrion--galactic-survival.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -2317,14 +2307,14 @@
       "exported_at": "2024-06-01T00:04:11+00:00"
     },
     {
-      "name": "Euro Truck Simulator 2 Dedicated server",
-      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+      "name": "Enshrouded",
+      "description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg.",
       "language": "en",
-      "size": "6.54 KB",
+      "size": "8.56 KB",
       "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
-      "exported_at": "2024-06-01T00:04:12+00:00"
+      "author": "vapokrocks@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/enshrouded/egg-enshrouded.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Euro Truck Simulator 2 Dedicated server",
@@ -2337,14 +2327,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "Fof",
-      "description": "Fistful of Frags",
+      "name": "Euro Truck Simulator 2 Dedicated server",
+      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
       "language": "en",
-      "size": "5.71 KB",
+      "size": "6.54 KB",
       "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
+      "exported_at": "2024-06-01T00:04:12+00:00"
     },
     {
       "name": "Fof",
@@ -2355,6 +2345,16 @@
       "author": "avalongamecs@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-pterodactyl-fof.json",
       "exported_at": "2024-06-01T00:04:13+00:00"
+    },
+    {
+      "name": "Fof",
+      "description": "Fistful of Frags",
+      "language": "en",
+      "size": "5.71 KB",
+      "type": "games-steamcmd",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/fof/egg-fof.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Foundry",
@@ -2410,16 +2410,6 @@
       "name": "Ground Branch",
       "description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.",
       "language": "en",
-      "size": "9.35 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ground_branch/egg-ground-branch.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Ground Branch",
-      "description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.",
-      "language": "en",
       "size": "8.86 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
@@ -2427,14 +2417,14 @@
       "exported_at": "2025-07-27T12:53:37+00:00"
     },
     {
-      "name": "Holdfast NaW",
-      "description": "Holdfast: Nations at War",
+      "name": "Ground Branch",
+      "description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.",
       "language": "en",
-      "size": "9.19 KB",
+      "size": "9.35 KB",
       "type": "games-steamcmd",
-      "author": "ankit@bmghosting.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
-      "exported_at": "2024-06-01T00:04:19+00:00"
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/ground_branch/egg-ground-branch.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Holdfast NaW",
@@ -2445,6 +2435,16 @@
       "author": "ankit@bmghosting.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-holdfast-na-w.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Holdfast NaW",
+      "description": "Holdfast: Nations at War",
+      "language": "en",
+      "size": "9.19 KB",
+      "type": "games-steamcmd",
+      "author": "ankit@bmghosting.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
+      "exported_at": "2024-06-01T00:04:19+00:00"
     },
     {
       "name": "HumanitZ",
@@ -2470,21 +2470,21 @@
       "name": "Hurtworld",
       "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
       "language": "en",
-      "size": "6.23 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Hurtworld",
-      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
-      "language": "en",
       "size": "5.93 KB",
       "type": "games-steamcmd",
       "author": "brycea@terrahost.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-pterodactyl-hurtworld.json",
       "exported_at": "2024-06-01T00:04:19+00:00"
+    },
+    {
+      "name": "Hurtworld",
+      "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish.",
+      "language": "en",
+      "size": "6.23 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/hurtworld/egg-hurtworld.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Icarus",
@@ -2550,21 +2550,21 @@
       "name": "Killing Floor 2",
       "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
       "language": "en",
-      "size": "10.03 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-pterodactyl-killing-floor2.json",
-      "exported_at": "2024-06-01T00:03:57+00:00"
-    },
-    {
-      "name": "Killing Floor 2",
-      "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
-      "language": "en",
       "size": "10.47 KB",
       "type": "games-steamcmd",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-killing-floor2.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Killing Floor 2",
+      "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere.",
+      "language": "en",
+      "size": "10.03 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/killing_floor_2/egg-pterodactyl-killing-floor2.json",
+      "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
       "name": "Left 4 Dead",
@@ -2610,6 +2610,16 @@
       "name": "Longvinter",
       "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
       "language": "en",
+      "size": "11.06 KB",
+      "type": "games-steamcmd",
+      "author": "tueye@tuworld.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Longvinter",
+      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
+      "language": "en",
       "size": "10.6 KB",
       "type": "games-steamcmd",
       "author": "tueye@tuworld.de",
@@ -2617,13 +2627,13 @@
       "exported_at": "2024-06-01T00:03:57+00:00"
     },
     {
-      "name": "Longvinter",
-      "description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP.",
+      "name": "Midnight Ghost Hunt",
+      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
       "language": "en",
-      "size": "11.06 KB",
+      "size": "8.41 KB",
       "type": "games-steamcmd",
-      "author": "tueye@tuworld.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/longvinter/egg-longvinter.json",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -2637,14 +2647,14 @@
       "exported_at": "2024-07-28T19:43:17+02:00"
     },
     {
-      "name": "Midnight Ghost Hunt",
-      "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! ",
+      "name": "Modiverse",
+      "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
       "language": "en",
-      "size": "8.41 KB",
+      "size": "7.2 KB",
       "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/modiverse/egg-pterodactyl-modiverse.json",
+      "exported_at": "2024-06-01T00:04:21+00:00"
     },
     {
       "name": "Modiverse",
@@ -2657,14 +2667,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "Modiverse",
-      "description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!",
+      "name": "Mordhau",
+      "description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization.",
       "language": "en",
-      "size": "7.2 KB",
+      "size": "8.02 KB",
       "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/modiverse/egg-pterodactyl-modiverse.json",
-      "exported_at": "2024-06-01T00:04:21+00:00"
+      "author": "trey@chazx.cc",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mordhau/egg-pterodactyl-mordhau.json",
+      "exported_at": "2024-06-01T00:04:23+00:00"
     },
     {
       "name": "Mordhau",
@@ -2675,16 +2685,6 @@
       "author": "trey@chazx.cc",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mordhau/egg-mordhau.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Mordhau",
-      "description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization.",
-      "language": "en",
-      "size": "8.02 KB",
-      "type": "games-steamcmd",
-      "author": "trey@chazx.cc",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mordhau/egg-pterodactyl-mordhau.json",
-      "exported_at": "2024-06-01T00:04:23+00:00"
     },
     {
       "name": "Mordhau Wine",
@@ -2710,21 +2710,21 @@
       "name": "Mount & Blade II: Bannerlord",
       "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
       "language": "en",
-      "size": "6.47 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
-      "exported_at": "2024-06-01T00:04:24+00:00"
-    },
-    {
-      "name": "Mount & Blade II: Bannerlord",
-      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
-      "language": "en",
       "size": "6.79 KB",
       "type": "games-steamcmd",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Mount & Blade II: Bannerlord",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "language": "en",
+      "size": "6.47 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
+      "exported_at": "2024-06-01T00:04:24+00:00"
     },
     {
       "name": "Myth of Empires",
@@ -2750,21 +2750,21 @@
       "name": "Necesse",
       "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
       "language": "en",
-      "size": "7.21 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-pterodactyl-necesse.json",
-      "exported_at": "2024-06-01T00:04:25+00:00"
-    },
-    {
-      "name": "Necesse",
-      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
-      "language": "en",
       "size": "7.49 KB",
       "type": "games-steamcmd",
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-necesse.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Necesse",
+      "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+      "language": "en",
+      "size": "7.21 KB",
+      "type": "games-steamcmd",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/necesse/egg-pterodactyl-necesse.json",
+      "exported_at": "2024-06-01T00:04:25+00:00"
     },
     {
       "name": "NeosVR",
@@ -2790,6 +2790,16 @@
       "name": "Night Of The Dead",
       "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
       "language": "en",
+      "size": "9.58 KB",
+      "type": "games-steamcmd",
+      "author": "marshals@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+      "exported_at": "2025-01-27T17:30:55+01:00"
+    },
+    {
+      "name": "Night Of The Dead",
+      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "language": "en",
       "size": "10.47 KB",
       "type": "games-steamcmd",
       "author": "marshals@gmail.com",
@@ -2797,14 +2807,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "Night Of The Dead",
-      "description": "Build defenses against nightly waves of zombies. Survive and escape the island.",
+      "name": "Nightingale",
+      "description": "Nightingale is an open world survival crafting game, where you’ll adventure across the mysterious and dangerous Fae Realms. As a daring Realmwalker, you’ll defeat monstrous enemies, survive hostile environments, and build elaborate estates in a visually stunning Gaslamp Fantasy world. ",
       "language": "en",
-      "size": "9.58 KB",
+      "size": "7.05 KB",
       "type": "games-steamcmd",
-      "author": "marshals@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
-      "exported_at": "2025-01-27T17:30:55+01:00"
+      "author": "quinten@pelican.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nightingale/egg-nightingale.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Nightingale",
@@ -2817,13 +2827,13 @@
       "exported_at": "2025-11-02T11:29:03+00:00"
     },
     {
-      "name": "Nightingale",
-      "description": "Nightingale is an open world survival crafting game, where you’ll adventure across the mysterious and dangerous Fae Realms. As a daring Realmwalker, you’ll defeat monstrous enemies, survive hostile environments, and build elaborate estates in a visually stunning Gaslamp Fantasy world. ",
+      "name": "nmrih",
+      "description": "No More Room In Hell",
       "language": "en",
-      "size": "7.05 KB",
+      "size": "5.72 KB",
       "type": "games-steamcmd",
-      "author": "quinten@pelican.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nightingale/egg-nightingale.json",
+      "author": "avalongamecs@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -2837,13 +2847,13 @@
       "exported_at": "2024-06-01T00:04:26+00:00"
     },
     {
-      "name": "nmrih",
-      "description": "No More Room In Hell",
+      "name": "No Love Lost",
+      "description": "Grab your ragtag crew & take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!",
       "language": "en",
-      "size": "5.72 KB",
+      "size": "5.63 KB",
       "type": "games-steamcmd",
-      "author": "avalongamecs@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/nmrih/egg-nmrih.json",
+      "author": "imkringle@proton.me",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_love_lost/egg-no-love-lost.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -2857,14 +2867,14 @@
       "exported_at": "2024-06-01T00:04:27+00:00"
     },
     {
-      "name": "No Love Lost",
-      "description": "Grab your ragtag crew & take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!",
+      "name": "No One Survived",
+      "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
       "language": "en",
-      "size": "5.63 KB",
+      "size": "10.61 KB",
       "type": "games-steamcmd",
-      "author": "imkringle@proton.me",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_love_lost/egg-no-love-lost.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-pterodactyl-no-one-survived.json",
+      "exported_at": "2025-03-08T21:17:07+00:00"
     },
     {
       "name": "No One Survived",
@@ -2875,16 +2885,6 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-no-one-survived.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "No One Survived",
-      "description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death.",
-      "language": "en",
-      "size": "10.61 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/no_one_survived/egg-pterodactyl-no-one-survived.json",
-      "exported_at": "2025-03-08T21:17:07+00:00"
     },
     {
       "name": "Nova-Life: Amboise",
@@ -2930,21 +2930,21 @@
       "name": "Open Fortress",
       "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
       "language": "en",
-      "size": "9.89 KB",
-      "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
-      "exported_at": "2024-06-01T00:04:32+00:00"
-    },
-    {
-      "name": "Open Fortress",
-      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
-      "language": "en",
       "size": "10.23 KB",
       "type": "games-steamcmd",
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-open-fortress.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Open Fortress",
+      "description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2.",
+      "language": "en",
+      "size": "9.89 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/open_fortress/egg-pterodactyl-open-fortress.json",
+      "exported_at": "2024-06-01T00:04:32+00:00"
     },
     {
       "name": "Operation Harsh Doorstop",
@@ -3010,21 +3010,21 @@
       "name": "PixARK",
       "description": "A simple Docker container with Wine to run PixARK",
       "language": "en",
-      "size": "9.5 KB",
-      "type": "games-steamcmd",
-      "author": "hello@venatus.digital",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pixark/egg-pterodactyl-pix-a-r-k.json",
-      "exported_at": "2024-06-01T00:04:34+00:00"
-    },
-    {
-      "name": "PixARK",
-      "description": "A simple Docker container with Wine to run PixARK",
-      "language": "en",
       "size": "9.96 KB",
       "type": "games-steamcmd",
       "author": "hello@venatus.digital",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pixark/egg-pix-a-r-k.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "PixARK",
+      "description": "A simple Docker container with Wine to run PixARK",
+      "language": "en",
+      "size": "9.5 KB",
+      "type": "games-steamcmd",
+      "author": "hello@venatus.digital",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/pixark/egg-pterodactyl-pix-a-r-k.json",
+      "exported_at": "2024-06-01T00:04:34+00:00"
     },
     {
       "name": "Plains of Pain",
@@ -3050,16 +3050,6 @@
       "name": "Portal Knights",
       "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
       "language": "en",
-      "size": "8.8 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-portal-knights.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Portal Knights",
-      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
-      "language": "en",
       "size": "8.35 KB",
       "type": "games-steamcmd",
       "author": "josdekurk@gmail.com",
@@ -3067,13 +3057,13 @@
       "exported_at": "2024-06-01T00:04:35+00:00"
     },
     {
-      "name": "Post Scriptum",
-      "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
+      "name": "Portal Knights",
+      "description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
       "language": "en",
-      "size": "10.87 KB",
+      "size": "8.8 KB",
       "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/post_scriptum/egg-post-scriptum.json",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/portal_knights/egg-portal-knights.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -3087,14 +3077,14 @@
       "exported_at": "2024-06-01T00:04:36+00:00"
     },
     {
-      "name": "Project Zomboid",
-      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
+      "name": "Post Scriptum",
+      "description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork.",
       "language": "en",
-      "size": "7.35 KB",
+      "size": "10.87 KB",
       "type": "games-steamcmd",
-      "author": "iamkubi@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
-      "exported_at": "2024-06-01T00:04:36+00:00"
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/post_scriptum/egg-post-scriptum.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Project Zomboid",
@@ -3105,6 +3095,16 @@
       "author": "iamkubi@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-project-zomboid.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Project Zomboid",
+      "description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying.",
+      "language": "en",
+      "size": "7.35 KB",
+      "type": "games-steamcmd",
+      "author": "iamkubi@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
+      "exported_at": "2024-06-01T00:04:36+00:00"
     },
     {
       "name": "Puck",
@@ -3140,16 +3140,6 @@
       "name": "Quake Live",
       "description": "Quake Live is a first-person shooter video game by id Software. It is an updated version of Quake III Arena that was originally designed as a free-to-play game launched via a web browser plug-in. On September 17, 2014, the game was re-launched as a standalone title on Steam.",
       "language": "en",
-      "size": "6.33 KB",
-      "type": "games-steamcmd",
-      "author": "patz.michael@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/quake_live/egg-quake-live.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Quake Live",
-      "description": "Quake Live is a first-person shooter video game by id Software. It is an updated version of Quake III Arena that was originally designed as a free-to-play game launched via a web browser plug-in. On September 17, 2014, the game was re-launched as a standalone title on Steam.",
-      "language": "en",
       "size": "6.05 KB",
       "type": "games-steamcmd",
       "author": "patz.michael@gmail.com",
@@ -3157,13 +3147,13 @@
       "exported_at": "2024-06-01T00:04:37+00:00"
     },
     {
-      "name": "Resonite",
-      "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
+      "name": "Quake Live",
+      "description": "Quake Live is a first-person shooter video game by id Software. It is an updated version of Quake III Arena that was originally designed as a free-to-play game launched via a web browser plug-in. On September 17, 2014, the game was re-launched as a standalone title on Steam.",
       "language": "en",
-      "size": "7.95 KB",
+      "size": "6.33 KB",
       "type": "games-steamcmd",
-      "author": "espeon@espeon.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-resonite.json",
+      "author": "patz.michael@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/quake_live/egg-quake-live.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -3175,6 +3165,16 @@
       "author": "espeon@espeon.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-pterodactyl-resonite.json",
       "exported_at": "2025-01-07T20:18:20+11:00"
+    },
+    {
+      "name": "Resonite",
+      "description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here.",
+      "language": "en",
+      "size": "7.95 KB",
+      "type": "games-steamcmd",
+      "author": "espeon@espeon.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/resonite/egg-resonite.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Rising World Java Legacy",
@@ -3200,21 +3200,21 @@
       "name": "Rising World Unity",
       "description": "Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player.",
       "language": "en",
-      "size": "9.51 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rising_world/unity/egg-pterodactyl-rising-world-unity.json",
-      "exported_at": "2025-02-19T20:36:08+00:00"
-    },
-    {
-      "name": "Rising World Unity",
-      "description": "Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player.",
-      "language": "en",
       "size": "10.15 KB",
       "type": "games-steamcmd",
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rising_world/unity/egg-rising-world-unity.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Rising World Unity",
+      "description": "Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player.",
+      "language": "en",
+      "size": "9.51 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/rising_world/unity/egg-pterodactyl-rising-world-unity.json",
+      "exported_at": "2025-02-19T20:36:08+00:00"
     },
     {
       "name": "Risk of Rain 2",
@@ -3280,21 +3280,21 @@
       "name": "Satisfactory",
       "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
       "language": "en",
-      "size": "8.32 KB",
-      "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/satisfactory/egg-pterodactyl-satisfactory.json",
-      "exported_at": "2024-04-04T10:49:13-07:00"
-    },
-    {
-      "name": "Satisfactory",
-      "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
-      "language": "en",
       "size": "8.99 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/satisfactory/egg-satisfactory.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Satisfactory",
+      "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+      "language": "en",
+      "size": "8.32 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/satisfactory/egg-pterodactyl-satisfactory.json",
+      "exported_at": "2024-04-04T10:49:13-07:00"
     },
     {
       "name": "SCP:SL",
@@ -3330,21 +3330,21 @@
       "name": "Smalland: Survive the Wilds",
       "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
       "language": "en",
-      "size": "11.3 KB",
-      "type": "games-steamcmd",
-      "author": "git@robsti.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Smalland: Survive the Wilds",
-      "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
-      "language": "en",
       "size": "10.82 KB",
       "type": "games-steamcmd",
       "author": "git@robsti.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-pterodactyl-smalland--survive-the-wilds.json",
       "exported_at": "2024-06-01T00:04:47+00:00"
+    },
+    {
+      "name": "Smalland: Survive the Wilds",
+      "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.\r\n\r\nSteam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/",
+      "language": "en",
+      "size": "11.3 KB",
+      "type": "games-steamcmd",
+      "author": "git@robsti.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Solace Crafting",
@@ -3480,21 +3480,21 @@
       "name": "Squad",
       "description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking & radio.",
       "language": "en",
-      "size": "11.32 KB",
-      "type": "games-steamcmd",
-      "author": "brycea@terrahost.cloud",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/squad/egg-squad.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Squad",
-      "description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking & radio.",
-      "language": "en",
       "size": "10.84 KB",
       "type": "games-steamcmd",
       "author": "brycea@terrahost.cloud",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/squad/egg-pterodactyl-squad.json",
       "exported_at": "2024-06-01T00:04:21+00:00"
+    },
+    {
+      "name": "Squad",
+      "description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking & radio.",
+      "language": "en",
+      "size": "11.32 KB",
+      "type": "games-steamcmd",
+      "author": "brycea@terrahost.cloud",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/squad/egg-squad.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Squad Wine",
@@ -3510,16 +3510,6 @@
       "name": "Starbound",
       "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
       "language": "en",
-      "size": "5.68 KB",
-      "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/starbound/egg-pterodactyl-starbound.json",
-      "exported_at": "2024-06-01T00:05:08+00:00"
-    },
-    {
-      "name": "Starbound",
-      "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
-      "language": "en",
       "size": "5.98 KB",
       "type": "games-steamcmd",
       "author": "parker@parkervcp.com",
@@ -3527,14 +3517,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "StarRupture",
-      "description": "StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters. Developed by Creepy Jar.",
+      "name": "Starbound",
+      "description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms.",
       "language": "en",
-      "size": "8.67 KB",
+      "size": "5.68 KB",
       "type": "games-steamcmd",
-      "author": "volyzos@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/star_rupture/egg-pterodactyl-star-rupture.json",
-      "exported_at": "2026-02-07T22:43:26+01:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/starbound/egg-pterodactyl-starbound.json",
+      "exported_at": "2024-06-01T00:05:08+00:00"
     },
     {
       "name": "StarRupture",
@@ -3547,14 +3537,14 @@
       "exported_at": "2026-02-07T22:43:26+01:00"
     },
     {
-      "name": "Stationeers",
-      "description": "Stationeers Server",
+      "name": "StarRupture",
+      "description": "StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters. Developed by Creepy Jar.",
       "language": "en",
-      "size": "8.46 KB",
+      "size": "8.67 KB",
       "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stationeers/stationeers_vanilla/egg-pterodactyl-stationeers.json",
-      "exported_at": "2024-06-01T00:05:09+00:00"
+      "author": "volyzos@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/star_rupture/egg-pterodactyl-star-rupture.json",
+      "exported_at": "2026-02-07T22:43:26+01:00"
     },
     {
       "name": "Stationeers",
@@ -3567,14 +3557,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "Stationeers (BepInEx)",
-      "description": "Stationeers Server with very basic BepInEx support",
+      "name": "Stationeers",
+      "description": "Stationeers Server",
       "language": "en",
-      "size": "11.82 KB",
+      "size": "8.46 KB",
       "type": "games-steamcmd",
       "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stationeers/stationeers_vanilla/egg-pterodactyl-stationeers.json",
+      "exported_at": "2024-06-01T00:05:09+00:00"
     },
     {
       "name": "Stationeers (BepInEx)",
@@ -3585,6 +3575,16 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stationeers/stationeers_bepinex/egg-pterodactyl-stationeers--bep-in-ex.json",
       "exported_at": "2024-06-01T00:05:09+00:00"
+    },
+    {
+      "name": "Stationeers (BepInEx)",
+      "description": "Stationeers Server with very basic BepInEx support",
+      "language": "en",
+      "size": "11.82 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Stormworks: Build and Rescue",
@@ -3660,16 +3660,6 @@
       "name": "Swords 'n Magic and Stuff",
       "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
       "language": "en",
-      "size": "10.72 KB",
-      "type": "games-steamcmd",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Swords 'n Magic and Stuff",
-      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
-      "language": "en",
       "size": "10 KB",
       "type": "games-steamcmd",
       "author": "josdekurk@gmail.com",
@@ -3677,14 +3667,14 @@
       "exported_at": "2025-12-20T05:15:41+00:00"
     },
     {
-      "name": "Team Fortress 2 Classic",
-      "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
+      "name": "Swords 'n Magic and Stuff",
+      "description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG",
       "language": "en",
-      "size": "6.45 KB",
+      "size": "10.72 KB",
       "type": "games-steamcmd",
-      "author": "eggs@scattergun.io",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json",
-      "exported_at": "2024-06-01T00:04:56+00:00"
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Team Fortress 2 Classic",
@@ -3695,6 +3685,16 @@
       "author": "eggs@scattergun.io",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-team-fortress2-classic.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Team Fortress 2 Classic",
+      "description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine.",
+      "language": "en",
+      "size": "6.45 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@scattergun.io",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json",
+      "exported_at": "2024-06-01T00:04:56+00:00"
     },
     {
       "name": "TerraTech Worlds",
@@ -3720,16 +3720,6 @@
       "name": "The Bus",
       "description": "The Bus is the next generation of city bus driving simulation. Sell tickets and transport passengers with various buses on different lines across the German capital Berlin on a realistic scale of 1:1. ",
       "language": "en",
-      "size": "7.28 KB",
-      "type": "games-steamcmd",
-      "author": "quinten@pelican.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/the_bus/egg-the-bus.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "The Bus",
-      "description": "The Bus is the next generation of city bus driving simulation. Sell tickets and transport passengers with various buses on different lines across the German capital Berlin on a realistic scale of 1:1. ",
-      "language": "en",
       "size": "6.9 KB",
       "type": "games-steamcmd",
       "author": "quinten@pelican.dev",
@@ -3737,14 +3727,14 @@
       "exported_at": "2025-07-14T16:15:15+00:00"
     },
     {
-      "name": "The Forest",
-      "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first-person survival horror simulator.",
+      "name": "The Bus",
+      "description": "The Bus is the next generation of city bus driving simulation. Sell tickets and transport passengers with various buses on different lines across the German capital Berlin on a realistic scale of 1:1. ",
       "language": "en",
-      "size": "13.9 KB",
+      "size": "7.28 KB",
       "type": "games-steamcmd",
-      "author": "admin@softwarenoob.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/the_forest/egg-pterodactyl-the-forest.json",
-      "exported_at": "2024-06-01T00:04:57+00:00"
+      "author": "quinten@pelican.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/the_bus/egg-the-bus.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "The Forest",
@@ -3757,14 +3747,14 @@
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
-      "name": "The Front",
-      "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
+      "name": "The Forest",
+      "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first-person survival horror simulator.",
       "language": "en",
-      "size": "13.96 KB",
+      "size": "13.9 KB",
       "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/thefront/egg-the-front.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
+      "author": "admin@softwarenoob.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/the_forest/egg-pterodactyl-the-forest.json",
+      "exported_at": "2024-06-01T00:04:57+00:00"
     },
     {
       "name": "The Front",
@@ -3775,6 +3765,16 @@
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/thefront/egg-pterodactyl-the-front.json",
       "exported_at": "2024-09-20T09:00:40+02:00"
+    },
+    {
+      "name": "The Front",
+      "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
+      "language": "en",
+      "size": "13.96 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/thefront/egg-the-front.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "The Isle",
@@ -3800,21 +3800,21 @@
       "name": "The Lord of the Rings: Return to Moria",
       "description": "The only survival crafting game set in the Fourth Age of Middle-earth™. Embark on an epic journey to reclaim the Dwarven homeland of Moria, and explore, craft, and build in procedurally generated worlds. Play as a solo adventurer, or join friends in co-op gameplay for up to 8 players.",
       "language": "en",
-      "size": "8.27 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/lotr_moria/egg-the-lord-of-the-rings-return-to-moria.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "The Lord of the Rings: Return to Moria",
-      "description": "The only survival crafting game set in the Fourth Age of Middle-earth™. Embark on an epic journey to reclaim the Dwarven homeland of Moria, and explore, craft, and build in procedurally generated worlds. Play as a solo adventurer, or join friends in co-op gameplay for up to 8 players.",
-      "language": "en",
       "size": "7.67 KB",
       "type": "games-steamcmd",
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/lotr_moria/egg-pterodactyl-lotr-return-to-moria.json",
       "exported_at": "2025-02-18T13:43:53+00:00"
+    },
+    {
+      "name": "The Lord of the Rings: Return to Moria",
+      "description": "The only survival crafting game set in the Fourth Age of Middle-earth™. Embark on an epic journey to reclaim the Dwarven homeland of Moria, and explore, craft, and build in procedurally generated worlds. Play as a solo adventurer, or join friends in co-op gameplay for up to 8 players.",
+      "language": "en",
+      "size": "8.27 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/lotr_moria/egg-the-lord-of-the-rings-return-to-moria.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "The Ship: Murder Party",
@@ -3830,16 +3830,6 @@
       "name": "Tower Unite",
       "description": "PLAY, CREATE, PARTY! Tower Unite is a community-based virtual world party game with online games, entertainment, activities, and absolutely NO microtransactions.",
       "language": "en",
-      "size": "26.36 KB",
-      "type": "games-steamcmd",
-      "author": "teamwuffy@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/tower_unite/egg-tower-unite.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
-    },
-    {
-      "name": "Tower Unite",
-      "description": "PLAY, CREATE, PARTY! Tower Unite is a community-based virtual world party game with online games, entertainment, activities, and absolutely NO microtransactions.",
-      "language": "en",
       "size": "7.74 KB",
       "type": "games-steamcmd",
       "author": "teamwuffy@gmail.com",
@@ -3847,14 +3837,14 @@
       "exported_at": "2025-12-28T10:55:54+00:00"
     },
     {
-      "name": "Unturned",
-      "description": "Vanilla Unturned with the included RockerMod.",
+      "name": "Tower Unite",
+      "description": "PLAY, CREATE, PARTY! Tower Unite is a community-based virtual world party game with online games, entertainment, activities, and absolutely NO microtransactions.",
       "language": "en",
-      "size": "5.51 KB",
+      "size": "26.36 KB",
       "type": "games-steamcmd",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/unturned/egg-pterodactyl-unturned.json",
-      "exported_at": "2024-06-01T00:05:03+00:00"
+      "author": "teamwuffy@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/tower_unite/egg-tower-unite.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Unturned",
@@ -3865,6 +3855,16 @@
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/unturned/egg-unturned.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Unturned",
+      "description": "Vanilla Unturned with the included RockerMod.",
+      "language": "en",
+      "size": "5.51 KB",
+      "type": "games-steamcmd",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/unturned/egg-pterodactyl-unturned.json",
+      "exported_at": "2024-06-01T00:05:03+00:00"
     },
     {
       "name": "V Rising",
@@ -3890,6 +3890,16 @@
       "name": "V Rising BepInEx",
       "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
       "language": "en",
+      "size": "21.75 KB",
+      "type": "games-steamcmd",
+      "author": "red_thirten@yahoo.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
+      "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "V Rising BepInEx",
+      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "language": "en",
       "size": "20.16 KB",
       "type": "games-steamcmd",
       "author": "red_thirten@yahoo.com",
@@ -3897,13 +3907,13 @@
       "exported_at": "2024-12-26T10:54:32+01:00"
     },
     {
-      "name": "V Rising BepInEx",
-      "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "name": "Valheim",
+      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
       "language": "en",
-      "size": "21.75 KB",
+      "size": "10.93 KB",
       "type": "games-steamcmd",
-      "author": "red_thirten@yahoo.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
+      "author": "magi1053@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_vanilla/egg-valheim.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
@@ -3915,16 +3925,6 @@
       "author": "magi1053@outlook.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_vanilla/egg-pterodactyl-valheim.json",
       "exported_at": "2026-01-03T15:23:29+00:00"
-    },
-    {
-      "name": "Valheim",
-      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
-      "language": "en",
-      "size": "10.93 KB",
-      "type": "games-steamcmd",
-      "author": "magi1053@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_vanilla/egg-valheim.json",
-      "exported_at": "2026-04-06T02:01:23+00:00"
     },
     {
       "name": "Valheim BepINex",
@@ -3940,21 +3940,21 @@
       "name": "Valheim Plus Mod",
       "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
       "language": "en",
-      "size": "12.94 KB",
-      "type": "games-steamcmd",
-      "author": "eggs@goover.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_plus/egg-pterodactyl-valheim-plus-mod.json",
-      "exported_at": "2026-01-03T15:23:08+00:00"
-    },
-    {
-      "name": "Valheim Plus Mod",
-      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
-      "language": "en",
       "size": "13.92 KB",
       "type": "games-steamcmd",
       "author": "eggs@goover.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_plus/egg-valheim-plus-mod.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Valheim Plus Mod",
+      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture.",
+      "language": "en",
+      "size": "12.94 KB",
+      "type": "games-steamcmd",
+      "author": "eggs@goover.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/valheim/valheim_plus/egg-pterodactyl-valheim-plus-mod.json",
+      "exported_at": "2026-01-03T15:23:08+00:00"
     },
     {
       "name": "VEIN",
@@ -3980,21 +3980,21 @@
       "name": "Voyagers of Nera",
       "description": " Voyagers of Nera is a cooperative survival-crafting game where you must survive a magical ocean world brimming with lost spirits and deadly monsters. Sail to distant islands, build beautiful villages and surf across the waves with up to 10 players. ",
       "language": "en",
-      "size": "7.73 KB",
-      "type": "games-steamcmd",
-      "author": "quinten@pelican.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/voyagers_of_nera/pterodactyl-egg-voyagers-of-nera.json",
-      "exported_at": "2025-11-02T10:25:41+00:00"
-    },
-    {
-      "name": "Voyagers of Nera",
-      "description": " Voyagers of Nera is a cooperative survival-crafting game where you must survive a magical ocean world brimming with lost spirits and deadly monsters. Sail to distant islands, build beautiful villages and surf across the waves with up to 10 players. ",
-      "language": "en",
       "size": "8.06 KB",
       "type": "games-steamcmd",
       "author": "quinten@pelican.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/voyagers_of_nera/egg-voyagers-of-nera.json",
       "exported_at": "2026-04-06T02:01:23+00:00"
+    },
+    {
+      "name": "Voyagers of Nera",
+      "description": " Voyagers of Nera is a cooperative survival-crafting game where you must survive a magical ocean world brimming with lost spirits and deadly monsters. Sail to distant islands, build beautiful villages and surf across the waves with up to 10 players. ",
+      "language": "en",
+      "size": "7.73 KB",
+      "type": "games-steamcmd",
+      "author": "quinten@pelican.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/main/voyagers_of_nera/pterodactyl-egg-voyagers-of-nera.json",
+      "exported_at": "2025-11-02T10:25:41+00:00"
     },
     {
       "name": "Windrose",
@@ -4204,16 +4204,6 @@
       "name": "Always Auth",
       "description": "A simple proxy that sits between your server and Mojang's auth services that ensures even when they're offline, you stay online!",
       "language": "en",
-      "size": "3.59 KB",
-      "type": "minecraft",
-      "author": "contact@quacks.media",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/alwaysauth/egg-pterodactyl-always-auth.json",
-      "exported_at": "2025-12-24T22:04:11+00:00"
-    },
-    {
-      "name": "Always Auth",
-      "description": "A simple proxy that sits between your server and Mojang's auth services that ensures even when they're offline, you stay online!",
-      "language": "en",
       "size": "3.63 KB",
       "type": "minecraft",
       "author": "contact@quacks.media",
@@ -4221,14 +4211,14 @@
       "exported_at": "2025-12-24T22:04:11+00:00"
     },
     {
-      "name": "Attack of the B-Team",
-      "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
+      "name": "Always Auth",
+      "description": "A simple proxy that sits between your server and Mojang's auth services that ensures even when they're offline, you stay online!",
       "language": "en",
-      "size": "2.45 KB",
+      "size": "3.59 KB",
       "type": "minecraft",
-      "author": "team@pelican.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-pterodactyl-attack-of-the-b--team.json",
-      "exported_at": "2024-06-01T19:39:48+00:00"
+      "author": "contact@quacks.media",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/alwaysauth/egg-pterodactyl-always-auth.json",
+      "exported_at": "2025-12-24T22:04:11+00:00"
     },
     {
       "name": "Attack of the B-Team",
@@ -4239,6 +4229,16 @@
       "author": "team@pelican.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "Attack of the B-Team",
+      "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
+      "language": "en",
+      "size": "2.45 KB",
+      "type": "minecraft",
+      "author": "team@pelican.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/attack-of-the-bteam/egg-pterodactyl-attack-of-the-b--team.json",
+      "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
       "name": "Blightfall",
@@ -4274,21 +4274,21 @@
       "name": "Cuberite",
       "description": "A lightweight, fast and extensible game server for Minecraft",
       "language": "en",
-      "size": "3.04 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-pterodactyl-cuberite.json",
-      "exported_at": "2024-06-01T19:39:48+00:00"
-    },
-    {
-      "name": "Cuberite",
-      "description": "A lightweight, fast and extensible game server for Minecraft",
-      "language": "en",
       "size": "3.2 KB",
       "type": "minecraft",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-cuberite.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "Cuberite",
+      "description": "A lightweight, fast and extensible game server for Minecraft",
+      "language": "en",
+      "size": "3.04 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/cuberite/egg-pterodactyl-cuberite.json",
+      "exported_at": "2024-06-01T19:39:48+00:00"
     },
     {
       "name": "CurseForge Generic",
@@ -4324,21 +4324,21 @@
       "name": "Feed the Beast",
       "description": "Egg to handle all official FTB Modpacks",
       "language": "en",
-      "size": "6.04 KB",
-      "type": "minecraft",
-      "author": "aevum@decess.us",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ftb/outdated/egg-feed-the-beast.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Feed the Beast",
-      "description": "Egg to handle all official FTB Modpacks",
-      "language": "en",
       "size": "5.79 KB",
       "type": "minecraft",
       "author": "aevum@decess.us",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ftb/outdated/egg-pterodactyl-feed-the-beast.json",
       "exported_at": "2024-06-01T19:39:42+00:00"
+    },
+    {
+      "name": "Feed the Beast",
+      "description": "Egg to handle all official FTB Modpacks",
+      "language": "en",
+      "size": "6.04 KB",
+      "type": "minecraft",
+      "author": "aevum@decess.us",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ftb/outdated/egg-feed-the-beast.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Folia",
@@ -4394,21 +4394,21 @@
       "name": "FTB Server",
       "description": "This egg was developed to easily set up a server from FTB.",
       "language": "en",
-      "size": "7.19 KB",
-      "type": "minecraft",
-      "author": "runemaster580@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ftb/egg-pterodactyl-f-t-b-server.json",
-      "exported_at": "2025-02-18T18:11:44+00:00"
-    },
-    {
-      "name": "FTB Server",
-      "description": "This egg was developed to easily set up a server from FTB.",
-      "language": "en",
       "size": "7.29 KB",
       "type": "minecraft",
       "author": "runemaster580@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ftb/egg-f-t-b-server.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "FTB Server",
+      "description": "This egg was developed to easily set up a server from FTB.",
+      "language": "en",
+      "size": "7.19 KB",
+      "type": "minecraft",
+      "author": "runemaster580@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ftb/egg-pterodactyl-f-t-b-server.json",
+      "exported_at": "2025-02-18T18:11:44+00:00"
     },
     {
       "name": "FTB-modpacks.ch Server",
@@ -4454,21 +4454,21 @@
       "name": "GoMint",
       "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
       "language": "en",
-      "size": "3.92 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-go-mint.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "GoMint",
-      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
-      "language": "en",
       "size": "3.79 KB",
       "type": "minecraft",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-pterodactyl-go-mint.json",
       "exported_at": "2024-06-01T19:39:46+00:00"
+    },
+    {
+      "name": "GoMint",
+      "description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS.",
+      "language": "en",
+      "size": "3.92 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/gomint/egg-go-mint.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Hexxit",
@@ -4494,16 +4494,6 @@
       "name": "Ketting",
       "description": "Magma successor for 1.20- with plugins and mods.",
       "language": "en",
-      "size": "5.33 KB",
-      "type": "minecraft",
-      "author": "joanfo360@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ketting/egg-ketting.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Ketting",
-      "description": "Magma successor for 1.20- with plugins and mods.",
-      "language": "en",
       "size": "5.36 KB",
       "type": "minecraft",
       "author": "joanfo360@gmail.com",
@@ -4511,13 +4501,13 @@
       "exported_at": "2025-01-10T16:29:06+01:00"
     },
     {
-      "name": "Krypton",
-      "description": "A fast, lightweight Minecraft server written in Kotlin",
+      "name": "Ketting",
+      "description": "Magma successor for 1.20- with plugins and mods.",
       "language": "en",
-      "size": "3.18 KB",
+      "size": "5.33 KB",
       "type": "minecraft",
-      "author": "callum.seabrook@prevarinite.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/krypton/egg-krypton.json",
+      "author": "joanfo360@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/ketting/egg-ketting.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
@@ -4531,14 +4521,14 @@
       "exported_at": "2024-06-01T19:39:47+00:00"
     },
     {
-      "name": "Limbo",
-      "description": "Standalone server program Limbo.",
+      "name": "Krypton",
+      "description": "A fast, lightweight Minecraft server written in Kotlin",
       "language": "en",
-      "size": "2.39 KB",
+      "size": "3.18 KB",
       "type": "minecraft",
-      "author": "xEfinax@protonmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/limbo/egg-pterodactyl-limbo.json",
-      "exported_at": "2024-06-01T19:40:00+00:00"
+      "author": "callum.seabrook@prevarinite.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/krypton/egg-krypton.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Limbo",
@@ -4549,6 +4539,16 @@
       "author": "xEfinax@protonmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/limbo/egg-limbo.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "Limbo",
+      "description": "Standalone server program Limbo.",
+      "language": "en",
+      "size": "2.39 KB",
+      "type": "minecraft",
+      "author": "xEfinax@protonmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/limbo/egg-pterodactyl-limbo.json",
+      "exported_at": "2024-06-01T19:40:00+00:00"
     },
     {
       "name": "Liteloader Bedrock Dedicated Server",
@@ -4624,16 +4624,6 @@
       "name": "NanoLimbo",
       "description": "This is lightweight minecraft limbo server, written on Java with Netty. The main goal of the project is maximum simplicity with a minimum number of sent and processed packets. This limbo is empty, there are no ability to set schematic building since this is not necessary. You can send useful information in chat or BossBar.\r\n\r\nNo plugins, no logs. The server is fully clear. It only able keep a lot of players while the main server is down.",
       "language": "en",
-      "size": "4.94 KB",
-      "type": "minecraft",
-      "author": "mail@wuffy.eu",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/nanolimbo/egg-pterodactyl-nano-limbo.json",
-      "exported_at": "2024-06-01T19:40:02+00:00"
-    },
-    {
-      "name": "NanoLimbo",
-      "description": "This is lightweight minecraft limbo server, written on Java with Netty. The main goal of the project is maximum simplicity with a minimum number of sent and processed packets. This limbo is empty, there are no ability to set schematic building since this is not necessary. You can send useful information in chat or BossBar.\r\n\r\nNo plugins, no logs. The server is fully clear. It only able keep a lot of players while the main server is down.",
-      "language": "en",
       "size": "5.13 KB",
       "type": "minecraft",
       "author": "mail@wuffy.eu",
@@ -4641,14 +4631,14 @@
       "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
-      "name": "NeoForge",
-      "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
+      "name": "NanoLimbo",
+      "description": "This is lightweight minecraft limbo server, written on Java with Netty. The main goal of the project is maximum simplicity with a minimum number of sent and processed packets. This limbo is empty, there are no ability to set schematic building since this is not necessary. You can send useful information in chat or BossBar.\r\n\r\nNo plugins, no logs. The server is fully clear. It only able keep a lot of players while the main server is down.",
       "language": "en",
-      "size": "8.23 KB",
+      "size": "4.94 KB",
       "type": "minecraft",
-      "author": "glorantv@icloud.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-neo-forge.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
+      "author": "mail@wuffy.eu",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/nanolimbo/egg-pterodactyl-nano-limbo.json",
+      "exported_at": "2024-06-01T19:40:02+00:00"
     },
     {
       "name": "NeoForge",
@@ -4659,6 +4649,16 @@
       "author": "glorantv@icloud.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-pterodactyl-neo-forge.json",
       "exported_at": "2024-11-13T15:30:48+01:00"
+    },
+    {
+      "name": "NeoForge",
+      "description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge.",
+      "language": "en",
+      "size": "8.23 KB",
+      "type": "minecraft",
+      "author": "glorantv@icloud.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/neoforge/egg-neo-forge.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Nukkit",
@@ -4694,16 +4694,6 @@
       "name": "PocketmineMP",
       "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pelican Discord :)",
       "language": "en",
-      "size": "6.45 KB",
-      "type": "minecraft",
-      "author": "info@swisscrafting.ch",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "PocketmineMP",
-      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pelican Discord :)",
-      "language": "en",
       "size": "6.39 KB",
       "type": "minecraft",
       "author": "info@swisscrafting.ch",
@@ -4711,14 +4701,14 @@
       "exported_at": "2025-12-06T14:24:50+00:00"
     },
     {
-      "name": "PowerNukkitX",
-      "description": "PowerNukkitX support for Pterodactyl",
+      "name": "PocketmineMP",
+      "description": "Pocketmine Egg\r\nby onekintaro from swisscrafting.ch\r\nwith the nice help from #eggs Channel on Pelican Discord :)",
       "language": "en",
-      "size": "3.33 KB",
+      "size": "6.45 KB",
       "type": "minecraft",
-      "author": "powernukkitx@github.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
-      "exported_at": "2024-06-01T19:39:55+00:00"
+      "author": "info@swisscrafting.ch",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "PowerNukkitX",
@@ -4729,6 +4719,16 @@
       "author": "powernukkitx@github.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "PowerNukkitX",
+      "description": "PowerNukkitX support for Pterodactyl",
+      "language": "en",
+      "size": "3.33 KB",
+      "type": "minecraft",
+      "author": "powernukkitx@github.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
+      "exported_at": "2024-06-01T19:39:55+00:00"
     },
     {
       "name": "Purpur",
@@ -4814,16 +4814,6 @@
       "name": "Tekkit",
       "description": "Tekkit is set to reignite the same sort of wonder and awe that we all received from booting up Minecraft for the first time. With the skies open, the moon ready to be colonized (by force if need be) and dimensional mysteries to be plied, with tesseracts to be networked, “meat” to be processed, items to be digitized, and power suits to be manufactured, there is virtually limitless engineering projects to be assembled.",
       "language": "en",
-      "size": "3.16 KB",
-      "type": "minecraft",
-      "author": "contact@zennodes.dk",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit/egg-tekkit.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Tekkit",
-      "description": "Tekkit is set to reignite the same sort of wonder and awe that we all received from booting up Minecraft for the first time. With the skies open, the moon ready to be colonized (by force if need be) and dimensional mysteries to be plied, with tesseracts to be networked, “meat” to be processed, items to be digitized, and power suits to be manufactured, there is virtually limitless engineering projects to be assembled.",
-      "language": "en",
       "size": "3.01 KB",
       "type": "minecraft",
       "author": "contact@zennodes.dk",
@@ -4831,14 +4821,14 @@
       "exported_at": "2024-06-01T19:40:13+00:00"
     },
     {
-      "name": "Tekkit 2",
-      "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
+      "name": "Tekkit",
+      "description": "Tekkit is set to reignite the same sort of wonder and awe that we all received from booting up Minecraft for the first time. With the skies open, the moon ready to be colonized (by force if need be) and dimensional mysteries to be plied, with tesseracts to be networked, “meat” to be processed, items to be digitized, and power suits to be manufactured, there is virtually limitless engineering projects to be assembled.",
       "language": "en",
-      "size": "3.15 KB",
+      "size": "3.16 KB",
       "type": "minecraft",
-      "author": "josdekurk@gmail.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json",
-      "exported_at": "2024-06-01T19:40:17+00:00"
+      "author": "contact@zennodes.dk",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit/egg-tekkit.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Tekkit 2",
@@ -4849,6 +4839,16 @@
       "author": "josdekurk@gmail.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-tekkit2.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "Tekkit 2",
+      "description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!\r\n\r\nWith a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.\r\n\r\nWhat fresh horrors will you create?",
+      "language": "en",
+      "size": "3.15 KB",
+      "type": "minecraft",
+      "author": "josdekurk@gmail.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json",
+      "exported_at": "2024-06-01T19:40:17+00:00"
     },
     {
       "name": "Tekkit Classic",
@@ -4894,21 +4894,21 @@
       "name": "Tekkit SMP",
       "description": "Tekkit SMP contains the full range of mods from Tekkit 2, plus the extra mods that were originally dropped in the transition from Technic SSP (to Technic SMP) to Tekkit, in favour of multiplayer and Bukkit support: mainly Thaumcraft, Mystcraft, and Mo' Creatures. The new Tekkit SMP expands on that with various carefully selected Thaumcraft and Mystcraft addons, alongside Mo' Creatures Extended, and smaller custom additions such as Re-Crystallized Wing. Electro-Magic Tools is another starring mod, being an addon to both Industrial Craft and Thaumcraft, combining the worlds of tech and magic.",
       "language": "en",
-      "size": "4 KB",
-      "type": "minecraft",
-      "author": "lovinoes@lovinoes.de",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-smp/egg-tekkit-smp.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Tekkit SMP",
-      "description": "Tekkit SMP contains the full range of mods from Tekkit 2, plus the extra mods that were originally dropped in the transition from Technic SSP (to Technic SMP) to Tekkit, in favour of multiplayer and Bukkit support: mainly Thaumcraft, Mystcraft, and Mo' Creatures. The new Tekkit SMP expands on that with various carefully selected Thaumcraft and Mystcraft addons, alongside Mo' Creatures Extended, and smaller custom additions such as Re-Crystallized Wing. Electro-Magic Tools is another starring mod, being an addon to both Industrial Craft and Thaumcraft, combining the worlds of tech and magic.",
-      "language": "en",
       "size": "3.86 KB",
       "type": "minecraft",
       "author": "lovinoes@lovinoes.de",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-smp/egg-pterodactyl-tekkit-smp.json",
       "exported_at": "2024-09-12T21:48:20+02:00"
+    },
+    {
+      "name": "Tekkit SMP",
+      "description": "Tekkit SMP contains the full range of mods from Tekkit 2, plus the extra mods that were originally dropped in the transition from Technic SSP (to Technic SMP) to Tekkit, in favour of multiplayer and Bukkit support: mainly Thaumcraft, Mystcraft, and Mo' Creatures. The new Tekkit SMP expands on that with various carefully selected Thaumcraft and Mystcraft addons, alongside Mo' Creatures Extended, and smaller custom additions such as Re-Crystallized Wing. Electro-Magic Tools is another starring mod, being an addon to both Industrial Craft and Thaumcraft, combining the worlds of tech and magic.",
+      "language": "en",
+      "size": "4 KB",
+      "type": "minecraft",
+      "author": "lovinoes@lovinoes.de",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/java/technic/tekkit-smp/egg-tekkit-smp.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "The 1.12.2 Pack",
@@ -4974,21 +4974,21 @@
       "name": "Vanilla Bedrock",
       "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
       "language": "en",
-      "size": "7.12 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Vanilla Bedrock",
-      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
-      "language": "en",
       "size": "6.63 KB",
       "type": "minecraft",
       "author": "parker@parkervcp.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json",
       "exported_at": "2025-06-18T12:40:19+02:00"
+    },
+    {
+      "name": "Vanilla Bedrock",
+      "description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\".",
+      "language": "en",
+      "size": "7.12 KB",
+      "type": "minecraft",
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/bedrock/bedrock/egg-vanilla-bedrock.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "Vanilla Bedrock ARM64",
@@ -5044,16 +5044,6 @@
       "name": "Velocity",
       "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
       "language": "en",
-      "size": "14.97 KB",
-      "type": "minecraft",
-      "author": "parker@parkervcp.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-velocity.json",
-      "exported_at": "2026-04-21T19:02:00+00:00"
-    },
-    {
-      "name": "Velocity",
-      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
-      "language": "en",
       "size": "6.19 KB",
       "type": "minecraft",
       "author": "parker@parkervcp.com",
@@ -5061,14 +5051,14 @@
       "exported_at": "2024-06-01T19:40:07+00:00"
     },
     {
-      "name": "VIAaaS",
-      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "name": "Velocity",
+      "description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
       "language": "en",
-      "size": "2.73 KB",
+      "size": "14.97 KB",
       "type": "minecraft",
-      "author": "regulad@outlook.com",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
-      "exported_at": "2024-06-01T19:40:09+00:00"
+      "author": "parker@parkervcp.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/velocity/egg-velocity.json",
+      "exported_at": "2026-04-21T19:02:00+00:00"
     },
     {
       "name": "VIAaaS",
@@ -5079,6 +5069,16 @@
       "author": "regulad@outlook.com",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-v-i-aaa-s.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "VIAaaS",
+      "description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy",
+      "language": "en",
+      "size": "2.73 KB",
+      "type": "minecraft",
+      "author": "regulad@outlook.com",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
+      "exported_at": "2024-06-01T19:40:09+00:00"
     },
     {
       "name": "ViaProxy",
@@ -5104,21 +5104,21 @@
       "name": "Waterdog",
       "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
       "language": "en",
-      "size": "3.55 KB",
-      "type": "minecraft",
-      "author": "parker@pelican.dev",
-      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
-      "exported_at": "2024-06-01T19:40:10+00:00"
-    },
-    {
-      "name": "Waterdog",
-      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
-      "language": "en",
       "size": "3.77 KB",
       "type": "minecraft",
       "author": "parker@pelican.dev",
       "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-waterdog.json",
       "exported_at": "2026-04-21T19:02:00+00:00"
+    },
+    {
+      "name": "Waterdog",
+      "description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite.",
+      "language": "en",
+      "size": "3.55 KB",
+      "type": "minecraft",
+      "author": "parker@pelican.dev",
+      "link": "https://raw.githubusercontent.com/pelican-eggs/minecraft/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+      "exported_at": "2024-06-01T19:40:10+00:00"
     },
     {
       "name": "Waterdog PE",
